@@ -22,7 +22,25 @@
 
 [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
-#### html/css
+#### Marp
+
+[社内で使うスライドテンプレをMarpで作ってみた](https://blog.cloudnative.co.jp/13452/)
+
+[Marpで独自CSSを使う方法](https://worklifefun.net/marp-own-css/)
+
+[Marp for VSCodeで独自CSSが効かない場合の対応（marp-cli）](https://worklifefun.net/marpforvscode-own-css-impossible/)
+
+[marp 自作テーマが適用できない人は marp-cli を使えばいいと思う](https://typememo.jp/tech/marp-cli-basic/)
+
+[【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
+
+#### HTML/CSS
+
+#### Web開発
+
+[第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
+
+[Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
 
 #### VSCode 拡張機能
 
@@ -36,11 +54,21 @@
 
 [【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
 
+#### サーバ関係
+
+[【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
+
 #### その他の言語
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
 
 [「Swift」とは？Appleが開発した新しいプログラミング言語の特徴](https://hnavi.co.jp/knowledge/blog/swift/)
+
+[Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
+
+[PHPとは？特徴や他の言語との違いを解説](https://products.sint.co.jp/topsic/blog/php)
+
+[Go言語とはどんなプログラミング言語？特徴やできることを解説](https://hnavi.co.jp/knowledge/blog/go/)
 
 ## 読んだもの
 

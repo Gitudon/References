@@ -86,6 +86,10 @@
 
 [HTML&CSS 重なり順を指定する](https://qiita.com/szaizen/items/16a01ccfa05280cf8853)
 
+[VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
+
+[Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+
 ### その他
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)

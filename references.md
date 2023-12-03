@@ -93,3 +93,5 @@
 [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
 
 [【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
+
+[ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)

@@ -6,6 +6,10 @@
 
 #### Python
 
+[Streamlitのインプットウィジットを使ってみよう](https://welovepython.net/streamlit-input-widget/)
+
+[ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
+
 #### LaTeX
 
 [LuaLaTeX のすゝめ](https://qiita.com/Daiji256/items/9afbfa9f822629d3b995)
@@ -89,6 +93,20 @@
 [VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
 
 [Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+
+[Streamlit入門 – フォームの使い方](https://data-analytics.fun/2022/07/09/streamlit-form/)
+
+[Streamlitで自由に入力フォームを追加/削除できるUIを実現する](https://qiita.com/nockn/items/15e081b58e02a0878855)
+
+[Streamlitで追加・削除ができる動的なユーザ入力を実装する方法](https://qiita.com/sypn/items/2abf4287781d161c2e29)
+
+[【StreamlitでWebアプリ作成】<<第9回>>テキスト・数値入力を使う](https://cafe-mickey.com/python/streamlit-9/)
+
+[Streamlit まとめ](https://qiita.com/not13/items/dcd8c12d64982dc0e819)
+
+[Python ビット演算 超入門](https://qiita.com/7shi/items/41d262ca11ea16d85abc)
+
+[Python から JSON へ変換](https://python.softmoco.com/basics/python-json-dump.php)
 
 ### その他
 

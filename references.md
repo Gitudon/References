@@ -42,8 +42,6 @@
 
 #### Web開発
 
-[第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
-
 [Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
 
 #### VSCode 拡張機能
@@ -108,6 +106,10 @@
 
 [Python から JSON へ変換](https://python.softmoco.com/basics/python-json-dump.php)
 
+[Pythonでファイルに追記する方法【初心者向け】現役エンジニアが解説](https://magazine.techacademy.jp/magazine/18884)
+
+[Pythonで学ぶアルゴリズム　第11弾：木構造](https://qiita.com/Yuya-Shimizu/items/f2bcd73f2b4d68210820)
+
 ### その他
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
@@ -117,3 +119,5 @@
 [【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
 
 [ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)
+
+[第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)

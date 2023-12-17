@@ -110,6 +110,8 @@
 
 [Pythonで学ぶアルゴリズム　第11弾：木構造](https://qiita.com/Yuya-Shimizu/items/f2bcd73f2b4d68210820)
 
+[DockerでPython実行環境を作ってみる](https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5)
+
 ### その他
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)

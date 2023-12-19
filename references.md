@@ -112,6 +112,8 @@
 
 [DockerでPython実行環境を作ってみる](https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5)
 
+[Python, pip list / freezeでインストール済みパッケージ一覧を確認](https://note.nkmk.me/python-pip-list-freeze/)
+
 ### その他
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
@@ -123,3 +125,5 @@
 [ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)
 
 [第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
+
+[オーバーヘッド 【overhead】](https://e-words.jp/w/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89.html)

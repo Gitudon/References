@@ -10,6 +10,8 @@
 
 [ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
 
+[Python クラスについて](https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c)
+
 #### LaTeX
 
 [LuaLaTeX のすゝめ](https://qiita.com/Daiji256/items/9afbfa9f822629d3b995)
@@ -22,11 +24,21 @@
 
 [はじめてのDocker 導入から開発の流れまで](https://qiita.com/m-dove/items/173d08a5d8d910e10283)
 
+[DockerとVScodeでPython環境構築](https://qiita.com/KiYuRo/items/c016eaf5066c6cedaa11)
+
+[【入門】DockerでPythonを動かす環境構築の手順](https://www.kagoya.jp/howto/cloud/container/dockerpython/)
+
+[【Docker】Pythonプログラムをコンテナ化して実行する](https://www.learning-nao.com/?p=4190)
+
+[【Docker】コンテナにPythonパッケージをインストールする](https://www.learning-nao.com/?p=4200)
+
+[Dockerでのpythonモジュールの管理](https://book-reviews.blog/python-module-management-on-Docker/)
+
+[VScodeでdockerの開発環境(python)を使う。](https://qiita.com/katakaku/items/b8dcac4aa14d585e4038)
+
 #### Markdown
 
 [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
-
-#### Marp
 
 [社内で使うスライドテンプレをMarpで作ってみた](https://blog.cloudnative.co.jp/13452/)
 
@@ -40,11 +52,13 @@
 
 #### HTML/CSS
 
-#### Web開発
+
+
+#### Web
 
 [Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
 
-#### VSCode 拡張機能
+#### VSCode
 
 [VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜](https://qiita.com/HelloRusk/items/073b58c1605de224e67e)
 
@@ -56,11 +70,15 @@
 
 [【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
 
-#### サーバ関係
+#### Server
 
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
 
-#### その他の言語
+#### AviUtl
+
+
+
+#### Etc
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
 
@@ -76,21 +94,7 @@
 
 ### 使えそうなもの
 
-[Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
-
-[【Marp】Web上で公開されているthemeを読み込む【VSCode】](https://qiita.com/wrongwrong/items/b400ef6a40a9f68e3354)
-
-[【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
-
-[【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
-
-[【HTML/CSS】 画像を簡単に横並びする方法を実際のコード例で解説！](https://wp-load.in/html-css/html-img-side)
-
-[HTML&CSS 重なり順を指定する](https://qiita.com/szaizen/items/16a01ccfa05280cf8853)
-
-[VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
-
-[Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+#### Python
 
 [Streamlit入門 – フォームの使い方](https://data-analytics.fun/2022/07/09/streamlit-form/)
 
@@ -110,9 +114,62 @@
 
 [Pythonで学ぶアルゴリズム　第11弾：木構造](https://qiita.com/Yuya-Shimizu/items/f2bcd73f2b4d68210820)
 
+[Python, pip list / freezeでインストール済みパッケージ一覧を確認](https://note.nkmk.me/python-pip-list-freeze/)
+
+[【Python入門】クラスの使い方を簡単解説で楽々マスター](https://www.sejuku.net/blog/28182)
+
+[Pythonのクラス（class）の基本を徹底解説、具体的な書き方も](https://camp.trainocate.co.jp/magazine/python-class/)
+
+#### LaTeX
+
+
+#### Docker
+
 [DockerでPython実行環境を作ってみる](https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5)
 
-[Python, pip list / freezeでインストール済みパッケージ一覧を確認](https://note.nkmk.me/python-pip-list-freeze/)
+[docker-pyを使ってpythonでコンテナを操作する方法](https://qiita.com/ryuichi1208/items/d673fe50121599f6b063)
+
+#### Markdown
+
+[Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
+
+[【Marp】Web上で公開されているthemeを読み込む【VSCode】](https://qiita.com/wrongwrong/items/b400ef6a40a9f68e3354)
+
+[【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
+
+#### HTML/CSS
+
+[【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
+
+[【HTML/CSS】 画像を簡単に横並びする方法を実際のコード例で解説！](https://wp-load.in/html-css/html-img-side)
+
+[HTML&CSS 重なり順を指定する](https://qiita.com/szaizen/items/16a01ccfa05280cf8853)
+
+[VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
+
+[Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+
+#### Web
+
+
+
+#### VSCode
+
+
+
+#### Server
+
+
+
+#### AviUtl
+
+[【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
+
+#### Etc
+
+[Windows10環境でmakeコマンドを使用する方法【ハマリ回避】](https://qiita.com/BARANCE_TW/items/c7ffdb311df84d47bddd)
+
+[HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
 
 ### その他
 
@@ -127,3 +184,7 @@
 [第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
 
 [オーバーヘッド 【overhead】](https://e-words.jp/w/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89.html)
+
+[【AviUtl】完成した動画を出力（エンコード）](https://sosakubiyori.com/aviutl-encode/)
+
+[【Excelでできる】QRコードを用いた在庫管理の方法と効率化｜自作・フリーソフト・無料](https://www.chemi-jyo.com/work/vba_qr_inventory_control/)

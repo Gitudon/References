@@ -70,6 +70,10 @@
 
 [【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
 
+[VSCode ではじめる GitHub Copilot 活用術](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
+
+[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
 #### Server
 
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
@@ -77,6 +81,10 @@
 #### AviUtl
 
 
+
+### Git
+
+[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 
 #### Etc
 
@@ -137,6 +145,12 @@
 
 [【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
 
+[VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
+
+[Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+
+[QiitaのMarkdownパーサー変更にともなう、脚注についての書き方と注意点](https://qiita.com/phigasui/items/010f4c79ff47bbaaebdd)
+
 #### HTML/CSS
 
 [【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
@@ -145,9 +159,13 @@
 
 [HTML&CSS 重なり順を指定する](https://qiita.com/szaizen/items/16a01ccfa05280cf8853)
 
-[VSCodeでMarpの自作CSSが全く読み込まれなかった件](https://qiita.com/atw0_0w/items/ca0699010600db169b55)
+[HTML関連　脚注のつけ方](https://blog.goo.ne.jp/salty_match/e/04bb92e4b364537bf4667846b1fe8e90)
 
-[Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
+[<br>: 改行要素](https://developer.mozilla.org/ja/docs/Web/HTML/Element/br)
+
+[LatexをHTMLに埋め込みしてウェブブラウザから閲覧する方法 MathJax](https://devtheworld.jp/blog/embedding-latex-in-html-for-viewing-in-web-browsers-using-mathjax)
+
+[相対パスと絶対パスの違いと書き方を学ぼう](https://zero-plus.io/media/relative-paths-and-absolute-paths/)
 
 #### Web
 
@@ -155,7 +173,7 @@
 
 #### VSCode
 
-
+[VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
 
 #### Server
 
@@ -165,11 +183,19 @@
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
 
+### Git
+
+[GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
+
+
+
 #### Etc
 
 [Windows10環境でmakeコマンドを使用する方法【ハマリ回避】](https://qiita.com/BARANCE_TW/items/c7ffdb311df84d47bddd)
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
+
+[tree ディレクトリのツリー表示](https://xtech.nikkei.com/it/free/NT/WinKeyWord/20040805/1/tree.shtml)
 
 ### その他
 
@@ -188,3 +214,21 @@
 [【AviUtl】完成した動画を出力（エンコード）](https://sosakubiyori.com/aviutl-encode/)
 
 [【Excelでできる】QRコードを用いた在庫管理の方法と効率化｜自作・フリーソフト・無料](https://www.chemi-jyo.com/work/vba_qr_inventory_control/)
+
+[ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
+
+[学生は無料で GitHub Pro が使える？特典や申請方法などを解説！](https://frogapp.net/blog/2021-09/github-education/)
+
+[GitHub Educationのメリットと申請方法](https://qiita.com/Kobayashi2019/items/5adb9bde57691a770419)
+
+[【学生必見】GitHub Copilotを無料で使う方法](https://qiita.com/Rei1729/items/d84fe8b28d6a135ae6f1)
+
+[【GitHub】学生申請をして無料でGitHub Copilotを使う](https://qiita.com/SNQ-2001/items/796dc5e794ac3f57a945)
+
+[スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
+
+[WebでLaTeXを使う](https://shogo82148.github.io/homepage/memo/soft/tex/web.html)
+
+[VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
+
+[Windowsで日本語を入力すると正しく入力できない現象](https://omakase-ypp.jp/blog/windows%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%8F%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E7%8F%BE%E8%B1%A1/)

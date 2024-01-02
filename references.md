@@ -86,6 +86,10 @@
 
 [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 
+#### JavaScript
+
+
+
 #### Etc
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
@@ -169,7 +173,7 @@
 
 #### Web
 
-
+[PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
 
 #### VSCode
 
@@ -187,7 +191,9 @@
 
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
 
+#### JavaScript
 
+[Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
 
 #### Etc
 

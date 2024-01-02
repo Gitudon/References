@@ -36,6 +36,8 @@
 
 [VScodeでdockerの開発環境(python)を使う。](https://qiita.com/katakaku/items/b8dcac4aa14d585e4038)
 
+[Webアプリケーションの構造を理解し、dockerを用いた開発環境を構築できるようになる（構築編）](https://www.asobou.co.jp/blog/web/docker-construction)
+
 #### Markdown
 
 [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
@@ -141,6 +143,8 @@
 
 [docker-pyを使ってpythonでコンテナを操作する方法](https://qiita.com/ryuichi1208/items/d673fe50121599f6b063)
 
+[【超初心者向け】DockerでPythonの環境を構築する](https://qiita.com/_taketeru/items/1d547e95539d858b29a1)
+
 #### Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -175,6 +179,18 @@
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
 
+[PHPとは？基礎知識、できることを初心者にもわかりやすく解説します](https://www.kagoya.jp/howto/it-glossary/web/php/)
+
+[Flaskとは？Pythonにフレームワークについて解説！](https://www.alobridge.com/blog/1669/)
+
+[【Python】Flaskとは？FlaskでWeb開発の基礎を学ぼう！](https://aiacademy.jp/media/?p=57)
+
+[【Python】Stripe+FlaskでWebサイトを作る](https://blog.codecamp.jp/python-stripe-flack)
+
+[Stripe -Payments Flaskアプリに導入-](https://roy29fuku.com/payment/stripe/introduce-to-flask-app/)
+
+[stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
+
 #### VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -202,6 +218,8 @@
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
 
 [tree ディレクトリのツリー表示](https://xtech.nikkei.com/it/free/NT/WinKeyWord/20040805/1/tree.shtml)
+
+[Windowsファイルツリー構造の表示とテキスト保存](https://qiita.com/Qsugi/items/aebd6e790a5928eb84fc)
 
 ### その他
 
@@ -238,3 +256,9 @@
 [VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
 
 [Windowsで日本語を入力すると正しく入力できない現象](https://omakase-ypp.jp/blog/windows%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%8F%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E7%8F%BE%E8%B1%A1/)
+
+[ローカル開発環境を作り易いDockerfileのフォルダ構成](https://qiita.com/sgswtky/items/01650a041b581ffd83f7)
+
+[ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
+
+[treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)

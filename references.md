@@ -14,15 +14,9 @@
 
 #### LaTeX
 
-[LuaLaTeX のすゝめ](https://qiita.com/Daiji256/items/9afbfa9f822629d3b995)
+
 
 #### Docker
-
-[VS CodeでDocker開発コンテナを便利に使おう](https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0)
-
-[Docker入門 #1 【Dockerとは】](https://qiita.com/wMETAw/items/b9bc643ded4b92bf6add)
-
-[はじめてのDocker 導入から開発の流れまで](https://qiita.com/m-dove/items/173d08a5d8d910e10283)
 
 [DockerとVScodeでPython環境構築](https://qiita.com/KiYuRo/items/c016eaf5066c6cedaa11)
 
@@ -86,7 +80,7 @@
 
 ### Git
 
-[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
 
 #### JavaScript
 
@@ -134,7 +128,10 @@
 
 [Pythonのクラス（class）の基本を徹底解説、具体的な書き方も](https://camp.trainocate.co.jp/magazine/python-class/)
 
+[Pythonでコマンドライン引数を受け取る](https://qiita.com/taashi/items/07bf75201a074e208ae5)
+
 #### LaTeX
+
 
 
 #### Docker
@@ -144,6 +141,16 @@
 [docker-pyを使ってpythonでコンテナを操作する方法](https://qiita.com/ryuichi1208/items/d673fe50121599f6b063)
 
 [【超初心者向け】DockerでPythonの環境を構築する](https://qiita.com/_taketeru/items/1d547e95539d858b29a1)
+
+[Windows for DockerでLinux環境を構築するまでの最小ステップ](https://note.com/maki_note_/n/n6daa081cd3f7)
+
+[VS CodeでDocker開発コンテナを便利に使おう](https://qiita.com/Yuki_Oshima/items/d3b52c553387685460b0)
+
+[【2020年1月】令和だし本格的にVSCodeのRemote Containerで、爆速の"開発コンテナ"始めよう](https://qiita.com/koinori/items/084a0770c1f9e72e0c14)
+
+[Docker入門 #1 【Dockerとは】](https://qiita.com/wMETAw/items/b9bc643ded4b92bf6add)
+
+[はじめてのDocker 導入から開発の流れまで](https://qiita.com/m-dove/items/173d08a5d8d910e10283)
 
 #### Markdown
 
@@ -175,6 +182,8 @@
 
 [相対パスと絶対パスの違いと書き方を学ぼう](https://zero-plus.io/media/relative-paths-and-absolute-paths/)
 
+[絶対パスと相対パス](https://creatorquest.jp/lessons/html/absolutepath-relativepath/)
+
 #### Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
@@ -190,6 +199,8 @@
 [Stripe -Payments Flaskアプリに導入-](https://roy29fuku.com/payment/stripe/introduce-to-flask-app/)
 
 [stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
+
+[flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
 #### VSCode
 
@@ -220,6 +231,8 @@
 [tree ディレクトリのツリー表示](https://xtech.nikkei.com/it/free/NT/WinKeyWord/20040805/1/tree.shtml)
 
 [Windowsファイルツリー構造の表示とテキスト保存](https://qiita.com/Qsugi/items/aebd6e790a5928eb84fc)
+
+[Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
 
 ### その他
 
@@ -262,3 +275,15 @@
 [ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
+
+[LuaLaTeX のすゝめ](https://qiita.com/Daiji256/items/9afbfa9f822629d3b995)
+
+[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
+[【実例付】パワポで画像の背景を透明にする方法！基礎から応用まで徹底解説](https://studio.virtual-planner.com/powerpoint-background-transparent/)
+
+[ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
+
+[Pythonで7種のソートを実装して、性能を比較してみた](https://qiita.com/zaki858/items/c34537ec71e7c03a38e1)
+
+[ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)

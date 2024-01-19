@@ -186,6 +186,14 @@
 
 [絶対パスと相対パス](https://creatorquest.jp/lessons/html/absolutepath-relativepath/)
 
+[フッターを最下部固定にするCSS設定方法 全6選](https://shopeyes.jp/media-blog/00001078/)
+
+[CSSでフッターをウィンドウ最下部に固定する方法【初心者向け】](https://magazine.techacademy.jp/magazine/19410)
+
+[CSSで画像の中央揃えにする方法](https://engineer-labo.com/image_text_center/)
+
+[HTMLでページ上部の空白、余白を消す方法](http://shiru-web.com/2017/06/26/01-62/)
+
 #### Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
@@ -219,6 +227,8 @@
 ### Git
 
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
+
+[【Git入門】git pullの使い方！pullで最新ソースを取得しよう](https://codelikes.com/git-pull/)
 
 #### JavaScript
 

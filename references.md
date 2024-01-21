@@ -132,6 +132,8 @@
 
 [アニメーションでみるアルゴリズムの計算量](https://qiita.com/S4nTo/items/2fe9e41d2f1eb3e124e9)
 
+[[Python]list型のメソッド/操作まとめ](https://pouhon.net/python-list-method/1815/)
+
 #### LaTeX
 
 

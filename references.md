@@ -301,3 +301,5 @@
 [Pythonで7種のソートを実装して、性能を比較してみた](https://qiita.com/zaki858/items/c34537ec71e7c03a38e1)
 
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
+
+[[LaTeX] spverbatim --- \verbとverbatim環境の出力で改行を許可する](https://konoyonohana.blog.fc2.com/blog-entry-455.html)

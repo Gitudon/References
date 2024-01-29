@@ -196,6 +196,20 @@
 
 [HTMLでページ上部の空白、余白を消す方法](http://shiru-web.com/2017/06/26/01-62/)
 
+[スクロールするとふわっと出現してくるあの表現](https://www.tipswork.net/css/853/)
+
+[jQuery とCSS を組み合わせてスクロールをしたら要素を動かす](https://coco-factory.jp/ugokuweb/jscss/)
+
+[【超入門】jQuery とは？できること・基本をわかりやすく解説](https://www.kagoya.jp/howto/it-glossary/web/jquery/)
+
+[JavaScriptをHTMLで使う方法](https://techplay.jp/column/577)
+
+[最低限おぼえておきたい動き-ふわっ（CSS）-](https://coco-factory.jp/ugokuweb/move02/4-1/)
+
+[子セレクタの設定](https://sakichin.com/chapter02/chapter02_step03_017.html)
+
+[【HTML】メニューバーのつくり方(順番にわかりやすく解説)](https://wp-load.in/html-css/html-menu-bar)
+
 #### Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
@@ -231,6 +245,10 @@
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
 
 [【Git入門】git pullの使い方！pullで最新ソースを取得しよう](https://codelikes.com/git-pull/)
+
+[自分で作ったWebページをインターネット上に公開しよう！](https://prog-8.com/docs/github-pages)
+
+[GitHubのソースコードをWebページとして公開する手順（GitHub Pages）](https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096)
 
 #### JavaScript
 

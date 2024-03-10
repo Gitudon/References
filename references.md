@@ -86,6 +86,10 @@
 
 
 
+#### GAS
+
+
+
 #### Etc
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
@@ -210,6 +214,20 @@
 
 [【HTML】メニューバーのつくり方(順番にわかりやすく解説)](https://wp-load.in/html-css/html-menu-bar)
 
+[【初心者でもわかる】HTMLとCSSだけで上部固定ヘッダーを作る方法（position: fixed;）](https://naruweb.com/coding/header/)
+
+[外部リンクにアイコンのマーク（Font AwesomeのWEBフォント）を入れる方法](https://kumanote.jp/linkicon/)
+
+[知らないと危険！target=”_blank”でリンク挿入しよう](https://web-camp.io/magazine/archives/82442)
+
+[CSSが反映されない時にチェックすべき5つのポイントと解決方法](https://www.sejuku.net/blog/100015)
+
+[【初心者必見】HTMLのヘッダーにロゴを配置する方法](https://web-camp.io/magazine/archives/83256)
+
+[SSIを使ってヘッダーやフッターなど、共通のhtmlファイルをインクルードして使う方法](https://urakata.me/blog/ssi-include/#ez_toc10)
+
+[HTML内に別ファイルの中身を合成できるSSIの使い方](https://allabout.co.jp/gm/gc/23773/2/#aa23773activate-ssi)
+
 #### Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
@@ -234,13 +252,25 @@
 
 #### Server
 
+[さくらのVPSでサーバー構築](https://jitaku.work/it/category/server-construction/sakura-construction/)
 
+[【初心者】ホームページ公開までの流れを説明します](https://rs.sakura.ad.jp/column/rs/homepage-release-flow/?gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiT4pow93xL9tSSlcA347FjpJP2N-sctlQ6pVPtIMjltA4KrdG06sixoC92UQAvD_BwE)
+
+[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
+
+[コンソール](https://manual.sakura.ad.jp/vps/server/console.html)
+
+[SSHできないときのトラブルシューティング](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
+
+[Apache2 の ssi 有効化](https://qiita.com/ekzemplaro/items/ba87d475b11262e62358)
 
 #### AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
 
-### Git
+#### Git
 
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
 
@@ -253,6 +283,28 @@
 #### JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
+
+[【JavaScript】let、const、varの違いと使い分け方法を徹底解説](https://techplay.jp/column/1619)
+
+#### GAS
+
+[【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
+
+[【Google Apps Script入門】セルの取得・変更をする](https://uxmilk.jp/25841)
+
+[Google Apps Scriptのイベントトリガー「編集」と「変更」の使い分け](https://note.com/manabibashi/n/n679edc719696)
+
+[【GAS】日付（Date）型データ同士の大小比較・等値確認](https://tetsuooo.net/gas/3226/)
+
+[Google Apps Script（GAS）をメールに活用する方法｜画像付きで手順を解説](https://www.astina.co/media/963/)
+
+[GASのgetRangeの使い方解説！スプレッドシートのセル範囲を指定する4つの方法](https://auto-worker.com/blog/?p=4819)
+
+[GASのfor文の繰り返しループ処理とbreak、continueの使い分けを解説](https://auto-worker.com/blog/?p=5704)
+
+[Googleフォームの選択肢をシートのデータで更新する](https://walking-elephant.blogspot.com/2021/03/form-updating-by-gas.html)
+
+[GASの配列要素に値を追加する4つの方法(push,unshift,splice,添字)](https://auto-worker.com/blog/?p=7100)
 
 #### Etc
 
@@ -321,3 +373,65 @@
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
 [[LaTeX] spverbatim --- \verbとverbatim環境の出力で改行を許可する](https://konoyonohana.blog.fc2.com/blog-entry-455.html)
+
+[SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
+
+[さくらのVPSでメールサーバを構築](https://hachiilcane.hatenablog.com/entry/2020/05/01/225050)
+
+[さくらのVPSでメールサーバー構築](https://www.aiik.net/2020/04/13/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AEvps%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89/)
+
+[Ubunt20.04/Apacheの無料SSL設定](https://sumire-server.blog.jp/archives/13072494.html)
+
+[さくらのVPS（Ubuntu20.04）にApacheをインストール](https://sumire-server.blog.jp/archives/14443424.html)
+
+[さくらVPSにSSL証明書を導入しHTTPS通信の構築](https://qiita.com/yoshizaki_91/items/e6f39a5bfb99900b44b2)
+
+[ネコでもわかる！さくらのVPS講座 ～第六回「無料SSL証明書 Let’s Encryptを導入しよう」](https://knowledge.sakura.ad.jp/10534/)
+
+[【さくらの VPS】コンソールを使ってサーバー (OS) にログインし、ユーザーアカウントを作成する方法](https://www.gadgets-today.net/?p=6790)
+
+[VPSへのアクセスが切れてしまった](https://manual.sakura.ad.jp/vps/troubleshoot/timeout.html)
+
+[SSHの接続拒否エラーを解決するには](https://kinsta.com/jp/knowledgebase/ssh-connection-refused/)
+
+[SSHサーバへ接続出来ない・遅い時の原因と対処法](https://orebibou.com/ja/home/201412/20141218_001/)
+
+[SSH接続でのタイムアウト対策](https://zenn.dev/syommy_program/articles/c7bd0d0daa156c)
+
+[UbuntuとApacheでのWebサーバー構築方法【初心者向け】](https://www.miraiserver.ne.jp/column/about_centos-apache/)
+
+[【Linux初級】WEBサーバー構築手順【Apache】](https://qiita.com/takxxx_infra/items/0b721f05b5f4d2ec5340)
+
+[ネコでもわかる！さくらのVPS講座 ～第三回「Apacheをインストールしよう」](https://knowledge.sakura.ad.jp/8541/)
+
+[さくらVPSでWebサーバを稼働させる](https://qiita.com/medalotte/items/46fe4e9d25e6dff24d25)
+
+[「Webサーバーを構築しよう(1)」～初心者でもよくわかる！VPSによるWebサーバー構築講座(3)](https://knowledge.sakura.ad.jp/2978/)
+
+[「サーバーをさわってみよう！」～初心者でもよくわかる！VPSによるWebサーバー構築講座(2)](https://knowledge.sakura.ad.jp/2751/)
+
+[ssi有効化](https://qiita.com/OTAGRAMER/items/181712979a7241b4a3db)
+
+[.htaccessとは？書き方と設定場所やSEOの評価損失を防ぐ活用方法](https://digital-marketing.jp/creative/what-is-htaccess/)
+
+[.htaccessファイルの書き方と設定・設置方法](https://allabout.co.jp/gm/gc/23962/#goog_rewarded)
+
+[SSIでホームページ内の共通部分を一つのファイルにする方法 － 新米web担のためのホームページの作り方 | 番外編](https://coeure.co.jp/blog/homepage/homepage_180205_03)
+
+[HTML 複数ページで共通になる部分はインクルードする](https://shu-sait.com/html-kyoutuu-bubun-include/)
+
+[HTMLの共通部分を部品にして使い回す方法](https://wand.witchserver.jp/archives/46)
+
+[Visual Studio CodeでのSSH接続により、EC2サーバーが高負荷になり動かなくなった](https://tech.excite.co.jp/entry/2022/09/27/153341)
+
+[EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
+
+[ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
+
+[Google Apps Scriptの文字列を検索する方法(indexOf,lastIndexOf,searchメソッド)](https://auto-worker.com/blog/?p=937)
+
+[GASでGoogleフォームにプルダウンリストの質問を追加する方法](https://tonari-it.com/gas-form-listitem/)
+
+[[GAS]Googleフォームの質問をスプレッドシートから作成する方法](https://www.teijitaisya.com/gas-googleform/)
+
+[GASでGoogleフォームに追加できる質問の種類とそのメソッドまとめ](https://tonari-it.com/gas-form-add-items/)

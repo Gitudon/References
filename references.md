@@ -138,6 +138,8 @@
 
 [[Python]list型のメソッド/操作まとめ](https://pouhon.net/python-list-method/1815/)
 
+[Pygame超入門【第16回 写真グレースケール】](https://mulberrytassel.com/pygame-start-16/)
+
 #### LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)

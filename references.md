@@ -90,6 +90,10 @@
 
 
 
+#### Typst
+
+
+
 #### Etc
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
@@ -307,6 +311,17 @@
 [Googleフォームの選択肢をシートのデータで更新する](https://walking-elephant.blogspot.com/2021/03/form-updating-by-gas.html)
 
 [GASの配列要素に値を追加する4つの方法(push,unshift,splice,添字)](https://auto-worker.com/blog/?p=7100)
+
+#### Typst
+
+[Typstの環境構築 Windows編](https://qiita.com/denkiuo604/items/21e8758ab160bf895e34)
+
+[Typstの始め方と使い方](https://qiita.com/nhancoromochi/items/47d3c010735cced4c1b6)
+
+[もうTeXは時代遅れ！？ はじめてのTypstマニュアル](https://zenn.dev/yuhi_ut/articles/how2start-typst)
+
+[さらばTex。Typstの文法全集 〜1. マークアップ編〜](https://zenn.dev/yuhi_ut/articles/how2write-typst1)
+
 
 #### Etc
 

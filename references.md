@@ -92,7 +92,7 @@
 
 #### Typst
 
-
+[The Hayagriva YAML File Format](https://github.com/typst/hayagriva/blob/main/docs/file-format.md)
 
 #### Etc
 
@@ -147,6 +147,8 @@
 #### LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
+
+[TeXにおけるプリアンブルの外部ファイル化とマクロのまとめ](http://be.nucl.ap.titech.ac.jp/~sako/TeXmacro.pdf)
 
 #### Docker
 
@@ -322,6 +324,8 @@
 
 [さらばTex。Typstの文法全集 〜1. マークアップ編〜](https://zenn.dev/yuhi_ut/articles/how2write-typst1)
 
+[Typstで書く卒論・修論テンプレート](https://zenn.dev/chantakan/articles/ed80950004d145)
+
 
 #### Etc
 
@@ -452,3 +456,5 @@
 [[GAS]Googleフォームの質問をスプレッドシートから作成する方法](https://www.teijitaisya.com/gas-googleform/)
 
 [GASでGoogleフォームに追加できる質問の種類とそのメソッドまとめ](https://tonari-it.com/gas-form-add-items/)
+
+[Typst](https://scrapbox.io/watasuke/Typst)

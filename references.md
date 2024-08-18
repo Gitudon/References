@@ -144,6 +144,38 @@
 
 [Pygame超入門【第16回 写真グレースケール】](https://mulberrytassel.com/pygame-start-16/)
 
+[美しさと機能性を兼ね備えた表を作る｜hondy](https://note.com/hondi/n/nbf9c66bdfc36)
+
+[Matplotlibのデータラベルについて](https://kentei.ai/blog/archives/507)
+
+[Streamlitでリストの初期化を防ぐ](https://qiita.com/Taka_input/items/fa8f2200cd4a4cbf9699)
+
+[Streamlit を用いたデータ分析アプリ制作](https://qiita.com/keisuke-ota/items/a18f158389f1585a9aa0)
+
+[Streamlitで趣味用のWebアプリを作成してデプロイする](https://qiita.com/toisa/items/cb8cd736f594237e1319)
+
+[【Pandas DataFrame】インデックスの変更・振り直し・削除 [rename, reset_index]](https://takilog.com/pandas-dataframe-index-rename-reset/)
+
+[【Streamlit】Session Stateで変数の値を保持する方法](https://qiita.com/kuriyan1204/items/d8342f3a40c6aeb57e5e)
+
+[【Streamlit】Webに公開する](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
+
+[[AtCoder]提出されたコードをコマンドライン上から保存するツールを開発した話](https://qiita.com/moffy/items/f194d6d9503acec1d95f)
+
+[JSONとdict型の相互変換(Python)](https://qiita.com/Mijinko/items/d37d069e5a7485a72b11)
+
+[st.column_config.LinkColumn - Streamlit Docs](https://docs.streamlit.io/develop/api-reference/data/st.column_config/st.column_config.linkcolumn)
+
+[streamlitのst.markdown()に画像を埋め込みたい #Python - Qiita](https://qiita.com/sypn/items/76928609348b5f13b2f5)
+
+[【Streamlit】表にリンク・URLや画像を埋め込む【st.dataframe】 #Python - Qiita](https://qiita.com/mogeko6347/items/b42275dfdaa73343cc57)
+
+[Python で終了時に必ず何か実行したい #Python3 - Qiita](https://qiita.com/qualitia_cdev/items/f536002791671c6238e3)
+
+[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
+
+[Discord Bot と 顔認識を組み合わせてみた　～ＬＴ用～ #Python - Qiita](https://qiita.com/str32/items/373e48f4b1e6f4befa8c)
+
 #### LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -167,6 +199,40 @@
 [Docker入門 #1 【Dockerとは】](https://qiita.com/wMETAw/items/b9bc643ded4b92bf6add)
 
 [はじめてのDocker 導入から開発の流れまで](https://qiita.com/m-dove/items/173d08a5d8d910e10283)
+
+[Dockerfileの書き方と使い方 | CodeCampus](https://blog.codecamp.jp/docker-file-how-to)
+
+[docker build コマンドの t オプションでイメージに任意の名前を付けることができる - ほどよいバランス](https://suzuki86.hateblo.jp/entry/2017/11/05/182710)
+
+[【Docker初心者】Dockerfileの書き方について #初心者向け - Qiita](https://qiita.com/gon0821/items/f9e3bcbb6cb01d4ef7fa)
+
+[dockerfileのenvを使って環境変数を渡す【ARGとの違いも説明する】](https://blog.takasqr.dev/ja/blog/docker_dockerfile_env)
+
+[Dockerコンテナの作成、起動〜停止まで #MacOSX - Qiita](https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53)
+
+[Dockerイメージとコンテナの削除方法 #Docker - Qiita](https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae)
+
+[【Docker】.envの環境変数をDockerfileで使用する #docker-compose - Qiita](https://qiita.com/P-man_Brown/items/6e2e6e98b19be33306e3)
+
+[「そのコンテナのデータ、消えるよ……」とさせないための、イメージ図＋実践で理解するDockerストレージ【Dockerコンテナ・グレートジャーニー③】 #container - Qiita](https://qiita.com/Toyo_m/items/95a2543c07dc5b126208)
+
+[コンテナを永続化させる方法 – SAT Staff Blog](https://blog.sat.ne.jp/2020/05/19/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A%E3%82%92%E6%B0%B8%E7%B6%9A%E5%8C%96%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/)
+
+[docker-compose up したコンテナを起動させ続ける方法 #Docker - Qiita](https://qiita.com/sekitaka_1214/items/2af73d5dc56c6af8a167)
+
+[Dockerコンテナをずっと起動しておく - WEB開発ノート](https://utouto97.hatenablog.com/entry/2022/03/15/092924)
+
+[Dockerのコンテナを起動したままにする #Docker - Qiita](https://qiita.com/reflet/items/dd65f9ffef2a2fcfcf30)
+
+[Docker Desktop for Windows トラブルシューティング](https://zenn.dev/seiya0/articles/tech-docker-desktop-for-win-troubleshoot)
+
+[オリジナルのDockerイメージをDocker Hubに公開しよう | CodeCampus](https://blog.codecamp.jp/programming-docker-hub)
+
+[Dockerコンテナ一覧を表示し、任意のコンテナを起動する #Docker - Qiita](https://qiita.com/hxrxchang/items/91759beb12336faf9518)
+
+[【Docker】コンテナでNode.jsを実行してみた #dockerfile - Qiita](https://qiita.com/suzuki0430/items/fcf57968365d15419601)
+
+[Node.jsプロジェクトをDocker上で動かす](https://zenn.dev/nishiharu/articles/9e6f0f488310ec)
 
 #### Markdown
 
@@ -236,6 +302,14 @@
 
 [HTML内に別ファイルの中身を合成できるSSIの使い方](https://allabout.co.jp/gm/gc/23773/2/#aa23773activate-ssi)
 
+[https://www.tagindex.com/html_tag/link/a_url_id.html](https://www.tagindex.com/html_tag/link/a_url_id.html)
+
+[JavaScript不要！CSSだけで出来るドロップダウンメニューの実装方法](https://www.asobou.co.jp/blog/web/css-dropdown)
+
+[【HTML入門】文字の色を変えるfontタグの使い方と色の指定方法](https://www.sejuku.net/blog/51776)
+
+[すぐわかる！HTMLでスペースや空白を入れる正しい方法](https://webliker.info/html/03847/)
+
 #### Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
@@ -258,6 +332,8 @@
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
 
+[Visual Studio Codeで開いているファイルをエクスプローラー上でフォーカスしないようにする](https://hepokon365.hatenablog.com/entry/2023/01/23/190000)
+
 #### Server
 
 [さくらのVPSでサーバー構築](https://jitaku.work/it/category/server-construction/sakura-construction/)
@@ -274,6 +350,26 @@
 
 [Apache2 の ssi 有効化](https://qiita.com/ekzemplaro/items/ba87d475b11262e62358)
 
+[バイナリレベルでの調査に使用するLinuxコマンドメモ #Linux - Qiita](https://qiita.com/rsooo/items/bb91071685f447ce29db)
+
+[バイナリ解析ツール #Security - Qiita](https://qiita.com/Amayarielu/items/8b4b67fea20bd8733730)
+
+[Linuxのネットワーク設定備忘録 #CentOS - Qiita](https://qiita.com/Pochichi/items/68983eeada77ea54206f)
+
+[【入門】UbuntuにDockerをインストールする - カゴヤのサーバー研究室](https://www.kagoya.jp/howto/cloud/container/dockerubuntu/)
+
+[ufw コマンド 覚書 #Linux - Qiita](https://qiita.com/JhonnyBravo/items/f67d34c0ed8f2961919e)
+
+[UbuntuにGitをインストールする #Git - Qiita](https://qiita.com/tommy_g/items/771ac45b89b02e8a5d64)
+
+[Snapパッケージとは | Ubuntuまちがいさがし](https://ito32bit.github.io/blog/2019/snap-package/)
+
+[ubuntu ユーザを追加して sudo 権限をつける #Ubuntu - Qiita](https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa)
+
+[scpコマンドでディレクトリ（フォルダ）をコピーしました #Linux - Qiita](https://qiita.com/pugiemonn/items/3c80522f477bbbfa1302)
+
+[【2023年4月版】Ubuntu に node.js と npm を入れたい（バージョン管理も） #Node.js - Qiita](https://qiita.com/nouernet/items/d6ad4d5f4f08857644de)
+
 #### AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
@@ -288,11 +384,25 @@
 
 [GitHubのソースコードをWebページとして公開する手順（GitHub Pages）](https://qiita.com/tonkotsuboy_com/items/f98667b89228b98bc096)
 
+[GitHub Educationのメリットと申請方法](https://qiita.com/Kobayashi2019/items/5adb9bde57691a770419)
+
+[.gitignore の書き方](https://qiita.com/inabe49/items/16ee3d9d1ce68daa9fff)
+
+[unexpected disconnect while reading sideband packet #Git - Qiita](https://qiita.com/chovin/items/0023a24a5587394e8156)
+
 #### JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
 
 [【JavaScript】let、const、varの違いと使い分け方法を徹底解説](https://techplay.jp/column/1619)
+
+[ブラウザの拡張機能を自作してみた #JavaScript - Qiita](https://qiita.com/m_hama123/items/aa3101478a8458d61689)
+
+[新Edgeの拡張機能の作り方 (コンテキストメニュー編) #JavaScript - Qiita](https://qiita.com/economist/items/7cd5bd01cbe357646c03)
+
+[ブラウザ拡張機能の自作を試してみる - SEワンタンの独学備忘録](https://www.wantanblog.com/entry/2021/02/25/233126)
+
+[チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
 #### GAS
 
@@ -338,6 +448,8 @@
 [Windowsファイルツリー構造の表示とテキスト保存](https://qiita.com/Qsugi/items/aebd6e790a5928eb84fc)
 
 [Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
+
+[VSCodeの折りたたみについて](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
 
 ### その他
 
@@ -458,3 +570,10 @@
 [GASでGoogleフォームに追加できる質問の種類とそのメソッドまとめ](https://tonari-it.com/gas-form-add-items/)
 
 [Typst](https://scrapbox.io/watasuke/Typst)
+
+[【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
+
+[NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
+
+[フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
+

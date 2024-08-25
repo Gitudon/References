@@ -1,22 +1,10 @@
 ## 読んでないもの
 
-### なるはや
-
-### あとでOK
-
-#### Python
-
 [Streamlitのインプットウィジットを使ってみよう](https://welovepython.net/streamlit-input-widget/)
 
 [ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
 
 [Python クラスについて](https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c)
-
-#### LaTeX
-
-
-
-#### Docker
 
 [DockerとVScodeでPython環境構築](https://qiita.com/KiYuRo/items/c016eaf5066c6cedaa11)
 
@@ -32,8 +20,6 @@
 
 [Webアプリケーションの構造を理解し、dockerを用いた開発環境を構築できるようになる（構築編）](https://www.asobou.co.jp/blog/web/docker-construction)
 
-#### Markdown
-
 [Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 [社内で使うスライドテンプレをMarpで作ってみた](https://blog.cloudnative.co.jp/13452/)
@@ -46,15 +32,7 @@
 
 [【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
 
-#### HTML/CSS
-
-
-
-#### Web
-
 [Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
-
-#### VSCode
 
 [VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜](https://qiita.com/HelloRusk/items/073b58c1605de224e67e)
 
@@ -70,31 +48,9 @@
 
 [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 
-#### Server
-
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
 
-#### AviUtl
-
-
-
-### Git
-
-
-
-#### JavaScript
-
-
-
-#### GAS
-
-
-
-#### Typst
-
 [The Hayagriva YAML File Format](https://github.com/typst/hayagriva/blob/main/docs/file-format.md)
-
-#### Etc
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
 
@@ -175,6 +131,8 @@
 [Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
 
 [Discord Bot と 顔認識を組み合わせてみた　～ＬＴ用～ #Python - Qiita](https://qiita.com/str32/items/373e48f4b1e6f4befa8c)
+
+[PythonでURLエンコードする際の初歩的なミス #Python3 - Qiita](https://qiita.com/TekuLion/items/294b922aada8c5d5201c)
 
 #### LaTeX
 
@@ -436,6 +394,29 @@
 
 [Typstで書く卒論・修論テンプレート](https://zenn.dev/chantakan/articles/ed80950004d145)
 
+#### SQL
+
+[【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
+
+[テーブルに自動採番(オートインクリメント)する列を作成する | 分析ノート](https://analytics-note.xyz/sql/auto-increment/)
+
+[SQLでアップデートする方法｜様々な条件付きでデータを更新するやり方も解説 | ポテパンスタイル](https://style.potepan.com/articles/24902.html)
+
+[【SQL超入門講座】17.DISTINCT｜重複した値を排除して抽出する方法](https://kino-code.com/sql17-distinct/)
+
+[複数の条件を指定してSELECT文を実行する：Webブラウザで気軽に学ぶ実践SQL講座（4） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1201/13/news140.html)
+
+[SQLにおける集計関数とグループ化 #プログラミング勉強日記 - Qiita](https://qiita.com/mzmz__02/items/980569df855af677bd5b)
+
+[【SQL】SQLの基本を覚える #MySQL - Qiita](https://qiita.com/DogK0625/items/6ccd896e67ec7f5d735e)
+
+[【SQL】SUM関数を使って指定カラムの合計値を求める | Z MARKETING](https://z-marketing.net/sql-sum/)
+
+[SQLで最小値を取得するにはMIN関数を使う！条件設定やNULLがある場合は？ | ポテパンスタイル](https://style.potepan.com/articles/26430.html)
+
+[SQLのMAX関数（最大値）・MIN（最小値）の使い方を徹底解説 | Z MARKETING](https://z-marketing.net/sql-max-min/#%E6%9D%A1%E4%BB%B6%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6%E6%9C%80%E5%A4%A7%E5%80%A4%E3%83%BB%E6%9C%80%E5%B0%8F%E5%80%A4%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%EF%BC%88WHERE%E5%8F%A5%EF%BC%89)
+
+[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
 
 #### Etc
 

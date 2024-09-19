@@ -134,6 +134,8 @@
 
 [PythonでURLエンコードする際の初歩的なミス #Python3 - Qiita](https://qiita.com/TekuLion/items/294b922aada8c5d5201c)
 
+[pip: Python環境構築ガイド - python.jp](https://www.python.jp/install/ubuntu/pip.html)
+
 #### LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -192,6 +194,8 @@
 
 [Node.jsプロジェクトをDocker上で動かす](https://zenn.dev/nishiharu/articles/9e6f0f488310ec)
 
+[Dockerイメージとコンテナの削除方法 #Docker - Qiita](https://qiita.com/tifa2chan/items/e9aa408244687a63a0ae)
+
 #### Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -205,6 +209,10 @@
 [Marpでカスタムテーマを作る](https://zenn.dev/gae/articles/82f826270cb792)
 
 [QiitaのMarkdownパーサー変更にともなう、脚注についての書き方と注意点](https://qiita.com/phigasui/items/010f4c79ff47bbaaebdd)
+
+[一度は試してほしい！シーケンス図を書くならマーメイド記法 #JavaScript - Qiita](https://qiita.com/espritfort_tech/items/bf30c88ad5638d7be622)
+
+[【Mermaid】ER図の作成方法 #Markdown - Qiita](https://qiita.com/P-man_Brown/items/33834fe6dd4833dc1809)
 
 #### HTML/CSS
 
@@ -286,6 +294,8 @@
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
+[実践：はじめてのWebAPI設計 #Python - Qiita](https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15)
+
 #### VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -328,6 +338,18 @@
 
 [【2023年4月版】Ubuntu に node.js と npm を入れたい（バージョン管理も） #Node.js - Qiita](https://qiita.com/nouernet/items/d6ad4d5f4f08857644de)
 
+[usermodでグループを追加するのは危険 #Linux - Qiita](https://qiita.com/tk1024/items/16e98031b84a31df469b)
+
+[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+
+[Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+
+[rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
+
+[windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+
+[HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)
+
 #### AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
@@ -348,6 +370,20 @@
 
 [unexpected disconnect while reading sideband packet #Git - Qiita](https://qiita.com/chovin/items/0023a24a5587394e8156)
 
+[VScode上でのGitHubへのissueの立て方とPRの仕方](https://zenn.dev/vintea_01/scraps/c4362cc5a16118)
+
+[ローカルブランチを削除したいとき #Git - Qiita](https://qiita.com/mitarashi397/items/48b9edf1ae6d3b8a2105)
+
+[GitHubでissue管理して開発しよう #Ruby - Qiita](https://qiita.com/fukubaka0825/items/c7710b4e87d478c8ba3b)
+
+[Github issue との付き合い方 作成編 #GitHub - Qiita](https://qiita.com/janus_wel/items/ba47259f107b161c5727)
+
+[GitHubのissueを活用した個人アプリの開発手順を書いてみた #個人開発 - Qiita](https://qiita.com/tkmd35/items/9612c03dc60b1c516969#%E8%A3%9C%E8%B6%B3)
+
+[Gitのリモートブランチを削除するまとめ #GitHub - Qiita](https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9)
+
+[VS Codeでソースコード管理：ブランチを操作してみよう：Visual Studio Codeで快適Pythonライフ - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2110/01/news034.html)
+
 #### JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
@@ -361,6 +397,8 @@
 [ブラウザ拡張機能の自作を試してみる - SEワンタンの独学備忘録](https://www.wantanblog.com/entry/2021/02/25/233126)
 
 [チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
+
+[[RESTful API]パスパラメータ、クエリパラメータ、リクエストボディの違いと設計 #JavaScript - Qiita](https://qiita.com/Shokorep/items/b7697a146cbb1c3e9f0b)
 
 #### GAS
 
@@ -431,6 +469,8 @@
 [Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
 
 [VSCodeの折りたたみについて](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
+
+[WinDbg をインストールしてとりあえず使えるところまで設定する方法 #Windows - Qiita](https://qiita.com/tokawa-ms/items/62625c7acc263185f530)
 
 ### その他
 
@@ -558,3 +598,4 @@
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
 
+[APIを『叩く』ってなんだ #初心者 - Qiita](https://qiita-com.translate.goog/antk/items/d762fdb3695cb85712ad?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)

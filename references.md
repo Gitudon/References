@@ -152,6 +152,18 @@
 
 [ローカル開発環境を作り易いDockerfileのフォルダ構成](https://qiita.com/sgswtky/items/01650a041b581ffd83f7)
 
+[Dockerコンテナのタイムゾーン変更方法 #Docker - Qiita](https://qiita.com/rururu_kenken/items/972314402d588e073d40)
+
+[docker-compose.ymlの書き方について解説してみた #Docker - Qiita](https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04)
+
+[Docker再起動時にコンテナが勝手に起動する件について #docker-compose - Qiita](https://qiita.com/sayyyyyy/items/3ccd292a610fe075b460)
+
+[Docker で Selenium を動かす #Python - Qiita](https://qiita.com/wanwan_fox/items/2605d45a1096288f6381)
+
+[【Docker】第14回　Docker Desktop for WindowsでUbuntu+Python+OpenCV（１）/札幌のAI・IoT・システム開発｜ITイノベーション/最先端技術｜パブリックリレーションズ](https://www.public.ne.jp/2021/02/03/%E3%80%90docker%E3%80%91%E7%AC%AC14%E5%9B%9E%E3%80%80docker-desktop-for-windows%E3%81%A7ubuntupythonopencv%EF%BC%88%EF%BC%91%EF%BC%89/)
+
+[【Python】DockerでOpenCVをインストールする時の設定 #Python3 - Qiita](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
+
 #### GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -179,6 +191,10 @@
 [[GAS]Googleフォームの質問をスプレッドシートから作成する方法](https://www.teijitaisya.com/gas-googleform/)
 
 [GASでGoogleフォームに追加できる質問の種類とそのメソッドまとめ](https://tonari-it.com/gas-form-add-items/)
+
+[【GAS】相対日付の取得方法（明日・昨日・1週間後・1か月後・1年後）](https://tetsuooo.net/gas/2854/)
+
+[GASでセルの値を取得、変更、削除 #JavaScript - Qiita](https://qiita.com/Bzbot/items/a1f716adb1742b23b288)
 
 #### Git
 
@@ -223,6 +239,8 @@
 [【GitHub】学生申請をして無料でGitHub Copilotを使う](https://qiita.com/SNQ-2001/items/796dc5e794ac3f57a945)
 
 [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
+[【Git入門】ブランチを削除する方法](https://zenn.dev/gachigachi/articles/fe4ba9c69b5de6)
 
 #### HTML/CSS
 
@@ -424,6 +442,24 @@
 
 [Pythonで7種のソートを実装して、性能を比較してみた](https://qiita.com/zaki858/items/c34537ec71e7c03a38e1)
 
+[【Python3】os.environで取得した環境変数の文字列型(str)の値を数値方(int)に変更するやり方【キャスト方法】 | Blogenist – ブロゲニスト](https://blogenist.jp/2019/01/14/7471/)
+
+[Pythonで環境変数を取得・追加・上書き・削除（os.environ） | note.nkmk.me](https://note.nkmk.me/python-os-environ-getenv/#osenviron_1)
+
+[Pythonで現在時刻・日付・日時を取得 | note.nkmk.me](https://note.nkmk.me/python-datetime-now-today/)
+
+[10分で理解する Selenium #Python - Qiita](https://qiita.com/Chanmoro/items/9a3c86bb465c1cce738a)
+
+[python-dotenvを使って環境変数を設定する #Python - Qiita](https://qiita.com/harukikaneko/items/b004048f8d1eca44cba9)
+
+[処理を一時停止！Pythonでsleepを使う方法【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/15822)
+
+[pipのアップデート方法-Windows - MIKAのまったり部屋](https://relax-mika.vasofatum.jp/pip-upgrade/)
+
+[Pythonのアップデート方法 | デジタルトレンドナビ](https://dtnavi.tcdigital.jp/cat_system/language_126/)
+
+[pipでいれたパッケージを一括アップデート - DISTRICT 37](https://dragstar.hatenablog.com/entry/2016/09/02/113243)
+
 #### Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
@@ -525,6 +561,30 @@
 [ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
 
 [NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
+
+[Linuxのユーザー追加、useraddコマンドの使い方 #CentOS - Qiita](https://qiita.com/yasushi-jp/items/78d5965c1624b1529ff6)
+
+[isi-webnet.co.jp/interdoctor/chotlectur13.htm](http://www.isi-webnet.co.jp/interdoctor/chotlectur13.htm)
+
+[nohupコマンドでnohup.outファイルを作成しない - suer TIL](https://atsum.in/linux/no-nohup-log/)
+
+[nohupでコマンド実行時にログ出力をしたくない場合は/dev/nullにリダイレクトすると良い #nohup - Qiita](https://qiita.com/seigot/items/43d005636b056bcf8eef)
+
+[SSH切断後も実行中のタスクを動作継続させる方法 #Linuxコマンド - Qiita](https://qiita.com/bassie/items/524c6931eb1c031aadb0)
+
+[RaspberryPiのメモリやCPUを監視する(Monitorix) - Kazushi Motomura](https://motomura-kazushi.net/2021/02/14/raspberrypi%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%84cpu%E3%82%92%E7%9B%A3%E8%A6%96%E3%81%99%E3%82%8Bmonitorix/)
+
+[Raspberry Piのシステムモニタリング #Linux - Qiita](https://qiita.com/ryoma-jp/items/f20616ad75d949d0e360)
+
+[CPU使用率を取得する方法（Linux、vmstatコマンド） #centos8 - Qiita](https://qiita.com/yasushi-jp/items/d821c7d90006671d5d66)
+
+[Raspberry Pi に、Chromeをインストールする #RaspberryPi - Qiita](https://qiita.com/ssmrw/items/e52b9bc57243dbc17301)
+
+[raspberry pi への selenium, chromedriver の動作 - リオのブログ](https://inorio.hatenablog.com/entry/2022/02/05/183202)
+
+[Python+selenumでchromeを動かすまで（Ubuntu）](https://zenn.dev/honehone/articles/482f9a3b5ca481#chrome%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+
+[RaspberryPi向けOpenCV-Pythonパッケージの最新版ビルドの配布 | Tech Life Hacking](https://www.techlife-hacking.com/?p=2344)
 
 #### SQL
 
@@ -629,3 +689,9 @@
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
 [APIを『叩く』ってなんだ #初心者 - Qiita](https://qiita-com.translate.goog/antk/items/d762fdb3695cb85712ad?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+[Windows 10のデフォルト アプリケーションの変更方法 | Dell 日本](https://www.dell.com/support/kbdoc/ja-jp/000128257/how-to-change-windows-windows-10)
+
+[​パワーポイントでTeXを使う方法（デフォルトで入ってるもの） - とある数物研究者の覚書](https://mathphysnote.com/powerpoint-tex/)
+
+[PowerPoint（パワポ）における数式入力のメモ #PowerPoint - Qiita](https://qiita.com/ryonkht/items/1e708606622c5d7e827d)

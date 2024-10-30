@@ -164,6 +164,17 @@
 
 [【Python】DockerでOpenCVをインストールする時の設定 #Python3 - Qiita](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
 
+[何もしてないのに Docker が壊れた (failed: port is already allocated) - 放浪軍師のアプリ開発局](https://www.gunshi.info/entry/2024/06/06/231231)
+
+[dockerの起動、停止、再起動 #Docker - Qiita](https://qiita.com/tanakin_prog/items/6e6219a62e7a05eb22c2)
+
+[Dockerの基本的な操作とDocker Composeの活用例 #docker-compose - Qiita](https://qiita.com/arihori13/items/442f13ccb6300b727492)
+
+[Dockerのコンテナ内に入る！でもなんで入れるの？ #docker-compose - Qiita](https://qiita.com/Asaiii12/items/4ac73445ff8d9b75e02e)
+
+[Dockerコンテナの作成、起動〜停止まで #MacOSX - Qiita](https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53)
+
+
 #### GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -586,6 +597,44 @@
 
 [RaspberryPi向けOpenCV-Pythonパッケージの最新版ビルドの配布 | Tech Life Hacking](https://www.techlife-hacking.com/?p=2344)
 
+[Linuxコマンド：Linuxをシャットダウン・再起動](https://recoverit.wondershare.jp/other-file-recovery/shut-down-and-restart-linux.html)
+
+[ubuntu 24.04 LTSで自宅サーバー構築（NetDataの設定） #Linux - Qiita](https://qiita.com/sqoot610/items/1b72f6f3c8331b609ab6)
+
+[「pingコマンド」のエラー原因と解決法まとめ #初心者 - Qiita](https://qiita.com/EkaTaro3/items/a111d6cb13e848a4fac1)
+
+[SSHできないときのトラブルシューティング #SSH - Qiita](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[Netdata でモニタリングスタックを構築してみた #devops - Qiita](https://qiita.com/navitime_tech/items/669327580c91970aefae)
+
+[Ubuntu 22.04 LTS : ホスト名を設定する : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=hostname)
+
+[手軽なメトリクス視覚化ツールを探して (Netdata, Prometheus, Telegraf) #prometheus - Qiita](https://qiita.com/kikuchi_kentaro/items/8ab93b73012ee8aea717)
+
+[Ubuntu 22.04 : NetData 設定 : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=netdata&f=1)
+
+[NetDataのこと - naoki86star](https://blog.balus.xyz/entry/2019/06/23/181746)
+
+[ubuntu apt 初心者の備忘録 #Ubuntu - Qiita](https://qiita.com/betweens/items/cd0df0624157cff38edc)
+
+[Uninstall failed - Help - Netdata Community Forums](https://community.netdata.cloud/t/uninstall-failed/3586)
+
+[本当は怖いワイルドカード（「*」）: NECセキュリティブログ | NEC](https://jpn.nec.com/cybersecurity/blog/210903/index.html)
+
+[【Netdata】Ubuntu 18.04上にインストールした時のメモ - とーますメモ](https://thoames.hatenadiary.jp/entry/2020/04/30/003034)
+
+[NetData after fresh install: CONFIG: cannot load cloud config - Troubleshooting - DietPi Community Forum](https://dietpi.com/forum/t/netdata-after-fresh-install-config-cannot-load-cloud-config/18374)
+
+[Linuxでファイルを検索する：findとlocateの使い方 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux-ja)
+
+[Linuxでハードウェア情報を表示させる「lshw」コマンドの使い方 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20180305-lshw_howto/)
+
+[Raspberry Pi4B WiFi調査メモ #RaspberryPi4 - Qiita](https://qiita.com/god19/items/f21d274b45688d9679fa)
+
+[Raspberry PiのWi-Fi接続が不安定なのをPower Management設定変更で解決した - スズハドットコム](https://suzu-ha.com/entry/2023/12/25/000000)
+
+[Raspberry Pi で WiFi 接続が切れる #RaspberryPi - Qiita](https://qiita.com/nanbuwks/items/a06c6c17ecbc3fc5ac79)
+
 #### SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -695,3 +744,5 @@
 [​パワーポイントでTeXを使う方法（デフォルトで入ってるもの） - とある数物研究者の覚書](https://mathphysnote.com/powerpoint-tex/)
 
 [PowerPoint（パワポ）における数式入力のメモ #PowerPoint - Qiita](https://qiita.com/ryonkht/items/1e708606622c5d7e827d)
+
+[IPv6アドレスを有効にしたい(Windows 10) | JCOMサポート](https://cs.myjcom.jp/JSS_KnowledgeDetail?an=000004483)

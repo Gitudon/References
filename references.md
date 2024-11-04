@@ -174,6 +174,13 @@
 
 [Dockerコンテナの作成、起動〜停止まで #MacOSX - Qiita](https://qiita.com/kooohei/items/0e788a2ce8c30f9dba53)
 
+[docker compose buildできなかった話(Windows11)](https://zenn.dev/mana196/articles/b803a813d28cf9)
+
+[【Docker】docker compose upしたときno configuration file provided: not foundの対処法【Git】 #error - Qiita](https://qiita.com/TK_WebSE/items/355dbee55bf7fd9dff95)
+
+[【Docker】read-only file system とでたときの対処法](https://zenn.dev/kota111/articles/79ac58f98f22759a70d5)
+
+[【ありがち】存在するはずのスクリプトで "not found" エラーになる！？ #Docker - Qiita](https://qiita.com/tonluqclml/items/56e927d5a5e20ac030f1)
 
 #### GAS
 
@@ -355,6 +362,10 @@
 
 [[LaTeX] spverbatim --- \verbとverbatim環境の出力で改行を許可する](https://konoyonohana.blog.fc2.com/blog-entry-455.html)
 
+[LaTeXドリル 参考文献情報の書き方](http://www.ic.daito.ac.jp/~mizutani/tex/drill/drillbook3.html)
+
+[【LaTeX】箇条書きの方法ついて徹底解説 | 数学の景色](https://mathlandscape.com/latex-enum/)
+
 #### Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -471,9 +482,31 @@
 
 [pipでいれたパッケージを一括アップデート - DISTRICT 37](https://dragstar.hatenablog.com/entry/2016/09/02/113243)
 
+[PythonでcURL #Python3 - Qiita](https://qiita.com/danishi/items/07dd1b2f2a28255f7a85)
+
+[【Python】n進数→10進数、10進数→n進数【AtCoder】 #N進数 - Qiita](https://qiita.com/ether2420/items/061c19a000c52adf7f3e)
+
+[4-3. バブルソート（単純交換法） | Python講座](https://www.kaijo-academy.jp/joho/py43.html)
+
+[Ubuntu 22.04.4LTS に uv を入れて Python のパッケージを管理する - Sig9 Memo v4.0](https://sig9.org/blog/2024/04/18/)
+
+[[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
+
+#### React
+
+[【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
+
 #### Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
+
+#### Rust
+
+[はじめに｜Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003/viewer/6d5875)
+
+[Rust をインストール - Rustプログラミング言語](https://www.rust-lang.org/ja/tools/install)
+
+[Rustをはじめよう その2(プログラム作成&実行編) | DCS blog](https://blog.dcs.co.jp/rust/20202409-rust-2.html)
 
 #### Server
 
@@ -635,6 +668,34 @@
 
 [Raspberry Pi で WiFi 接続が切れる #RaspberryPi - Qiita](https://qiita.com/nanbuwks/items/a06c6c17ecbc3fc5ac79)
 
+[9.6. root パスワードの変更およびリセット | Red Hat Product Documentation](https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/9/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_managing-users-and-groups)
+
+[グローバルIPアドレスとプライベートIPアドレスの違いとは？【初心者向け・図解付】 | 情シスマン](https://www.gate02.ne.jp/media/it/column_98/)
+
+[Raspberry Pi で DNS サーバを指定する #RaspberryPi - Qiita](https://qiita.com/ikai/items/62e49385a1e3e7c953ad)
+
+[ラズパイのネット接続エラー「名前解決に一時的に失敗しました」で確認したいresolv.conf | ラズパイダ](https://raspida.com/name-servers-error/)
+
+[504（Gateway Timeout）エラー発生時のチェック項目と対処法！ | SEMLabo.](https://www.oro.com/semlabo/198/)
+
+[linuxで「名前解決に一時的に失敗しました」とエラーを吐くときの対処 #Linux - Qiita](https://qiita.com/marienplatz/items/270c59e01cd29e9e1fe0)
+
+[ラズパイで複数のネットワーク設定をする #Linux - Qiita](https://qiita.com/hxbdy625/items/374394f3dff17bdaf843)
+
+[Raspberry pi zero w でwifiが繋がらずハマった話](https://zenn.dev/funnythingz/articles/059747fe690c36)
+
+[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
+
+[Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
+
+[Linuxでプロセスが何のポート使っているかを調べる #port - Qiita](https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3)
+
+[gitlabのインストールとアンインストール - 技術メモブログ](https://mtkj.hatenablog.com/entry/2021/11/28/234813)
+
+[【Gitlab】Gitlabサーバーを構築してみた（インストール～初期設定） #GitLab - Qiita](https://qiita.com/rittan_girla/items/8ad9746975ce57b11936)
+
+[GitLabをサーバーから導入してみた #GitLab - Qiita](https://qiita.com/flyaway2525/items/42804ee1ec64a66f4023)
+
 #### SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -701,11 +762,13 @@
 
 [実践：はじめてのWebAPI設計 #Python - Qiita](https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15)
 
+#### VPN
+
+[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
+
 #### Etc
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
-
-[Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
 
 [WinDbg をインストールしてとりあえず使えるところまで設定する方法 #Windows - Qiita](https://qiita.com/tokawa-ms/items/62625c7acc263185f530)
 

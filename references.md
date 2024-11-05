@@ -1,78 +1,10 @@
-## 読んでないもの
-
-[Streamlitのインプットウィジットを使ってみよう](https://welovepython.net/streamlit-input-widget/)
-
-[ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
-
-[Python クラスについて](https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c)
-
-[DockerとVScodeでPython環境構築](https://qiita.com/KiYuRo/items/c016eaf5066c6cedaa11)
-
-[【入門】DockerでPythonを動かす環境構築の手順](https://www.kagoya.jp/howto/cloud/container/dockerpython/)
-
-[【Docker】Pythonプログラムをコンテナ化して実行する](https://www.learning-nao.com/?p=4190)
-
-[【Docker】コンテナにPythonパッケージをインストールする](https://www.learning-nao.com/?p=4200)
-
-[Dockerでのpythonモジュールの管理](https://book-reviews.blog/python-module-management-on-Docker/)
-
-[VScodeでdockerの開発環境(python)を使う。](https://qiita.com/katakaku/items/b8dcac4aa14d585e4038)
-
-[Webアプリケーションの構造を理解し、dockerを用いた開発環境を構築できるようになる（構築編）](https://www.asobou.co.jp/blog/web/docker-construction)
-
-[Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
-
-[社内で使うスライドテンプレをMarpで作ってみた](https://blog.cloudnative.co.jp/13452/)
-
-[Marpで独自CSSを使う方法](https://worklifefun.net/marp-own-css/)
-
-[Marp for VSCodeで独自CSSが効かない場合の対応（marp-cli）](https://worklifefun.net/marpforvscode-own-css-impossible/)
-
-[marp 自作テーマが適用できない人は marp-cli を使えばいいと思う](https://typememo.jp/tech/marp-cli-basic/)
-
-[【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
-
-[Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
-
-[VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜](https://qiita.com/HelloRusk/items/073b58c1605de224e67e)
-
-[VSCodeのおすすめ拡張機能一覧とその使い方](https://qiita.com/bskcorona-github/items/8a25d7905f8020f53071)
-
-[【随時更新】自分用VSCode拡張機能まとめ](https://qiita.com/danishi/items/bfd41b97f3138cc78083)
-
-[知識0の状態からたった2時間でVSCodeの拡張機能を作った話](https://qiita.com/_ken_/items/06161e8d4bac5e0bd209)
-
-[【分野別】VSCodeのおすすめ拡張機能まとめ](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
-
-[VSCode ではじめる GitHub Copilot 活用術](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
-
-[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
-
-[【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
-
-[The Hayagriva YAML File Format](https://github.com/typst/hayagriva/blob/main/docs/file-format.md)
-
-[TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
-
-[「Swift」とは？Appleが開発した新しいプログラミング言語の特徴](https://hnavi.co.jp/knowledge/blog/swift/)
-
-[Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
-
-[PHPとは？特徴や他の言語との違いを解説](https://products.sint.co.jp/topsic/blog/php)
-
-[Go言語とはどんなプログラミング言語？特徴やできることを解説](https://hnavi.co.jp/knowledge/blog/go/)
-
-## 読んだもの
-
-### 使えそうなもの
-
-#### AviUtl
+## AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
 
 [【AviUtl】完成した動画を出力（エンコード）](https://sosakubiyori.com/aviutl-encode/)
 
-#### Bat
+## Bat
 
 [コマンドプロンプト | ファイルの削除(DEL, ERASE)](https://www.javadrive.jp/command/file/index4.html)
 
@@ -88,11 +20,11 @@
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
 
-#### CTF
+## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
 
-#### Docker
+## Docker
 
 [DockerでPython実行環境を作ってみる](https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5)
 
@@ -182,7 +114,17 @@
 
 [【ありがち】存在するはずのスクリプトで "not found" エラーになる！？ #Docker - Qiita](https://qiita.com/tonluqclml/items/56e927d5a5e20ac030f1)
 
-#### GAS
+[MySQL v8.0.30 以降の Docker image で確認される permission error について](https://belonginc.dev/members/mohiro/posts/upgrade-mysql)
+
+[Lima + containerdにおけるEROFS: read-only file system #Docker - Qiita](https://qiita.com/NamedPython/items/5b38e8e79d500aae8819)
+
+[Install GitLab in a Docker container | GitLab](https://docs.gitlab.com/ee/install/docker/installation.html)
+
+[Dockerで自宅GitLab環境構築~GitLab-CIの初歩まで #Docker - Qiita](https://qiita.com/ryuichi1208/items/1c08523b0ef34d05026f)
+
+[Dockerコマンド(確認編) #Docker - Qiita](https://qiita.com/negi524/items/bb7a2f0331b3d74d863b)
+
+## GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
 
@@ -214,7 +156,7 @@
 
 [GASでセルの値を取得、変更、削除 #JavaScript - Qiita](https://qiita.com/Bzbot/items/a1f716adb1742b23b288)
 
-#### Git
+## Git
 
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
 
@@ -262,7 +204,7 @@
 
 [5分でできる！GitHub README プロフィール 💬 #転職 - Qiita](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
 
-#### HTML/CSS
+## HTML/CSS
 
 [【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
 
@@ -336,7 +278,7 @@
 
 [HTMLの共通部分を部品にして使い回す方法](https://wand.witchserver.jp/archives/46)
 
-#### JavaScript
+## JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
 
@@ -352,7 +294,7 @@
 
 [[RESTful API]パスパラメータ、クエリパラメータ、リクエストボディの違いと設計 #JavaScript - Qiita](https://qiita.com/Shokorep/items/b7697a146cbb1c3e9f0b)
 
-#### LaTeX
+## LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
 
@@ -368,7 +310,7 @@
 
 [【LaTeX】箇条書きの方法ついて徹底解説 | 数学の景色](https://mathlandscape.com/latex-enum/)
 
-#### Markdown
+## Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
 
@@ -388,7 +330,7 @@
 
 [VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
 
-#### Python
+## Python
 
 [Streamlit入門 – フォームの使い方](https://data-analytics.fun/2022/07/09/streamlit-form/)
 
@@ -494,15 +436,15 @@
 
 [[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
 
-#### React
+## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
 
-#### Ruby
+## Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
 
-#### Rust
+## Rust
 
 [はじめに｜Rust入門](https://zenn.dev/mebiusbox/books/22d4c1ed9b0003/viewer/6d5875)
 
@@ -510,7 +452,7 @@
 
 [Rustをはじめよう その2(プログラム作成&実行編) | DCS blog](https://blog.dcs.co.jp/rust/20202409-rust-2.html)
 
-#### Server
+## Server
 
 [さくらのVPSでサーバー構築](https://jitaku.work/it/category/server-construction/sakura-construction/)
 
@@ -698,7 +640,15 @@
 
 [GitLabをサーバーから導入してみた #GitLab - Qiita](https://qiita.com/flyaway2525/items/42804ee1ec64a66f4023)
 
-#### SQL
+[chmod コマンド #Terminal - Qiita](https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95)
+
+[ラズベリーパイのIPアドレス固定は、ラズパイ側で設定 "しない" のが推奨らしい #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/3abcc45db6378e7dbb17)
+
+[ラズベリーパイのIPアドレス固定をGUIから設定する #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/15c1e7c1c1ae79f97501)
+
+[ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
+
+## SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
 
@@ -718,11 +668,11 @@
 
 [SQLで最小値を取得するにはMIN関数を使う！条件設定やNULLがある場合は？ | ポテパンスタイル](https://style.potepan.com/articles/26430.html)
 
-[SQLのMAX関数（最大値）・MIN（最小値）の使い方を徹底解説 | Z MARKETING](https://z-marketing.net/sql-max-min/#%E6%9D%A1%E4%BB%B6%E3%82%92%E6%8C%87%E5%AE%9A%E3%81%97%E3%81%A6%E6%9C%80%E5%A4%A7%E5%80%A4%E3%83%BB%E6%9C%80%E5%B0%8F%E5%80%A4%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%EF%BC%88WHERE%E5%8F%A5%EF%BC%89)
+[SQLのMAX関数（最大値）・MIN（最小値）の使い方を徹底解説 | Z MARKETING](https://z-marketing.net/sql-max-min/)
 
 [WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
 
-#### Typst
+## Typst
 
 [Typstの環境構築 Windows編](https://qiita.com/denkiuo604/items/21e8758ab160bf895e34)
 
@@ -734,7 +684,7 @@
 
 [Typstで書く卒論・修論テンプレート](https://zenn.dev/chantakan/articles/ed80950004d145)
 
-#### VSCode
+## VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
 
@@ -744,7 +694,7 @@
 
 [Visual Studio CodeでのSSH接続により、EC2サーバーが高負荷になり動かなくなった](https://tech.excite.co.jp/entry/2022/09/27/153341)
 
-#### Web
+## Web
 
 [PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
 
@@ -764,11 +714,11 @@
 
 [実践：はじめてのWebAPI設計 #Python - Qiita](https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15)
 
-#### VPN
+## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
 
-#### Etc
+## Etc
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
 
@@ -811,3 +761,5 @@
 [PowerPoint（パワポ）における数式入力のメモ #PowerPoint - Qiita](https://qiita.com/ryonkht/items/1e708606622c5d7e827d)
 
 [IPv6アドレスを有効にしたい(Windows 10) | JCOMサポート](https://cs.myjcom.jp/JSS_KnowledgeDetail?an=000004483)
+
+[Shell（シェル）とは？種類や活用方法をご紹介 - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/shell/)

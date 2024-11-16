@@ -20,6 +20,10 @@
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
 
+## Cpp
+
+[max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
+
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
@@ -124,6 +128,18 @@
 
 [Dockerコマンド(確認編) #Docker - Qiita](https://qiita.com/negi524/items/bb7a2f0331b3d74d863b)
 
+[Dockerコンテナの実行ユーザーと権限の関係 #docker-compose - Qiita](https://qiita.com/yitakura731/items/36a2ba117ccbc8792aa7)
+
+[docker-composeでGitLab #docker-compose - Qiita](https://qiita.com/kujiraza/items/f87d2a9fb42ff227d3e6)
+
+[Docker+GitLab #Docker - Qiita](https://qiita.com/marbas666/items/8483b2e751e3f0abe8f3)
+
+[Ubuntu 22.04の環境にDocker Composeでgitlab環境作成](https://zenn.dev/johnkf/scraps/a61aeb4e182535)
+
+[DockerイメージからGitLab環境を構築(GitLab&Runner) #docker-compose - Qiita](https://qiita.com/Nats72/items/ca80b0bfede4d8e10158)
+
+[GitLabをdockerで立てる #Docker - Qiita](https://qiita.com/suzukihi724/items/55de461d8cdfa3459f11)
+
 ## GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -203,6 +219,18 @@
 [【Git入門】ブランチを削除する方法](https://zenn.dev/gachigachi/articles/fe4ba9c69b5de6)
 
 [5分でできる！GitHub README プロフィール 💬 #転職 - Qiita](https://qiita.com/mmnn/items/cf465d271171cba8bd51)
+
+[Githubさん,ごめんなさい！複数リポジトリを一つにまとめる方法 #GitHub - Qiita](https://qiita.com/awakia/items/6233eeac21fb895fa58d)
+
+[【GitLab】git pushできないときの対処方法。[You are not allowed to push code to protected branches on this project.]が発生する。 | 頭脳一式](https://www.zunouissiki.com/entry/2018/12/31/224247/)
+
+[Git ブランチを削除する方法 (ローカル、リモート)](https://www.freecodecamp.org/japanese/news/how-to-delete-a-git-branch-both-locally-and-remotely/)
+
+[【GitLab】不要になったブランチを削除する方法](https://getech-lab.toniemon.com/gitlab-delete-branch/)
+
+[gitlabプロジェクトの不要なプイプラインを削除する方法 #GitLab - Qiita](https://qiita.com/bachng/items/2be8dcaa185cdfb10481)
+
+[【GitLab】”Your pipeline has failed.” エラーを無効にする | The modern stone age.](https://www.yokoweb.net/2019/04/30/gitlab-pipeline-failed/)
 
 ## HTML/CSS
 
@@ -436,6 +464,28 @@
 
 [[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
 
+[画像認識で「綾鷹を選ばせる」AIを作る #Python - Qiita](https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188)
+
+[Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
+
+[【Python入門】メモリの解放や効率的に使う方法をマスターしよう！ | 侍エンジニアブログ](https://www.sejuku.net/blog/74447)
+
+[［解決！Python］整数値（10進数値）を2進数表現に変換するには：解決！Python - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2402/27/news029.html)
+
+[Pythonで小数・整数を四捨五入するroundとDecimal.quantize | note.nkmk.me](https://note.nkmk.me/python-round-decimal-quantize/#_2)
+
+[Pythonで四捨五入する方法 - round関数とdecimalモジュールを使った方法 - TECH PLAY Magazine](https://techplay.jp/column/1885)
+
+[Pythonでのメール送信](https://zenn.dev/shimakaze_soft/articles/9601818a95309c)
+
+[Pythonによるメール配信(SMTPAuthenticationError ) #Python3 - Qiita](https://qiita.com/saito-h/items/a66bf46f4b079385ee33)
+
+[pythonからGmailを送信する際のSMTPAuthenticationErrorを解決する - ハイパー猫背](https://creepfablic.site/2022/06/21/python-gmail-smtpauthenticationerror/#google_vignette)
+
+[Python標準ライブラリのsmtplibでメールを送信する #Python - Qiita](https://qiita.com/Nats72/items/b5ca98c5fe1c41551a8e)
+
+[Pythonにて日付と時刻を扱う方法 #Python - Qiita](https://qiita.com/H_M1978/items/48e762720904abb3b97f)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -648,6 +698,24 @@
 
 [ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
 
+[systemdでユニットファイルを作ってサービス化してみる #初心者 - Qiita](https://qiita.com/miyuki_samitani/items/953140bc3c89f0fb606f)
+
+[systemd のユニットファイルの作り方 | 晴耕雨読](https://tex2e.github.io/blog/linux/create-my-systemd-service)
+
+[systemdの*.serviceファイルの書き方 #Linux - Qiita](https://qiita.com/masami256/items/ef0f23125cf8255e4857)
+
+[systemdで自作サービスを作る時の為のメモ](https://zenn.dev/tantan_tanuki/articles/7e619bd96e5fd9)
+
+[Linuxで独自コマンドを定義する方法 - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/linux/linux-original-command/)
+
+[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
+
+[Linuxでコマンドラインからマシンスペックを確認する方法 #Ubuntu - Qiita](https://qiita.com/DaisukeMiyamoto/items/98ef077ddf44b5727c29)
+
+[Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
+
+[Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
+
 ## SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -672,6 +740,38 @@
 
 [WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
 
+[【初心者向け入門】MySQLの基本操作 #mamp - Qiita](https://qiita.com/ab-boy_ringo/items/2fd8a57fa4b7d1fd6e23)
+
+[MySQLの開発環境を用意しよう（windows） | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-env-win)
+
+[MySQLを利用しようとしたら、【アクセスが拒否されました】とでた #初心者 - Qiita](https://qiita.com/koinunopochi/items/d8eff802a87bfeb948cd)
+
+[MYSQL コマンド #MySQL - Qiita](https://qiita.com/ooyy0121/items/3dfc9796d4bf560093fa)
+
+[MySQL | データベースを削除する(DROP DATABASE文)](https://www.javadrive.jp/mysql/database/index5.html)
+
+[VScode上でDBをGUI操作できるMySQL Shell for VS Codeを使ってみた #VSCode - Qiita](https://qiita.com/shunbaba/items/ea89e7dcf30ae07c6d44)
+
+[VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
+
+[VSCodeから使える超便利なSQLツール “Database Client” – Obenkyolab](https://obenkyolab.com/?p=4818)
+
+[【node.js】MySQL8.0に接続できない。Error: ER_NOT_SUPPORTED_AUTH_MODE - 中堅プログラマーの備忘録](https://www.chuken-engineer.com/entry/2020/09/04/074216)
+
+[Node.js 【MySQL 8.0 に接続できない。】 #Express - Qiita](https://qiita.com/harukin721/items/99c606364a012cceb0d8)
+
+[MySQL導入方法 #MySQL8.0 - Qiita](https://qiita.com/emily-08/items/882f9532989948f1d1d8)
+
+[VSCodeの拡張機能でMySQLに接続する #備忘録 - Qiita](https://qiita.com/keso_keso/items/bff50653b3cb798dc1d7)
+
+[Visual Studio CodeをMySQLツールとして使う #VSCode - Qiita](https://qiita.com/brgd/items/ea571b6f84acadfd962d)
+
+[VS Code上でMySQLを扱いたい | 株式会社ウイングドア](https://wingdoor.co.jp/blog/vs-code%E4%B8%8A%E3%81%A7mysql%E3%82%92%E6%89%B1%E3%81%84%E3%81%9F%E3%81%84/)
+
+[Node.jsでMySQL 8.0へ接続しようとする時に発生するエラー #MySQL8.0 - Qiita](https://qiita.com/monga3/items/6583c07a9b275b469608)
+
+[VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
+
 ## Typst
 
 [Typstの環境構築 Windows編](https://qiita.com/denkiuo604/items/21e8758ab160bf895e34)
@@ -683,6 +783,8 @@
 [さらばTex。Typstの文法全集 〜1. マークアップ編〜](https://zenn.dev/yuhi_ut/articles/how2write-typst1)
 
 [Typstで書く卒論・修論テンプレート](https://zenn.dev/chantakan/articles/ed80950004d145)
+
+[Typstでコードを埋め込むには【codelstパッケージ】 #組版 - Qiita](https://qiita.com/gomazarashi/items/ddef3d0db22a9f1e08ba)
 
 ## VSCode
 
@@ -763,3 +865,11 @@
 [IPv6アドレスを有効にしたい(Windows 10) | JCOMサポート](https://cs.myjcom.jp/JSS_KnowledgeDetail?an=000004483)
 
 [Shell（シェル）とは？種類や活用方法をご紹介 - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/shell/)
+
+[Windowsでsudoしたい #Linuxコマンド - Qiita](https://qiita.com/Kamioda/items/fd56711fe1fd2a0e1bbf)
+
+[URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
+
+[【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
+
+[Pythonでメール(gmail)を送信できない場合の解決法 | goccaの進捗記録](https://www.gocca.work/python-mailerror/)

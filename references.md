@@ -1,3 +1,25 @@
+## API
+
+[TwitterのDMの取得でちょっとハマった話 #初心者 - Qiita](https://qiita.com/kaji-tan/items/ead6ad8b9b809a7be29b)
+
+[Web Audio APIを使って簡単なプレイヤーを作ってみる（1） | GROUP DEV BLOG | TECHNO DIGITAL](https://dtnavi.tcdigital.jp/dev_blog/programming/web-audio-api%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E7%B0%A1%E5%8D%98%E3%81%AA%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6%E3%81%BF%E3%82%8B%EF%BC%881%EF%BC%89/)
+
+[[RESTful API]パスパラメータ、クエリパラメータ、リクエストボディの違いと設計 #JavaScript - Qiita](https://qiita.com/Shokorep/items/b7697a146cbb1c3e9f0b)
+
+[APIを『叩く』ってなんだ #初心者 - Qiita](https://qiita-com.translate.goog/antk/items/d762fdb3695cb85712ad?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
+
+[実践：はじめてのWebAPI設計 #Python - Qiita](https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15)
+
+[X(Twitter)APIで何ができる？できること・導入方法を解説｜デジオデジコ（デジデジ）](https://www.onecruise.co.jp/degiodegiko/twitter-api/)
+
+[【2024年最新版】X（Twitter）のAPIが有料化。新プランの料金や機能、ツールへの影響とは？](https://service.aainc.co.jp/product/echoes/voices/0073)
+
+[【2023年度最新版】Twitter API 取得方法](https://zenn.dev/eito_blog/articles/a982fdb073493a)
+
+[TwitterのDMの取得でちょっとハマった話 #初心者 - Qiita](https://qiita.com/kaji-tan/items/ead6ad8b9b809a7be29b)
+
+[XのAPIエンドポイント完全版（2024年7月時点）｜やかん](https://note.com/novel_donkey2172/n/n0f252efc97af)
+
 ## AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
@@ -19,6 +41,10 @@
 [.bat（バッチファイル）のifコマンド解説。 #Windows - Qiita](https://qiita.com/plcherrim/items/8edf3d3d33a0ae86cb5c)
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
+
+## C
+
+[1. FIRフィルタ](https://tmytokai.github.io/open-ed/activity/d-filter/text02/page01.html)
 
 ## Cpp
 
@@ -140,6 +166,8 @@
 
 [GitLabをdockerで立てる #Docker - Qiita](https://qiita.com/suzukihi724/items/55de461d8cdfa3459f11)
 
+
+
 ## GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -171,6 +199,10 @@
 [【GAS】相対日付の取得方法（明日・昨日・1週間後・1か月後・1年後）](https://tetsuooo.net/gas/2854/)
 
 [GASでセルの値を取得、変更、削除 #JavaScript - Qiita](https://qiita.com/Bzbot/items/a1f716adb1742b23b288)
+
+[Gmailに来たメールをDiscordにBOTとして送信する方法 #GAS - Qiita](https://qiita.com/tnkTaka/items/5bcedceddd276660f863)
+
+[GASとGoogleスプレッドシートを使ってTwitterのDM自動返信botを作成する #GoogleAppsScript - Qiita](https://qiita.com/MokonaSato/items/a0fa8955370e4e3b817b)
 
 ## Git
 
@@ -231,6 +263,10 @@
 [gitlabプロジェクトの不要なプイプラインを削除する方法 #GitLab - Qiita](https://qiita.com/bachng/items/2be8dcaa185cdfb10481)
 
 [【GitLab】”Your pipeline has failed.” エラーを無効にする | The modern stone age.](https://www.yokoweb.net/2019/04/30/gitlab-pipeline-failed/)
+
+[Github Pagesの使い方まとめ #GitHub - Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
+
+[GitLabにSSHで接続するまでの手順 #GitLab - Qiita](https://qiita.com/kyamawaki/items/07fb3332cf3c2f47728a)
 
 ## HTML/CSS
 
@@ -320,7 +356,13 @@
 
 [チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
-[[RESTful API]パスパラメータ、クエリパラメータ、リクエストボディの違いと設計 #JavaScript - Qiita](https://qiita.com/Shokorep/items/b7697a146cbb1c3e9f0b)
+[HTMLファイルのJavaScriptを外部ファイルに切り分ける方法 #JavaScript - Qiita](https://qiita.com/kimascript/items/3e8d2457dd88e315bbea)
+
+[非同期処理「Async/Await」の使い方とメリット #JavaScript - Qiita](https://qiita.com/nakajima417/items/937509491a7033243e86)
+
+[【JavaScript入門】5分で理解！async / awaitの使い方と非同期処理の書き方 | 侍エンジニアブログ](https://www.sejuku.net/blog/69618)
+
+[Web Audio APIでmp3を再生するだけ #JavaScript - Qiita](https://qiita.com/ykob/items/462b558192ab09500bf3)
 
 ## LaTeX
 
@@ -357,6 +399,8 @@
 [【Mermaid】ER図の作成方法 #Markdown - Qiita](https://qiita.com/P-man_Brown/items/33834fe6dd4833dc1809)
 
 [VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
+
+[Markdown記法 チートシート #Qiita - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
 
 ## Python
 
@@ -485,6 +529,22 @@
 [Python標準ライブラリのsmtplibでメールを送信する #Python - Qiita](https://qiita.com/Nats72/items/b5ca98c5fe1c41551a8e)
 
 [Pythonにて日付と時刻を扱う方法 #Python - Qiita](https://qiita.com/H_M1978/items/48e762720904abb3b97f)
+
+[Pythonのasync/awaitを理解したい【asyncio】](https://zenn.dev/iharuoru/articles/45dedf1a1b8352)
+
+[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
+
+[Pythonで非同期処理をするときのasyncioの使い方 | ABC DX Tech Blog](https://tech.asahi.co.jp/posts/20240328-7eb3)
+
+[Pythonの非同期プログラミングを完全理解 #非同期処理 - Qiita](https://qiita.com/kaitolucifer/items/3476158ba5bd8751e022)
+
+[非同期処理をシンプルなPythonコードで説明する #Python - Qiita](https://qiita.com/y_kato_eng/items/ca0de5cf1224c807e7e5)
+
+[Pythonのcalendarでカレンダーを取得・出力（テキスト、HTMLなど） | note.nkmk.me](https://note.nkmk.me/python-calendar-text-html-list/)
+
+[ics形式のカレンダー情報を使って勤務時間を集計することにした #Python - Qiita](https://qiita.com/mix_dvd/items/5843c168af0644541685)
+
+[iCalendarデータの仕様とPythonにおける利用方法 #icalendar - Qiita](https://qiita.com/shi_ma/items/7133cea99fbf1dc5bdc7)
 
 ## React
 
@@ -716,6 +776,16 @@
 
 [Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
 
+[【2023年版】UbuntuのUSBインストールメディアを作成 | RTC-Library-FUKUSHIMA](https://rtc-fukushima.jp/technical/6671/)
+
+[【Linuxコマンド】dateで日付や時刻を取得する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/50053)
+
+[土日で完成！ 趣味のラズパイ　ラズパイをNTPサーバーにする | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230620_ntp_server.html)
+
+[土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
+
+[UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
+
 ## SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -814,8 +884,6 @@
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
-[実践：はじめてのWebAPI設計 #Python - Qiita](https://qiita.com/kazuki_tachikawa/items/7dab01ac2ea08b85fb15)
-
 ## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
@@ -854,8 +922,6 @@
 
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
-[APIを『叩く』ってなんだ #初心者 - Qiita](https://qiita-com.translate.goog/antk/items/d762fdb3695cb85712ad?_x_tr_sl=ja&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=sc)
-
 [Windows 10のデフォルト アプリケーションの変更方法 | Dell 日本](https://www.dell.com/support/kbdoc/ja-jp/000128257/how-to-change-windows-windows-10)
 
 [​パワーポイントでTeXを使う方法（デフォルトで入ってるもの） - とある数物研究者の覚書](https://mathphysnote.com/powerpoint-tex/)
@@ -873,3 +939,7 @@
 [【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
 
 [Pythonでメール(gmail)を送信できない場合の解決法 | goccaの進捗記録](https://www.gocca.work/python-mailerror/)
+
+[「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
+
+[パースとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%83%91%E3%83%BC%E3%82%B9.html)

@@ -170,6 +170,8 @@
 
 [docker logs で表示されるログの保存場所とローテート方法 #Docker - Qiita](https://qiita.com/tily/items/adb433505da6c7812725)
 
+[Ubuntu で Docker のインストール #docker-compose - Qiita](https://qiita.com/tf63/items/c21549ba44224722f301)
+
 ## GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -269,6 +271,8 @@
 [Github Pagesの使い方まとめ #GitHub - Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
 
 [GitLabにSSHで接続するまでの手順 #GitLab - Qiita](https://qiita.com/kyamawaki/items/07fb3332cf3c2f47728a)
+
+[【GitHub】今さら聞けないGitHubグループアカウント作成方法（組織） #GitHub - Qiita](https://qiita.com/c_tomioka/items/a1344a8a0b6d2a507631)
 
 ## HTML/CSS
 
@@ -551,6 +555,10 @@
 [Pythonで多重ループ（ネストしたforループ）からbreak | note.nkmk.me](https://note.nkmk.me/python-break-nested-loops/#3-itertoolsproduct)
 
 [【Python】for文とrange関数で逆順の処理方法＆コード例付きで解説！ - スキルUPの道しるべ](https://torus07.hatenablog.com/entry/python-03)
+
+[【完全】Streamlitのmultiselectの作成方法を解説](https://shoblog.iiyan.net/streamlit-multiselect/)
+
+[【Streamlit】Webに公開する #Python - Qiita](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
 
 ## React
 
@@ -973,3 +981,5 @@
 [プライベートIPアドレス － ＠IT ネットワーク用語事典](https://atmarkit.itmedia.co.jp/aig/06network/privateip.html)
 
 [探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
+
+[PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | docomo business Watch | ドコモビジネス | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)

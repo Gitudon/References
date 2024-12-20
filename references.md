@@ -560,6 +560,8 @@
 
 [【Streamlit】Webに公開する #Python - Qiita](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
 
+[10分で理解する Beautiful Soup #Python - Qiita](https://qiita.com/Chanmoro/items/db51658b073acddea4ac)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -983,3 +985,5 @@
 [探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
 
 [PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | docomo business Watch | ドコモビジネス | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
+
+[はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)

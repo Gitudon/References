@@ -274,6 +274,8 @@
 
 [【GitHub】今さら聞けないGitHubグループアカウント作成方法（組織） #GitHub - Qiita](https://qiita.com/c_tomioka/items/a1344a8a0b6d2a507631)
 
+[リモートから特定のブランチを指定してcloneする #Git - Qiita](https://qiita.com/icoxfog417/items/5776e0f0f758f0f0e48a)
+
 ## HTML/CSS
 
 [【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)

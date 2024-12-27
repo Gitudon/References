@@ -276,6 +276,16 @@
 
 [リモートから特定のブランチを指定してcloneする #Git - Qiita](https://qiita.com/icoxfog417/items/5776e0f0f758f0f0e48a)
 
+[[Git]コミットの取り消し、打ち消し、上書き #GitHub - Qiita](https://qiita.com/shuntaro_tamura/items/06281261d893acf049ed)
+
+[リモートのブランチをローカルに反映する #Git - Qiita](https://qiita.com/takashimelon/items/c1fda14ba09ada9100a6)
+
+[削除されたremoteブランチがローカルのRepoに残っていて、それを削除する方法 #Git - Qiita](https://qiita.com/kony/items/f0fb18b04bd5337132e3)
+
+[remote: Write access to repository not granted.の対処法](https://zenn.dev/napa/articles/163a2f1660639c)
+
+[ブランチ切って更新してマージするまでの流れ #Git - Qiita](https://qiita.com/shuntaro_tamura/items/6c8bf792087fe5dc5103)
+
 ## HTML/CSS
 
 [【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
@@ -350,6 +360,12 @@
 
 [HTMLの共通部分を部品にして使い回す方法](https://wand.witchserver.jp/archives/46)
 
+[CSSでのサイズ指定はどれがいい?「px」「%」「em」「rem」の違い | 侍エンジニアブログ](https://www.sejuku.net/blog/75559)
+
+[【CSS】文字を上下左右中央に配置する方法いろいろ｜（株）くふうしずおか](https://note.com/shizuoka_kufu/n/n4158f5065b77)
+
+[CSSで枠線（ボーダー）をデザインする方法：borderプロパティ | ワードプレステーマTCD](https://tcd-theme.com/2023/08/css-border.html)
+
 ## JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
@@ -371,6 +387,18 @@
 [【JavaScript入門】5分で理解！async / awaitの使い方と非同期処理の書き方 | 侍エンジニアブログ](https://www.sejuku.net/blog/69618)
 
 [Web Audio APIでmp3を再生するだけ #JavaScript - Qiita](https://qiita.com/ykob/items/462b558192ab09500bf3)
+
+[Node.js・npmのインストール方法 #JavaScript - Qiita](https://qiita.com/mk185/items/7ad004bf202f400daea1)
+
+[Windows への Node.js（npm）のインストール #Node.js - Qiita](https://qiita.com/gahoh/items/8444da99a1f93b6493b4)
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Vite.ts（さくっと導入手順）](https://zenn.dev/zakimaz/articles/94f5b67fc7b585)
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Node.jsをインストールする #npm - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
 
 ## LaTeX
 
@@ -409,6 +437,14 @@
 [VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
 
 [Markdown記法 チートシート #Qiita - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+## Network
+
+[Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
+
+[どこへ行っても安心！SSHサーバーを踏み台にしてWebアクセスする方法 | LFI](https://linuxfan.info/ssh-dyamic-forward)
+
+[Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
 
 ## Python
 
@@ -563,6 +599,18 @@
 [【Streamlit】Webに公開する #Python - Qiita](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
 
 [10分で理解する Beautiful Soup #Python - Qiita](https://qiita.com/Chanmoro/items/db51658b073acddea4ac)
+
+[pythonのtry構文について調べてみた #Python - Qiita](https://qiita.com/keishi04hrikzira/items/6c1dc7cb5bc5ce2605f3)
+
+[例外処理（try-except）を活用しよう #Python - Qiita](https://qiita.com/suipy/items/9d02e197df813f3c2fab)
+
+[【Python】例外処理の使い分けについて：raise文、assert文、try-except文](https://zenn.dev/hovinci/articles/3d608096c03811)
+
+[pipでアップデートするときのコマンド pip update #Python - Qiita](https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8)
+
+[Pythonプロジェクトにlinter・formatterを導入してコードの品質を向上させる #Python3 - Qiita](https://qiita.com/ikeike_ryuryu/items/ce92f1a650958b419bbb)
+
+[linter を使ってコードレビューのコストを削減する #Python - Qiita](https://qiita.com/fiftystorm36/items/f8ad30ea5eb92c36a6ed)
 
 ## React
 
@@ -822,6 +870,12 @@
 
 [【Ubuntu 22.04 LTS】固定IPアドレスを設定する方法 - Webdesign&Programming](https://webdesign-programming.com/virtualbox-ubuntu-fixed-ip-address/)
 
+[sedを使ってスペース（空白）をカンマ（,）に変換 | 知識の箱](http://www.rivhiro-weather.com/knowledge/?p=721)
+
+[bashで変数から部分文字列を取得する #Bash - Qiita](https://qiita.com/koara-local/items/04d3efd1031ea62d8db5)
+
+[【Linuxコマンド】sedで文字列を置換する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/54595)
+
 ## SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -877,6 +931,12 @@
 [Node.jsでMySQL 8.0へ接続しようとする時に発生するエラー #MySQL8.0 - Qiita](https://qiita.com/monga3/items/6583c07a9b275b469608)
 
 [VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
+
+## TypeScript
+
+[ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
+
+[viteでReact×TypeScript環境を爆速で作る最小版 #React - Qiita](https://qiita.com/teradonburi/items/fcdd900adb069811bfda)
 
 ## Typst
 
@@ -989,3 +1049,5 @@
 [PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | docomo business Watch | ドコモビジネス | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
 
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
+
+[Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)

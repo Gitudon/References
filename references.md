@@ -286,6 +286,8 @@
 
 [ブランチ切って更新してマージするまでの流れ #Git - Qiita](https://qiita.com/shuntaro_tamura/items/6c8bf792087fe5dc5103)
 
+[GitHub Pages について - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
+
 ## HTML/CSS
 
 [【初心者向け】CSSセレクタとは？セレクタの種類や指定方法を解説！（基礎編）](https://www.asobou.co.jp/blog/web/css-selectors)
@@ -366,6 +368,8 @@
 
 [CSSで枠線（ボーダー）をデザインする方法：borderプロパティ | ワードプレステーマTCD](https://tcd-theme.com/2023/08/css-border.html)
 
+[CSSのリンクの色を変えない方法を現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/21233)
+
 ## JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
@@ -399,6 +403,18 @@
 [Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
 
 [Node.jsをインストールする #npm - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
+
+[Astro + zenn-markdown-htmlで始める個人ブログ](https://zenn.dev/jy8752/articles/0b842e7f380fb8)
+
+[Astroでブログ付きのサイトをざっくり理解して作る #JavaScript - Qiita](https://qiita.com/ysd_marrrr/items/017e41bbc28a02d2f8b8)
+
+[AstroのContent Collectionsでブログをつくる](https://evoworx.dev/blog/hylx27khn/)
+
+[astroでgithub.ioに公開する #GitHubActions - Qiita](https://qiita.com/masaki12-s/items/6b0f5fb3cd551338e741)
+
+[Astroを使って静的サイトを作ってGithub Pagesにデプロイするまで - なんじゃくにっき](https://nanjakkun.hatenablog.jp/entry/2024/04/13/Astro%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6Github_Pages%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%99%E3%82%8B)
+
+[個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
 
 ## LaTeX
 

@@ -628,6 +628,10 @@
 
 [linter を使ってコードレビューのコストを削減する #Python - Qiita](https://qiita.com/fiftystorm36/items/f8ad30ea5eb92c36a6ed)
 
+[Pythonでリストや文字列を逆順に並べ替え（reverse, reversed） | note.nkmk.me](https://note.nkmk.me/python-reverse-reversed/)
+
+[pythonでハミング距離を計算する – Kaggle Note](https://kagglenote.com/misc/hamming-distance/)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -1067,3 +1071,13 @@
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)
+
+[OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
+
+[ブートローダとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15558.html)
+
+[カーネルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15.html)
+
+[シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
+
+[ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)

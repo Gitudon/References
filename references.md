@@ -50,6 +50,8 @@
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
 
+[C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
+
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
@@ -287,6 +289,10 @@
 [ブランチ切って更新してマージするまでの流れ #Git - Qiita](https://qiita.com/shuntaro_tamura/items/6c8bf792087fe5dc5103)
 
 [GitHub Pages について - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
+
+## Go
+
+[SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
 
 ## HTML/CSS
 
@@ -631,6 +637,8 @@
 [Pythonでリストや文字列を逆順に並べ替え（reverse, reversed） | note.nkmk.me](https://note.nkmk.me/python-reverse-reversed/)
 
 [pythonでハミング距離を計算する – Kaggle Note](https://kagglenote.com/misc/hamming-distance/)
+
+[レインボーテーブルを実装してみた - CTFと共に生きる](https://falconctf.hatenablog.com/entry/2019/10/11/082235)
 
 ## React
 
@@ -1081,3 +1089,5 @@
 [シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
 
 [ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
+
+[ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)

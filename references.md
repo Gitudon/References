@@ -52,6 +52,8 @@
 
 [C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
 
+[いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
+
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
@@ -639,6 +641,22 @@
 [pythonでハミング距離を計算する – Kaggle Note](https://kagglenote.com/misc/hamming-distance/)
 
 [レインボーテーブルを実装してみた - CTFと共に生きる](https://falconctf.hatenablog.com/entry/2019/10/11/082235)
+
+[競プロの基本事項確認~累積和といもす法~ #Python - Qiita](https://qiita.com/DaikiSuyama/items/67547e14b47cd6360252)
+
+[Streamlitのボタン（button）の作成方法を徹底解説](https://shoblog.iiyan.net/streamlit-button/)
+
+[Streamlit cloudにAPIキーなどを格納して公開する方法 #Python - Qiita](https://qiita.com/ushi05/items/3e51b218e3e45ef74ff4)
+
+[【Streamlit】HTMLを中央揃えにする](https://zenn.dev/nishikoh/articles/e4abccea0f3693)
+
+[Streamlitで文字色を自由に変えるhtml記法 #Python - Qiita](https://qiita.com/lighlighlighlighlight/items/644e5c916b93605d7b21)
+
+[Streamlitのインプットウィジットを使ってみよう | パイパイの実](https://welovepython.net/streamlit-input-widget/)
+
+[AtCoderの提出コードをGitHubにアップするツールを作りました](https://zenn.dev/kult/articles/344c3af062f593)
+
+[【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】 #login - Qiita](https://qiita.com/syunyo/items/36af8bcb501baf8c7014)
 
 ## React
 

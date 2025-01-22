@@ -46,6 +46,12 @@
 
 [1. FIRフィルタ](https://tmytokai.github.io/open-ed/activity/d-filter/text02/page01.html)
 
+[C言語 構造体と共用体の違い #初心者 - Qiita](https://qiita.com/09slime10/items/a166726e0acfaa0afd69)
+
+[【C言語入門】union(共用体)の使い方 | 侍エンジニアブログ](https://www.sejuku.net/blog/25556)
+
+[文字列をコピーしてポインタを返す_strdup関数 - (void*)Pないと](https://pknight.hatenablog.com/entry/20090712/1247376548)
+
 ## Cpp
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
@@ -377,6 +383,32 @@
 [CSSで枠線（ボーダー）をデザインする方法：borderプロパティ | ワードプレステーマTCD](https://tcd-theme.com/2023/08/css-border.html)
 
 [CSSのリンクの色を変えない方法を現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/21233)
+
+[CSSで上下左右中央寄せにする主要な方法5選 #初心者 - Qiita](https://qiita.com/soraa24926/items/f37ea26270f39ad97bfa)
+
+[超初心者向け　HTMLで要素を横並びにしたい!!　時 #CSS - Qiita](https://qiita.com/tatsukikane/items/819e742103cdc13e08a7)
+
+[外部リンクにアイコンのマーク（Font AwesomeのWEBフォント）を入れる方法 | くまのて](https://kumanote.jp/linkicon/)
+
+[【いまスニ】外部リンクアイコンをCSSだけで一括設置※デモあり※](https://tivel.jp/archives/11174)
+
+[CSSでスクロールバーを表示・非表示にする方法を紹介! - WEBCAMP MEDIA](https://web-camp.io/magazine/archives/89195/)
+
+## Java
+
+[【Java入門】キーボードから入力する(InputStreamReader/Scanner) | 侍エンジニアブログ](https://www.sejuku.net/blog/63188)
+
+[Java | 文字列から指定したインデックスの文字を取得する(String.charAt)](https://www.javadrive.jp/start/string/index5.html)
+
+[【Java】標準入力を取得するコードまとめ #AtCoder - Qiita](https://qiita.com/probabilityhill/items/71d3169bc3654b07e6fa)
+
+[【難易度別】初心者のためのJavaで作れるもの紹介！ | 熱血！ヒートウェー部](https://hwdream.com/java-production/)
+
+[javaで電卓を作る方法の解説（初心者向け）（サンプルコードあり） #Java - Qiita](https://qiita.com/Puroguramingu_Bennkyoutyuu/items/5a6f93a53ba7fffb110f)
+
+[Javaでbooleanの真偽値を反転させる方法 – さいけの技術ブログ](https://saikeblog.com/2019/03/16/java%E3%81%A7boolean%E3%81%AE%E7%9C%9F%E5%81%BD%E5%80%A4%E3%82%92%E5%8F%8D%E8%BB%A2%E3%81%95%E3%81%9B%E3%82%8B%E6%96%B9%E6%B3%95/)
+
+[【Java】containsメソッドで配列(やリスト)で値を検索する方法 #初心者 - Qiita](https://qiita.com/mzmz__02/items/86f58faaf4fdbe373fb1)
 
 ## JavaScript
 
@@ -984,6 +1016,10 @@
 
 [viteでReact×TypeScript環境を爆速で作る最小版 #React - Qiita](https://qiita.com/teradonburi/items/fcdd900adb069811bfda)
 
+[TypeScriptでリンクをカスタマイズしたコンポーネント - 技術ブログ](https://reigle.info/entry/2022/10/13/100000)
+
+[TypeScript+Reactで別ファイルのコンポーネントを呼び出す(転何知人T+Rその3) #React - Qiita](https://qiita.com/botanic7arc/items/4398b2d49ef44f2073d8)
+
 ## Typst
 
 [Typstの環境構築 Windows編](https://qiita.com/denkiuo604/items/21e8758ab160bf895e34)
@@ -997,6 +1033,10 @@
 [Typstで書く卒論・修論テンプレート](https://zenn.dev/chantakan/articles/ed80950004d145)
 
 [Typstでコードを埋め込むには【codelstパッケージ】 #組版 - Qiita](https://qiita.com/gomazarashi/items/ddef3d0db22a9f1e08ba)
+
+[Typst の表 #Typst - Qiita](https://qiita.com/KaoruHosokawa00/items/9692fd6d7990faefa0f8)
+
+[Typst 便利パッケージと使用例の紹介 #Typst - Qiita](https://qiita.com/key_271/items/8629980c4c1ff0e55f41)
 
 ## VSCode
 
@@ -1109,3 +1149,5 @@
 [ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
 
 [ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
+
+[オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)

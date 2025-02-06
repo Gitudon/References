@@ -298,6 +298,12 @@
 
 [GitHub Pages について - GitHub Docs](https://docs.github.com/ja/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)
 
+[3. ブランチをマージする｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/stepup/09/)
+
+[Git ブランチ作成からマージされるまでの流れ #初心者 - Qiita](https://qiita.com/ucan-lab/items/47967757e688e9dc42db)
+
+[【git】リモートのブランチをローカルに取り込む方法](https://zenn.dev/kiko/articles/9689d9bbe032f7)
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -410,6 +416,10 @@
 
 [【Java】containsメソッドで配列(やリスト)で値を検索する方法 #初心者 - Qiita](https://qiita.com/mzmz__02/items/86f58faaf4fdbe373fb1)
 
+[【10分でわかる】Javaにおけるオブジェクト指向を徹底解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/9788?utm_source=blog&utm_medium=blog&utm_campaign=blog_Normal_5973)
+
+[Java | 切り上げ/切捨て/四捨五入を取得する(Math.ceil,Math.floor,Math.round)](https://www.javadrive.jp/start/math/index7.html)
+
 ## JavaScript
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
@@ -456,6 +466,8 @@
 
 [個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
 
+[Chrome拡張でサイトのHTMLを書き換える #JavaScript - Qiita](https://qiita.com/OJII3/items/9a536295abaec4c5f47b)
+
 ## LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -501,6 +513,12 @@
 [どこへ行っても安心！SSHサーバーを踏み台にしてWebアクセスする方法 | LFI](https://linuxfan.info/ssh-dyamic-forward)
 
 [Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
+
+## PHP
+
+[PHPでできることとは？具体例を用いてわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/4064#index_id2)
+
+[PHPを使ったウェブサイトの作り方](https://zenn.dev/ohno/articles/57c37b7356df1b)
 
 ## Python
 
@@ -690,9 +708,39 @@
 
 [【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】 #login - Qiita](https://qiita.com/syunyo/items/36af8bcb501baf8c7014)
 
+[Pythonで競技プログラミング -ライブラリ編- #AtCoder - Qiita](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482)
+
+[Pythonのremove関数の使い方を現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/24319)
+
+[Pythonでリスト（配列）の要素を削除するclear, pop, remove, del | note.nkmk.me](https://note.nkmk.me/python-list-clear-pop-remove-del/)
+
+[Pythonで三角関数を計算（sin, cos, tan, arcsin, arccos, arctan） | note.nkmk.me](https://note.nkmk.me/python-math-sin-cos-tan/)
+
+[Pythonで分数を取り扱う話 #Python - Qiita](https://qiita.com/sakabe/items/0333f06cc6064a70cc93)
+
+[Pythonで階乗、順列・組み合わせを計算、生成 | note.nkmk.me](https://note.nkmk.me/python-math-factorial-permutations-combinations/)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
+
+[Reactコンポーネント間の値の受け渡し #JavaScript - Qiita](https://qiita.com/s_harada/items/bfc9fc61654fe99b9b11)
+
+[コンポーネントの外部にデータを持とう｜ReactのSuspense対応非同期処理を手書きするハンズオン](https://zenn.dev/uhyo/books/react-concurrent-handson/viewer/data-fetching-2)
+
+[Reactのグローバルな状態管理手法を比較する](https://zenn.dev/rerrah/articles/3ef1fbc6f51c1b)
+
+[React における Global state の管理法を比較してみた - コドモン Product Team Blog](https://tech.codmon.com/entry/2023/12/18/100000)
+
+[【React】Global State, Local Stateとは？Recoilを例に使い分けを紹介！](https://zenn.dev/keigo_hirohara/articles/5c3f944f23e19a)
+
+[useDispatch、Providerの役割 - Yanonoblog!](https://outputky.hatenablog.com/entry/2023/06/29/065100)
+
+[ReduxでuseSelectorとuseDispatchを短いコードで覚える | React チュートリアル #redux - Qiita](https://qiita.com/rh_/items/f3ad6037c13b4c9f33e1)
+
+[useStateで配列要素を追加・削除・変更する方法 #JavaScript - Qiita](https://qiita.com/itachi/items/4184b2afc35b55b45568)
+
+[React コンポーネント間でデータ・イベントを受け渡す方法](https://www.freecodecamp.org/japanese/news/pass-data-between-components-in-react/)
 
 ## Ruby
 
@@ -1010,6 +1058,8 @@
 
 [VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
 
+[SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
+
 ## TypeScript
 
 [ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
@@ -1151,3 +1201,5 @@
 [ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
 
 [オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)
+
+[駆け出し学生エンジニアがインターン探しをした時の失敗](https://zenn.dev/somahc/articles/247c0b2b502100)

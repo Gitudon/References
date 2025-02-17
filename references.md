@@ -20,6 +20,10 @@
 
 [XのAPIエンドポイント完全版（2024年7月時点）｜やかん](https://note.com/novel_donkey2172/n/n0f252efc97af)
 
+## Asm
+
+[MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
+
 ## AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
@@ -720,6 +724,14 @@
 
 [Pythonで階乗、順列・組み合わせを計算、生成 | note.nkmk.me](https://note.nkmk.me/python-math-factorial-permutations-combinations/)
 
+[第1回 YouTube Data APIを用いて指定したYoutubeチャンネルの新着動画一覧を取得する #Python - Qiita](https://qiita.com/Shuto050505/items/18e2e63e0046de5c50fd)
+
+[Pythonでメール(gmail)を送信できない場合の解決法 | goccaの進捗記録](https://www.gocca.work/python-mailerror/)
+
+[【Python入門】JSON形式データの扱い方 #Python3 - Qiita](https://qiita.com/Morio/items/7538a939cc441367070d)
+
+[CodeRunnerでpython: command not foundが出る場合 #Python3 - Qiita](https://qiita.com/kurohige113/items/e1b2e66e92c7fa607bff)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -1002,6 +1014,38 @@
 
 [【Linuxコマンド】sedで文字列を置換する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/54595)
 
+[カーネルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15.html)
+
+[シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
+
+[ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
+
+[ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
+
+[第755回　UbuntuにおけるMOTDの仕組みのすべて | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0755)
+
+[Unboundで自宅のLAN内の名前解決がしたい #Linux - Qiita](https://qiita.com/h_tyokinuhata/items/50ac73f3d5f0a88e147f)
+
+[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
+
+[第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
+
+[unbound | 基本設定 | メモ](https://al-batross.net/2020/08/29/unbound-basic-settings/)
+
+[DNSキャッシュサーバ(unbound)が動作しない](https://teratail.com/questions/129307)
+
+[unbound-control(8) | 日本Unboundユーザー会](https://unbound.jp/unbound/unbound-control/)
+
+[Unbound on CentOS7でローカルDNSサーバを構築してみる - ニートのMEMO](https://katoko.hatenablog.com/entry/2018/05/12/121428)
+
+[DNSキャッシュサーバーの構築 – nkmtの日記](https://nkmt.info/infra/dns-server#6)
+
+[俺様サーバー構築記 - LAN内DNSサーバー Unbound @デスクトップパソコン(BIOS) #dns - Qiita](https://qiita.com/katz_engineer/items/b171b84504091c4d734d)
+
+[Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
+
+[自宅サーバー構築譚：LAN内DNSサーバー Unbound・Ubuntu 22.04 #dns - Qiita](https://qiita.com/katz_engineer/items/4e29b954e0290621c1ab#%E3%81%AA%E3%81%9C%E3%81%8B%E4%B8%8A%E6%89%8B%E3%81%8F%E3%81%84%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93)
+
 ## SQL
 
 [【SQL】insertでデータを追加する #SQL - Qiita](https://qiita.com/tasty_uni/items/fb403460984e963ba1ca)
@@ -1146,8 +1190,6 @@
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
 
-[ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
-
 [【実例付】パワポで画像の背景を透明にする方法！基礎から応用まで徹底解説](https://studio.virtual-planner.com/powerpoint-background-transparent/)
 
 [ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
@@ -1170,13 +1212,9 @@
 
 [【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
 
-[Pythonでメール(gmail)を送信できない場合の解決法 | goccaの進捗記録](https://www.gocca.work/python-mailerror/)
-
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
 
 [パースとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%83%91%E3%83%BC%E3%82%B9.html)
-
-[MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
 
 [プライベートIPアドレス － ＠IT ネットワーク用語事典](https://atmarkit.itmedia.co.jp/aig/06network/privateip.html)
 
@@ -1192,14 +1230,14 @@
 
 [ブートローダとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15558.html)
 
-[カーネルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15.html)
-
-[シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
-
-[ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
-
 [ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
 
 [オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)
 
 [駆け出し学生エンジニアがインターン探しをした時の失敗](https://zenn.dev/somahc/articles/247c0b2b502100)
+
+[【YouTube Data API】クォータの使用量はどのように確認する？オーバーするとどうなる？読み取りでの使用量は？](https://division-web.atelier-ss-agency.com/8325/data-usage-on-youtube-data-api/)
+
+[YouTube Data API v3 のクォータ使用量を確認…せざるを得なかった話。 | hiro-lab](https://hiro-lab.net/2022/04/youtube-data-api-v3-%E3%81%AE%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E4%BD%BF%E7%94%A8%E9%87%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%8B%E3%81%A3/)
+
+[家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)

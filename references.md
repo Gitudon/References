@@ -20,6 +20,10 @@
 
 [XのAPIエンドポイント完全版（2024年7月時点）｜やかん](https://note.com/novel_donkey2172/n/n0f252efc97af)
 
+[【YouTube Data API】クォータの使用量はどのように確認する？オーバーするとどうなる？読み取りでの使用量は？](https://division-web.atelier-ss-agency.com/8325/data-usage-on-youtube-data-api/)
+
+[YouTube Data API v3 のクォータ使用量を確認…せざるを得なかった話。 | hiro-lab](https://hiro-lab.net/2022/04/youtube-data-api-v3-%E3%81%AE%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E4%BD%BF%E7%94%A8%E9%87%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%8B%E3%81%A3/)
+
 ## Asm
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
@@ -186,6 +190,20 @@
 
 [Ubuntu で Docker のインストール #docker-compose - Qiita](https://qiita.com/tf63/items/c21549ba44224722f301)
 
+## Electrical Engineering
+
+[【ラズパイ電子工作】7セグメントLEDに数値を表示させる方法 | 電気設計人.com](https://denkisekkeijin.com/raspberrypi/pi-7seg)
+
+[ラズベリーパイで電子工作のはじめ方](https://raspi-school.com/how-to-start-hobby-electronics/)
+
+[7セグで、任意の値を表示させてみた #Python - Qiita](https://qiita.com/umet787X/items/cc2596145f8d02cffd70)
+
+[4桁の7セグをラズパイで動かす #Python - Qiita](https://qiita.com/umet787X/items/517819406e962320fe4d)
+
+[🎙️KY-037音声センサーを使って音を検出する - ⭐｜ラズベリーパイのレシピ](https://zenn.dev/kotaproj/books/raspberrypi-tips/viewer/040_kiso_ky037)
+
+[Raspberry Pi Pico WでTWSNMPシリーズのセンサーを作る練習:アナログの調整と　マルチタスクの回避｜twsnmp](https://note.com/twsnmp/n/n778c1a2c9ce9)
+
 ## GAS
 
 [【コピペでOK！】GASで送信元メールアドレスを変更してメール送信する方法](https://www.yukibnb.com/entry/gas_send_email_from_another_email_address)
@@ -221,6 +239,8 @@
 [Gmailに来たメールをDiscordにBOTとして送信する方法 #GAS - Qiita](https://qiita.com/tnkTaka/items/5bcedceddd276660f863)
 
 [GASとGoogleスプレッドシートを使ってTwitterのDM自動返信botを作成する #GoogleAppsScript - Qiita](https://qiita.com/MokonaSato/items/a0fa8955370e4e3b817b)
+
+[Slack 特定のメッセージにユーザーが自動リアクションする機能をGASで実装する #JavaScript - Qiita](https://qiita.com/Keichan_15/items/355ce2bf271bba4fe0eb)
 
 ## Git
 
@@ -472,6 +492,14 @@
 
 [Chrome拡張でサイトのHTMLを書き換える #JavaScript - Qiita](https://qiita.com/OJII3/items/9a536295abaec4c5f47b)
 
+[そもそもnpmからわからない](https://zenn.dev/antez/articles/a9d9d12178b7b2)
+
+[Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)
+
+[AstroでLuciaを利用して認証設定(username+password) | アールエフェクト](https://reffect.co.jp/astro/astro-lucia#google_vignette)
+
+
+
 ## LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -509,6 +537,14 @@
 [VS CodeでMarkdownをHTMLやPDFに変換するには？](https://atmarkit.itmedia.co.jp/ait/articles/1804/27/news034.html)
 
 [Markdown記法 チートシート #Qiita - Qiita](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+[【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件 #VSCode - Qiita](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
+
+[MarkdownでTable(表テーブル)を書く – NotePM ヘルプセンター](https://help.notepm.jp/hc/ja/articles/17267262392473-Markdown%E3%81%A7Table-%E8%A1%A8%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB-%E3%82%92%E6%9B%B8%E3%81%8F)
+
+[Qiitaのテーブルの書き方についてまとめた #Markdown - Qiita](https://qiita.com/zakuroishikuro/items/f33929eab9d55c5bd073)
+
+[【Markdown】表を作る方法とは？文字の表示位置指定方法も解説！ | 侍エンジニアブログ](https://www.sejuku.net/blog/77323)
 
 ## Network
 
@@ -732,6 +768,22 @@
 
 [CodeRunnerでpython: command not foundが出る場合 #Python3 - Qiita](https://qiita.com/kurohige113/items/e1b2e66e92c7fa607bff)
 
+[Discord のリアクションに反応し通知する Bot #Python - Qiita](https://qiita.com/Erytheia/items/cf447c24538e13994a38)
+
+[Pythonで始める録音機能付きDiscord Bot: (3) Databaseとの連携 #初心者 - Qiita](https://qiita.com/Shirataki2/items/37d48868cd7b999a13b2)
+
+[Python3系でSlack Botの作成〜基礎的な対話を実装する #bot - Qiita](https://qiita.com/_croissant_/items/8d6334b76576762df349)
+
+[Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
+
+[【画像処理】硬貨(コイン)を検出してみよう #Python - Qiita](https://qiita.com/spc_ehara/items/e627f5633d0e9d98a39a)
+
+[未経験者含む高校生で校内のWebアプリを作ろうとしたら失敗した話。 #Python - Qiita](https://qiita.com/harryp0tterK/items/e8de3e1eed654308cd0d)
+
+[matplotlibでグラフを描く #Python - Qiita](https://qiita.com/kira4845/items/9d340d68a0336f954506)
+
+[Pythonで累積和・累積積（itertools.accumulate） | note.nkmk.me](https://note.nkmk.me/python-itertools-accumulate/)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -753,6 +805,8 @@
 [useStateで配列要素を追加・削除・変更する方法 #JavaScript - Qiita](https://qiita.com/itachi/items/4184b2afc35b55b45568)
 
 [React コンポーネント間でデータ・イベントを受け渡す方法](https://www.freecodecamp.org/japanese/news/pass-data-between-components-in-react/)
+
+[【Nodejs入門】初心者でも簡単にReactを始められる導入方法まとめ！ | 侍エンジニアブログ](https://www.sejuku.net/blog/84730)
 
 ## Ruby
 
@@ -1044,7 +1098,15 @@
 
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
-[自宅サーバー構築譚：LAN内DNSサーバー Unbound・Ubuntu 22.04 #dns - Qiita](https://qiita.com/katz_engineer/items/4e29b954e0290621c1ab#%E3%81%AA%E3%81%9C%E3%81%8B%E4%B8%8A%E6%89%8B%E3%81%8F%E3%81%84%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93)
+[自宅サーバー構築譚：LAN内DNSサーバー Unbound・Ubuntu 22.04 #dns - Qiita](https://qiita.com/katz_engineer/items/4e29b954e0290621c1ab)
+
+[nslookupコマンドとは。名前解決の方法や、digとの違いを解説 | Winserverのススメ](https://www.winserver.ne.jp/column/about_nslookup/)
+
+[Proxmoxについて知る #proxmox - Qiita](https://qiita.com/C_Kenta/items/273cf6b5db1a6d9b4873)
+
+[Ubuntu 18.04でUSB無線子機TP-Link TL-WN725Nを使う #Wi-Fi - Qiita](https://qiita.com/fujina_u2/items/af73794d793c2cbd50ac)
+
+[apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
 
 ## SQL
 
@@ -1103,6 +1165,8 @@
 [VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
 
 [SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
+
+[【入門】データベース設計まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
 
 ## TypeScript
 
@@ -1163,6 +1227,8 @@
 ## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
+
+[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
 
 ## Etc
 
@@ -1236,8 +1302,6 @@
 
 [駆け出し学生エンジニアがインターン探しをした時の失敗](https://zenn.dev/somahc/articles/247c0b2b502100)
 
-[【YouTube Data API】クォータの使用量はどのように確認する？オーバーするとどうなる？読み取りでの使用量は？](https://division-web.atelier-ss-agency.com/8325/data-usage-on-youtube-data-api/)
-
-[YouTube Data API v3 のクォータ使用量を確認…せざるを得なかった話。 | hiro-lab](https://hiro-lab.net/2022/04/youtube-data-api-v3-%E3%81%AE%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E4%BD%BF%E7%94%A8%E9%87%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%8B%E3%81%A3/)
-
 [家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
+
+[Slack ボットの作成手順 #備忘録 - Qiita](https://qiita.com/odm_knpr0122/items/04c342ec8d9fe85e0fe9)

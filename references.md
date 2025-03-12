@@ -28,6 +28,24 @@
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
 
+## Astro.js
+
+[Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)
+
+[AstroでLuciaを利用して認証設定(username+password) | アールエフェクト](https://reffect.co.jp/astro/astro-lucia#google_vignette)
+
+[Astro + zenn-markdown-htmlで始める個人ブログ](https://zenn.dev/jy8752/articles/0b842e7f380fb8)
+
+[Astroでブログ付きのサイトをざっくり理解して作る #JavaScript - Qiita](https://qiita.com/ysd_marrrr/items/017e41bbc28a02d2f8b8)
+
+[AstroのContent Collectionsでブログをつくる](https://evoworx.dev/blog/hylx27khn/)
+
+[astroでgithub.ioに公開する #GitHubActions - Qiita](https://qiita.com/masaki12-s/items/6b0f5fb3cd551338e741)
+
+[Astroを使って静的サイトを作ってGithub Pagesにデプロイするまで - なんじゃくにっき](https://nanjakkun.hatenablog.jp/entry/2024/04/13/Astro%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6Github_Pages%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%99%E3%82%8B)
+
+[個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
+
 ## AviUtl
 
 [【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
@@ -328,6 +346,30 @@
 
 [【git】リモートのブランチをローカルに取り込む方法](https://zenn.dev/kiko/articles/9689d9bbe032f7)
 
+[僕のコミットメッセージの prefix メモ](https://ryota2357.com/blog/2025/my-commit-prefix-memo/)
+
+[Git を利用した開発環境・テスト環境・本番環境の構成 | ソフトウェア雑記](https://softwarenote.info/p2066/)
+
+[Gitの基本的運用を模索する #Git - Qiita](https://qiita.com/BlueSilverCat/items/b1de46eb8e673f9eeee1)
+
+[【GitHub】sshでID/Passwordの入力を省略するための一番簡単な手順 #SSH - Qiita](https://qiita.com/kome1996/items/a1335733dd95926c1adb)
+
+[大学の研究室におけるGithubのすゝめ #GitHub - Qiita](https://qiita.com/ryoaki374/items/b2808e6d5dc6efe79b76)
+
+[もう.envファイルを誤爆しない！Git .gitignore の基本と実践 #初心者 - Qiita](https://qiita.com/channnnsm/items/8e92a01c9d653ed396df)
+
+[GitHub本当に何もわからない #GitHub - Qiita](https://qiita.com/jomasato/items/ea621f9acb4f64242ebe)
+
+[GitHub Copilotのプルリクレビューを試してみた #copilot - Qiita](https://qiita.com/parayan0429/items/c65725bcb2910fb8d462)
+
+[⭐個人的 Git 開発フロー #GitHub - Qiita](https://qiita.com/kmatsumoto630823/items/e90d12b4389b97fcbc82)
+
+[Gitの変更を元に戻したい→restoreとcleanコマンド #初心者 - Qiita](https://qiita.com/bearl27/items/c7cbc7c17b633af42120)
+
+[git rebaseを恐れずに! 理解すれば最強のツール #初心者 - Qiita](https://qiita.com/kikudesuyo/items/6d428599d47d81fa684d)
+
+[コミットメッセージのルールについて #Git - Qiita](https://qiita.com/bigkou/items/a888dad21549c75145eb)
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -446,8 +488,6 @@
 
 ## JavaScript
 
-[Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
-
 [【JavaScript】let、const、varの違いと使い分け方法を徹底解説](https://techplay.jp/column/1619)
 
 [ブラウザの拡張機能を自作してみた #JavaScript - Qiita](https://qiita.com/m_hama123/items/aa3101478a8458d61689)
@@ -455,8 +495,6 @@
 [新Edgeの拡張機能の作り方 (コンテキストメニュー編) #JavaScript - Qiita](https://qiita.com/economist/items/7cd5bd01cbe357646c03)
 
 [ブラウザ拡張機能の自作を試してみる - SEワンタンの独学備忘録](https://www.wantanblog.com/entry/2021/02/25/233126)
-
-[チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
 [HTMLファイルのJavaScriptを外部ファイルに切り分ける方法 #JavaScript - Qiita](https://qiita.com/kimascript/items/3e8d2457dd88e315bbea)
 
@@ -466,39 +504,9 @@
 
 [Web Audio APIでmp3を再生するだけ #JavaScript - Qiita](https://qiita.com/ykob/items/462b558192ab09500bf3)
 
-[Node.js・npmのインストール方法 #JavaScript - Qiita](https://qiita.com/mk185/items/7ad004bf202f400daea1)
-
-[Windows への Node.js（npm）のインストール #Node.js - Qiita](https://qiita.com/gahoh/items/8444da99a1f93b6493b4)
-
-[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
-
-[Vite.ts（さくっと導入手順）](https://zenn.dev/zakimaz/articles/94f5b67fc7b585)
-
-[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
-
-[Node.jsをインストールする #npm - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
-
-[Astro + zenn-markdown-htmlで始める個人ブログ](https://zenn.dev/jy8752/articles/0b842e7f380fb8)
-
-[Astroでブログ付きのサイトをざっくり理解して作る #JavaScript - Qiita](https://qiita.com/ysd_marrrr/items/017e41bbc28a02d2f8b8)
-
-[AstroのContent Collectionsでブログをつくる](https://evoworx.dev/blog/hylx27khn/)
-
-[astroでgithub.ioに公開する #GitHubActions - Qiita](https://qiita.com/masaki12-s/items/6b0f5fb3cd551338e741)
-
-[Astroを使って静的サイトを作ってGithub Pagesにデプロイするまで - なんじゃくにっき](https://nanjakkun.hatenablog.jp/entry/2024/04/13/Astro%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6Github_Pages%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%99%E3%82%8B)
-
-[個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
-
 [Chrome拡張でサイトのHTMLを書き換える #JavaScript - Qiita](https://qiita.com/OJII3/items/9a536295abaec4c5f47b)
 
-[そもそもnpmからわからない](https://zenn.dev/antez/articles/a9d9d12178b7b2)
-
-[Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)
-
-[AstroでLuciaを利用して認証設定(username+password) | アールエフェクト](https://reffect.co.jp/astro/astro-lucia#google_vignette)
-
-
+[PythonでもJavascriptでも動く？？？不思議なコード #JavaScript - Qiita](https://qiita.com/Sei2423/items/b68e83d12e0bd10e4b1c)
 
 ## LaTeX
 
@@ -553,6 +561,26 @@
 [どこへ行っても安心！SSHサーバーを踏み台にしてWebアクセスする方法 | LFI](https://linuxfan.info/ssh-dyamic-forward)
 
 [Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
+
+## Nginx
+
+[[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
+
+[NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
+
+## Node.js
+
+[Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
+
+[Node.js・npmのインストール方法 #JavaScript - Qiita](https://qiita.com/mk185/items/7ad004bf202f400daea1)
+
+[Windows への Node.js（npm）のインストール #Node.js - Qiita](https://qiita.com/gahoh/items/8444da99a1f93b6493b4)
+
+[Node.jsをインストールする #npm - Qiita](https://qiita.com/sefoo0104/items/0653c935ea4a4db9dc2b)
+
+[そもそもnpmからわからない](https://zenn.dev/antez/articles/a9d9d12178b7b2)
+
+[Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
 ## PHP
 
@@ -784,6 +812,10 @@
 
 [Pythonで累積和・累積積（itertools.accumulate） | note.nkmk.me](https://note.nkmk.me/python-itertools-accumulate/)
 
+[Discord Bot を複数個起動させる方法（Python） #discord - Qiita](https://qiita.com/rnk0085/items/57a8759ae3bdc4bdcf70)
+
+[Pythonパッケージ開発チュートリアル #GitHub - Qiita](https://qiita.com/Ag_smith/items/bd8b67d4e0c4255ecd09)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -808,9 +840,17 @@
 
 [【Nodejs入門】初心者でも簡単にReactを始められる導入方法まとめ！ | 侍エンジニアブログ](https://www.sejuku.net/blog/84730)
 
+[swcとは](https://zenn.dev/yskn_sid25/scraps/6740e8e9523a4f)
+
+[[React] Reactでポップアップ領域を作成する方法 #React - Qiita](https://qiita.com/moriokatakashir/items/6e909ad12bb399e58fd5)
+
+[チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
+
 ## Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
+
+[【初心者向け🔰】Ruby on Rails チュートリアル 入門（簡単なトップページを作って処理の流れを知る） #Ruby - Qiita](https://qiita.com/to3izo/items/697497daf7c4722e98d3)
 
 ## Rust
 
@@ -915,8 +955,6 @@
 [EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
 
 [ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
-
-[NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
 
 [Linuxのユーザー追加、useraddコマンドの使い方 #CentOS - Qiita](https://qiita.com/yasushi-jp/items/78d5965c1624b1529ff6)
 
@@ -1224,11 +1262,25 @@
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
+## Vite
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Vite.ts（さくっと導入手順）](https://zenn.dev/zakimaz/articles/94f5b67fc7b585)
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Vite + React で新規プロジェクトの開発環境を作ろう | Webクリエイターボックス](https://www.webcreatorbox.com/blog/vite-react)
+
 ## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
 
 [OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
+
+## Vue.js
+
+[Vue.js入門(Vue.jsの初心者は必ず読め‼︎) #Vue.js - Qiita](https://qiita.com/Hashimoto-Noriaki/items/ea60d5932f13a9cd5707)
 
 ## Etc
 
@@ -1305,3 +1357,15 @@
 [家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
 
 [Slack ボットの作成手順 #備忘録 - Qiita](https://qiita.com/odm_knpr0122/items/04c342ec8d9fe85e0fe9)
+
+[システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
+
+[開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
+
+[継続的インテグレーション (CI) とは？](https://circleci.com/ja/continuous-integration/)
+
+[リファクタリングとは？定義やメリット・デメリットを解説](https://products.sint.co.jp/obpm/blog/refactoring)
+
+[テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
+
+[俺が考える最強のITエンジニアキャリア戦略 #キャリア - Qiita](https://qiita.com/papi_tokei/items/11877a857a60965a53fc)

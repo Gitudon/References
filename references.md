@@ -370,6 +370,10 @@
 
 [コミットメッセージのルールについて #Git - Qiita](https://qiita.com/bigkou/items/a888dad21549c75145eb)
 
+[Javaのプロジェクトで使う.gitignore #Git - Qiita](https://qiita.com/tora470/items/d61c3fcb261e48edc996)
+
+[.gitignoreを後から設定し、git管理から除外する方法 #Git - Qiita](https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4)
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -466,6 +470,8 @@
 
 [CSSでスクロールバーを表示・非表示にする方法を紹介! - WEBCAMP MEDIA](https://web-camp.io/magazine/archives/89195/)
 
+[レスポンシブにも対応・CSSでフルスクリーンレイアウト #CSS - Qiita](https://qiita.com/omatsu/items/d90a4aca1ecd93eef679)
+
 ## Java
 
 [【Java入門】キーボードから入力する(InputStreamReader/Scanner) | 侍エンジニアブログ](https://www.sejuku.net/blog/63188)
@@ -507,6 +513,10 @@
 [Chrome拡張でサイトのHTMLを書き換える #JavaScript - Qiita](https://qiita.com/OJII3/items/9a536295abaec4c5f47b)
 
 [PythonでもJavascriptでも動く？？？不思議なコード #JavaScript - Qiita](https://qiita.com/Sei2423/items/b68e83d12e0bd10e4b1c)
+
+[三項演算子の適切な使い方（条件演算子） #JavaScript - Qiita](https://qiita.com/smicle/items/7d3b9881834dc0142fb7)
+
+[JavaScriptでfalseになるもの #JavaScript - Qiita](https://qiita.com/katsuo5/items/ffb8b83c6b8a6dcbd9d6)
 
 ## LaTeX
 
@@ -581,6 +591,8 @@
 [そもそもnpmからわからない](https://zenn.dev/antez/articles/a9d9d12178b7b2)
 
 [Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
+
+[フロントエンド開発の３ステップ（npmことはじめ） #Node.js - Qiita](https://qiita.com/hashrock/items/15f4a4961183cfbb2658)
 
 ## PHP
 
@@ -846,11 +858,21 @@
 
 [チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
+[React / TypeScript の設計前に、改めて命名規則について把握する #React - Qiita](https://qiita.com/shuhosaka/items/4a11158b3e9060d3b612)
+
+[【React】 Context をいつ使うべきか #React - Qiita](https://qiita.com/anneau/items/c20afcb8693260cbb7ba)
+
 ## Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
 
+[【初心者向け🔰】Ruby on Rails チュートリアル 入門（Rails の概要・インストール・環境構築手順） #Ruby - Qiita](https://qiita.com/to3izo/items/5d06243998192513bed9)
+
 [【初心者向け🔰】Ruby on Rails チュートリアル 入門（簡単なトップページを作って処理の流れを知る） #Ruby - Qiita](https://qiita.com/to3izo/items/697497daf7c4722e98d3)
+
+[Ruby on Railsの環境構築をしてみよう！(Windows) | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/rails-env-win)
+
+[Webサービスの認証についてまとめる #JavaScript - Qiita](https://qiita.com/it_tsumugi/items/263aa1f91cc8b05c93b0)
 
 ## Rust
 
@@ -1272,6 +1294,10 @@
 
 [Vite + React で新規プロジェクトの開発環境を作ろう | Webクリエイターボックス](https://www.webcreatorbox.com/blog/vite-react)
 
+[ReactをGitHub Pagesにデプロイしよう〜Vite編〜 #JavaScript - Qiita](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
+
+[Vite+ReactのプロジェクトをGitHub Pagesにデプロイする #vite - Qiita](https://qiita.com/YuDachi/items/3307c0d3139037f67583)
+
 ## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
@@ -1369,3 +1395,5 @@
 [テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
 
 [俺が考える最強のITエンジニアキャリア戦略 #キャリア - Qiita](https://qiita.com/papi_tokei/items/11877a857a60965a53fc)
+
+[1dayインターンと3dayインターンを終えて ##インターン - Qiita](https://qiita.com/hori_hira_yu/items/f66704c3248b3d693cfd)

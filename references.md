@@ -374,6 +374,8 @@
 
 [.gitignoreを後から設定し、git管理から除外する方法 #Git - Qiita](https://qiita.com/yutosa3/items/25ab031c8061e8c9a4c4)
 
+[図解！ Gitのブランチ・ツリーをちゃんと読む #初心者 - Qiita](https://qiita.com/jesus_isao/items/2a0495c973a4c911c2cc)
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -1237,6 +1239,8 @@
 [TypeScriptでリンクをカスタマイズしたコンポーネント - 技術ブログ](https://reigle.info/entry/2022/10/13/100000)
 
 [TypeScript+Reactで別ファイルのコンポーネントを呼び出す(転何知人T+Rその3) #React - Qiita](https://qiita.com/botanic7arc/items/4398b2d49ef44f2073d8)
+
+[TypeScript でWebアプリ開発 #React - Qiita](https://qiita.com/Yasushi-Mo/items/3f6af80b871e2ff22568)
 
 ## Typst
 

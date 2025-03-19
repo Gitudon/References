@@ -78,6 +78,64 @@
 
 [文字列をコピーしてポインタを返す_strdup関数 - (void*)Pないと](https://pknight.hatenablog.com/entry/20090712/1247376548)
 
+## Commands
+
+[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
+
+[Linuxで独自コマンドを定義する方法 - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/linux/linux-original-command/)
+
+[Linuxでコマンドラインからマシンスペックを確認する方法 #Ubuntu - Qiita](https://qiita.com/DaisukeMiyamoto/items/98ef077ddf44b5727c29)
+
+[【Linuxコマンド】dateで日付や時刻を取得する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/50053)
+
+[シンボリックリンクの作成と削除 #Linux - Qiita](https://qiita.com/colorrabbit/items/2e99304bd92201261c60)
+
+[sedを使ってスペース（空白）をカンマ（,）に変換 | 知識の箱](http://www.rivhiro-weather.com/knowledge/?p=721)
+
+[bashで変数から部分文字列を取得する #Bash - Qiita](https://qiita.com/koara-local/items/04d3efd1031ea62d8db5)
+
+[【Linuxコマンド】sedで文字列を置換する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/54595)
+
+[ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
+
+[nslookupコマンドとは。名前解決の方法や、digとの違いを解説 | Winserverのススメ](https://www.winserver.ne.jp/column/about_nslookup/)
+
+[apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
+
+[本当は怖いワイルドカード（「*」）: NECセキュリティブログ | NEC](https://jpn.nec.com/cybersecurity/blog/210903/index.html)
+
+[バイナリレベルでの調査に使用するLinuxコマンドメモ #Linux - Qiita](https://qiita.com/rsooo/items/bb91071685f447ce29db)
+
+[ufw コマンド 覚書 #Linux - Qiita](https://qiita.com/JhonnyBravo/items/f67d34c0ed8f2961919e)
+
+[scpコマンドでディレクトリ（フォルダ）をコピーしました #Linux - Qiita](https://qiita.com/pugiemonn/items/3c80522f477bbbfa1302)
+
+[usermodでグループを追加するのは危険 #Linux - Qiita](https://qiita.com/tk1024/items/16e98031b84a31df469b)
+
+[【 passwd 】 ユーザーのパスワードを変更する | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20060227/230854/)
+
+[Linuxのユーザー追加、useraddコマンドの使い方 #CentOS - Qiita](https://qiita.com/yasushi-jp/items/78d5965c1624b1529ff6)
+
+[nohupコマンドでnohup.outファイルを作成しない - suer TIL](https://atsum.in/linux/no-nohup-log/)
+
+[nohupでコマンド実行時にログ出力をしたくない場合は/dev/nullにリダイレクトすると良い #nohup - Qiita](https://qiita.com/seigot/items/43d005636b056bcf8eef)
+
+[SSH切断後も実行中のタスクを動作継続させる方法 #Linuxコマンド - Qiita](https://qiita.com/bassie/items/524c6931eb1c031aadb0)
+
+[CPU使用率を取得する方法（Linux、vmstatコマンド） #centos8 - Qiita](https://qiita.com/yasushi-jp/items/d821c7d90006671d5d66)
+
+[Linuxコマンド：Linuxをシャットダウン・再起動](https://recoverit.wondershare.jp/other-file-recovery/shut-down-and-restart-linux.html)
+
+[Linuxでファイルを検索する：findとlocateの使い方 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux-ja)
+
+[Linuxでハードウェア情報を表示させる「lshw」コマンドの使い方 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20180305-lshw_howto/)
+
+[Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
+
+[Linuxでプロセスが何のポート使っているかを調べる #port - Qiita](https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3)
+
+[chmod コマンド #Terminal - Qiita](https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95)
+
 ## Cpp
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
@@ -376,6 +434,14 @@
 
 [図解！ Gitのブランチ・ツリーをちゃんと読む #初心者 - Qiita](https://qiita.com/jesus_isao/items/2a0495c973a4c911c2cc)
 
+[gitlabのインストールとアンインストール - 技術メモブログ](https://mtkj.hatenablog.com/entry/2021/11/28/234813)
+
+[【Gitlab】Gitlabサーバーを構築してみた（インストール～初期設定） #GitLab - Qiita](https://qiita.com/rittan_girla/items/8ad9746975ce57b11936)
+
+[GitLabをサーバーから導入してみた #GitLab - Qiita](https://qiita.com/flyaway2525/items/42804ee1ec64a66f4023)
+
+
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -536,6 +602,33 @@
 
 [【LaTeX】箇条書きの方法ついて徹底解説 | 数学の景色](https://mathlandscape.com/latex-enum/)
 
+## Linux
+
+[WSL（Windows Subsystem for Linux）を使ってみた #Python - Qiita](https://qiita.com/Brutus/items/f26af71d3cc6f50d1640)
+
+[バイナリ解析ツール #Security - Qiita](https://qiita.com/Amayarielu/items/8b4b67fea20bd8733730)
+
+[Linuxのネットワーク設定備忘録 #CentOS - Qiita](https://qiita.com/Pochichi/items/68983eeada77ea54206f)
+
+
+[rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
+
+[【Linux初級】WEBサーバー構築手順【Apache】](https://qiita.com/takxxx_infra/items/0b721f05b5f4d2ec5340)
+
+[isi-webnet.co.jp/interdoctor/chotlectur13.htm](http://www.isi-webnet.co.jp/interdoctor/chotlectur13.htm)
+
+[9.6. root パスワードの変更およびリセット | Red Hat Product Documentation](https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/9/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_managing-users-and-groups)
+
+[linuxで「名前解決に一時的に失敗しました」とエラーを吐くときの対処 #Linux - Qiita](https://qiita.com/marienplatz/items/270c59e01cd29e9e1fe0)
+
+[systemdでユニットファイルを作ってサービス化してみる #初心者 - Qiita](https://qiita.com/miyuki_samitani/items/953140bc3c89f0fb606f)
+
+[systemd のユニットファイルの作り方 | 晴耕雨読](https://tex2e.github.io/blog/linux/create-my-systemd-service)
+
+[systemdの*.serviceファイルの書き方 #Linux - Qiita](https://qiita.com/masami256/items/ef0f23125cf8255e4857)
+
+[systemdで自作サービスを作る時の為のメモ](https://zenn.dev/tantan_tanuki/articles/7e619bd96e5fd9)
+
 ## Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -574,6 +667,52 @@
 
 [Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
 
+[EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
+
+[ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
+
+[「pingコマンド」のエラー原因と解決法まとめ #初心者 - Qiita](https://qiita.com/EkaTaro3/items/a111d6cb13e848a4fac1)
+
+[SSHできないときのトラブルシューティング #SSH - Qiita](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[SSHできないときのトラブルシューティング](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[SSHの接続拒否エラーを解決するには](https://kinsta.com/jp/knowledgebase/ssh-connection-refused/)
+
+[SSHサーバへ接続出来ない・遅い時の原因と対処法](https://orebibou.com/ja/home/201412/20141218_001/)
+
+[SSH接続でのタイムアウト対策](https://zenn.dev/syommy_program/articles/c7bd0d0daa156c)
+
+[グローバルIPアドレスとプライベートIPアドレスの違いとは？【初心者向け・図解付】 | 情シスマン](https://www.gate02.ne.jp/media/it/column_98/)
+
+[504（Gateway Timeout）エラー発生時のチェック項目と対処法！ | SEMLabo.](https://www.oro.com/semlabo/198/)
+
+[Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
+
+[Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
+
+[ssh-keygen - マニュアルページセク ション 1: ユーザーコマンド](https://docs.oracle.com/cd/E56342_01/html/E54074/ssh-keygen-1.html)
+
+[SSH鍵の作成方法と -t -C オプションのすすめ #SSH - Qiita](https://qiita.com/ryemug1/items/bacf6e6583656f3cf0d1)
+
+[Netplanの使い方 - komeの備忘録](https://www.komee.org/entry/2018/06/12/181400#%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
+
+[第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
+
+[unbound | 基本設定 | メモ](https://al-batross.net/2020/08/29/unbound-basic-settings/)
+
+[DNSキャッシュサーバ(unbound)が動作しない](https://teratail.com/questions/129307)
+
+[unbound-control(8) | 日本Unboundユーザー会](https://unbound.jp/unbound/unbound-control/)
+
+[Unbound on CentOS7でローカルDNSサーバを構築してみる - ニートのMEMO](https://katoko.hatenablog.com/entry/2018/05/12/121428)
+
+[DNSキャッシュサーバーの構築 – nkmtの日記](https://nkmt.info/infra/dns-server#6)
+
+[俺様サーバー構築記 - LAN内DNSサーバー Unbound @デスクトップパソコン(BIOS) #dns - Qiita](https://qiita.com/katz_engineer/items/b171b84504091c4d734d)
+
+[Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
+
 ## Nginx
 
 [[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
@@ -601,6 +740,10 @@
 [PHPでできることとは？具体例を用いてわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/4064#index_id2)
 
 [PHPを使ったウェブサイトの作り方](https://zenn.dev/ohno/articles/57c37b7356df1b)
+
+## Protocol
+
+[HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)
 
 ## Python
 
@@ -830,6 +973,48 @@
 
 [Pythonパッケージ開発チュートリアル #GitHub - Qiita](https://qiita.com/Ag_smith/items/bd8b67d4e0c4255ecd09)
 
+[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+
+## Raspberry Pi
+
+[Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+
+[Raspberry Piにファイアウォールufwのインストールと設定 | ラズパイダ](https://raspida.com/firewall4raspbian-ufw/)
+
+[RaspberryPiのメモリやCPUを監視する(Monitorix) - Kazushi Motomura](https://motomura-kazushi.net/2021/02/14/raspberrypi%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%84cpu%E3%82%92%E7%9B%A3%E8%A6%96%E3%81%99%E3%82%8Bmonitorix/)
+
+[Raspberry Piのシステムモニタリング #Linux - Qiita](https://qiita.com/ryoma-jp/items/f20616ad75d949d0e360)
+
+[Raspberry Pi に、Chromeをインストールする #RaspberryPi - Qiita](https://qiita.com/ssmrw/items/e52b9bc57243dbc17301)
+
+[raspberry pi への selenium, chromedriver の動作 - リオのブログ](https://inorio.hatenablog.com/entry/2022/02/05/183202)
+
+[RaspberryPi向けOpenCV-Pythonパッケージの最新版ビルドの配布 | Tech Life Hacking](https://www.techlife-hacking.com/?p=2344)
+
+[Raspberry Pi4B WiFi調査メモ #RaspberryPi4 - Qiita](https://qiita.com/god19/items/f21d274b45688d9679fa)
+
+[Raspberry PiのWi-Fi接続が不安定なのをPower Management設定変更で解決した - スズハドットコム](https://suzu-ha.com/entry/2023/12/25/000000)
+
+[Raspberry Pi で WiFi 接続が切れる #RaspberryPi - Qiita](https://qiita.com/nanbuwks/items/a06c6c17ecbc3fc5ac79)
+
+[Raspberry Pi で DNS サーバを指定する #RaspberryPi - Qiita](https://qiita.com/ikai/items/62e49385a1e3e7c953ad)
+
+[ラズパイのネット接続エラー「名前解決に一時的に失敗しました」で確認したいresolv.conf | ラズパイダ](https://raspida.com/name-servers-error/)
+
+[ラズパイで複数のネットワーク設定をする #Linux - Qiita](https://qiita.com/hxbdy625/items/374394f3dff17bdaf843)
+
+[Raspberry pi zero w でwifiが繋がらずハマった話](https://zenn.dev/funnythingz/articles/059747fe690c36)
+
+[ラズベリーパイのIPアドレス固定は、ラズパイ側で設定 "しない" のが推奨らしい #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/3abcc45db6378e7dbb17)
+
+[ラズベリーパイのIPアドレス固定をGUIから設定する #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/15c1e7c1c1ae79f97501)
+
+[ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
+
+[土日で完成！ 趣味のラズパイ　ラズパイをNTPサーバーにする | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230620_ntp_server.html)
+
+[土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
+
 ## React
 
 [【入門編】React Nativeとは？メリット・デメリットからHello, Worldまで｜Udemy メディア](https://udemy.benesse.co.jp/development/app/react-native.html)
@@ -890,65 +1075,13 @@
 
 [【初心者】ホームページ公開までの流れを説明します](https://rs.sakura.ad.jp/column/rs/homepage-release-flow/?gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiT4pow93xL9tSSlcA347FjpJP2N-sctlQ6pVPtIMjltA4KrdG06sixoC92UQAvD_BwE)
 
-[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
-
 [コンソール](https://manual.sakura.ad.jp/vps/server/console.html)
-
-[SSHできないときのトラブルシューティング](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
-
-[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
-
-[Apache2 の ssi 有効化](https://qiita.com/ekzemplaro/items/ba87d475b11262e62358)
-
-[バイナリレベルでの調査に使用するLinuxコマンドメモ #Linux - Qiita](https://qiita.com/rsooo/items/bb91071685f447ce29db)
-
-[バイナリ解析ツール #Security - Qiita](https://qiita.com/Amayarielu/items/8b4b67fea20bd8733730)
-
-[Linuxのネットワーク設定備忘録 #CentOS - Qiita](https://qiita.com/Pochichi/items/68983eeada77ea54206f)
-
-[【入門】UbuntuにDockerをインストールする - カゴヤのサーバー研究室](https://www.kagoya.jp/howto/cloud/container/dockerubuntu/)
-
-[ufw コマンド 覚書 #Linux - Qiita](https://qiita.com/JhonnyBravo/items/f67d34c0ed8f2961919e)
-
-[UbuntuにGitをインストールする #Git - Qiita](https://qiita.com/tommy_g/items/771ac45b89b02e8a5d64)
-
-[Snapパッケージとは | Ubuntuまちがいさがし](https://ito32bit.github.io/blog/2019/snap-package/)
-
-[ubuntu ユーザを追加して sudo 権限をつける #Ubuntu - Qiita](https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa)
-
-[scpコマンドでディレクトリ（フォルダ）をコピーしました #Linux - Qiita](https://qiita.com/pugiemonn/items/3c80522f477bbbfa1302)
-
-[【2023年4月版】Ubuntu に node.js と npm を入れたい（バージョン管理も） #Node.js - Qiita](https://qiita.com/nouernet/items/d6ad4d5f4f08857644de)
-
-[usermodでグループを追加するのは危険 #Linux - Qiita](https://qiita.com/tk1024/items/16e98031b84a31df469b)
-
-[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
-
-[Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
-
-[rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
-
-[windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
-
-[HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)
-
-[VirtualBoxの仮想マシン一覧を確認する #VirtualBox - Qiita](https://qiita.com/reflet/items/63a6ca8fd5dd4708ee94)
-
-[仮想マシン (VM) とは | 用語集 | HPE 日本](https://www.hpe.com/jp/ja/what-is/virtual-machine.html)
-
-[Raspberry Piにファイアウォールufwのインストールと設定 | ラズパイダ](https://raspida.com/firewall4raspbian-ufw/)
-
-[【 passwd 】 ユーザーのパスワードを変更する | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20060227/230854/)
-
-[SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
 
 [さくらのVPSでメールサーバを構築](https://hachiilcane.hatenablog.com/entry/2020/05/01/225050)
 
 [さくらのVPSでメールサーバー構築](https://www.aiik.net/2020/04/13/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AEvps%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89/)
 
-[Ubunt20.04/Apacheの無料SSL設定](https://sumire-server.blog.jp/archives/13072494.html)
-
-[さくらのVPS（Ubuntu20.04）にApacheをインストール](https://sumire-server.blog.jp/archives/14443424.html)
+[VirtualBoxの仮想マシン一覧を確認する #VirtualBox - Qiita](https://qiita.com/reflet/items/63a6ca8fd5dd4708ee94)
 
 [さくらVPSにSSL証明書を導入しHTTPS通信の構築](https://qiita.com/yoshizaki_91/items/e6f39a5bfb99900b44b2)
 
@@ -958,16 +1091,6 @@
 
 [VPSへのアクセスが切れてしまった](https://manual.sakura.ad.jp/vps/troubleshoot/timeout.html)
 
-[SSHの接続拒否エラーを解決するには](https://kinsta.com/jp/knowledgebase/ssh-connection-refused/)
-
-[SSHサーバへ接続出来ない・遅い時の原因と対処法](https://orebibou.com/ja/home/201412/20141218_001/)
-
-[SSH接続でのタイムアウト対策](https://zenn.dev/syommy_program/articles/c7bd0d0daa156c)
-
-[UbuntuとApacheでのWebサーバー構築方法【初心者向け】](https://www.miraiserver.ne.jp/column/about_centos-apache/)
-
-[【Linux初級】WEBサーバー構築手順【Apache】](https://qiita.com/takxxx_infra/items/0b721f05b5f4d2ec5340)
-
 [ネコでもわかる！さくらのVPS講座 ～第三回「Apacheをインストールしよう」](https://knowledge.sakura.ad.jp/8541/)
 
 [さくらVPSでWebサーバを稼働させる](https://qiita.com/medalotte/items/46fe4e9d25e6dff24d25)
@@ -976,199 +1099,17 @@
 
 [「サーバーをさわってみよう！」～初心者でもよくわかる！VPSによるWebサーバー構築講座(2)](https://knowledge.sakura.ad.jp/2751/)
 
-[EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
-
-[ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
-
-[Linuxのユーザー追加、useraddコマンドの使い方 #CentOS - Qiita](https://qiita.com/yasushi-jp/items/78d5965c1624b1529ff6)
-
-[isi-webnet.co.jp/interdoctor/chotlectur13.htm](http://www.isi-webnet.co.jp/interdoctor/chotlectur13.htm)
-
-[nohupコマンドでnohup.outファイルを作成しない - suer TIL](https://atsum.in/linux/no-nohup-log/)
-
-[nohupでコマンド実行時にログ出力をしたくない場合は/dev/nullにリダイレクトすると良い #nohup - Qiita](https://qiita.com/seigot/items/43d005636b056bcf8eef)
-
-[SSH切断後も実行中のタスクを動作継続させる方法 #Linuxコマンド - Qiita](https://qiita.com/bassie/items/524c6931eb1c031aadb0)
-
-[RaspberryPiのメモリやCPUを監視する(Monitorix) - Kazushi Motomura](https://motomura-kazushi.net/2021/02/14/raspberrypi%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%84cpu%E3%82%92%E7%9B%A3%E8%A6%96%E3%81%99%E3%82%8Bmonitorix/)
-
-[Raspberry Piのシステムモニタリング #Linux - Qiita](https://qiita.com/ryoma-jp/items/f20616ad75d949d0e360)
-
-[CPU使用率を取得する方法（Linux、vmstatコマンド） #centos8 - Qiita](https://qiita.com/yasushi-jp/items/d821c7d90006671d5d66)
-
-[Raspberry Pi に、Chromeをインストールする #RaspberryPi - Qiita](https://qiita.com/ssmrw/items/e52b9bc57243dbc17301)
-
-[raspberry pi への selenium, chromedriver の動作 - リオのブログ](https://inorio.hatenablog.com/entry/2022/02/05/183202)
-
-[Python+selenumでchromeを動かすまで（Ubuntu）](https://zenn.dev/honehone/articles/482f9a3b5ca481#chrome%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
-
-[RaspberryPi向けOpenCV-Pythonパッケージの最新版ビルドの配布 | Tech Life Hacking](https://www.techlife-hacking.com/?p=2344)
-
-[Linuxコマンド：Linuxをシャットダウン・再起動](https://recoverit.wondershare.jp/other-file-recovery/shut-down-and-restart-linux.html)
-
-[ubuntu 24.04 LTSで自宅サーバー構築（NetDataの設定） #Linux - Qiita](https://qiita.com/sqoot610/items/1b72f6f3c8331b609ab6)
-
-[「pingコマンド」のエラー原因と解決法まとめ #初心者 - Qiita](https://qiita.com/EkaTaro3/items/a111d6cb13e848a4fac1)
-
-[SSHできないときのトラブルシューティング #SSH - Qiita](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
-
 [Netdata でモニタリングスタックを構築してみた #devops - Qiita](https://qiita.com/navitime_tech/items/669327580c91970aefae)
-
-[Ubuntu 22.04 LTS : ホスト名を設定する : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=hostname)
 
 [手軽なメトリクス視覚化ツールを探して (Netdata, Prometheus, Telegraf) #prometheus - Qiita](https://qiita.com/kikuchi_kentaro/items/8ab93b73012ee8aea717)
 
-[Ubuntu 22.04 : NetData 設定 : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=netdata&f=1)
-
 [NetDataのこと - naoki86star](https://blog.balus.xyz/entry/2019/06/23/181746)
-
-[ubuntu apt 初心者の備忘録 #Ubuntu - Qiita](https://qiita.com/betweens/items/cd0df0624157cff38edc)
 
 [Uninstall failed - Help - Netdata Community Forums](https://community.netdata.cloud/t/uninstall-failed/3586)
 
-[本当は怖いワイルドカード（「*」）: NECセキュリティブログ | NEC](https://jpn.nec.com/cybersecurity/blog/210903/index.html)
-
-[【Netdata】Ubuntu 18.04上にインストールした時のメモ - とーますメモ](https://thoames.hatenadiary.jp/entry/2020/04/30/003034)
-
 [NetData after fresh install: CONFIG: cannot load cloud config - Troubleshooting - DietPi Community Forum](https://dietpi.com/forum/t/netdata-after-fresh-install-config-cannot-load-cloud-config/18374)
 
-[Linuxでファイルを検索する：findとlocateの使い方 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-find-and-locate-to-search-for-files-on-linux-ja)
-
-[Linuxでハードウェア情報を表示させる「lshw」コマンドの使い方 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20180305-lshw_howto/)
-
-[Raspberry Pi4B WiFi調査メモ #RaspberryPi4 - Qiita](https://qiita.com/god19/items/f21d274b45688d9679fa)
-
-[Raspberry PiのWi-Fi接続が不安定なのをPower Management設定変更で解決した - スズハドットコム](https://suzu-ha.com/entry/2023/12/25/000000)
-
-[Raspberry Pi で WiFi 接続が切れる #RaspberryPi - Qiita](https://qiita.com/nanbuwks/items/a06c6c17ecbc3fc5ac79)
-
-[9.6. root パスワードの変更およびリセット | Red Hat Product Documentation](https://docs.redhat.com/ja/documentation/red_hat_enterprise_linux/9/html/configuring_basic_system_settings/changing-and-resetting-the-root-password-from-the-command-line_managing-users-and-groups)
-
-[グローバルIPアドレスとプライベートIPアドレスの違いとは？【初心者向け・図解付】 | 情シスマン](https://www.gate02.ne.jp/media/it/column_98/)
-
-[Raspberry Pi で DNS サーバを指定する #RaspberryPi - Qiita](https://qiita.com/ikai/items/62e49385a1e3e7c953ad)
-
-[ラズパイのネット接続エラー「名前解決に一時的に失敗しました」で確認したいresolv.conf | ラズパイダ](https://raspida.com/name-servers-error/)
-
-[504（Gateway Timeout）エラー発生時のチェック項目と対処法！ | SEMLabo.](https://www.oro.com/semlabo/198/)
-
-[linuxで「名前解決に一時的に失敗しました」とエラーを吐くときの対処 #Linux - Qiita](https://qiita.com/marienplatz/items/270c59e01cd29e9e1fe0)
-
-[ラズパイで複数のネットワーク設定をする #Linux - Qiita](https://qiita.com/hxbdy625/items/374394f3dff17bdaf843)
-
-[Raspberry pi zero w でwifiが繋がらずハマった話](https://zenn.dev/funnythingz/articles/059747fe690c36)
-
-[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
-
-[Linuxサーバの状態確認でよく使うコマンド](https://qiita.com/shira14/items/ad6ea23dd64c91c31636)
-
-[Linuxでプロセスが何のポート使っているかを調べる #port - Qiita](https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3)
-
-[gitlabのインストールとアンインストール - 技術メモブログ](https://mtkj.hatenablog.com/entry/2021/11/28/234813)
-
-[【Gitlab】Gitlabサーバーを構築してみた（インストール～初期設定） #GitLab - Qiita](https://qiita.com/rittan_girla/items/8ad9746975ce57b11936)
-
-[GitLabをサーバーから導入してみた #GitLab - Qiita](https://qiita.com/flyaway2525/items/42804ee1ec64a66f4023)
-
-[chmod コマンド #Terminal - Qiita](https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95)
-
-[ラズベリーパイのIPアドレス固定は、ラズパイ側で設定 "しない" のが推奨らしい #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/3abcc45db6378e7dbb17)
-
-[ラズベリーパイのIPアドレス固定をGUIから設定する #RaspberryPi - Qiita](https://qiita.com/mochi_2225/items/15c1e7c1c1ae79f97501)
-
-[ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
-
-[systemdでユニットファイルを作ってサービス化してみる #初心者 - Qiita](https://qiita.com/miyuki_samitani/items/953140bc3c89f0fb606f)
-
-[systemd のユニットファイルの作り方 | 晴耕雨読](https://tex2e.github.io/blog/linux/create-my-systemd-service)
-
-[systemdの*.serviceファイルの書き方 #Linux - Qiita](https://qiita.com/masami256/items/ef0f23125cf8255e4857)
-
-[systemdで自作サービスを作る時の為のメモ](https://zenn.dev/tantan_tanuki/articles/7e619bd96e5fd9)
-
-[Linuxで独自コマンドを定義する方法 - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/linux/linux-original-command/)
-
-[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
-
-[Linuxでコマンドラインからマシンスペックを確認する方法 #Ubuntu - Qiita](https://qiita.com/DaisukeMiyamoto/items/98ef077ddf44b5727c29)
-
-[Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
-
-[Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
-
-[【2023年版】UbuntuのUSBインストールメディアを作成 | RTC-Library-FUKUSHIMA](https://rtc-fukushima.jp/technical/6671/)
-
-[【Linuxコマンド】dateで日付や時刻を取得する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/50053)
-
-[土日で完成！ 趣味のラズパイ　ラズパイをNTPサーバーにする | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230620_ntp_server.html)
-
-[土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
-
-[UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
-
-[シンボリックリンクの作成と削除 #Linux - Qiita](https://qiita.com/colorrabbit/items/2e99304bd92201261c60)
-
-[ssh-keygen - マニュアルページセク ション 1: ユーザーコマンド](https://docs.oracle.com/cd/E56342_01/html/E54074/ssh-keygen-1.html)
-
-[SSH鍵の作成方法と -t -C オプションのすすめ #SSH - Qiita](https://qiita.com/ryemug1/items/bacf6e6583656f3cf0d1)
-
-[Ubuntu の IP アドレスを固定する３｜荒川仁志](https://note.com/hitoshiarakawa/n/n3a197f545196)
-
-[Ubuntu 22.04 LTSで固定IPアドレスの設定 #Linux - Qiita](https://qiita.com/zen3/items/757f96cbe522a9ad397d)
-
-[Netplanの使い方 - komeの備忘録](https://www.komee.org/entry/2018/06/12/181400#%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
-
-[[Netplan] Wi-Fi接続と固定IPの設定をする [Ubuntu 22.04 LTS] | Mulong.me](https://www.mulong.me/tech/linux/netplan-wifi-static-ip-ubuntu/)
-
-[Ubuntu 22.04 LTS Server + VirtualBox 備忘録 #Ubuntu22.04 - Qiita](https://qiita.com/propella/items/3736078d9028383b1b13)
-
-[【Ubuntu 22.04 LTS】固定IPアドレスを設定する方法 - Webdesign&Programming](https://webdesign-programming.com/virtualbox-ubuntu-fixed-ip-address/)
-
-[sedを使ってスペース（空白）をカンマ（,）に変換 | 知識の箱](http://www.rivhiro-weather.com/knowledge/?p=721)
-
-[bashで変数から部分文字列を取得する #Bash - Qiita](https://qiita.com/koara-local/items/04d3efd1031ea62d8db5)
-
-[【Linuxコマンド】sedで文字列を置換する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/54595)
-
-[カーネルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15.html)
-
-[シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
-
-[ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
-
-[ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
-
-[第755回　UbuntuにおけるMOTDの仕組みのすべて | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0755)
-
-[Unboundで自宅のLAN内の名前解決がしたい #Linux - Qiita](https://qiita.com/h_tyokinuhata/items/50ac73f3d5f0a88e147f)
-
-[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
-
-[第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
-
-[unbound | 基本設定 | メモ](https://al-batross.net/2020/08/29/unbound-basic-settings/)
-
-[DNSキャッシュサーバ(unbound)が動作しない](https://teratail.com/questions/129307)
-
-[unbound-control(8) | 日本Unboundユーザー会](https://unbound.jp/unbound/unbound-control/)
-
-[Unbound on CentOS7でローカルDNSサーバを構築してみる - ニートのMEMO](https://katoko.hatenablog.com/entry/2018/05/12/121428)
-
-[DNSキャッシュサーバーの構築 – nkmtの日記](https://nkmt.info/infra/dns-server#6)
-
-[俺様サーバー構築記 - LAN内DNSサーバー Unbound @デスクトップパソコン(BIOS) #dns - Qiita](https://qiita.com/katz_engineer/items/b171b84504091c4d734d)
-
-[Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
-
-[自宅サーバー構築譚：LAN内DNSサーバー Unbound・Ubuntu 22.04 #dns - Qiita](https://qiita.com/katz_engineer/items/4e29b954e0290621c1ab)
-
-[nslookupコマンドとは。名前解決の方法や、digとの違いを解説 | Winserverのススメ](https://www.winserver.ne.jp/column/about_nslookup/)
-
 [Proxmoxについて知る #proxmox - Qiita](https://qiita.com/C_Kenta/items/273cf6b5db1a6d9b4873)
-
-[Ubuntu 18.04でUSB無線子機TP-Link TL-WN725Nを使う #Wi-Fi - Qiita](https://qiita.com/fujina_u2/items/af73794d793c2cbd50ac)
-
-[apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
 
 ## SQL
 
@@ -1260,6 +1201,68 @@
 
 [Typst 便利パッケージと使用例の紹介 #Typst - Qiita](https://qiita.com/key_271/items/8629980c4c1ff0e55f41)
 
+## Ubuntu
+
+[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
+
+[Ubuntu、Apacheを用いて自宅webサーバー構築](https://qiita.com/m-m-mame/items/a8ca30058e7a2a9a24f1)
+
+[Apache2 の ssi 有効化](https://qiita.com/ekzemplaro/items/ba87d475b11262e62358)
+
+[【入門】UbuntuにDockerをインストールする - カゴヤのサーバー研究室](https://www.kagoya.jp/howto/cloud/container/dockerubuntu/)
+
+[UbuntuにGitをインストールする #Git - Qiita](https://qiita.com/tommy_g/items/771ac45b89b02e8a5d64)
+
+[Snapパッケージとは | Ubuntuまちがいさがし](https://ito32bit.github.io/blog/2019/snap-package/)
+
+[ubuntu ユーザを追加して sudo 権限をつける #Ubuntu - Qiita](https://qiita.com/white_aspara25/items/c1b9d02310b4731bfbaa)
+
+[【2023年4月版】Ubuntu に node.js と npm を入れたい（バージョン管理も） #Node.js - Qiita](https://qiita.com/nouernet/items/d6ad4d5f4f08857644de)
+
+[SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
+
+[Ubunt20.04/Apacheの無料SSL設定](https://sumire-server.blog.jp/archives/13072494.html)
+
+[さくらのVPS（Ubuntu20.04）にApacheをインストール](https://sumire-server.blog.jp/archives/14443424.html)
+
+[UbuntuとApacheでのWebサーバー構築方法【初心者向け】](https://www.miraiserver.ne.jp/column/about_centos-apache/)
+
+[Python+selenumでchromeを動かすまで（Ubuntu）](https://zenn.dev/honehone/articles/482f9a3b5ca481#chrome%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+
+[ubuntu 24.04 LTSで自宅サーバー構築（NetDataの設定） #Linux - Qiita](https://qiita.com/sqoot610/items/1b72f6f3c8331b609ab6)
+
+[Ubuntu 22.04 LTS : ホスト名を設定する : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=hostname)
+
+[Ubuntu 22.04 : NetData 設定 : Server World](https://www.server-world.info/query?os=Ubuntu_22.04&p=netdata&f=1)
+
+[ubuntu apt 初心者の備忘録 #Ubuntu - Qiita](https://qiita.com/betweens/items/cd0df0624157cff38edc)
+
+[【Netdata】Ubuntu 18.04上にインストールした時のメモ - とーますメモ](https://thoames.hatenadiary.jp/entry/2020/04/30/003034)
+
+[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
+
+[【2023年版】UbuntuのUSBインストールメディアを作成 | RTC-Library-FUKUSHIMA](https://rtc-fukushima.jp/technical/6671/)
+
+[UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
+
+[Ubuntu の IP アドレスを固定する３｜荒川仁志](https://note.com/hitoshiarakawa/n/n3a197f545196)
+
+[Ubuntu 22.04 LTSで固定IPアドレスの設定 #Linux - Qiita](https://qiita.com/zen3/items/757f96cbe522a9ad397d)
+
+[[Netplan] Wi-Fi接続と固定IPの設定をする [Ubuntu 22.04 LTS] | Mulong.me](https://www.mulong.me/tech/linux/netplan-wifi-static-ip-ubuntu/)
+
+[Ubuntu 22.04 LTS Server + VirtualBox 備忘録 #Ubuntu22.04 - Qiita](https://qiita.com/propella/items/3736078d9028383b1b13)
+
+[【Ubuntu 22.04 LTS】固定IPアドレスを設定する方法 - Webdesign&Programming](https://webdesign-programming.com/virtualbox-ubuntu-fixed-ip-address/)
+
+[第755回　UbuntuにおけるMOTDの仕組みのすべて | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0755)
+
+[Unboundで自宅のLAN内の名前解決がしたい #Linux - Qiita](https://qiita.com/h_tyokinuhata/items/50ac73f3d5f0a88e147f)
+
+[自宅サーバー構築譚：LAN内DNSサーバー Unbound・Ubuntu 22.04 #dns - Qiita](https://qiita.com/katz_engineer/items/4e29b954e0290621c1ab)
+
+[Ubuntu 18.04でUSB無線子機TP-Link TL-WN725Nを使う #Wi-Fi - Qiita](https://qiita.com/fujina_u2/items/af73794d793c2cbd50ac)
+
 ## VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -1287,6 +1290,30 @@
 [stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
+
+## Windows
+
+[デスクトップの背景をモニターごとに別々の画像で設定 - パソコントラブルＱ＆Ａ](https://www.724685.com/weekly/qa220803.htm)
+
+[windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+
+## Words
+
+[仮想マシン (VM) とは | 用語集 | HPE 日本](https://www.hpe.com/jp/ja/what-is/virtual-machine.html)
+
+[パースとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%83%91%E3%83%BC%E3%82%B9.html)
+
+[プライベートIPアドレス － ＠IT ネットワーク用語事典](https://atmarkit.itmedia.co.jp/aig/06network/privateip.html)
+
+[PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | docomo business Watch | ドコモビジネス | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
+
+[ブートローダとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15558.html)
+
+[カーネルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15.html)
+
+[シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
+
+[ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
 
 ## Vite
 
@@ -1362,13 +1389,11 @@
 
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
 
-[パースとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%83%91%E3%83%BC%E3%82%B9.html)
 
-[プライベートIPアドレス － ＠IT ネットワーク用語事典](https://atmarkit.itmedia.co.jp/aig/06network/privateip.html)
+
+
 
 [探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
-
-[PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | docomo business Watch | ドコモビジネス | NTTコミュニケーションズ 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
 
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
@@ -1376,7 +1401,7 @@
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
 
-[ブートローダとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word15558.html)
+
 
 [ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
 

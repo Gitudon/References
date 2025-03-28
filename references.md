@@ -440,7 +440,7 @@
 
 [GitLabをサーバーから導入してみた #GitLab - Qiita](https://qiita.com/flyaway2525/items/42804ee1ec64a66f4023)
 
-
+[Git ブランチの命名規則 #GitHub - Qiita](https://qiita.com/Hashimoto-Noriaki/items/5d990e21351b331d2aa1)
 
 ## Go
 
@@ -540,6 +540,8 @@
 
 [レスポンシブにも対応・CSSでフルスクリーンレイアウト #CSS - Qiita](https://qiita.com/omatsu/items/d90a4aca1ecd93eef679)
 
+[【CSS】ヘッダーを固定したとき重なる問題の解決策2選 | ベル15の開発ブログ](https://bel-itigo.com/fixed-header-css/)
+
 ## Java
 
 [【Java入門】キーボードから入力する(InputStreamReader/Scanner) | 侍エンジニアブログ](https://www.sejuku.net/blog/63188)
@@ -629,6 +631,8 @@
 
 [systemdで自作サービスを作る時の為のメモ](https://zenn.dev/tantan_tanuki/articles/7e619bd96e5fd9)
 
+[「/etc/resolv.conf」ファイル - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/knowledge/507/)
+
 ## Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -658,6 +662,18 @@
 [Qiitaのテーブルの書き方についてまとめた #Markdown - Qiita](https://qiita.com/zakuroishikuro/items/f33929eab9d55c5bd073)
 
 [【Markdown】表を作る方法とは？文字の表示位置指定方法も解説！ | 侍エンジニアブログ](https://www.sejuku.net/blog/77323)
+
+## Microsoft
+
+[【Excelでできる】QRコードを用いた在庫管理の方法と効率化｜自作・フリーソフト・無料](https://www.chemi-jyo.com/work/vba_qr_inventory_control/)
+
+[【実例付】パワポで画像の背景を透明にする方法！基礎から応用まで徹底解説](https://studio.virtual-planner.com/powerpoint-background-transparent/)
+
+[​パワーポイントでTeXを使う方法（デフォルトで入ってるもの） - とある数物研究者の覚書](https://mathphysnote.com/powerpoint-tex/)
+
+[PowerPoint（パワポ）における数式入力のメモ #PowerPoint - Qiita](https://qiita.com/ryonkht/items/1e708606622c5d7e827d)
+
+[【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
 
 ## Network
 
@@ -713,11 +729,21 @@
 
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
+## Next.js
+
+[Nextjsの初心者向けに説明～環境構築まで #React - Qiita](https://qiita.com/yutakiya/items/371fec6e878e57fffa08)
+
+[丸ごとNext.jsでWebアプリケーションを作ってみた話](https://zenn.dev/matisse_dev/articles/87508d52dad946)
+
+[第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
+
 ## Nginx
 
 [[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
 
 [NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
+
+[413 Request Entity Too Large 解決方法 #Laravel - Qiita](https://qiita.com/yyy752/items/c0de5790a17d2239ce2d)
 
 ## Node.js
 
@@ -975,6 +1001,10 @@
 
 [Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
 
+[PythonでDiscordのBotを作る #discord.py - Qiita](https://qiita.com/Yumax-panda/items/9349e06f5a12d4466ca7)
+
+[Discord Bot作成を完全に理解する](https://zenn.dev/king/articles/4201f4ee821a27)
+
 ## Raspberry Pi
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
@@ -1171,6 +1201,14 @@
 
 [【入門】データベース設計まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
 
+[SQLServer: int型のID値を持つテーブルをできる限り短時間でbigint型に変更する #DB - Qiita](https://qiita.com/p2sk/items/cdab2d91127ec8169ff1)
+
+[MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
+
+[SQL Server Tips - 制約やテーブルカラムの追加/削除クエリ #SQLServer - Qiita](https://qiita.com/ymasaoka/items/2f8fc1ceacbd721d7504)
+
+[テーブルへの列の追加 (データベース エンジン) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/relational-databases/tables/add-columns-to-a-table-database-engine?view=sql-server-ver16)
+
 ## TypeScript
 
 [ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
@@ -1263,6 +1301,12 @@
 
 [Ubuntu 18.04でUSB無線子機TP-Link TL-WN725Nを使う #Wi-Fi - Qiita](https://qiita.com/fujina_u2/items/af73794d793c2cbd50ac)
 
+[Ubuntuのサービスに関するよく使うコマンドまとめ #Linuxコマンド - Qiita](https://qiita.com/pyon_kiti_jp/items/065e80f46ad0e853dfe2)
+
+[EC2名前解決できない時の解消方法 #NameServer - Qiita](https://qiita.com/naberina/items/cfb98673ed10f09e446c)
+
+[ubuntu19.04でpingとnslookupができなくなり、DNSサーバーを変更するのにめちゃくちゃハマった話 #Ubuntu - Qiita](https://qiita.com/gkzz/items/5ac6648e87339e1dd883)
+
 ## VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -1296,6 +1340,18 @@
 [デスクトップの背景をモニターごとに別々の画像で設定 - パソコントラブルＱ＆Ａ](https://www.724685.com/weekly/qa220803.htm)
 
 [windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+
+[【WSL / WSL2】VSCode×WSLでWindows上にLinux開発環境を構築 #環境構築 - Qiita](https://qiita.com/_masa_u/items/d3c1fa7898b0783bc3ed)
+
+[WinDbg をインストールしてとりあえず使えるところまで設定する方法 #Windows - Qiita](https://qiita.com/tokawa-ms/items/62625c7acc263185f530)
+
+[Windowsで日本語を入力すると正しく入力できない現象](https://omakase-ypp.jp/blog/windows%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%8F%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E7%8F%BE%E8%B1%A1/)
+
+[Windows 10のデフォルト アプリケーションの変更方法 | Dell 日本](https://www.dell.com/support/kbdoc/ja-jp/000128257/how-to-change-windows-windows-10)
+
+[IPv6アドレスを有効にしたい(Windows 10) | JCOMサポート](https://cs.myjcom.jp/JSS_KnowledgeDetail?an=000004483)
+
+[Windowsでsudoしたい #Linuxコマンド - Qiita](https://qiita.com/Kamioda/items/fd56711fe1fd2a0e1bbf)
 
 ## Words
 
@@ -1343,7 +1399,7 @@
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
 
-[WinDbg をインストールしてとりあえず使えるところまで設定する方法 #Windows - Qiita](https://qiita.com/tokawa-ms/items/62625c7acc263185f530)
+
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
 
@@ -1353,45 +1409,23 @@
 
 [ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)
 
-[第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
-
 [オーバーヘッド 【overhead】](https://e-words.jp/w/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89.html)
-
-[【Excelでできる】QRコードを用いた在庫管理の方法と効率化｜自作・フリーソフト・無料](https://www.chemi-jyo.com/work/vba_qr_inventory_control/)
-
-[Windowsで日本語を入力すると正しく入力できない現象](https://omakase-ypp.jp/blog/windows%E3%81%A7%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%82%92%E5%85%A5%E5%8A%9B%E3%81%99%E3%82%8B%E3%81%A8%E6%AD%A3%E3%81%97%E3%81%8F%E5%85%A5%E5%8A%9B%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84%E7%8F%BE%E8%B1%A1/)
 
 [ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
 
-[【実例付】パワポで画像の背景を透明にする方法！基礎から応用まで徹底解説](https://studio.virtual-planner.com/powerpoint-background-transparent/)
-
 [ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
 
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
-[Windows 10のデフォルト アプリケーションの変更方法 | Dell 日本](https://www.dell.com/support/kbdoc/ja-jp/000128257/how-to-change-windows-windows-10)
-
-[​パワーポイントでTeXを使う方法（デフォルトで入ってるもの） - とある数物研究者の覚書](https://mathphysnote.com/powerpoint-tex/)
-
-[PowerPoint（パワポ）における数式入力のメモ #PowerPoint - Qiita](https://qiita.com/ryonkht/items/1e708606622c5d7e827d)
-
-[IPv6アドレスを有効にしたい(Windows 10) | JCOMサポート](https://cs.myjcom.jp/JSS_KnowledgeDetail?an=000004483)
-
 [Shell（シェル）とは？種類や活用方法をご紹介 - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/shell/)
-
-[Windowsでsudoしたい #Linuxコマンド - Qiita](https://qiita.com/Kamioda/items/fd56711fe1fd2a0e1bbf)
 
 [URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
 
-[【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
-
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
 
-
-
-
+[要件定義とは？決定までのプロセスや要件定義書の進め方について](https://www.jooto.com/contents/requirement-definition)
 
 [探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
 
@@ -1400,8 +1434,6 @@
 [Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
-
-
 
 [ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
 

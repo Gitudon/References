@@ -24,6 +24,10 @@
 
 [YouTube Data API v3 のクォータ使用量を確認…せざるを得なかった話。 | hiro-lab](https://hiro-lab.net/2022/04/youtube-data-api-v3-%E3%81%AE%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%BF%E4%BD%BF%E7%94%A8%E9%87%8F%E3%82%92%E7%A2%BA%E8%AA%8D%E3%81%9B%E3%81%96%E3%82%8B%E3%82%92%E5%BE%97%E3%81%AA%E3%81%8B%E3%81%A3/)
 
+[0からREST APIについて調べてみた #REST-API - Qiita](https://qiita.com/masato44gm/items/dffb8281536ad321fb08)
+
+[Python FlaskでREST APIを作る #REST-API - Qiita](https://qiita.com/keichiro24/items/c72c57b54332431c67ec)
+
 ## Asm
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
@@ -77,6 +81,8 @@
 [【C言語入門】union(共用体)の使い方 | 侍エンジニアブログ](https://www.sejuku.net/blog/25556)
 
 [文字列をコピーしてポインタを返す_strdup関数 - (void*)Pないと](https://pknight.hatenablog.com/entry/20090712/1247376548)
+
+[C言語でゲームを作ってみた(DXライブラリ) #C - Qiita](https://qiita.com/junne_1008/items/04c0cfb04a7b9b342fae)
 
 ## Commands
 
@@ -143,6 +149,8 @@
 [C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
 
 [いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
+
+[最低限これだけ知ってればゲームが作れるDXライブラリ関数集 #初心者 - Qiita](https://qiita.com/GandT/items/ec6e12bcacf7c66c315e)
 
 ## CTF
 
@@ -442,6 +450,8 @@
 
 [Git ブランチの命名規則 #GitHub - Qiita](https://qiita.com/Hashimoto-Noriaki/items/5d990e21351b331d2aa1)
 
+[基本的なGitコマンドまとめ #Git - Qiita](https://qiita.com/2m1tsu3/items/6d49374230afab251337)
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
@@ -541,6 +551,12 @@
 [レスポンシブにも対応・CSSでフルスクリーンレイアウト #CSS - Qiita](https://qiita.com/omatsu/items/d90a4aca1ecd93eef679)
 
 [【CSS】ヘッダーを固定したとき重なる問題の解決策2選 | ベル15の開発ブログ](https://bel-itigo.com/fixed-header-css/)
+
+[【CSS】文字に下線(アンダーライン)を引く方法！色や太さの変更方法も解説 - WEBCAMP MEDIA](https://web-camp.io/magazine/archives/85927/)
+
+[【CSS】position: sticky で固定ヘッダーを実装する #HTML - Qiita](https://qiita.com/tasukuwatanabe/items/eeba48b411b3f57dd303)
+
+[position:stickyが効かない原因&追従させる方法【STUDIO】](https://galera.co.jp/blog/0z0FAwHp)
 
 ## Java
 
@@ -1005,6 +1021,58 @@
 
 [Discord Bot作成を完全に理解する](https://zenn.dev/king/articles/4201f4ee821a27)
 
+[Python, set型で集合演算（和集合、積集合や部分集合の判定など） | note.nkmk.me](https://note.nkmk.me/python-set/)
+
+[いつまで誤差で消耗しているの？ #AtCoder - Qiita](https://qiita.com/takepan/items/8723eb7b16f99af61fb2)
+
+[AtCoderのPythonで使える外部ライブラリの調査 #競技プログラミング - Qiita](https://qiita.com/afoil/items/83507eb4d07abf117bb2)
+
+[atcoderでよく使う手法python版 #Python - Qiita](https://qiita.com/chun1182/items/ddf2b6cba932b2bb0d4e)
+
+[[Python] 競技プログラミングで再帰関数を書くときはsys.setrecursionlimitで最大再帰数を上げる #Python3 - Qiita](https://qiita.com/aki3061/items/9bbb88db07db3c8f9fb5)
+
+[Pythonライブラリ sys #Python - Qiita](https://qiita.com/jp0003menegi/items/fbf407af7d294c09481a)
+
+[Python3で競技プログラミングする時に知っておきたいtips（入力編） #AtCoder - Qiita](https://qiita.com/kyuna/items/8ee8916c2f4e36321a1c)
+
+[Pythonの連想配列（辞書型）完全ガイド｜基本操作から応用まで徹底解説│Pythonプログラミングの世界](https://www.python.digibeatrix.com/archives/888)
+
+[【完全網羅】Python dictについて #初心者 - Qiita](https://qiita.com/kubochiro/items/5d5cb57ee071702d15da)
+
+[累積和をPythonで学ぶ #AtCoder - Qiita](https://qiita.com/yuta0003/items/62dd291795f16a81fb38)
+
+[累積和を何も考えずに書けるようにする！ #AtCoder - Qiita](https://qiita.com/drken/items/56a6b68edef8fc605821#fn1)
+
+[Atcoderで累積和が出てきたのでこれを機にちょっと勉強する #Python - Qiita](https://qiita.com/tttol777/items/2f3c89e1921eab83f72c)
+
+[Pythonで引数と戻り値の型を明示する #Python3 - Qiita](https://qiita.com/hashimo_846/items/5a2f722b63f301736d35)
+
+[【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
+
+[Streamlitに入門して表を書いてみる #Streamlit - Qiita](https://qiita.com/hrkt/items/956b5a602fe7b56aa525)
+
+[小数点以下を切り上げる場合の商を求める方法【競技プログラミング】 #競技プログラミング - Qiita](https://qiita.com/penpenpen/items/7692545adedfb9407ec9)
+
+[Pythonで数値が整数か小数かを判定 | note.nkmk.me](https://note.nkmk.me/python-check-int-float/)
+
+[Pythonさえ分かればDjangoでWebアプリは作れる #HTML - Qiita](https://qiita.com/pythonista/items/19613663ef7bb3c57d4f)
+
+[Djangoの使い方～デプロイ編①～ #Python - Qiita](https://qiita.com/connecrew-sugiyama/items/ce5beafce9201736c39e)
+
+[Python×Djangoプロジェクトの環境構築 #Git - Qiita](https://qiita.com/minezaki-mutsuki/items/c639eb864273f3ecee5a)
+
+[Python + uWSGI + nginx #uwsgi - Qiita](https://qiita.com/keichiro24/items/52a0e4233200ac03b4d1)
+
+[Flaskでできることを確認しながら簡単なWebアプリを作ってみよう！｜スタビジ](https://toukei-lab.com/python-flask)
+
+[[Python]Flaskアプリの基本構造を整理 #Python - Qiita](https://qiita.com/massa-potato/items/2c4c3e0f459b2bc4c7ee)
+
+[【Python Flask】初心者プログラマーのWebアプリ#1 簡単なページ作成 #Python3 - Qiita](https://qiita.com/Bashi50/items/30065e8f54f7e8038323)
+
+[Python+FlaskでWEBアプリケーションを構築する #Python - Qiita](https://qiita.com/t-iguchi/items/f7847729631022a5041f)
+
+[Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
+
 ## Raspberry Pi
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
@@ -1078,6 +1146,10 @@
 [React / TypeScript の設計前に、改めて命名規則について把握する #React - Qiita](https://qiita.com/shuhosaka/items/4a11158b3e9060d3b612)
 
 [【React】 Context をいつ使うべきか #React - Qiita](https://qiita.com/anneau/items/c20afcb8693260cbb7ba)
+
+[React公式チュートリアルをTypeScriptでやる｜Toshimitsu Kugimoto](https://note.com/tkugimot/n/nf7fe751298b1)
+
+[Reactで将棋アプリを作りました - izumo’s diary](https://izumo27.hatenablog.com/entry/2020/01/14/211200)
 
 ## Ruby
 
@@ -1353,6 +1425,8 @@
 
 [Windowsでsudoしたい #Linuxコマンド - Qiita](https://qiita.com/Kamioda/items/fd56711fe1fd2a0e1bbf)
 
+[方法3選｜パスワードでメモ帳のテキストファイルを保護する](https://jp.easeus.com/file-lock-tips/how-to-password-protect-a-notepad-text-file.html)
+
 ## Words
 
 [仮想マシン (VM) とは | 用語集 | HPE 日本](https://www.hpe.com/jp/ja/what-is/virtual-machine.html)
@@ -1385,6 +1459,8 @@
 
 [Vite+ReactのプロジェクトをGitHub Pagesにデプロイする #vite - Qiita](https://qiita.com/YuDachi/items/3307c0d3139037f67583)
 
+[Viteを利用したReact/TypeScriptプロジェクトの作成とGitHubへの公開手順](https://zenn.dev/kkoisland/articles/9df5a22092c796)
+
 ## VPN
 
 [今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
@@ -1399,7 +1475,7 @@
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
 
-
+[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
 
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
 
@@ -1458,3 +1534,5 @@
 [俺が考える最強のITエンジニアキャリア戦略 #キャリア - Qiita](https://qiita.com/papi_tokei/items/11877a857a60965a53fc)
 
 [1dayインターンと3dayインターンを終えて ##インターン - Qiita](https://qiita.com/hori_hira_yu/items/f66704c3248b3d693cfd)
+
+[構造化プログラミングとは、だいたい段階的詳細化法のことだ。 #オブジェクト指向 - Qiita](https://qiita.com/iHdkz/items/de8a0bf1a3d6c6c24215)

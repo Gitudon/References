@@ -98,8 +98,6 @@
 
 [sedを使ってスペース（空白）をカンマ（,）に変換 | 知識の箱](http://www.rivhiro-weather.com/knowledge/?p=721)
 
-[bashで変数から部分文字列を取得する #Bash - Qiita](https://qiita.com/koara-local/items/04d3efd1031ea62d8db5)
-
 [【Linuxコマンド】sedで文字列を置換する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/54595)
 
 [ファイル編集：指定した行の削除](https://kawahara10mo3.hatenablog.com/entry/2017/06/26/102236)
@@ -141,6 +139,18 @@
 [Linuxでプロセスが何のポート使っているかを調べる #port - Qiita](https://qiita.com/sonoshou/items/cc2b740147ba1b8da1f3)
 
 [chmod コマンド #Terminal - Qiita](https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95)
+
+[テキストファイルの文字コードを調べるには（nkf編） － ＠IT](https://atmarkit.itmedia.co.jp/flinux/rensai/linuxtips/980nkfguess.html)
+
+[WSL2 で動作しているかどうかを判定する Bash スクリプト - Neo's World](https://neos21.net/blog/2020/08/22-01.html)
+
+[bashで変数から部分文字列を取得する #Bash - Qiita](https://qiita.com/koara-local/items/04d3efd1031ea62d8db5)
+
+[WSL2かどうかの判定 - くたくたじゅうよん](https://scrapbox.io/takker/WSL2%E3%81%8B%E3%81%A9%E3%81%86%E3%81%8B%E3%81%AE%E5%88%A4%E5%AE%9A)
+
+[WSLのディレクトリにあるhtmlをブラウザで開く #HTML - Qiita](https://qiita.com/ryo0916/items/a96c5381c3ae98eacbf4)
+
+[HTMLファイルをコマンドラインから開く #Windows - Qiita](https://qiita.com/hkato/items/9ed477788633d1a62a7a)
 
 ## Cpp
 
@@ -558,6 +568,10 @@
 
 [position:stickyが効かない原因&追従させる方法【STUDIO】](https://galera.co.jp/blog/0z0FAwHp)
 
+[HTMLで文字化けを直す方法（UTF-8、Shift_JIS） #VSCode - Qiita](https://qiita.com/syamobariyuta/items/023d286ca8502231a452)
+
+[CSS 入門 - ウェブ開発の学習 | MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
+
 ## Java
 
 [【Java入門】キーボードから入力する(InputStreamReader/Scanner) | 侍エンジニアブログ](https://www.sejuku.net/blog/63188)
@@ -577,6 +591,20 @@
 [【10分でわかる】Javaにおけるオブジェクト指向を徹底解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/9788?utm_source=blog&utm_medium=blog&utm_campaign=blog_Normal_5973)
 
 [Java | 切り上げ/切捨て/四捨五入を取得する(Math.ceil,Math.floor,Math.round)](https://www.javadrive.jp/start/math/index7.html)
+
+[多用は注意！Javaでグローバル変数を作る方法を解説 | ポテパンスタイル](https://style.potepan.com/articles/31101.html)
+
+[Javaプロジェクトを１から作る（FWなし） #初心者向け - Qiita](https://qiita.com/startPG/items/29fa23e9fa1e7c929dbf)
+
+[【Java】パッケージの使い方ガイド | 初心者向けチュートリアル #Java入門 - Qiita](https://qiita.com/EasyCoder/items/b3089ea2718334c18918)
+
+[Javaでパッケージ構成を考えてみよう！アプリ開発を始める準備 | ポテパンスタイル](https://style.potepan.com/articles/35864.html)
+
+[とほほのJava入門 - とほほのWWW入門](https://www.tohoho-web.com/java/package.htm)
+
+[Java入門 ソースコードの分割 #Java - Qiita](https://qiita.com/Co_Pilot/items/a5fc93d72fea1e0deb60)
+
+[Java言語の命名指針 #命名規則 - Qiita](https://qiita.com/rkonno/items/1b30daf83854fecbb814)
 
 ## JavaScript
 
@@ -603,6 +631,8 @@
 [三項演算子の適切な使い方（条件演算子） #JavaScript - Qiita](https://qiita.com/smicle/items/7d3b9881834dc0142fb7)
 
 [JavaScriptでfalseになるもの #JavaScript - Qiita](https://qiita.com/katsuo5/items/ffb8b83c6b8a6dcbd9d6)
+
+[nvm, Node.js, package.json, npm, yarn, webpackの違いについて #YARN - Qiita](https://qiita.com/ryouzi/items/5b0158ba1a77bf4b6004)
 
 ## LaTeX
 
@@ -648,6 +678,8 @@
 [systemdで自作サービスを作る時の為のメモ](https://zenn.dev/tantan_tanuki/articles/7e619bd96e5fd9)
 
 [「/etc/resolv.conf」ファイル - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/knowledge/507/)
+
+[vmware、UbuntuとLinuxの違い、WSL2について #雑記 - Qiita](https://qiita.com/gen_san/items/12005592cd5050bb3c9a)
 
 ## Markdown
 
@@ -1073,6 +1105,8 @@
 
 [Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
 
+[Pythonで平方数を判定する | プログラミング学習　初心者向け入門ガイド](https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/)
+
 ## Raspberry Pi
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
@@ -1151,6 +1185,8 @@
 
 [Reactで将棋アプリを作りました - izumo’s diary](https://izumo27.hatenablog.com/entry/2020/01/14/211200)
 
+[rbenvの使い方と仕組みについて #Ruby - Qiita](https://qiita.com/Kodak_tmo/items/73147ed4f0eec54d6e94)
+
 ## Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
@@ -1162,6 +1198,58 @@
 [Ruby on Railsの環境構築をしてみよう！(Windows) | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/rails-env-win)
 
 [Webサービスの認証についてまとめる #JavaScript - Qiita](https://qiita.com/it_tsumugi/items/263aa1f91cc8b05c93b0)
+
+[Ubuntu で最新の Ruby をインストールする方法 #rbenv - Qiita](https://qiita.com/kerupani129/items/77dd1e3390b53f4e97b2)
+
+[ubuntu 22.04にrbenvインストールする](https://zenn.dev/nukokoi/articles/e03fe2372b43a7)
+
+[rbenvの使い方と仕組みについて #Ruby - Qiita](https://qiita.com/Kodak_tmo/items/73147ed4f0eec54d6e94)
+
+[WSL2でrbenvからRubyをビルドしようとしたら、すんなりいかなかった話 #Windows - Qiita](https://qiita.com/kztktr/items/0b6046e2ca045a0af291)
+
+[rbenv で Ruby3.0.4のインストールで失敗する - hotoolong's blog](https://hotoolong.hatenablog.com/entry/2023/07/23/223556)
+
+[【Ruby】rbenvのよく使うコマンド一覧 - あまブログ](https://ama-tech.hatenablog.com/rbenv-cheatsheet)
+
+[`rbenv install` で BUILD FAILED - インゲージ開発者ブログ](https://blog.ingage.jp/entry/2022/11/22/093000)
+
+[rbenvでRuby3をインストールする](https://zenn.dev/fuuukeee3/articles/e1ff013f118dfcafa8f5)
+
+[rbenv/ruby-buildのアップデート #Ruby - Qiita](https://qiita.com/jhanyu/items/38671f7e9f03b77670c0)
+
+[Rubyの繰り返し処理（ループ処理） #Ruby - Qiita](https://qiita.com/isaatsu0131/items/1b2c1d5b1e45d7b50925)
+
+[Rubyの文字列連結に関して知っておくべきこと #Ruby - Qiita](https://qiita.com/Kta-M/items/c7c2fb0b61b11d3a2c48)
+
+[rubyで整数の桁数が足りない分を0で穴埋め - setoya-blog](https://www.setoya-blog.com/entry/2013/12/06/171143)
+
+[Rubyで書式付き出力を行う - 或るプログラマの開発日記](https://osishow3.hateblo.jp/entry/2017/04/24/235500)
+
+[Ruby数字出力 ０埋め #Linux - Qiita](https://qiita.com/ktpnobu/items/0215801af5747c76b52b)
+
+[Ruby 　大文字⇔小文字に変換する方法 #Ruby - Qiita](https://qiita.com/mat827/items/ebfe189d652b619b3e6d)
+
+[Ruby　標準入力から値を受け取る方法 #paiza - Qiita](https://qiita.com/Hayate_0807/items/2e9705091b181a104621)
+
+[【Ruby入門】print puts p printf 出力メソッドを極める！ | 侍エンジニアブログ](https://www.sejuku.net/blog/16119)
+
+[RubyでHelloWorldを実装してみた #Ruby - Qiita](https://qiita.com/nori-channel/items/f111b37d35839deb90aa)
+
+[String#match? (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/String/i/match=3f.html)
+
+[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
+
+[ruby ifを1行で書く方法 まとめ by 初心者 #Ruby - Qiita](https://qiita.com/MrTom_2020/items/7f6005041eeba8bf9150)
+
+[Ruby if文を使った条件分岐 #Rails - Qiita](https://qiita.com/ta--i/items/f0974e7f5e66318d4694)
+
+[[Ruby]正規表現](https://zenn.dev/redheadchloe/articles/f3e821459a1f71)
+
+[Ruby 正規表現の使い方 #Rails - Qiita](https://qiita.com/shizuma/items/4279104026964f1efca6)
+
+[Rubyの文字列は * をつかって掛け算のように書くことで繰り返し生成ができるが、注意が必要 - コード日進月歩](https://shinkufencer.hateblo.jp/entry/2018/11/15/092936)
+
+
 
 ## Rust
 
@@ -1379,6 +1467,8 @@
 
 [ubuntu19.04でpingとnslookupができなくなり、DNSサーバーを変更するのにめちゃくちゃハマった話 #Ubuntu - Qiita](https://qiita.com/gkzz/items/5ac6648e87339e1dd883)
 
+[【WSL2】Ubuntu 20.04.4 LTS を 22.04 LTS へアップグレードした](https://zenn.dev/ryuu/articles/upgrade-ubuntu2204-wsl)
+
 ## VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -1427,6 +1517,10 @@
 
 [方法3選｜パスワードでメモ帳のテキストファイルを保護する](https://jp.easeus.com/file-lock-tips/how-to-password-protect-a-notepad-text-file.html)
 
+[Windows11ではWSL2のGUI表示にXサーバー使わなくていいってほんまか！？ #ポエム - Qiita](https://qiita.com/nekoshark02/items/bfbee38f59fec8e6c8b5)
+
+[WSL2でデフォルトのディストリビューションを変更する #WSL2 - Qiita](https://qiita.com/honda28/items/376c878a7706cd531801)
+
 ## Words
 
 [仮想マシン (VM) とは | 用語集 | HPE 日本](https://www.hpe.com/jp/ja/what-is/virtual-machine.html)
@@ -1444,6 +1538,10 @@
 [シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
 
 [ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
+
+## Vim
+
+[vimで文字コードを指定して開き直す #Vim - Qiita](https://qiita.com/gorton/items/bdeb5a4f15c5e141d6c1)
 
 ## Vite
 
@@ -1536,3 +1634,5 @@
 [1dayインターンと3dayインターンを終えて ##インターン - Qiita](https://qiita.com/hori_hira_yu/items/f66704c3248b3d693cfd)
 
 [構造化プログラミングとは、だいたい段階的詳細化法のことだ。 #オブジェクト指向 - Qiita](https://qiita.com/iHdkz/items/de8a0bf1a3d6c6c24215)
+
+[プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)

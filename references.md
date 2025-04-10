@@ -1249,7 +1249,51 @@
 
 [Rubyの文字列は * をつかって掛け算のように書くことで繰り返し生成ができるが、注意が必要 - コード日進月歩](https://shinkufencer.hateblo.jp/entry/2018/11/15/092936)
 
+[【Ruby】stripメソッド、chompメソッド、chopメソッドの使い方を比較する #Rails - Qiita](https://qiita.com/mzmz__02/items/90aced6296b8b68b115c)
 
+[ChefTips: RubyのArray(配列)とHash(連想配列)入門 #chef - Qiita](https://qiita.com/kentarok/items/5d38c3f7df37a7396ef9)
+
+[RubyとPythonのHash(Dictionary)操作対応まとめ #Python3 - Qiita](https://qiita.com/yohm/items/91b60cde9a357ad4a3e5)
+
+[class Class (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Class.html)
+
+[クラス／メソッドの定義 (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/doc/spec=2fdef.html)
+
+[rbenvでのRuby管理 #Rails - Qiita](https://qiita.com/payreikit/items/414ad190a60bde323509)
+
+[Ruby クラスの基礎知識まとめ #class - Qiita](https://qiita.com/nk-ty/items/654b285a7bcbd82b1cff)
+
+[library test/unit (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/library/test=2funit.html)
+
+[Ruby のクラスメソッド定義まとめ #Ruby - Qiita](https://qiita.com/Linda_pp/items/b7135ae1f0def6058c6c)
+
+[Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
+
+[Rubyコーディングの基本 #Rails - Qiita](https://qiita.com/seiyatakahashi/items/9715c2c42fb3c21f0ca4)
+
+[test-unit - Ruby用単体テストフレームワーク](https://test-unit.github.io/ja/index.html)
+
+[Test::Unitでテストを書く #Ruby - Qiita](https://qiita.com/repeatedly/items/727b08599d87af7fa671)
+
+[library test/unit (Ruby 2.0.0)](https://docs.ruby-lang.org/ja/2.0.0/library/test=2funit.html)
+
+[library test/unit (Ruby 2.0.0)](https://docs.ruby-lang.org/ja/2.0.0/library/test=2funit.html)
+
+[rubyのデフォルトのUnit testの使い方 - 脳汁portal](https://portaltan.hatenablog.com/entry/2015/10/28/111757)
+
+[Rubyのtest/unitの使い方と、ジャンケンのコードをテストしてみた。 #Ruby - Qiita](https://qiita.com/qiyu_ren/items/da9259dd3008d621bbc9)
+
+[RubyでのTSVファイルとCSVファイルの取り扱い方 #JSON - Qiita](https://qiita.com/qiyu_ren/items/b8798fad2f88e9928835)
+
+[【Ruby】割り算するときは小数に注意 - Web学習記録｜haru890](https://haru890.hateblo.jp/entry/2020/04/05/021435)
+
+[[ruby] 割り算で小数点以下も必要な場合 #Ruby - Qiita](https://qiita.com/ryoff/items/0eb270fbc8de96cf158f)
+
+[【Ruby入門】ファイルの書き込みと読み込み #プログラミング - Qiita](https://qiita.com/Morio/items/8f0dc0801cfcb98d8269)
+
+[【Ruby入門】ファイルの読み込みと書き込みまとめ(File open) | 侍エンジニアブログ](https://www.sejuku.net/blog/14388)
+
+[RubyでのTSVファイルとCSVファイルの取り扱い方 #JSON - Qiita](https://qiita.com/qiyu_ren/items/b8798fad2f88e9928835)
 
 ## Rust
 
@@ -1469,6 +1513,42 @@
 
 [【WSL2】Ubuntu 20.04.4 LTS を 22.04 LTS へアップグレードした](https://zenn.dev/ryuu/articles/upgrade-ubuntu2204-wsl)
 
+## Vim
+
+[vimで文字コードを指定して開き直す #Vim - Qiita](https://qiita.com/gorton/items/bdeb5a4f15c5e141d6c1)
+
+[vim初心者が基本操作についてまとめてみた #Vim - Qiita](https://qiita.com/kar_iari4_4/items/920fc3b277e13237e8de)
+
+[Vimの基本的なコマンド](https://zenn.dev/masatotezuka/articles/vim_command_220225)
+
+[Vim初心者に捧ぐ実践的入門 #Vim - Qiita](https://qiita.com/okamos/items/c97970ab34ff55ff3167)
+
+[Vimで改行コードを変更する #Vim - Qiita](https://qiita.com/bezeklik/items/aca37ffb127821311d6b)
+
+[Vimで改行コードを修正する - 恥は/dev/nullへ by 初心者](https://uhoho.hatenablog.jp/entry/2022/10/18/044550)
+
+## Vite
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Vite.ts（さくっと導入手順）](https://zenn.dev/zakimaz/articles/94f5b67fc7b585)
+
+[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
+
+[Vite + React で新規プロジェクトの開発環境を作ろう | Webクリエイターボックス](https://www.webcreatorbox.com/blog/vite-react)
+
+[ReactをGitHub Pagesにデプロイしよう〜Vite編〜 #JavaScript - Qiita](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
+
+[Vite+ReactのプロジェクトをGitHub Pagesにデプロイする #vite - Qiita](https://qiita.com/YuDachi/items/3307c0d3139037f67583)
+
+[Viteを利用したReact/TypeScriptプロジェクトの作成とGitHubへの公開手順](https://zenn.dev/kkoisland/articles/9df5a22092c796)
+
+## VPN
+
+[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
+
+[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
+
 ## VSCode
 
 [VSCode のデフォルトとフォルダごとの設定ファイルを作ろう](https://blog.n-hassy.info/2021/05/vscode-setting-files/)
@@ -1478,6 +1558,12 @@
 [VSCodeの折りたたみについて](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
 
 [Visual Studio CodeでのSSH接続により、EC2サーバーが高負荷になり動かなくなった](https://tech.excite.co.jp/entry/2022/09/27/153341)
+
+[VSCodeの拡張機能「Code Spell Checker」を使う | yokuaru Tech notes](https://yamaccu.github.io/vscode/20230512-vscode-spellcheck)
+
+## Vue.js
+
+[Vue.js入門(Vue.jsの初心者は必ず読め‼︎) #Vue.js - Qiita](https://qiita.com/Hashimoto-Noriaki/items/ea60d5932f13a9cd5707)
 
 ## Web
 
@@ -1538,36 +1624,6 @@
 [シェルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11219.html)
 
 [ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
-
-## Vim
-
-[vimで文字コードを指定して開き直す #Vim - Qiita](https://qiita.com/gorton/items/bdeb5a4f15c5e141d6c1)
-
-## Vite
-
-[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
-
-[Vite.ts（さくっと導入手順）](https://zenn.dev/zakimaz/articles/94f5b67fc7b585)
-
-[Viteを使った開発の流れ #JavaScript - Qiita](https://qiita.com/pike3/items/cef97d61cc71853e57d2)
-
-[Vite + React で新規プロジェクトの開発環境を作ろう | Webクリエイターボックス](https://www.webcreatorbox.com/blog/vite-react)
-
-[ReactをGitHub Pagesにデプロイしよう〜Vite編〜 #JavaScript - Qiita](https://qiita.com/tat_mae084/items/4051c61926dc8165e80b)
-
-[Vite+ReactのプロジェクトをGitHub Pagesにデプロイする #vite - Qiita](https://qiita.com/YuDachi/items/3307c0d3139037f67583)
-
-[Viteを利用したReact/TypeScriptプロジェクトの作成とGitHubへの公開手順](https://zenn.dev/kkoisland/articles/9df5a22092c796)
-
-## VPN
-
-[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
-
-[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
-
-## Vue.js
-
-[Vue.js入門(Vue.jsの初心者は必ず読め‼︎) #Vue.js - Qiita](https://qiita.com/Hashimoto-Noriaki/items/ea60d5932f13a9cd5707)
 
 ## Etc
 
@@ -1636,3 +1692,5 @@
 [構造化プログラミングとは、だいたい段階的詳細化法のことだ。 #オブジェクト指向 - Qiita](https://qiita.com/iHdkz/items/de8a0bf1a3d6c6c24215)
 
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
+
+[ハードタブ VS ソフトタブ - サポンテ 勉強ノート](https://saponote.hatenablog.com/entry/2018/11/15/120000)

@@ -152,6 +152,34 @@
 
 [HTMLファイルをコマンドラインから開く #Windows - Qiita](https://qiita.com/hkato/items/9ed477788633d1a62a7a)
 
+[改行コードの確認 #Linux - Qiita](https://qiita.com/dacek4649/items/76a1873ed4ab327254b5)
+
+[jq コマンドの Linux への速攻インストール #JSON - Qiita](https://qiita.com/wnoguchi/items/70a808a68e60651224a4)
+
+[【jqコマンド】JSONをLinuxで扱うコマンドの使い方](https://zenn.dev/en2enzo2/articles/e45e6d0aec6c7e)
+
+[Json整形コマンド jqを使う](https://blog.k-bushi.com/post/tech/tips/use-jq/)
+
+[jq コマンド | コマンドの使い方(Linux) | hydroculのメモ](https://hydrocul.github.io/wiki/commands/jq.html)
+
+[JSONファイルを扱うCUIツール「jq」を使ってみる - 土日の勉強ノート](https://daisuke20240310.hatenablog.com/entry/jq)
+
+[rubyでFile.openを使わずにファイルの読み書きをする方法 #Ruby - Qiita](https://qiita.com/south37/items/d3dc33cb9f9cda4f9dd0)
+
+[class File (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/File.html)
+
+[ハッシュの便利メソッドあれこれ #Ruby - Qiita](https://qiita.com/jnchito/items/02ba8aad634a6bd8a2f6)
+
+[【Ruby入門】日付と時刻を取得する方法（Dateクラス） #プログラミング - Qiita](https://qiita.com/Morio/items/61b54f1869b541b3f860)
+
+[class Time (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Time.html)
+
+[Time#strftime (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Time/i/strftime.html)
+
+[Ruby | Timeオブジェクトを指定したフォーマットで文字列に変換する](https://www.javadrive.jp/ruby/time_class/index4.html)
+
+
+
 ## Cpp
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
@@ -680,6 +708,8 @@
 [「/etc/resolv.conf」ファイル - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/knowledge/507/)
 
 [vmware、UbuntuとLinuxの違い、WSL2について #雑記 - Qiita](https://qiita.com/gen_san/items/12005592cd5050bb3c9a)
+
+
 
 ## Markdown
 
@@ -1294,6 +1324,66 @@
 [【Ruby入門】ファイルの読み込みと書き込みまとめ(File open) | 侍エンジニアブログ](https://www.sejuku.net/blog/14388)
 
 [RubyでのTSVファイルとCSVファイルの取り扱い方 #JSON - Qiita](https://qiita.com/qiyu_ren/items/b8798fad2f88e9928835)
+
+[Rubyで2次元配列のソートいろいろ #Ruby - Qiita](https://qiita.com/takanatsu/items/39cf827aadc7d06bf48c)
+
+[sortメソッドによる並び替え #Ruby - Qiita](https://qiita.com/soma_sekimoto/items/9a93a704483ac435bd9c)
+
+[CSVのparse時にIllegal quoting in line 2. (CSV::MalformedCSVError)がでる。](https://teratail.com/questions/151761)
+
+[RubyでCSV読み込み（と少しハマった点のメモ） | めもめも](https://iwjp.net/blog/2019/05/22/ruby_csv_memo/)
+
+[RubyのCSVクラスを使ってTSVを読み込む場合にダブルコーテーションの入っているものがあるときの対策 - コード日進月歩](https://shinkufencer.hateblo.jp/entry/2021/10/09/235821)
+
+[ruby 2.7.0 CSV の liberal_parsing オプションについて調査してみた #Ruby - Qiita](https://qiita.com/yohm/items/c3dde4acf0781fa442ea)
+
+[RubyでのTSVファイルとCSVファイルの取り扱い方 #JSON - Qiita](https://qiita.com/qiyu_ren/items/b8798fad2f88e9928835)
+
+[trメソッドとは？(Ruby) #Rails - Qiita](https://qiita.com/mary_new_programmer/items/da88a3b3f181d268af76)
+
+[全角数字を半角数字に変換するお手軽な方法 #Ruby - Qiita](https://qiita.com/yugo-yamamoto/items/5a7a99ce84e26397e9df)
+
+[【Ruby】標準入力と出力・値の操作まとめ #初心者 - Qiita](https://qiita.com/Sobue-Yuki/items/93638169e8a8a0c4b3d5)
+
+[JSON.#parse (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/JSON/m/parse.html)
+
+[【Ruby】 JSON形式のデータをRubyで扱う方法とは？ | Pikawaka](https://pikawaka.com/ruby/json)
+
+[RubyでJSONを読み込む - No Solution for Life](https://masuyama13.hatenablog.com/entry/2020/06/15/183142)
+
+[Ruby : ファイルの標準入出力について #ruby2.6.5 - Qiita](https://qiita.com/tetoralynx/items/d4187f8de8fe501e0bb8)
+
+[RubyでJSONを扱うときに便利な関数まとめ | UX MILK](https://uxmilk.jp/13387)
+
+[module JSON (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/JSON.html)
+
+[RubyでのCSV・JSON入出力の基本 – 株式会社ルーター](https://rooter.jp/data-format/input-and-output-csv-and-json/)
+
+[Ruby | ハッシュへの新しい要素の追加と要素の値の変更](https://www.javadrive.jp/ruby/hash/index5.html)
+
+[テキストファイルのエンコーディングを変換して出力 Ruby基礎#27 - Just do IT](https://k-koh.hatenablog.com/entry/2019/12/25/214433)
+
+[Ruby | 改行だけを出力する #Ruby - Qiita](https://qiita.com/Yinaura/items/2d927e04d0ae284db07b)
+
+[JSON.#generate (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/JSON/m/generate.html)
+
+[JSON.#pretty_generate (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/JSON/m/pretty_generate.html)
+
+[Array#join (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/join.html)
+
+[Hash#merge (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Hash/i/merge.html)
+
+[Rubyのjoinは配列の要素を連結するメソッド！その使い方を徹底解説 | ポテパンスタイル](https://style.potepan.com/articles/28553.html)
+
+[Rubyのmergeメソッドでハッシュを結合する方法【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/19787)
+
+[RubyでCSV出力！エンコーディングの指定方法などを詳しく解説 | ポテパンスタイル](https://style.potepan.com/articles/27115.html)
+
+[【Ruby入門】print puts p printf 出力メソッドを極める！ | 侍エンジニアブログ](https://www.sejuku.net/blog/16119#index_id9)
+
+[Ruby 2.3 で「’」や「”」が含まれるCSVファイルをMySQLに入れる – Jansnap's TECH BLOG](https://blog.jansnap.com/?p=6015)
+
+
 
 ## Rust
 

@@ -178,14 +178,6 @@
 
 [Ruby | Timeオブジェクトを指定したフォーマットで文字列に変換する](https://www.javadrive.jp/ruby/time_class/index4.html)
 
-[Rubyによる現在日時取得(now)の方法について現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/49468)
-
-[Rubyで日時を扱う：Time, Date, DateTime - 日常で使うRubyプログラミング](https://ysy-ruby.hatenablog.com/entry/2024/03/14/065749)
-
-[Ruby ハッシュのキーを複数指定して値を取得する | mebee](https://mebee.info/2021/06/18/post-24228/)
-
-[Ruby | ハッシュオブジェクトから値を取得する](https://www.javadrive.jp/ruby/hash/index2.html)
-
 
 
 ## Cpp
@@ -1391,8 +1383,6 @@
 
 [Ruby 2.3 で「’」や「”」が含まれるCSVファイルをMySQLに入れる – Jansnap's TECH BLOG](https://blog.jansnap.com/?p=6015)
 
-[class Time (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Time.html)
-
 
 
 ## Rust
@@ -1512,32 +1502,6 @@
 [SQL Server Tips - 制約やテーブルカラムの追加/削除クエリ #SQLServer - Qiita](https://qiita.com/ymasaoka/items/2f8fc1ceacbd721d7504)
 
 [テーブルへの列の追加 (データベース エンジン) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/relational-databases/tables/add-columns-to-a-table-database-engine?view=sql-server-ver16)
-
-[mariaDBにsudoなしでrootで接続する – OS.ManiaX](https://osmaniax.1banzaka.com/server/mariadb%E3%81%ABsudo%E3%81%AA%E3%81%97%E3%81%A7root%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/4568)
-
-[Ubuntu22.04 MariaDBのインストールとデータベースの作成｜ogs-digilife](https://note.com/ogs_digilife/n/nb7dba54010cb#16aa7ff1-f00d-4f09-abd0-f5d340a5d792)
-
-[MariaDB インストール ( Ubuntu 18.04 / 20.04 / 22.04 / 24.04 LTS , Raspberry Pi OS) #mariadb - Qiita](https://qiita.com/nanbuwks/items/c98c51744bd0f72a7087)
-
-[MariaDB を削除して、Mysql をインストール #MySQL - Qiita](https://qiita.com/ekzemplaro/items/84e413b04c871ac1dd48)
-
-[MariaDB コマンド（随時追加） #Database - Qiita](https://qiita.com/ynack/items/b24cacdadb8a002bc9d2)
-
-[MariaDB | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mariadb/database/index1.html)
-
-[MariaDBのAUTO_INCREMENTについて #mariadb - Qiita](https://qiita.com/chaspy/items/51e000070a15a829434a)
-
-[MariaDB /MySQL rootパスワードの設定 | knowledge](https://knowledge.willnet.ad.jp/mysql-secure-installation/)
-
-[【MariaDB（MySQL）】インストール直後にrootでログインしたい #mariadb - Qiita](https://qiita.com/wsigma21/items/73e1b46d2ec138698674)
-
-[マリアDBでテーブル作成時のエラー「there can be only one auto column and it must be defined as a key mariadb」 #MySQL - Qiita](https://qiita.com/nakamoto_yuki/items/69cf9ba26f1b651808af)
-
-[SQL│テーブルを作成する（CREATE TABLE） | アナリティクス沖縄│DataAnalytics](https://analytics-okinawa.jp/sql/839/)
-
-[INSERT文（SQLを基本から学ぶシリーズ）](https://products.sint.co.jp/siob/blog/sql-insert)
-
-[SELECT文で並べ替えを行うには？：SQL実践講座（2） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/0011/15/news002.html)
 
 ## TypeScript
 
@@ -1687,8 +1651,6 @@
 
 [VSCodeの拡張機能「Code Spell Checker」を使う | yokuaru Tech notes](https://yamaccu.github.io/vscode/20230512-vscode-spellcheck)
 
-[VSCodeのDraw.ioのダークテーマを解除する - BioErrorLog Tech Blog](https://www.bioerrorlog.work/entry/vscode-drawio-dark-theme)
-
 ## Vue.js
 
 [Vue.js入門(Vue.jsの初心者は必ず読め‼︎) #Vue.js - Qiita](https://qiita.com/Hashimoto-Noriaki/items/ea60d5932f13a9cd5707)
@@ -1822,11 +1784,3 @@
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 
 [ハードタブ VS ソフトタブ - サポンテ 勉強ノート](https://saponote.hatenablog.com/entry/2018/11/15/120000)
-
-[命名アンチパターン - Neo's World](https://neos21.net/tech/programming/naming-anti-patterns.html)
-
-[命名アンチパターン #オブジェクト指向 - Qiita](https://qiita.com/power3812/items/5eb0db4b53e5a8d4c913)
-
-[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
-
-[「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)

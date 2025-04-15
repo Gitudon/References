@@ -28,6 +28,8 @@
 
 [Python FlaskでREST APIを作る #REST-API - Qiita](https://qiita.com/keichiro24/items/c72c57b54332431c67ec)
 
+[ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました #Python - Qiita](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
+
 ## Asm
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
@@ -71,6 +73,14 @@
 [.bat（バッチファイル）のifコマンド解説。 #Windows - Qiita](https://qiita.com/plcherrim/items/8edf3d3d33a0ae86cb5c)
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
+
+## Browser
+
+[ブラウザのリクエストをcURL形式で取得 #ShellScript - Qiita](https://qiita.com/ueokande/items/a580e9d9f17dbf82f382)
+
+[Chromeの開発者ツールで捕捉した通信をcurlコマンドでコピーする - エンジニアのはしがき](https://tm-progapp.hatenablog.com/entry/2022/09/07/184452)
+
+
 
 ## C
 
@@ -319,6 +329,14 @@
 [docker logs で表示されるログの保存場所とローテート方法 #Docker - Qiita](https://qiita.com/tily/items/adb433505da6c7812725)
 
 [Ubuntu で Docker のインストール #docker-compose - Qiita](https://qiita.com/tf63/items/c21549ba44224722f301)
+
+[DockerとVScodeでPython環境構築 #MySQL - Qiita](https://qiita.com/KiYuRo/items/c016eaf5066c6cedaa11)
+
+[【入門】DockerでPythonを動かす環境構築の手順](https://www.kagoya.jp/howto/cloud/container/dockerpython/)
+
+[Dockerでのpythonモジュールの管理 | book-reviews.blog](https://book-reviews.blog/python-module-management-on-Docker/)
+
+
 
 ## Electrical Engineering
 
@@ -1147,6 +1165,10 @@
 
 [Pythonで平方数を判定する | プログラミング学習　初心者向け入門ガイド](https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/)
 
+[Python クラスについて #Python3 - Qiita](https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c)
+
+
+
 ## Raspberry Pi
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
@@ -1395,6 +1417,36 @@
 
 [class Time (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Time.html)
 
+[【Rails】Nokogiri関連のインストールエラーと戦うための方法 総集編【これでダメなら多分】 #Ruby - Qiita](https://qiita.com/yuki82511988/items/e73224f551cb80dab2f1)
+
+[nokogiriのインストールに詰まった #Rails - Qiita](https://qiita.com/rainbow___0/items/6768d2a40d2f4b4d63dd)
+
+[Ruby 単体で ActiveRecord を使いたい #Rails - Qiita](https://qiita.com/dnnnn_yu/items/027665ccb88de2fd9b55)
+
+[Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル] | 酒と涙とRubyとRailsと](https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/)
+
+[RubyでWebスクレイピング #2 初めてのNokogiri](https://zenn.dev/arao99/articles/5541a9bd74fd05)
+
+[Ruby on Rails 5.0 でMariaDBを扱う #mariadb - Qiita](https://qiita.com/MariMurotani/items/a34878916fcabfc3c638)
+
+[ActiveRecord にてデータベースへ再接続するには? – 株式会社ルーター](https://rooter.jp/programming/db/activerecord_reconnect/)
+
+[【初心者向け】RailsのActive Recordの解説&メソッドまとめ #Ruby - Qiita](https://qiita.com/ryokky59/items/a1d0b4e86bacbd7ef6e8)
+
+[ActiveRecord入門 #Ruby - Qiita](https://qiita.com/tfrcm/items/80625a75959591c2b7cd)
+
+[マイグレーションを使ったカラムの追加、削除、データ型の変更　[ 自分用メモ ] #Rails4 - Qiita](https://qiita.com/dawn_628/items/13fa64dc6d600e921ce3)
+
+[サービスを止めずにRailsで大きなテーブルにalter tableを実行する #MySQL - Qiita](https://qiita.com/yuku_t/items/8ff24f99301f7f0dd65b)
+
+[ActiveRecord のログ出力を一定文字数を超えると省略するようにカスタマイズしてみた – 株式会社ルーター](https://rooter.jp/programming/active_record_log_customize/)
+
+[Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
+
+[Ruby基礎 | requireとincludeとextendの違いを確認（includeとextendはメソッド探索で確認） #初心者 - Qiita](https://qiita.com/suzukiry/items/db936ff7312ba7d97315)
+
+[Ruby (2.2.0) 自分で作成したファイルを読み込む(require)にハマる - かもメモ](https://chaika.hatenablog.com/entry/2016/10/25/080000)
+
 
 
 ## Rust
@@ -1542,6 +1594,60 @@
 [SELECT文で並べ替えを行うには？：SQL実践講座（2） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/0011/15/news002.html)
 
 [MySQLデータベースに絵文字を保存する #MySQL - Qiita](https://qiita.com/miyamasaru/items/37450598610228aa7fc1)
+
+[MySQLでテーブルを削除する方法【DROP TABLE文】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/5115)
+
+[データベースツール DBeaver のインストールと基本機能（Windows 上）](https://www.kkaneko.jp/tools/win/dbeaver.html)
+
+[DBeaver をインストールしたので記録しておく #DBeaver - Qiita](https://qiita.com/azumabashi/items/bd6988be8eab1f380546)
+
+[【SQL】JOINとUNIONの違いとは？サンプルを用いながら解説！ - DX-Accelerator データ人材常駐支援サービス | UNCOVER TRUTH](https://www.uncovertruth.co.jp/dx-accelerator/blog/articles/sql/053/)
+
+[SQLのJOINを完全に理解する #MySQL - Qiita](https://qiita.com/sho-19202325/items/04dc93d1e26e05d77bf2)
+
+[SQL素人でも分かるテーブル結合(inner joinとouter join)](https://zenn.dev/naoki_mochizuki/articles/60603b2cdc273cd51c59)
+
+[SQLの問合せで、COUNTの結果が0件のデータを取得する。 | Wait Cursor](https://waitcursor.wordpress.com/2012/04/27/sql%E3%81%AE%E5%95%8F%E5%90%88%E3%81%9B%E3%81%A7%E3%80%81count%E3%81%AE%E7%B5%90%E6%9E%9C%E3%81%8C0%E4%BB%B6%E3%81%AE%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E3%80%82/)
+
+[【SQL】GROUP BYで自在に集計!集計関数やHAVINGと合わせて使おう | 侍エンジニアブログ](https://www.sejuku.net/blog/72923)
+
+[【SQL】GROUP BYしたときにSELECTできるのは3種類だけやで #MySQL - Qiita](https://qiita.com/Terao-Takumi/items/ddab768281fded632503)
+
+[【SQL】COUNT関数を利用するときはNULLに気をつけよう! #初心者 - Qiita](https://qiita.com/higakin/items/02f74f35831d8390407d)
+
+[SQL Server SELECT COUNT(*);問題 #SQLServer - Qiita](https://qiita.com/god19/items/643baaf99a51623a7ab4)
+
+[【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
+
+[DBeaver使い方メモ #PostgreSQL - Qiita](https://qiita.com/12345/items/48f6856e32fd618ea307)
+
+[DBeaverでやらかした話 #DBeaver - Qiita](https://qiita.com/tosiooooooo/items/46b2ae7c0687dc061775)
+
+[DBeaverのSQLエディタが使いにくい覚書 - RTB SoftLab ラテベ ソフトラボ (ラテベラボ)](https://www.ratebelab.com/soft/homepage_blog/628/)
+
+[MySQLのユーザ一覧を表示する #初心者 - Qiita](https://qiita.com/miriwo/items/5ebd52f9538ce8573788)
+
+[【SQL】カラム追加・編集ALTER TABLEを使う #MySQL - Qiita](https://qiita.com/panda-chibi/items/eec4d314a2ff6698d18c)
+
+[MySQLでテーブル一覧とカラム一覧を同時に取ってくる #MySQL - Qiita](https://qiita.com/furusin_oriver/items/f81351c96efbb40432df)
+
+[【SQL入門】CHARとVARCHARの違い #基礎 - Qiita](https://qiita.com/aberyotaro/items/c589430bdb00c6ab4922)
+
+[MySQLで桁が足りない分を０で埋める #MySQL - Qiita](https://qiita.com/toshikitsubouchi/items/68d0638f9164a7d3323b)
+
+[19-CREATE文①テーブル作成 – ウェルフィールド（WellField）](https://well-field.co.jp/services/education/web-text/sql-mysql/sql-v19)
+
+[テーブルの作成　CREATE TABLE文 #初心者 - Qiita](https://qiita.com/derasado/items/422406c1fb2a695a93d6)
+
+[MySQLのint型での誤解 #初心者 - Qiita](https://qiita.com/yyqqzz/items/8c57f1d244bd78da3f2d)
+
+[数値データ型](https://www.postgresql.jp/docs/9.2/datatype-numeric.html)
+
+[MySQLで利用可能な整数型について解説！int(11)のカッコに設定された数値って何？ | ポテパンスタイル](https://style.potepan.com/articles/19318.html)
+
+[MySQLでカラムを追加・変更・削除しよう | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-column-operations)
+
+
 
 ## TypeScript
 
@@ -1714,6 +1820,8 @@
 [stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
+
+[健康食品の「成分ランキング」を作ってみる – 株式会社ルーター](https://rooter.jp/web-data-report/healthfood-ranking/)
 
 ## Windows
 

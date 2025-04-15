@@ -336,6 +336,11 @@
 
 [Dockerでのpythonモジュールの管理 | book-reviews.blog](https://book-reviews.blog/python-module-management-on-Docker/)
 
+[VScodeでdockerの開発環境(python)を使う。](https://qiita.com/katakaku/items/b8dcac4aa14d585e4038)
+
+[Webアプリケーションの構造を理解し、dockerを用いた開発環境を構築できるようになる（構築編）](https://www.asobou.co.jp/blog/web/docker-construction)
+
+[Docker ComposeでSeleniumの環境構築をする方法(APIとSeleniumで連携する)](https://zenn.dev/aiq_dev/articles/0a4fdcfd5769b0)
 
 
 ## Electrical Engineering
@@ -516,9 +521,19 @@
 
 [基本的なGitコマンドまとめ #Git - Qiita](https://qiita.com/2m1tsu3/items/6d49374230afab251337)
 
+[VSCode ではじめる GitHub Copilot 活用術 #githubcopilot - Qiita](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
+
+[GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
+
+
 ## Go
 
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
+
+[Go言語とはどんなプログラミング言語？特徴やできることを解説](https://hnavi.co.jp/knowledge/blog/go/)
+
+
 
 ## HTML/CSS
 
@@ -688,6 +703,10 @@
 
 [nvm, Node.js, package.json, npm, yarn, webpackの違いについて #YARN - Qiita](https://qiita.com/ryouzi/items/5b0158ba1a77bf4b6004)
 
+[知識0の状態からたった2時間でVSCodeの拡張機能を作った話](https://qiita.com/_ken_/items/06161e8d4bac5e0bd209)
+
+[ESLint 最初の一歩 #JavaScript - Qiita](https://qiita.com/mysticatea/items/f523dab04a25f617c87d)
+
 ## LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -735,6 +754,8 @@
 
 [vmware、UbuntuとLinuxの違い、WSL2について #雑記 - Qiita](https://qiita.com/gen_san/items/12005592cd5050bb3c9a)
 
+[【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
+
 
 
 ## Markdown
@@ -766,6 +787,16 @@
 [Qiitaのテーブルの書き方についてまとめた #Markdown - Qiita](https://qiita.com/zakuroishikuro/items/f33929eab9d55c5bd073)
 
 [【Markdown】表を作る方法とは？文字の表示位置指定方法も解説！ | 侍エンジニアブログ](https://www.sejuku.net/blog/77323)
+
+[社内で使うスライドテンプレをMarpで作ってみた – CloudNative Inc. BLOGs](https://blog.cloudnative.co.jp/13452/)
+
+[Marpで独自CSSを使う方法](https://worklifefun.net/marp-own-css/)
+
+[Marp for VSCodeで独自CSSが効かない場合の対応（marp-cli）](https://worklifefun.net/marpforvscode-own-css-impossible/)
+
+[marp 自作テーマが適用できない人は marp-cli を使えばいいと思う](https://typememo.jp/tech/marp-cli-basic/)
+
+
 
 ## Microsoft
 
@@ -843,6 +874,10 @@
 
 [第73回調布祭Webサイトを​支えた​技術](https://www.sushichan.live/blog/post/tech/chofusai-2023-website/)
 
+[Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
+
+
+
 ## Nginx
 
 [[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
@@ -866,6 +901,8 @@
 [Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
 [フロントエンド開発の３ステップ（npmことはじめ） #Node.js - Qiita](https://qiita.com/hashrock/items/15f4a4961183cfbb2658)
+
+
 
 ## PHP
 
@@ -1457,6 +1494,10 @@
 
 [Rustをはじめよう その2(プログラム作成&実行編) | DCS blog](https://blog.dcs.co.jp/rust/20202409-rust-2.html)
 
+[Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
+
+
+
 ## Server
 
 [さくらのVPSでサーバー構築](https://jitaku.work/it/category/server-construction/sakura-construction/)
@@ -1649,6 +1690,10 @@
 
 
 
+## Swift
+
+[「Swift」とは？Appleが開発した新しいプログラミング言語の特徴](https://hnavi.co.jp/knowledge/blog/swift/)
+
 ## TypeScript
 
 [ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
@@ -1660,6 +1705,12 @@
 [TypeScript+Reactで別ファイルのコンポーネントを呼び出す(転何知人T+Rその3) #React - Qiita](https://qiita.com/botanic7arc/items/4398b2d49ef44f2073d8)
 
 [TypeScript でWebアプリ開発 #React - Qiita](https://qiita.com/Yasushi-Mo/items/3f6af80b871e2ff22568)
+
+[VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜](https://qiita.com/HelloRusk/items/073b58c1605de224e67e)
+
+[TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
+
+
 
 ## Typst
 
@@ -1798,6 +1849,14 @@
 [VSCodeの拡張機能「Code Spell Checker」を使う | yokuaru Tech notes](https://yamaccu.github.io/vscode/20230512-vscode-spellcheck)
 
 [VSCodeのDraw.ioのダークテーマを解除する - BioErrorLog Tech Blog](https://www.bioerrorlog.work/entry/vscode-drawio-dark-theme)
+
+[VSCodeのおすすめ拡張機能一覧とその使い方](https://qiita.com/bskcorona-github/items/8a25d7905f8020f53071)
+
+[【随時更新】自分用VSCode拡張機能まとめ](https://qiita.com/danishi/items/bfd41b97f3138cc78083)
+
+[【分野別】VSCodeのおすすめ拡張機能まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
+
+
 
 ## Vue.js
 

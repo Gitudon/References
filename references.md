@@ -174,27 +174,7 @@
 
 [JSONファイルを扱うCUIツール「jq」を使ってみる - 土日の勉強ノート](https://daisuke20240310.hatenablog.com/entry/jq)
 
-[rubyでFile.openを使わずにファイルの読み書きをする方法 #Ruby - Qiita](https://qiita.com/south37/items/d3dc33cb9f9cda4f9dd0)
 
-[class File (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/File.html)
-
-[ハッシュの便利メソッドあれこれ #Ruby - Qiita](https://qiita.com/jnchito/items/02ba8aad634a6bd8a2f6)
-
-[【Ruby入門】日付と時刻を取得する方法（Dateクラス） #プログラミング - Qiita](https://qiita.com/Morio/items/61b54f1869b541b3f860)
-
-[class Time (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Time.html)
-
-[Time#strftime (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Time/i/strftime.html)
-
-[Ruby | Timeオブジェクトを指定したフォーマットで文字列に変換する](https://www.javadrive.jp/ruby/time_class/index4.html)
-
-[Rubyによる現在日時取得(now)の方法について現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/49468)
-
-[Rubyで日時を扱う：Time, Date, DateTime - 日常で使うRubyプログラミング](https://ysy-ruby.hatenablog.com/entry/2024/03/14/065749)
-
-[Ruby ハッシュのキーを複数指定して値を取得する | mebee](https://mebee.info/2021/06/18/post-24228/)
-
-[Ruby | ハッシュオブジェクトから値を取得する](https://www.javadrive.jp/ruby/hash/index2.html)
 
 
 
@@ -211,6 +191,32 @@
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
+
+## Curl
+
+[curl コマンドでブラウザを操作する #Selenium - Qiita](https://qiita.com/noritakaIzumi/items/e46d195b82331ef8caed)
+
+[curlでヘッダ情報やHTTPステータスコードのみを出力する方法 #Terminal - Qiita](https://qiita.com/unsoluble_sugar/items/9b78fd7e4e77c6e00f02)
+
+[curl コマンド 使い方メモ #ShellScript - Qiita](https://qiita.com/yasuhiroki/items/a569d3371a66e365316f)
+
+[curlコマンドにオプションつけて色々設定 #Ruby - Qiita](https://qiita.com/kentotsuka/items/0721ab8bc0db3571fb56)
+
+[要ログインのWebページにコマンドラインからアクセスしてみる - Webログインの簡単な解説 - #Linux - Qiita](https://qiita.com/yuqy/items/4e0b38849f68fb57bfc8)
+
+[curlコマンドから HTTP POST する方法 #Bash - Qiita](https://qiita.com/letsspeak/items/8c7266742371699ab45e)
+
+[curlコマンドでHTTPリクエストを投げてみる - iimon TECH BLOG](https://tech.iimon.co.jp/entry/2023/07/21/130000)
+
+[よく使うプログラミング言語はcurlです – 株式会社ルーター](https://rooter.jp/web-crawling/curl_as_programming_laguage/)
+
+[Chrome DevToolsでリクエストを再現するcURLコマンドを取得 – 株式会社ルーター](https://rooter.jp/web-crawling/fetch-curl-command-with-chrome-devtools/)
+
+[curlを使ったスクレイピング](https://brightdata.jp/blog/%E5%90%84%E7%A8%AE%E3%81%94%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95/how-to-use-curl-for-web-scraping)
+
+[curlコマンドを使ったWEBサイトの各種計測方法について - 株式会社ネディア │ネットワークの明日を創る│群馬](https://www.nedia.ne.jp/blog/2024/06/04/23423)
+
+
 
 ## Docker
 
@@ -674,6 +680,10 @@
 [Java入門 ソースコードの分割 #Java - Qiita](https://qiita.com/Co_Pilot/items/a5fc93d72fea1e0deb60)
 
 [Java言語の命名指針 #命名規則 - Qiita](https://qiita.com/rkonno/items/1b30daf83854fecbb814)
+
+[ｎ進数の足し算をJavaで実装してみる #n進法 - Qiita](https://qiita.com/syoukou/items/3a801859fbf6d2dd47b4)
+
+
 
 ## JavaScript
 
@@ -1484,6 +1494,92 @@
 
 [Ruby (2.2.0) 自分で作成したファイルを読み込む(require)にハマる - かもメモ](https://chaika.hatenablog.com/entry/2016/10/25/080000)
 
+[今使っているActiveRecordのバージョンを調べる方法 #Ruby - Qiita](https://qiita.com/shakemurasan/items/61f4f1eff0b924b8c4b3)
+
+[Ruby 初心者がActiveRecordを使ってデータをデータベースに挿入するまで（単体でActiveRecordを使う） #Ruby - Qiita](https://qiita.com/murata0705/items/1d0f32ba5ffad9704493)
+
+[Railsのタイムゾーン設定について](https://zenn.dev/ryouzi/articles/dda18594f2dbd3)
+
+[ActiveRecordのdefault_timezoneについて #Ruby - Qiita](https://qiita.com/ch0b3/items/f0e11832cf9097023649)
+
+[Railsと周辺のTimeZone設定を整理する (active_record.default_timezoneの罠) #Ruby - Qiita](https://qiita.com/joker1007/items/2c277cca5bd50e4cce5e)
+
+[Docker+Rails6でTimeZoneをUTCからJSTに変更する方法！設定方法はとても簡単！｜himakuroブログ](https://himakuro.com/modify-timezone-to-jst-in-rails)
+
+[ActiveRecordを単体で使ってる場合のタイムゾーンの設定 - tyn-iMarketの技術メモ](https://tyn-imarket.hatenadiary.org/entry/20131027/1382897686)
+
+[Railsで4バイトUnicode絵文字を扱えるようにする - 城陽人の本棚](https://minamijoyo.hatenablog.com/entry/20150207/p1)
+
+[ActiveRecordの属性を文字列としてフォーマットして羅列するスクリプトで生産性がそこそこ上がった話](https://zenn.dev/leaner_dev/articles/20221129-easy_script_puts_you_at_ease)
+
+[ActiveRecordで全てのString型カラムの文字コードをバリデーションする。 #Ruby - Qiita](https://qiita.com/tonluqclml/items/8d68ef751ed71cd9b7f5)
+
+[【Rails入門】データを削除する方法（destroy/delete）を確認しよう | 侍エンジニアブログ](https://www.sejuku.net/blog/63480)
+
+[delete, delete_all, destroy, destroy_allについて #Rails - Qiita](https://qiita.com/kamelo151515/items/0fa7fb15a1d2c1e44db2)
+
+[引数とデフォルト値を「キーワード引数」にするメリット #Ruby - Qiita](https://qiita.com/ikura_ooo/items/ab206962e28b217d453b)
+
+[Railsの.whereに渡せるもの #ActiveRecord - Qiita](https://qiita.com/jkr_2255/items/245533f606efabbf1b8f)
+
+[[ActiveRecord] ActiveRecordの知識](https://zenn.dev/igaiga/books/rails-practice-note/viewer/ar_usefuls)
+
+[RailsのActiveRecordで、joinsメソッドやwhereメソッドで、ハッシュで条件を指定する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2023/03/05/214427)
+
+[Nokogiriを使った基礎的なWebスクレイピングを学びました #Ruby - Qiita](https://qiita.com/hirokun0204/items/d6e769ec594a4934e8a5)
+
+[Ruby CSVを扱うためのメモ #File - Qiita](https://qiita.com/shizuma/items/7719172eb5e8c29a7d6e)
+
+[Rubyでヘッダ付きのCSVを生成する | 秋山ブログ](https://d.akiroom.com/2013-04/ruby-header-csv/)
+
+[RubyでWebスクレイピング #3 Nokogiriを使いこなす](https://zenn.dev/arao99/articles/a68d8039f85fa8)
+
+[Nokogiriで使えるcssセレクタまとめ #Ruby - Qiita](https://qiita.com/miyamasaru/items/0f0a0ccdd6daf683ecff)
+
+[Nokogiri でスクレイピングしていて レイアウトが変わると困る！ – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_scraping_patch/)
+
+[Rubyのクラスメソッドとインスタンスメソッドの例 #Ruby - Qiita](https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07)
+
+[Ruby オブジェクトのクラスを調べるには？ - kinopyo blog](https://kinopyo.com/ja/blog/to-find-out-ruby-object-class)
+
+[rubyでFile.openを使わずにファイルの読み書きをする方法 #Ruby - Qiita](https://qiita.com/south37/items/d3dc33cb9f9cda4f9dd0)
+
+[class File (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/File.html)
+
+[ハッシュの便利メソッドあれこれ #Ruby - Qiita](https://qiita.com/jnchito/items/02ba8aad634a6bd8a2f6)
+
+[【Ruby入門】日付と時刻を取得する方法（Dateクラス） #プログラミング - Qiita](https://qiita.com/Morio/items/61b54f1869b541b3f860)
+
+[class Time (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Time.html)
+
+[Time#strftime (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Time/i/strftime.html)
+
+[Ruby | Timeオブジェクトを指定したフォーマットで文字列に変換する](https://www.javadrive.jp/ruby/time_class/index4.html)
+
+[Rubyによる現在日時取得(now)の方法について現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/49468)
+
+[Rubyで日時を扱う：Time, Date, DateTime - 日常で使うRubyプログラミング](https://ysy-ruby.hatenablog.com/entry/2024/03/14/065749)
+
+[Ruby ハッシュのキーを複数指定して値を取得する | mebee](https://mebee.info/2021/06/18/post-24228/)
+
+[Ruby | ハッシュオブジェクトから値を取得する](https://www.javadrive.jp/ruby/hash/index2.html)
+
+[curlコマンドをRubyで叩きたい時の便利サイト！ - 技術と本について書くブログ](https://techandmake.hatenablog.com/entry/2019/01/27/194903)
+
+[Rubyでcurlコマンドを組み立てる #Ruby - Qiita](https://qiita.com/aosho235/items/53da6acd33cf49f267ce)
+
+[マッハでクローラーを構築する（curl to ruby） – 株式会社ルーター](https://rooter.jp/web-crawling/curl-to-ruby-crawler/)
+
+[library open-uri (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/library/open=2duri.html)
+
+[open-uriによるWebクローリング入門 – 株式会社ルーター](https://rooter.jp/web-crawling/open-uri-crawling/)
+
+[String#length (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/String/i/length.html)
+
+[curlコマンドで入力フォームにテキストを入力してPOSTをするテスト - Hacking life travel tech anything](https://www.travelhacks.tokyo/entry/curl-post-d-option)
+
+[Rubyの多重代入あれこれまとめ #Ruby - Qiita](https://qiita.com/yancya/items/c557864f307d429bbde4)
+
 
 
 ## Rust
@@ -1687,6 +1783,23 @@
 [MySQLで利用可能な整数型について解説！int(11)のカッコに設定された数値って何？ | ポテパンスタイル](https://style.potepan.com/articles/19318.html)
 
 [MySQLでカラムを追加・変更・削除しよう | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-column-operations)
+
+[DELETE文（SQLを基本から学ぶシリーズ）](https://products.sint.co.jp/siob/blog/sql-delete)
+
+[[SQL] UPDATE文の基本構文 #SQL - Qiita](https://qiita.com/minhee/items/8de52f4bffb886c68b99)
+
+[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
+
+[RailsとMySQLでiOSの絵文字に対応(UTF8MB4化)した話 - Akata Works](https://akataworks.hatenadiary.jp/entry/2016/02/26/102439)
+
+[【MySQL】DELETEとTRUNCATEのざっくりとした違い #MySQL - Qiita](https://qiita.com/shuhei_m/items/28b5aab580f527f62b41)
+
+[TRUNCATE TABLE (Transact-SQL) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver16)
+
+[SQLのTRUNCATEとは？全てのデータを削除するTRUNCATE文の使い方](https://www.bold.ne.jp/engineer-club/sql-truncate)
+
+[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
+
 
 
 
@@ -2001,4 +2114,6 @@
 [クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
 
 [「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
+
+[HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
 

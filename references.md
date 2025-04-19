@@ -30,6 +30,10 @@
 
 [ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました #Python - Qiita](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
 
+[Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
+
+
+
 ## Asm
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
@@ -174,7 +178,7 @@
 
 [JSONファイルを扱うCUIツール「jq」を使ってみる - 土日の勉強ノート](https://daisuke20240310.hatenablog.com/entry/jq)
 
-
+[【初心者向け】シェルスクリプトの作り方 #ShellScript - Qiita](https://qiita.com/Lambda34/items/7d24ebe6f7bde5bedddc)
 
 
 
@@ -1913,6 +1917,22 @@
 
 [【WSL2】Ubuntu 20.04.4 LTS を 22.04 LTS へアップグレードした](https://zenn.dev/ryuu/articles/upgrade-ubuntu2204-wsl)
 
+[Ubuntu(20.04)でMozcを使って日本語と英数入力をいい感じに切り替える方法 #Ubuntu - Qiita](https://qiita.com/donkonishi/items/1c147f0f9cffd59fe97d)
+
+[UbuntuにVSCodeをインストールする3つの方法 #AlmaLinux - Qiita](https://qiita.com/yoshiyasu1111/items/e21a77ed68b52cb5f7c8)
+
+[Ubuntuをアップグレードしたら日本語入力できなくなった話 #Ubuntu22.04 - Qiita](https://qiita.com/LittleBear-6w6/items/ded8e2179d865d9e5823)
+
+[Ubuntuで日本語入力ができなくなったときにやること #Mozc - Qiita](https://qiita.com/hidehic0/items/94c827f1e56851bbf5de)
+
+[vscode を apt でアップデートする ubuntu22.04 #VSCode - Qiita](https://qiita.com/paseri2022/items/92ebc7c9c96065ffbb45)
+
+[UbuntuでC, C++の開発環境をインストールしてHelloWorldしよう！ #C++ - Qiita](https://qiita.com/nsd24/items/805d0b53c67a1043e819)
+
+[お気に入りの Ubuntu キーバインド設定(i,j,k,l) #bashrc - Qiita](https://qiita.com/guchipon/items/a038ae156a670123cd16)
+
+
+
 ## Vim
 
 [vimで文字コードを指定して開き直す #Vim - Qiita](https://qiita.com/gorton/items/bdeb5a4f15c5e141d6c1)
@@ -1969,6 +1989,10 @@
 
 [【分野別】VSCodeのおすすめ拡張機能まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5f933df1292564e6dc70)
 
+[VSCodeでドキュメント作成するならまずこれを入れよう #Markdown - Qiita](https://qiita.com/tossie85/items/c8aef027cb6acba3b437)
+
+[【VSCode】プレーンテキストと言語の関連付け #初心者 - Qiita](https://qiita.com/mihooo24/items/300847c8b391721c7823)
+
 
 
 ## Vue.js
@@ -2018,6 +2042,10 @@
 [Windows11ではWSL2のGUI表示にXサーバー使わなくていいってほんまか！？ #ポエム - Qiita](https://qiita.com/nekoshark02/items/bfbee38f59fec8e6c8b5)
 
 [WSL2でデフォルトのディストリビューションを変更する #WSL2 - Qiita](https://qiita.com/honda28/items/376c878a7706cd531801)
+
+[Windows 11にWSL2をインストールする #Windows - Qiita](https://qiita.com/SAITO_Keita/items/148f794a5b358e5cb87b)
+
+
 
 ## Words
 
@@ -2116,4 +2144,6 @@
 [「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
 
 [HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
+
+[「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
 

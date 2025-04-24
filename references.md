@@ -32,6 +32,16 @@
 
 [Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
 
+[MySQLを利用したFlask RESTful API作成メモ #Python - Qiita](https://qiita.com/KWS_0901/items/8384d7b2961a3c682afe)
+
+[PythonのFlaskでMySQLを利用したRESTfulなAPIをDocker環境で実装する #Python - Qiita](https://qiita.com/kai_kou/items/5d73de21818d1d582f00)
+
+[REST APIとは？RESTの特徴・概念や、APIとの違い | エンベーダー](https://envader.plus/article/83)
+
+[RESTful APIとは？RESTの6原則とメリット・デメリットを解説！｜Udemy メディア](https://udemy.benesse.co.jp/development/restful-api.html)
+
+[API選定における「無料枠」への依存リスク：Google Geocoder API変更事例と代替策（HERE/ALS） – 株式会社ルーター](https://rooter.jp/aws/geocoder-api-alternative-selection/)
+
 
 
 ## Asm
@@ -56,11 +66,65 @@
 
 [個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
 
-## AviUtl
 
-[【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
 
-[【AviUtl】完成した動画を出力（エンコード）](https://sosakubiyori.com/aviutl-encode/)
+## Aws
+
+[AWS CLI の最新バージョンのインストールまたは更新 - AWS Command Line Interface](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/getting-started-install.html)
+
+[AWS CLIでS3を操作するコマンド一覧 #Python - Qiita](https://qiita.com/uhooi/items/48ef6ef2b34162988295)
+
+[【AWS】Amazon S3 を徹底的にまとめてみた！ #Python - Qiita](https://qiita.com/c60evaporator/items/da47620d69f84a9be7dc)
+
+[【AWS】AWS CLIでプロファイルを変更する方法](https://zenn.dev/wakkunn/articles/be748e71d405d1)
+
+[Amazon S3 でのアクセス拒否 (403 Forbidden) エラーのトラブルシューティング - Amazon Simple Storage Service](https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/troubleshoot-403-errors.html)
+
+[【AWS】IAMユーザ作成手順 #AWS - Qiita](https://qiita.com/shihandai/items/899c2ab8119783492349)
+
+[AWS CLIインストール、IAMユーザー作成、アクセスキー作成、AWSリソースへのアクセス #Ubuntu - Qiita](https://qiita.com/hiropon1839/items/cd9d1e049ac5d0c07a64)
+
+[VPCエンドポイント経由でaws s3 lsを打っても応答が返ってこない時はregionを指定しよう #AWS - Qiita](https://qiita.com/Batchi/items/1c581ef7a1b64bbbe32f)
+
+[AWS CLIで設定したプロファイルリストを表示する - カピバラ好きなエンジニアブログ](https://www.capybara-engineer.com/entry/2020/07/20/162821)
+
+[AWS CLI プロファイル & IAM 関連コマンド集 #aws-cli - Qiita](https://qiita.com/sakeafterbeer/items/1310449531da7ba92e87)
+
+[AWS CLIでaws configureコマンドにprofileオプションを付けて使ってみた | DevelopersIO](https://dev.classmethod.jp/articles/lim-cli-profile/)
+
+[UbuntuでAWS CLIを使えるようにする #備忘録 - Qiita](https://qiita.com/SSMU3/items/ce6e291a653f76ddcf79)
+
+[【トラブル】【AWS】S3権限周りのトラブルシュート - プログラム の超個人的なメモ](https://dk521123.hatenablog.com/entry/2024/01/04/000000)
+
+[S3 ListBucketsの実行に必要なIAM権限 | AWS - BioErrorLog Tech Blog](https://www.bioerrorlog.work/entry/s3-listbuckets-iam-permission)
+
+[【AWS】アクセスポリシーの書き方（JSON） #IAMポリシー - Qiita](https://qiita.com/shota_hagiwara/items/e9cf6413c5c99335e658)
+
+[aws-cliで効率よくIAMのポリシードキュメント更新を行ってみた | DevelopersIO](https://dev.classmethod.jp/articles/iam-policy-document-update-on-terminal/)
+
+[AWS S3の特定bucketにCLIやAPIでアクセスする設定 #aws-cli - Qiita](https://qiita.com/spssfun2017/items/40acfbaf6bce8f8011cf)
+
+[Amazon IAM編　S3バケット内特定フォルダだけ操作するIAMポリシー – ナレコムAWSレシピ | AIに強い情報サイト](https://recipe.kc-cloud.jp/archives/7456/)
+
+[AWS CLIの実行結果から不足している権限をIAMポリシーに自動で追加したい #Bash - Qiita](https://qiita.com/Lamaglama39/items/0b839ce634271a827926)
+
+[AWS CLI で SSO profile を元にした AssumeRole profile の設定 #PHP - Qiita](https://qiita.com/zagvym/items/c234b82bbc0659ac429c)
+
+[IAMインスタンスプロファイルって？](https://zenn.dev/yuta28/articles/ec2-iam-instance-profile)
+
+[【AWS】AWSCLIでS3バケット内にディレクトリを作成する方法](https://zenn.dev/supersatton/articles/74e7936dac5778)
+
+[Amazon S3のフォルダについて #AWS - Qiita](https://qiita.com/SAITO_Keita/items/1e2b85af58763a259de7)
+
+[【AWS CLI】S3基本操作 #aws-cli - Qiita](https://qiita.com/crml1206/items/1d507aee328fd09415ac)
+
+[ショロカレ 10 日目 | 初老と AWS（1）〜 AWS CLI で S3 バケット以下にフォルダを作る時にどげんすっとや 〜 | iret.media](https://iret.media/27205)
+
+[AWS-SDKを利用してS3にファイルをアップロードする #aws-sdk - Qiita](https://qiita.com/itty-star/items/0c5de8bdf378d943ceb0)
+
+[【AWS CLI】S3上のフォルダを削除する | 現場で使える！ AWS実践ガイド](https://aws-guide.work/s3-folder-rm/)
+
+
 
 ## Bat
 
@@ -83,6 +147,14 @@
 [ブラウザのリクエストをcURL形式で取得 #ShellScript - Qiita](https://qiita.com/ueokande/items/a580e9d9f17dbf82f382)
 
 [Chromeの開発者ツールで捕捉した通信をcurlコマンドでコピーする - エンジニアのはしがき](https://tm-progapp.hatenablog.com/entry/2022/09/07/184452)
+
+[古いバージョンのChromeDriverをダウンロードする – 株式会社ルーター](https://rooter.jp/environment/chromedriver-version-dl/)
+
+[Chrome拡張でページのスクリーンショットを撮る](https://zenn.dev/kakkoyakakko/articles/54fe29dc3751b9)
+
+[ブラウザの開発者ツールでJavaScriptをデバッグする #debug - Qiita](https://qiita.com/Hamoto/items/703b5e4a5c9aff891a26)
+
+[ChromeのデベロッパーツールでJSをデバッグする方法 - ICS MEDIA](https://ics.media/entry/190517/)
 
 
 
@@ -180,6 +252,8 @@
 
 [【初心者向け】シェルスクリプトの作り方 #ShellScript - Qiita](https://qiita.com/Lambda34/items/7d24ebe6f7bde5bedddc)
 
+[ファイルの圧縮についてまとめ #解凍 - Qiita](https://qiita.com/shotets/items/b210e19b0b05513513da)
+
 
 
 ## Cpp
@@ -219,6 +293,16 @@
 [curlを使ったスクレイピング](https://brightdata.jp/blog/%E5%90%84%E7%A8%AE%E3%81%94%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95/how-to-use-curl-for-web-scraping)
 
 [curlコマンドを使ったWEBサイトの各種計測方法について - 株式会社ネディア │ネットワークの明日を創る│群馬](https://www.nedia.ne.jp/blog/2024/06/04/23423)
+
+[よく使うcurlコマンドのオプションまとめ（14個） #Linux - Qiita](https://qiita.com/shtnkgm/items/45b4cd274fa813d29539)
+
+[curlによる途中経過を表示しない](https://nvnote.com/curl-disable-progress/)
+
+[よく使うcurlコマンドのオプション #Linux - Qiita](https://qiita.com/ryuichi1208/items/e4e1b27ff7d54a66dcd9)
+
+[知っておくとちょっと便利！curl コマンドの使い方をご紹介 | SIOS Tech. Lab](https://tech-lab.sios.jp/archives/29999)
+
+[curl -s -f -D /dev/stderr が優勝 – 株式会社ルーター](https://rooter.jp/web-crawling/curl-s-f-d-dev-stderr-is-the-winner/)
 
 
 
@@ -405,6 +489,18 @@
 
 [Slack 特定のメッセージにユーザーが自動リアクションする機能をGASで実装する #JavaScript - Qiita](https://qiita.com/Keichan_15/items/355ce2bf271bba4fe0eb)
 
+[Google Apps Script(GAS)比較演算子と論理演算子まとめ｜youtube戦略室](https://note.com/youtube_consul/n/n9ec4c152dc8c)
+
+[スプレッドシートで別シートを参照・集計する方法！ IMPORTRANGE関数で簡単にファイル間のデータを参照 [Google スプレッドシートの使い方] All About](https://allabout.co.jp/gm/gc/488144/)
+
+[スプレッドシートで別のシートの値をINDIRECT関数で動的に参照するメモ #GoogleAppsScript - Qiita](https://qiita.com/n0bisuke/items/2f96bfdb4e39cda9f36e)
+
+[Googleスプレッドシートで日付を自動入力！【簡単】│月額40,000円から始められるITアウトソーシング（ITO）|オフィスドクター（OFFICE DOCTOR）](https://office-otasuke.com/archives/5912)
+
+[GAS×スプレッドシート｜セル編集時に日付を自動入力｜イチからDX｜mochi](https://note.com/mochi_assistant/n/n76f5d67c4ae7)
+
+
+
 ## Git
 
 [GitHubを使おう! ログイン方法や2段階認証設定を徹底解説](https://www.sejuku.net/blog/70914)
@@ -534,6 +630,26 @@
 [VSCode ではじめる GitHub Copilot 活用術 #githubcopilot - Qiita](https://qiita.com/RyoWakabayashi/items/1207128e88669c76bf5f)
 
 [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
+
+[BitbucketにSSH認証鍵を設定する #Git - Qiita](https://qiita.com/0084ken/items/e763c85054a5a1e2cc6c)
+
+[SSH認証鍵をBitbucketに設定 #Git - Qiita](https://qiita.com/ksugawara61/items/a4f34e5e120bea1732d5)
+
+[Github ローカルリポジトリをリモートリポジトリと紐づける #Mac - Qiita](https://qiita.com/miriwo/items/a7be71f6a238b09eda10)
+
+[【Git】コミット履歴の閲覧 #Git - Qiita](https://qiita.com/Qiu/items/6a7521feede117b63c7b)
+
+[Gitでコンフリクトコミットを積んでコンフリクトの解消作業を履歴に積む](https://zenn.dev/wilf/articles/9502f5375a6581)
+
+[複雑なGitマージ作業の進め方｜Kinsta®](https://kinsta.com/jp/blog/git-merge/)
+
+[Git 2.27 での git pull 時の warning について #Git - Qiita](https://qiita.com/tearoom6/items/0237080aaf2ad46b1963)
+
+[競合を解決する｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/intro/20/)
+
+[【git】git でコンフリクトさせて解消してみる #Git - Qiita](https://qiita.com/narikkyo/items/50063fe3cf849fa570fc)
+
+[【Git/GitHub/エラー解消法】git pushしたらConflicting filesが発生した時の解消方法 - 気ままに気ままのエンジニアブログ](https://hachimaki37.hatenablog.com/entry/2021/04/14/194312)
 
 
 
@@ -721,6 +837,28 @@
 
 [ESLint 最初の一歩 #JavaScript - Qiita](https://qiita.com/mysticatea/items/f523dab04a25f617c87d)
 
+[HTMLElement: click() メソッド - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/HTMLElement/click)
+
+[【JavaScript】マウスによるクリックと element.click() ではリスナーの実行のされ方が違った【非同期処理】 #JavaScript - Qiita](https://qiita.com/righteous/items/e38ce1d1c7861d02b87d)
+
+[javascriptからクリックイベントを発生させる #JavaScript - Qiita](https://qiita.com/michieru/items/5f7644d563b4545a9744)
+
+[HTMLElement: click() メソッド - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/HTMLElement/click)
+
+[[OutSystems]JavaScriptでInputの値を変更する方法 #React - Qiita](https://qiita.com/jyunji_watanabe/items/b4a1aa3b5b69ed181df0)
+
+[【JavaScript】マウスによるクリックと element.click() ではリスナーの実行のされ方が違った【非同期処理】 #JavaScript - Qiita](https://qiita.com/righteous/items/e38ce1d1c7861d02b87d)
+
+[JavaScriptの力をつかってチェックボックスを操作する - みかづきブログ その3](https://kimizuka.hatenablog.com/entry/2015/07/25/000000)
+
+[JavaScriptでチェックボックス操作！(判定・取得・外す) | コードライク](https://codelikes.com/javascript-checkbox-control/)
+
+[JavaScriptでボタン自動クリックのサンプルと実用例 | Web(ウェブ)の便利屋ララパルーザ](https://lallapallooza.jp/4902/)
+
+[コピペで使える!JavaScriptボタンクリックイベント](https://blog.future.ad.jp/%E3%82%B3%E3%83%94%E3%83%9A%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8Bjavascript%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)
+
+
+
 ## LaTeX
 
 [見出し](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/midasi.html)
@@ -825,6 +963,16 @@
 [【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
 
 [Microsoft Edge のキーボード ショートカット - Microsoft サポート](https://support.microsoft.com/ja-jp/microsoft-edge/microsoft-edge-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-50d3edab-30d9-c7e4-21ce-37fe2713cfad)
+
+## Movie
+
+[【AviUtl】最低限の初期設定方法【システムの設定】](https://aviutl.info/syokisettei/)
+
+[【AviUtl】完成した動画を出力（エンコード）](https://sosakubiyori.com/aviutl-encode/)
+
+[デモ動画を作るための最低限のCanvaスキル – 株式会社ルーター](https://rooter.jp/infra-ops/canva-free-demo-video-editing/)
+
+
 
 ## Network
 
@@ -1218,6 +1366,18 @@
 
 [Python クラスについて #Python3 - Qiita](https://qiita.com/motoki1990/items/376fc1d1f3d59c960f5c)
 
+[Python, fractionsで分数（有理数）の計算 | note.nkmk.me](https://note.nkmk.me/python-fractions-usage/)
+
+[改行コードを改行タグに変換する方法 #HTML - Qiita](https://qiita.com/gacky35/items/8498176ee80d6b6ce014)
+
+[Flask で Restful API を作る - jsonify で日本語が文字化けする時の解決方法 - datalove’s diary](https://datalove.hatenadiary.jp/entry/flask-jsonify-how-to-encode-japanese)
+
+[【Python × Flask】REST APIでjsonifyのレスポンスが文字化けする時の対応方法 | SCRAWLED TECH BLOG](https://scrawledtechblog.com/python-flask-rest-api-jsonify-mojibake/)
+
+[【Flask】日本語のレスポンスが文字化けする | Rue1の隠れ家](https://rue1.psycho.jp/806)
+
+[はじめての Flask #5 ~JSONを返すWebAPIを書こう~ #Python - Qiita](https://qiita.com/nagataaaas/items/24e68a9c736aec31948e)
+
 
 
 ## Raspberry Pi
@@ -1584,6 +1744,44 @@
 
 [Rubyの多重代入あれこれまとめ #Ruby - Qiita](https://qiita.com/yancya/items/c557864f307d429bbde4)
 
+[Rubyで外部コマンドを実行して結果を受け取る方法あれこれ #Ruby - Qiita](https://qiita.com/tyabe/items/56c9fa81ca89088c5627)
+
+[Rubyでloggerを使い、ログを出力してみた | DevelopersIO](https://dev.classmethod.jp/articles/output_log_using_logger/)
+
+[bundle execって必要なの? #Ruby - Qiita](https://qiita.com/d0ne1s/items/fa2dafcee02e963fe997)
+
+[JavaScript描画のhtmlをrubyのgem:mini_racerを使ってスクレイピングする – 株式会社ルーター](https://rooter.jp/web-crawling/scraping_with_mini_racer/)
+
+[chrome_remoteという選択（脱Selenium大作戦） – 株式会社ルーター](https://rooter.jp/web-crawling/chrome_remote/)
+
+[Rails(Ruby)でBase64化された画像を取り回すときのSnippet #Rails - Qiita](https://qiita.com/maruware/items/407fc668f06e7784b198)
+
+[RubyでBase64URLエンコーディング #Ruby - Qiita](https://qiita.com/awakia/items/049791daca69120d7035)
+
+[CDP経由でChromeのタブを切り替える #ChromeDevToolsProtocol - Qiita](https://qiita.com/yugo-yamamoto/items/7c7b38123636d449d654)
+
+[CapybaraでJSを使ったテストは save_screenshot が便利 #JavaScript - Qiita](https://qiita.com/showwin/items/cf047bfd9a3c08781bf7)
+
+[Webページのスクリーンショットを撮るアプリを作った | oknm.jp](https://oknm.jp/posts/61aa58dcf2dda1f2729c2feff47946f6f0eada96)
+
+[RubyでChromeを自動操縦してスクレイピング](https://zenn.dev/koxya/articles/f5baa8ddb813ad)
+
+[【ActiveRecord】レコード数を取得するにはlengthやcountではなくsizeを使っておけば良さそう - やわらかテック](https://www.okb-shelf.work/entry/activerecord_count_record)
+
+[【Ruby on Rails】テーブルのレコード数を取得する - Model #Ruby - Qiita](https://qiita.com/operandoOS/items/f932ecac5a7e9cc9f098)
+
+[URI.joinでちょっと嵌った。 #Ruby - Qiita](https://qiita.com/torshinor/items/bd6c6c98ade7c942791b)
+
+[RubyでURLの結合をするときは`File.join`使うと幸せになった #Ruby - Qiita](https://qiita.com/ryonext/items/0bfd2592d713211bbc2f)
+
+[これで大抵賄える！AWS SDK for Ruby V3でのS3操作まとめ！！ #aws-sdk - Qiita](https://qiita.com/Kta-M/items/b9f22277e983a05389fb)
+
+[RubyからS3を使ってみる #AWS - Qiita](https://qiita.com/katsuyoshi/items/d693e57eadc40465e7e6)
+
+[RubyからS3を利用する #AWS - Qiita](https://qiita.com/ymneet/items/00da47d2d42f665e67eb)
+
+[AWS SDK for Ruby V3のAws::S3::ClientとAws::S3::Resourceの違いに正面から向き合う #aws-sdk - Qiita](https://qiita.com/Kta-M/items/c1245ae6bf12f686e827)
+
 
 
 ## Rust
@@ -1804,6 +2002,23 @@
 
 [【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
 
+[【MySQL 8.3】rootユーザーのパスワードを忘れた際のパスワード変更方法（Windows） #Windows10 - Qiita](https://qiita.com/nkserveren26/items/f67de3dc7ca80b4c0e10)
+
+[【MySQL】rootユーザーのパスワードを忘れてしまった時 #MySQL - Qiita](https://qiita.com/nekihcom/items/43874b566c397347df0a)
+
+[MySQL/MariaDBで未使用のテーブルを効率的に見つける方法 – 株式会社ルーター](https://rooter.jp/infra-ops/identify_unnecessary_tables/)
+
+[新旧RubyバージョンにおけるHTTPクライアントの選択肢 – 株式会社ルーター](https://rooter.jp/web-crawling/old_and_new_http_client_for_ruby/)
+
+[データチェックに便利なSQL – 株式会社ルーター](https://rooter.jp/web-crawling/sql_for_datacheck/)
+
+[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
+
+[SQL Serverでレコード件数を調べる方法 #Database - Qiita](https://qiita.com/fuk101/items/90f257ef968097d01d60)
+
+[PostgreSQLのmysql_fdwを使ったUTF8MB4外部テーブルの文字化け防止策 – 株式会社ルーター](https://rooter.jp/infra-ops/select_utf8mb4_mysql_fdw/)
+
+[MySQLからPostgreSQLへの移行時にenum型をvarchar型に変えた話 – 株式会社ルーター](https://rooter.jp/programming/db/mysql_to_postgresql_enum_to_varchar/)
 
 
 
@@ -1931,6 +2146,10 @@
 
 [お気に入りの Ubuntu キーバインド設定(i,j,k,l) #bashrc - Qiita](https://qiita.com/guchipon/items/a038ae156a670123cd16)
 
+[UbuntuにChromeをインストールする手順 #ubuntu18.04 - Qiita](https://qiita.com/grgrjnjn/items/a5c4da336031b63f09a6)
+
+[UbuntuでGoogle Chromeをインストールする手順](https://go.lightnode.com/ja/tech/how-to-install-chrome-on-ubuntu)
+
 
 
 ## Vim
@@ -1993,6 +2212,8 @@
 
 [【VSCode】プレーンテキストと言語の関連付け #初心者 - Qiita](https://qiita.com/mihooo24/items/300847c8b391721c7823)
 
+[VSCode のターミナルを下・左・右に配置する #VSCode - Qiita](https://qiita.com/DriftwoodJP/items/7b0db35d99cd03350b83)
+
 
 
 ## Vue.js
@@ -2045,6 +2266,12 @@
 
 [Windows 11にWSL2をインストールする #Windows - Qiita](https://qiita.com/SAITO_Keita/items/148f794a5b358e5cb87b)
 
+[WSL2,WSLgを使ったWindows上の開発環境構築2022版 #WSL - Qiita](https://qiita.com/yugo-yamamoto/items/28e3d2a090f8f546f3ec)
+
+[【WSL2, Debian, Ubuntu】システムテスト等でChromeを立ち上げた際にWSL2側の問題で文字化けしてしまう問題を解決する方法 - LEFログ](https://lef237.hatenablog.com/entry/2022/12/05/163550)
+
+[ファイルの圧縮・解凍方法｜PC教室｜各利用方法、マニュアル｜利用方法｜東京経済大学情報システム課](https://www.tku.ac.jp/iss/guide/classroom/pcroom/decompression.html)
+
 
 
 ## Words
@@ -2065,6 +2292,28 @@
 
 [ファイルシステムとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13127.html)
 
+[継続的インテグレーション (CI) とは？](https://circleci.com/ja/continuous-integration/)
+
+[リファクタリングとは？定義やメリット・デメリットを解説](https://products.sint.co.jp/obpm/blog/refactoring)
+
+[ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)
+
+[オーバーヘッド 【overhead】](https://e-words.jp/w/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89.html)
+
+[要件定義とは？決定までのプロセスや要件定義書の進め方について](https://www.jooto.com/contents/requirement-definition)
+
+[探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
+
+[Shell（シェル）とは？種類や活用方法をご紹介 - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/shell/)
+
+[ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
+
+[オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)
+
+[デジタルサイネージとは | デジタルサイネージコンソーシアム](https://digital-signage.jp/about/)
+
+
+
 ## Etc
 
 [HEIC形式の画像ファイルをJPGに変換する方法](https://www.tku.ac.jp/iss/guide/classroom/soft/heicjpg.html)
@@ -2077,10 +2326,6 @@
 
 [【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
 
-[ガベージコレクション 【garbage collection】 ガベージコレクタ](https://e-words.jp/w/%E3%82%AC%E3%83%99%E3%83%BC%E3%82%B8%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3.html)
-
-[オーバーヘッド 【overhead】](https://e-words.jp/w/%E3%82%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%98%E3%83%83%E3%83%89.html)
-
 [ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
@@ -2089,25 +2334,15 @@
 
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
-[Shell（シェル）とは？種類や活用方法をご紹介 - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/shell/)
-
 [URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
 
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
-
-[要件定義とは？決定までのプロセスや要件定義書の進め方について](https://www.jooto.com/contents/requirement-definition)
-
-[探索アルゴリズムとは？基本から応用まで分かりやすく解説します！](https://products.sint.co.jp/topsic/blog/search-algorithm)
 
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
-
-[ハッシュ化と暗号化の違いとは？ | サイバーセキュリティ情報局](https://eset-info.canon-its.jp/malware_info/special/detail/211013.html)
-
-[オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)
 
 [駆け出し学生エンジニアがインターン探しをした時の失敗](https://zenn.dev/somahc/articles/247c0b2b502100)
 
@@ -2118,10 +2353,6 @@
 [システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
 
 [開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
-
-[継続的インテグレーション (CI) とは？](https://circleci.com/ja/continuous-integration/)
-
-[リファクタリングとは？定義やメリット・デメリットを解説](https://products.sint.co.jp/obpm/blog/refactoring)
 
 [テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
 
@@ -2147,3 +2378,8 @@
 
 [「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
 
+[SlackのチャンネルIDの確認方法 #Slack - Qiita](https://qiita.com/akis1215/items/cb68b2de6542a742da0a)
+
+[PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
+
+[slackのファイル共有でソースコードがバイナリとして扱われる問題と対策 – 株式会社ルーター](https://rooter.jp/infra-ops/file-converted-to-binary-on-slack/)

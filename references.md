@@ -1,3 +1,43 @@
+## Adb
+
+[adbコマンド最小インストール方法 – 株式会社ルーター](https://rooter.jp/environment/how_to_install_adb/)
+
+[「adb shell am kill」を使って「アクティビティを保持しない」設定から卒業する #Android - Qiita](https://qiita.com/tsumuchan/items/c2dfba3716d472d237a5)
+
+[Androidアプリ開発者なら知っておくべきdumpsysコマンド | 社内の様子](https://sg.wantedly.com/companies/moneyforward/post_articles/35664)
+
+[AndroidにUSB ADB経由でキーイベントとかタッチイベントを送り込む - YusukeIwakiのブログ](https://yusukeiwaki.hatenablog.com/entry/2013/02/27/Android%E3%81%ABUSB_ADB%E7%B5%8C%E7%94%B1%E3%81%A7%E3%82%AD%E3%83%BC%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%A8%E3%81%8B%E3%82%BF%E3%83%83%E3%83%81%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%82%92)
+
+[adbコマンド #Android - Qiita](https://qiita.com/no1kenchan/items/fa2dc96ad6bf1e03aa09)
+
+[ADB で指定したアプリを強制終了する (am force-stop) - まくまく Android ノート](https://maku77.github.io/p/9yse3iz/)
+
+[よく使う adb コマンド - Diary](https://koko206.hatenablog.com/entry/2021/08/13/221512)
+
+[ページサイズの取得  |  Android Open Source Project](https://source.android.com/docs/core/architecture/16kb-page-size/getting-page-size?hl=ja)
+
+[『adb shell wm size』が多解像度での表示を確認するのに便利だった #Android - Qiita](https://qiita.com/tsumuchan/items/0e4c6037c9db79285d73)
+
+[よく使うadbのコマンド](https://zenn.dev/t2low/articles/ec79c30f042399d30bb8)
+
+[adbから好きなアプリ起動 #Android - Qiita](https://qiita.com/zakuroishikuro/items/d9eaeed9645d2af2c733)
+
+[adbコマンドを使用してアプリ起動をしてみよう | オクタンラボ](https://okutan-lab.net/adb%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%82%A2%E3%83%97%E3%83%AA%E8%B5%B7%E5%8B%95%E3%82%92%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86/)
+
+[package名のみからadb shell am start -nする #Android - Qiita](https://qiita.com/mattak/items/41b1ce1d48ddb3b2bb4a)
+
+[Androidの画面を録画したい #adb - Qiita](https://qiita.com/ikemura23/items/0561810c78dcda5f6892)
+
+[ADBで画面録画の方法 #Android - Qiita](https://qiita.com/yuta317/items/b4bce237e2637efafc3a)
+
+[adbを使ってAndroidアプリのServiceを実行する方法 - Pepabo Tech Portal](https://tech.pepabo.com/2024/05/28/android-start-service-from-cli/)
+
+[ADBでよく使うコマンド一覧 #Android - Qiita](https://qiita.com/uhooi/items/fb103ad3e263b0bb0abf)
+
+[よく使うadbのコマンド #Android - Qiita](https://qiita.com/t2low/items/cb37cec5f864c4748e14)
+
+
+
 ## API
 
 [TwitterのDMの取得でちょっとハマった話 #初心者 - Qiita](https://qiita.com/kaji-tan/items/ead6ad8b9b809a7be29b)
@@ -26,15 +66,9 @@
 
 [0からREST APIについて調べてみた #REST-API - Qiita](https://qiita.com/masato44gm/items/dffb8281536ad321fb08)
 
-[Python FlaskでREST APIを作る #REST-API - Qiita](https://qiita.com/keichiro24/items/c72c57b54332431c67ec)
-
 [ChatGPTでも使われているGPT-3.5のAPIを利用してStreamlitで簡単に文章変換アプリを作ってみました #Python - Qiita](https://qiita.com/miso_taku/items/043e3379f7171ac6f357)
 
 [Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
-
-[MySQLを利用したFlask RESTful API作成メモ #Python - Qiita](https://qiita.com/KWS_0901/items/8384d7b2961a3c682afe)
-
-[PythonのFlaskでMySQLを利用したRESTfulなAPIをDocker環境で実装する #Python - Qiita](https://qiita.com/kai_kou/items/5d73de21818d1d582f00)
 
 [REST APIとは？RESTの特徴・概念や、APIとの違い | エンベーダー](https://envader.plus/article/83)
 
@@ -170,6 +204,10 @@
 
 [C言語でゲームを作ってみた(DXライブラリ) #C - Qiita](https://qiita.com/junne_1008/items/04c0cfb04a7b9b342fae)
 
+[C言語における命名規則のポイントと実例](http://www.c-lang.org/detail/naming_conventions.html)
+
+
+
 ## Commands
 
 [奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
@@ -254,7 +292,9 @@
 
 [ファイルの圧縮についてまとめ #解凍 - Qiita](https://qiita.com/shotets/items/b210e19b0b05513513da)
 
+[jqコマンドだけでYouTubeの動画の字幕を整形する – 株式会社ルーター](https://rooter.jp/web-crawling/youtube_caption_scraping/)
 
+[【備忘】SSHコマンドで出力されるエラーに色々対応したお話 | ばちブロ](https://gametech.vatchlog.com/2023/06/02/ssh-bibou/)
 
 ## Cpp
 
@@ -265,6 +305,14 @@
 [いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
 
 [最低限これだけ知ってればゲームが作れるDXライブラリ関数集 #初心者 - Qiita](https://qiita.com/GandT/items/ec6e12bcacf7c66c315e)
+
+[Google C++ スタイルガイド(日本語全訳) Google C++ Style Guide (Japanese)](https://ttsuki.github.io/styleguide/cppguide.ja.html)
+
+[C++命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/fbf118f1b14d7e482322)
+
+[(a + b - 1) / b で a / b の切り上げを計算する - yn2011's blog](https://pokuwagata.hatenablog.com/entry/2020/08/22/153557)
+
+
 
 ## CTF
 
@@ -303,6 +351,16 @@
 [知っておくとちょっと便利！curl コマンドの使い方をご紹介 | SIOS Tech. Lab](https://tech-lab.sios.jp/archives/29999)
 
 [curl -s -f -D /dev/stderr が優勝 – 株式会社ルーター](https://rooter.jp/web-crawling/curl-s-f-d-dev-stderr-is-the-winner/)
+
+
+
+## Django
+
+[Pythonさえ分かればDjangoでWebアプリは作れる #HTML - Qiita](https://qiita.com/pythonista/items/19613663ef7bb3c57d4f)
+
+[Djangoの使い方～デプロイ編①～ #Python - Qiita](https://qiita.com/connecrew-sugiyama/items/ce5beafce9201736c39e)
+
+[Python×Djangoプロジェクトの環境構築 #Git - Qiita](https://qiita.com/minezaki-mutsuki/items/c639eb864273f3ecee5a)
 
 
 
@@ -436,8 +494,11 @@
 
 [Docker ComposeでSeleniumの環境構築をする方法(APIとSeleniumで連携する)](https://zenn.dev/aiq_dev/articles/0a4fdcfd5769b0)
 
+[【入門】はじめての Docker Desktop for Windows のインストールと CentOS の仮想環境構築のセットアップ #初心者 - Qiita](https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a)
 
-## Electrical Engineering
+
+
+## ElectricalEngineering
 
 [【ラズパイ電子工作】7セグメントLEDに数値を表示させる方法 | 電気設計人.com](https://denkisekkeijin.com/raspberrypi/pi-7seg)
 
@@ -450,6 +511,42 @@
 [🎙️KY-037音声センサーを使って音を検出する - ⭐｜ラズベリーパイのレシピ](https://zenn.dev/kotaproj/books/raspberrypi-tips/viewer/040_kiso_ky037)
 
 [Raspberry Pi Pico WでTWSNMPシリーズのセンサーを作る練習:アナログの調整と　マルチタスクの回避｜twsnmp](https://note.com/twsnmp/n/n778c1a2c9ce9)
+
+[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+
+
+
+## Flask
+
+[Python FlaskでREST APIを作る #REST-API - Qiita](https://qiita.com/keichiro24/items/c72c57b54332431c67ec)
+
+[MySQLを利用したFlask RESTful API作成メモ #Python - Qiita](https://qiita.com/KWS_0901/items/8384d7b2961a3c682afe)
+
+[PythonのFlaskでMySQLを利用したRESTfulなAPIをDocker環境で実装する #Python - Qiita](https://qiita.com/kai_kou/items/5d73de21818d1d582f00)
+
+[Flaskでできることを確認しながら簡単なWebアプリを作ってみよう！｜スタビジ](https://toukei-lab.com/python-flask)
+
+[[Python]Flaskアプリの基本構造を整理 #Python - Qiita](https://qiita.com/massa-potato/items/2c4c3e0f459b2bc4c7ee)
+
+[【Python Flask】初心者プログラマーのWebアプリ#1 簡単なページ作成 #Python3 - Qiita](https://qiita.com/Bashi50/items/30065e8f54f7e8038323)
+
+[Python+FlaskでWEBアプリケーションを構築する #Python - Qiita](https://qiita.com/t-iguchi/items/f7847729631022a5041f)
+
+[Flask で Restful API を作る - jsonify で日本語が文字化けする時の解決方法 - datalove’s diary](https://datalove.hatenadiary.jp/entry/flask-jsonify-how-to-encode-japanese)
+
+[【Python × Flask】REST APIでjsonifyのレスポンスが文字化けする時の対応方法 | SCRAWLED TECH BLOG](https://scrawledtechblog.com/python-flask-rest-api-jsonify-mojibake/)
+
+[【Flask】日本語のレスポンスが文字化けする | Rue1の隠れ家](https://rue1.psycho.jp/806)
+
+[はじめての Flask #5 ~JSONを返すWebAPIを書こう~ #Python - Qiita](https://qiita.com/nagataaaas/items/24e68a9c736aec31948e)
+
+[改行コードを改行タグに変換する方法 #HTML - Qiita](https://qiita.com/gacky35/items/8498176ee80d6b6ce014)
+
+[Flaskを開発サーバーで起動させてみた #Python - Qiita](https://qiita.com/Nats72/items/793330ae2f1a82102fca)
+
+[Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+
+
 
 ## GAS
 
@@ -803,6 +900,10 @@
 
 [ｎ進数の足し算をJavaで実装してみる #n進法 - Qiita](https://qiita.com/syoukou/items/3a801859fbf6d2dd47b4)
 
+[android画面サイズの取得｜˙꒰ঌ❤︎有野†梨花❤︎໒꒱·̩͙⋆.*](https://note.com/arino_rika/n/ned8b837d740c)
+
+[オブジェクト指向の初学者でもわかるポリモーフィズム #Java - Qiita](https://qiita.com/tomonori_hioki/items/d8b1f8a6552c94b3180a)
+
 
 
 ## JavaScript
@@ -857,7 +958,13 @@
 
 [コピペで使える!JavaScriptボタンクリックイベント](https://blog.future.ad.jp/%E3%82%B3%E3%83%94%E3%83%9A%E3%81%A7%E4%BD%BF%E3%81%88%E3%82%8Bjavascript%E3%83%9C%E3%82%BF%E3%83%B3%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)
 
+[Chart.jsのバージョン別変更点まとめ：2系から4系移行時の注意点 – 株式会社ルーター](https://rooter.jp/programming/js-node/diff-chart-js-version/)
 
+
+
+## Kotlin
+
+[[Android]自動スクロールで手を動かすことなく実機確認を行う #Java - Qiita](https://qiita.com/yamachita0109/items/81c2c3d24f873597325a)
 
 ## LaTeX
 
@@ -874,6 +981,18 @@
 [LaTeXドリル 参考文献情報の書き方](http://www.ic.daito.ac.jp/~mizutani/tex/drill/drillbook3.html)
 
 [【LaTeX】箇条書きの方法ついて徹底解説 | 数学の景色](https://mathlandscape.com/latex-enum/)
+
+[LaTeX 入門(4) ～ベクトルの表記～｜大山 壇](https://note.com/dan_oyama/n/n1103a26bf037)
+
+[これで完璧 Qiitaでの数式記法（統計学対応） #LaTeX - Qiita](https://qiita.com/DeepTama/items/85470a66972432e14224)
+
+[【LaTeX】雑記号・特殊文字のコマンド98個一覧 | 数学の景色](https://mathlandscape.com/latex-symbol/)
+
+[25 LATEX の enumerate 環境の拡張 (enumerate.sty vs. enumitem.sty)](http://nalab.mind.meiji.ac.jp/~mk/knowhow-2020/node25.html)
+
+[【LaTeX】さまざまな行列のかき方一覧 | 数学の景色](https://mathlandscape.com/latex-matrix/)
+
+
 
 ## Linux
 
@@ -907,6 +1026,8 @@
 [vmware、UbuntuとLinuxの違い、WSL2について #雑記 - Qiita](https://qiita.com/gen_san/items/12005592cd5050bb3c9a)
 
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
+
+[SSH接続に対するエラーを、サーバ全体で行う #Linux - Qiita](https://qiita.com/itohdaigo/items/2f969e2db77f1de6621d)
 
 
 
@@ -963,6 +1084,10 @@
 [【Power Point活用術】余白を狭くして印刷する方法 | リクナビNEXTジャーナル](https://next.rikunabi.com/journal/20180401_s12/)
 
 [Microsoft Edge のキーボード ショートカット - Microsoft サポート](https://support.microsoft.com/ja-jp/microsoft-edge/microsoft-edge-%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88-50d3edab-30d9-c7e4-21ce-37fe2713cfad)
+
+[Excelで文字列型から異なる型へ変換する方法 – 株式会社ルーター](https://rooter.jp/data-format/convert-data-types-in-excel/)
+
+
 
 ## Movie
 
@@ -1048,6 +1173,10 @@
 
 [413 Request Entity Too Large 解決方法 #Laravel - Qiita](https://qiita.com/yyy752/items/c0de5790a17d2239ce2d)
 
+[Python + uWSGI + nginx #uwsgi - Qiita](https://qiita.com/keichiro24/items/52a0e4233200ac03b4d1)
+
+
+
 ## Node.js
 
 [Node.jsのインストール](https://zenn.dev/tmasuyama1114/books/vue-rails-chat/viewer/node-js-installation)
@@ -1078,16 +1207,6 @@
 
 ## Python
 
-[Streamlit入門 – フォームの使い方](https://data-analytics.fun/2022/07/09/streamlit-form/)
-
-[Streamlitで自由に入力フォームを追加/削除できるUIを実現する](https://qiita.com/nockn/items/15e081b58e02a0878855)
-
-[Streamlitで追加・削除ができる動的なユーザ入力を実装する方法](https://qiita.com/sypn/items/2abf4287781d161c2e29)
-
-[【StreamlitでWebアプリ作成】<<第9回>>テキスト・数値入力を使う](https://cafe-mickey.com/python/streamlit-9/)
-
-[Streamlit まとめ](https://qiita.com/not13/items/dcd8c12d64982dc0e819)
-
 [Python ビット演算 超入門](https://qiita.com/7shi/items/41d262ca11ea16d85abc)
 
 [Python から JSON へ変換](https://python.softmoco.com/basics/python-json-dump.php)
@@ -1114,27 +1233,11 @@
 
 [Matplotlibのデータラベルについて](https://kentei.ai/blog/archives/507)
 
-[Streamlitでリストの初期化を防ぐ](https://qiita.com/Taka_input/items/fa8f2200cd4a4cbf9699)
-
-[Streamlit を用いたデータ分析アプリ制作](https://qiita.com/keisuke-ota/items/a18f158389f1585a9aa0)
-
-[Streamlitで趣味用のWebアプリを作成してデプロイする](https://qiita.com/toisa/items/cb8cd736f594237e1319)
-
 [【Pandas DataFrame】インデックスの変更・振り直し・削除 [rename, reset_index]](https://takilog.com/pandas-dataframe-index-rename-reset/)
-
-[【Streamlit】Session Stateで変数の値を保持する方法](https://qiita.com/kuriyan1204/items/d8342f3a40c6aeb57e5e)
-
-[【Streamlit】Webに公開する](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
 
 [[AtCoder]提出されたコードをコマンドライン上から保存するツールを開発した話](https://qiita.com/moffy/items/f194d6d9503acec1d95f)
 
 [JSONとdict型の相互変換(Python)](https://qiita.com/Mijinko/items/d37d069e5a7485a72b11)
-
-[st.column_config.LinkColumn - Streamlit Docs](https://docs.streamlit.io/develop/api-reference/data/st.column_config/st.column_config.linkcolumn)
-
-[streamlitのst.markdown()に画像を埋め込みたい #Python - Qiita](https://qiita.com/sypn/items/76928609348b5f13b2f5)
-
-[【Streamlit】表にリンク・URLや画像を埋め込む【st.dataframe】 #Python - Qiita](https://qiita.com/mogeko6347/items/b42275dfdaa73343cc57)
 
 [Python で終了時に必ず何か実行したい #Python3 - Qiita](https://qiita.com/qualitia_cdev/items/f536002791671c6238e3)
 
@@ -1224,10 +1327,6 @@
 
 [【Python】for文とrange関数で逆順の処理方法＆コード例付きで解説！ - スキルUPの道しるべ](https://torus07.hatenablog.com/entry/python-03)
 
-[【完全】Streamlitのmultiselectの作成方法を解説](https://shoblog.iiyan.net/streamlit-multiselect/)
-
-[【Streamlit】Webに公開する #Python - Qiita](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
-
 [10分で理解する Beautiful Soup #Python - Qiita](https://qiita.com/Chanmoro/items/db51658b073acddea4ac)
 
 [pythonのtry構文について調べてみた #Python - Qiita](https://qiita.com/keishi04hrikzira/items/6c1dc7cb5bc5ce2605f3)
@@ -1249,16 +1348,6 @@
 [レインボーテーブルを実装してみた - CTFと共に生きる](https://falconctf.hatenablog.com/entry/2019/10/11/082235)
 
 [競プロの基本事項確認~累積和といもす法~ #Python - Qiita](https://qiita.com/DaikiSuyama/items/67547e14b47cd6360252)
-
-[Streamlitのボタン（button）の作成方法を徹底解説](https://shoblog.iiyan.net/streamlit-button/)
-
-[Streamlit cloudにAPIキーなどを格納して公開する方法 #Python - Qiita](https://qiita.com/ushi05/items/3e51b218e3e45ef74ff4)
-
-[【Streamlit】HTMLを中央揃えにする](https://zenn.dev/nishikoh/articles/e4abccea0f3693)
-
-[Streamlitで文字色を自由に変えるhtml記法 #Python - Qiita](https://qiita.com/lighlighlighlighlight/items/644e5c916b93605d7b21)
-
-[Streamlitのインプットウィジットを使ってみよう | パイパイの実](https://welovepython.net/streamlit-input-widget/)
 
 [AtCoderの提出コードをGitHubにアップするツールを作りました](https://zenn.dev/kult/articles/344c3af062f593)
 
@@ -1304,8 +1393,6 @@
 
 [Pythonパッケージ開発チュートリアル #GitHub - Qiita](https://qiita.com/Ag_smith/items/bd8b67d4e0c4255ecd09)
 
-[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
-
 [PythonでDiscordのBotを作る #discord.py - Qiita](https://qiita.com/Yumax-panda/items/9349e06f5a12d4466ca7)
 
 [Discord Bot作成を完全に理解する](https://zenn.dev/king/articles/4201f4ee821a27)
@@ -1336,29 +1423,9 @@
 
 [Pythonで引数と戻り値の型を明示する #Python3 - Qiita](https://qiita.com/hashimo_846/items/5a2f722b63f301736d35)
 
-[【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
-
-[Streamlitに入門して表を書いてみる #Streamlit - Qiita](https://qiita.com/hrkt/items/956b5a602fe7b56aa525)
-
 [小数点以下を切り上げる場合の商を求める方法【競技プログラミング】 #競技プログラミング - Qiita](https://qiita.com/penpenpen/items/7692545adedfb9407ec9)
 
 [Pythonで数値が整数か小数かを判定 | note.nkmk.me](https://note.nkmk.me/python-check-int-float/)
-
-[Pythonさえ分かればDjangoでWebアプリは作れる #HTML - Qiita](https://qiita.com/pythonista/items/19613663ef7bb3c57d4f)
-
-[Djangoの使い方～デプロイ編①～ #Python - Qiita](https://qiita.com/connecrew-sugiyama/items/ce5beafce9201736c39e)
-
-[Python×Djangoプロジェクトの環境構築 #Git - Qiita](https://qiita.com/minezaki-mutsuki/items/c639eb864273f3ecee5a)
-
-[Python + uWSGI + nginx #uwsgi - Qiita](https://qiita.com/keichiro24/items/52a0e4233200ac03b4d1)
-
-[Flaskでできることを確認しながら簡単なWebアプリを作ってみよう！｜スタビジ](https://toukei-lab.com/python-flask)
-
-[[Python]Flaskアプリの基本構造を整理 #Python - Qiita](https://qiita.com/massa-potato/items/2c4c3e0f459b2bc4c7ee)
-
-[【Python Flask】初心者プログラマーのWebアプリ#1 簡単なページ作成 #Python3 - Qiita](https://qiita.com/Bashi50/items/30065e8f54f7e8038323)
-
-[Python+FlaskでWEBアプリケーションを構築する #Python - Qiita](https://qiita.com/t-iguchi/items/f7847729631022a5041f)
 
 [Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
 
@@ -1368,21 +1435,23 @@
 
 [Python, fractionsで分数（有理数）の計算 | note.nkmk.me](https://note.nkmk.me/python-fractions-usage/)
 
-[改行コードを改行タグに変換する方法 #HTML - Qiita](https://qiita.com/gacky35/items/8498176ee80d6b6ce014)
+[Pythonで最速のxlsx生成プログラムを作ってみた – 株式会社ルーター](https://rooter.jp/data-format/fastest-xlsx-generator-python/)
 
-[Flask で Restful API を作る - jsonify で日本語が文字化けする時の解決方法 - datalove’s diary](https://datalove.hatenadiary.jp/entry/flask-jsonify-how-to-encode-japanese)
+[Androidのスクリーンショット＆スクロールを自動化 #Python - Qiita](https://qiita.com/fumitonakajiii/items/477dc04a5d31b74636db)
 
-[【Python × Flask】REST APIでjsonifyのレスポンスが文字化けする時の対応方法 | SCRAWLED TECH BLOG](https://scrawledtechblog.com/python-flask-rest-api-jsonify-mojibake/)
+[オブジェクト指向プログラミングとは #Python - Qiita](https://qiita.com/Arata0608/items/4ae829ef632735e0ac26)
 
-[【Flask】日本語のレスポンスが文字化けする | Rue1の隠れ家](https://rue1.psycho.jp/806)
+[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
 
-[はじめての Flask #5 ~JSONを返すWebAPIを書こう~ #Python - Qiita](https://qiita.com/nagataaaas/items/24e68a9c736aec31948e)
+[Python命名規則の基本](https://zenn.dev/the_exile/articles/python-naming-convention-)
 
+[Pythonの命名規則とルール](https://zenn.dev/gakkie555/articles/b7d89442365943)
 
+[Python命名規則：PEP8とリーダブルコードより #Python3 - Qiita](https://qiita.com/shiracamus/items/bc3bdfc206b39e0a75b2)
 
-## Raspberry Pi
+[DiscordのBotでのファイル添付の仕方など【Python】 #discord - Qiita](https://qiita.com/chatrate/items/aa6625f6663fa2ca33d6)
 
-[Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+## RaspberryPi
 
 [Raspberry Piにファイアウォールufwのインストールと設定 | ラズパイダ](https://raspida.com/firewall4raspbian-ufw/)
 
@@ -1782,6 +1851,14 @@
 
 [AWS SDK for Ruby V3のAws::S3::ClientとAws::S3::Resourceの違いに正面から向き合う #aws-sdk - Qiita](https://qiita.com/Kta-M/items/c1245ae6bf12f686e827)
 
+[RubyでのURLエンコード方法とURI.encodeの代替手段 – 株式会社ルーター](https://rooter.jp/programming/ruby/ruby_encode_url/)
+
+[S3: CreateBucketなしでrclone copyを使いたい – 株式会社ルーター](https://rooter.jp/aws/s3-rclone-copy-no-createbucket/)
+
+[sumメソッドについて #Ruby - Qiita](https://qiita.com/ryuuya0921/items/874516a390877d7f85a7)
+
+[Rubyをインストール／アップデートするには？（Windows編） - Build Insider](https://www.buildinsider.net/language/rubytips/0004/)
+
 
 
 ## Rust
@@ -1837,6 +1914,20 @@
 [NetData after fresh install: CONFIG: cannot load cloud config - Troubleshooting - DietPi Community Forum](https://dietpi.com/forum/t/netdata-after-fresh-install-config-cannot-load-cloud-config/18374)
 
 [Proxmoxについて知る #proxmox - Qiita](https://qiita.com/C_Kenta/items/273cf6b5db1a6d9b4873)
+
+[MacでCiscoにSSHしようとしたらエラーが出る #Linux - Qiita](https://qiita.com/Fuuma/items/4eaac6c86f934bd46a03)
+
+[macでssh接続をしたときno matching key exchange method found. Their offer: diffie-hellman-group1-sha1と言われて接続できない - しまむーの備忘録](https://shsm385.hatenablog.com/entry/2018/10/17/161258)
+
+## Shellscript
+
+[変数を用いて計算する - IBM Documentation](https://www.ibm.com/docs/ja/zos/2.5.0?topic=uv-calculating-variables)
+
+[Linux: bashシェルにおいて数値計算を行ういくつかの方法 #Bash - Qiita](https://qiita.com/frozencatpisces/items/c2872781ef9cbfb1b8fb)
+
+[今どきのシェルスクリプトは数値計算にexprを使わない（POSIX準拠） #Bash - Qiita](https://qiita.com/ko1nksm/items/46fa9df8031275c7dc0a)
+
+
 
 ## SQL
 
@@ -2020,6 +2111,52 @@
 
 [MySQLからPostgreSQLへの移行時にenum型をvarchar型に変えた話 – 株式会社ルーター](https://rooter.jp/programming/db/mysql_to_postgresql_enum_to_varchar/)
 
+## Streamlit
+
+[【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
+
+[Streamlitに入門して表を書いてみる #Streamlit - Qiita](https://qiita.com/hrkt/items/956b5a602fe7b56aa525)
+
+[Streamlitのボタン（button）の作成方法を徹底解説](https://shoblog.iiyan.net/streamlit-button/)
+
+[Streamlit cloudにAPIキーなどを格納して公開する方法 #Python - Qiita](https://qiita.com/ushi05/items/3e51b218e3e45ef74ff4)
+
+[【Streamlit】HTMLを中央揃えにする](https://zenn.dev/nishikoh/articles/e4abccea0f3693)
+
+[Streamlitで文字色を自由に変えるhtml記法 #Python - Qiita](https://qiita.com/lighlighlighlighlight/items/644e5c916b93605d7b21)
+
+[Streamlitのインプットウィジットを使ってみよう | パイパイの実](https://welovepython.net/streamlit-input-widget/)
+
+[【完全】Streamlitのmultiselectの作成方法を解説](https://shoblog.iiyan.net/streamlit-multiselect/)
+
+[【Streamlit】Webに公開する #Python - Qiita](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
+
+[st.column_config.LinkColumn - Streamlit Docs](https://docs.streamlit.io/develop/api-reference/data/st.column_config/st.column_config.linkcolumn)
+
+[streamlitのst.markdown()に画像を埋め込みたい #Python - Qiita](https://qiita.com/sypn/items/76928609348b5f13b2f5)
+
+[【Streamlit】表にリンク・URLや画像を埋め込む【st.dataframe】 #Python - Qiita](https://qiita.com/mogeko6347/items/b42275dfdaa73343cc57)
+
+[【Streamlit】Session Stateで変数の値を保持する方法](https://qiita.com/kuriyan1204/items/d8342f3a40c6aeb57e5e)
+
+[【Streamlit】Webに公開する](https://qiita.com/MK32A/items/26b89d53e3af68faa134)
+
+[Streamlitでリストの初期化を防ぐ](https://qiita.com/Taka_input/items/fa8f2200cd4a4cbf9699)
+
+[Streamlit を用いたデータ分析アプリ制作](https://qiita.com/keisuke-ota/items/a18f158389f1585a9aa0)
+
+[Streamlitで趣味用のWebアプリを作成してデプロイする](https://qiita.com/toisa/items/cb8cd736f594237e1319)
+
+[Streamlit入門 – フォームの使い方](https://data-analytics.fun/2022/07/09/streamlit-form/)
+
+[Streamlitで自由に入力フォームを追加/削除できるUIを実現する](https://qiita.com/nockn/items/15e081b58e02a0878855)
+
+[Streamlitで追加・削除ができる動的なユーザ入力を実装する方法](https://qiita.com/sypn/items/2abf4287781d161c2e29)
+
+[【StreamlitでWebアプリ作成】<<第9回>>テキスト・数値入力を使う](https://cafe-mickey.com/python/streamlit-9/)
+
+[Streamlit まとめ](https://qiita.com/not13/items/dcd8c12d64982dc0e819)
+
 
 
 ## Swift
@@ -2041,6 +2178,8 @@
 [VSCode Extensions(拡張機能) 自作入門 〜VSCodeにおみくじ機能を追加する〜](https://qiita.com/HelloRusk/items/073b58c1605de224e67e)
 
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
+
+[ローカル環境でTypeScriptを実行する手順](https://zenn.dev/zaruta/articles/d453ca6d3bed88)
 
 
 
@@ -2149,6 +2288,9 @@
 [UbuntuにChromeをインストールする手順 #ubuntu18.04 - Qiita](https://qiita.com/grgrjnjn/items/a5c4da336031b63f09a6)
 
 [UbuntuでGoogle Chromeをインストールする手順](https://go.lightnode.com/ja/tech/how-to-install-chrome-on-ubuntu)
+
+[【Ubuntu 22.04】【OpenSSH】SHA-1 関連の接続許可(ver 8系) | NE-Lab](https://www.ne-lab.com/platform/linux/2023/11/718/)
+
 
 
 
@@ -2272,6 +2414,10 @@
 
 [ファイルの圧縮・解凍方法｜PC教室｜各利用方法、マニュアル｜利用方法｜東京経済大学情報システム課](https://www.tku.ac.jp/iss/guide/classroom/pcroom/decompression.html)
 
+[テキストエディタ「Vim」をWindowsでも使う方法 | コンピューターシステム(株)|愛媛県松山市のソフトウェア・アプリ開発会社](https://www.jcsc.co.jp/news/p404/)
+
+[コマンドプロンプトでそこそこ快適な開発環境を整備する #Windows - Qiita](https://qiita.com/ytakashina/items/1c2f6d53246fc798c6bc)
+
 
 
 ## Words
@@ -2311,6 +2457,8 @@
 [オブジェクト指向とは？意味や言語の種類、基礎知識もわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/5973)
 
 [デジタルサイネージとは | デジタルサイネージコンソーシアム](https://digital-signage.jp/about/)
+
+[「保守性」と「拡張性」が複数の意味をもっていそうなので調べてみた - ソフトウェアの品質を学びまくる](https://www.kzsuzuki.com/entry/2023/03/21/184842)
 
 
 
@@ -2383,3 +2531,14 @@
 [PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
 
 [slackのファイル共有でソースコードがバイナリとして扱われる問題と対策 – 株式会社ルーター](https://rooter.jp/infra-ops/file-converted-to-binary-on-slack/)
+
+[【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
+
+[命名規則についてまとめてみた（キャメルケース，パスカルケース，スネークケース，ケバブケース, etc...） #命名規則 - Qiita](https://qiita.com/shota0616/items/4ac7a8696b3f6ccbe2bc)
+
+[連番は使い始めた時点で終わり - Neo's World](https://neos21.net/blog/2017/09/13-01.html)
+
+[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
+
+[【C】関数名変数名は自由につけて良いのか #命名規則 - Qiita](https://qiita.com/hanatan079/items/11d9c08458e42a0425f4)
+

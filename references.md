@@ -36,6 +36,32 @@
 
 [よく使うadbのコマンド #Android - Qiita](https://qiita.com/t2low/items/cb37cec5f864c4748e14)
 
+[【Android】戻るボタンでアプリを終了させる - My Blog](https://s-takumi.hatenablog.com/entry/2014/05/17/233300)
+
+[adbを使ってAndroid端末にキーイベントを送る方法 | TechBooster](https://techbooster.org/android/environment/6422/)
+
+[【お手軽】Backボタンを二回タップすると終了する例の機能を実装してみる | DevelopersIO](https://dev.classmethod.jp/articles/backbutton_twice_pressed/)
+
+[Android開発日誌:androidとjava関連 Androidの戻るボタンでアプリを終了させない](https://androidkaihatu.blog.fc2.com/blog-entry-60.html)
+
+[Android実機を再起動＆ロック解除まで自動でやっちゃう #Android - Qiita](https://qiita.com/kikuchy/items/7b4883797a25d66a181a)
+
+[ADB備忘録 #Android - Qiita](https://qiita.com/osashimi_oishi/items/e2c6cc21d5c9c3672f4d)
+
+[Androidアプリ開発の概要 - Androidデベロッパーズガイド - Moverio Controller Function SDK - Moverio - エプソン](https://tech.moverio.epson.com/ja/controller_function_sdk/developers_guide/developing_android_apps.html)
+
+[ADB からキー入力やテキスト入力を行う (input text, input keyevent) - まくまく Android ノート](https://maku77.github.io/p/gorux24/)
+
+[adbコマンドあれこれ2 - 教育学部エンジニアのメモ帳](https://ryo-mikan.hatenablog.com/entry/2018/03/25/153144)
+
+[ADBで使うコマンド - Ｍｙ備忘録](https://program-log.com/archives/398)
+
+[AdbでAndroidアプリを停止する - MonoBook](https://monobook.org/wiki/Adb%E3%81%A7Android%E3%82%A2%E3%83%97%E3%83%AA%E3%82%92%E5%81%9C%E6%AD%A2%E3%81%99%E3%82%8B)
+
+[Androidアプリ開発者なら知っておくべきdumpsysコマンド | 社内の様子](https://www.wantedly.com/companies/moneyforward/post_articles/35664)
+
+[［Android］エミュレータで Screen Pinning (画面の固定) を解除する方法 #ScreenPinning - Qiita](https://qiita.com/kaleidot725/items/f90fb1733f3b6013df77)
+
 
 
 ## API
@@ -76,6 +102,14 @@
 
 [API選定における「無料枠」への依存リスク：Google Geocoder API変更事例と代替策（HERE/ALS） – 株式会社ルーター](https://rooter.jp/aws/geocoder-api-alternative-selection/)
 
+[Google交通情報の抽出ツールを作成しました（Googleマップ＋Googleスプレッドシート＋Google Distance Matrix API） #JavaScript - Qiita](https://qiita.com/shi-works/items/f0666a7958b1ec6e86df)
+
+[【初心者向け】Google Maps APIの全体像を徹底解説！｜Google Maps Platform｜ゼンリンデータコム法人向けサービス](https://www.zenrin-datacom.net/solution/gmapsapi/media/g002)
+
+[交通状況レイヤ、交通機関レイヤ、自転車レイヤ  |  Maps JavaScript API  |  Google for Developers](https://developers.google.com/maps/documentation/javascript/trafficlayer?hl=ja)
+
+[Google Ads API のポリシー - Google 広告ポリシー ヘルプ](https://support.google.com/adspolicy/answer/6169371?hl=ja)
+
 
 
 ## Asm
@@ -99,6 +133,8 @@
 [Astroを使って静的サイトを作ってGithub Pagesにデプロイするまで - なんじゃくにっき](https://nanjakkun.hatenablog.jp/entry/2024/04/13/Astro%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6%E9%9D%99%E7%9A%84%E3%82%B5%E3%82%A4%E3%83%88%E3%82%92%E4%BD%9C%E3%81%A3%E3%81%A6Github_Pages%E3%81%AB%E3%83%87%E3%83%97%E3%83%AD%E3%82%A4%E3%81%99%E3%82%8B)
 
 [個人ブログを作るならAstroが最強だと思う](https://asunaroblog.net/blog/66fd421a032080119286514c/)
+
+[Astroの基本環境構築メモ](https://zenn.dev/magurokan/scraps/f3f9571c6e7f3b)
 
 
 
@@ -206,6 +242,8 @@
 
 [C言語における命名規則のポイントと実例](http://www.c-lang.org/detail/naming_conventions.html)
 
+[コーディングスタイルを考える | C言語 – 組み込みすと](https://www.kumikomist.com/clang/clang-coding-style/)
+
 
 
 ## Commands
@@ -296,6 +334,12 @@
 
 [【備忘】SSHコマンドで出力されるエラーに色々対応したお話 | ばちブロ](https://gametech.vatchlog.com/2023/06/02/ssh-bibou/)
 
+[【Bash】コマンドをクリップボードにコピー #Linux - Qiita](https://qiita.com/kagami_t/items/84f6ec3142a8b370d908)
+
+[mvコマンドでファイル(ディレクトリ)名の変更、移動 #Linux - Qiita](https://qiita.com/nasuB7373/items/f46fe8dc7ffc7a26b249)
+
+
+
 ## Cpp
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
@@ -311,6 +355,8 @@
 [C++命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/fbf118f1b14d7e482322)
 
 [(a + b - 1) / b で a / b の切り上げを計算する - yn2011's blog](https://pokuwagata.hatenablog.com/entry/2020/08/22/153557)
+
+[C++におけるおすすめ命名規則 #C++11 - Qiita](https://qiita.com/rinse_/items/a11ec988e7378642e8e2)
 
 
 
@@ -496,6 +542,10 @@
 
 [【入門】はじめての Docker Desktop for Windows のインストールと CentOS の仮想環境構築のセットアップ #初心者 - Qiita](https://qiita.com/gahoh/items/7b21377b5c9e3ffddf4a)
 
+[dockerの命名で落とし穴 #Docker - Qiita](https://qiita.com/koooge/items/5d1fa996e03a701e9d39)
+
+[コンテナの名前として許される文字列](https://zenn.dev/termoshtt/articles/container-naming-rules)
+
 
 
 ## ElectricalEngineering
@@ -513,6 +563,18 @@
 [Raspberry Pi Pico WでTWSNMPシリーズのセンサーを作る練習:アナログの調整と　マルチタスクの回避｜twsnmp](https://note.com/twsnmp/n/n778c1a2c9ce9)
 
 [Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+
+
+
+## Encryption
+
+[【耐量子計算機暗号・PQC】ML-KEM（CRYSTALS-KYBER）標準について](https://zenn.dev/ankoma/articles/f165d06efb1468)
+
+[takos protocolのメッセージ暗号化 | takos protocol document](https://docs.takos.jp/crypto)
+
+[耐量子暗号（PQC）をわかりやすく解説～量子コンピュータに備えよ～ | トレンドマイクロ (JP)](https://www.trendmicro.com/ja_jp/jp-security/24/k/expertview-20241112-01.html)
+
+[【耐量子計算機暗号・PQC】CRYSTALS Kyber実装してみる。暗号化/復号](https://zenn.dev/ankoma/articles/3bcd487baf61c4)
 
 
 
@@ -545,6 +607,22 @@
 [Flaskを開発サーバーで起動させてみた #Python - Qiita](https://qiita.com/Nats72/items/793330ae2f1a82102fca)
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+
+
+
+## Frida
+
+[frida hookツールの使用 - raye~](https://rayepeng.net/frida-hook-gong-ju-shi-yong?locale=ja)
+
+[Hail Frida!! The Universal SSL pinning bypass for Android applications | by Vedant | InfoSec Write-ups](https://infosecwriteups.com/hail-frida-the-universal-ssl-pinning-bypass-for-android-e9e1d733d29)
+
+[Android 12上のFridaでエラーが発生する事象とその解消法 - ラック・セキュリティごった煮ブログ](https://devblog.lac.co.jp/entry/20221021)
+
+[FirdaでAndroid APKをHookingする](https://zenn.dev/tamagoyaki/articles/c59466d5ff8cbabbd53f)
+
+[frida-ps | Frida • A world-class dynamic instrumentation toolkit](https://frida.re/docs/frida-ps/)
+
+[Fridaを使うための前準備をやってみた - Shikata Ga Nai](https://cysec148.hatenablog.com/entry/2020/12/10/165838)
 
 
 
@@ -583,8 +661,6 @@
 [Gmailに来たメールをDiscordにBOTとして送信する方法 #GAS - Qiita](https://qiita.com/tnkTaka/items/5bcedceddd276660f863)
 
 [GASとGoogleスプレッドシートを使ってTwitterのDM自動返信botを作成する #GoogleAppsScript - Qiita](https://qiita.com/MokonaSato/items/a0fa8955370e4e3b817b)
-
-[Slack 特定のメッセージにユーザーが自動リアクションする機能をGASで実装する #JavaScript - Qiita](https://qiita.com/Keichan_15/items/355ce2bf271bba4fe0eb)
 
 [Google Apps Script(GAS)比較演算子と論理演算子まとめ｜youtube戦略室](https://note.com/youtube_consul/n/n9ec4c152dc8c)
 
@@ -864,6 +940,10 @@
 
 [CSS 入門 - ウェブ開発の学習 | MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
 
+[htmlのid属性とclass属性の命名はハイフンかcamelかsnakeか #HTML - Qiita](https://qiita.com/itagakishintaro/items/168667d5ee4c56b30d52)
+
+
+
 ## Java
 
 [【Java入門】キーボードから入力する(InputStreamReader/Scanner) | 侍エンジニアブログ](https://www.sejuku.net/blog/63188)
@@ -903,6 +983,34 @@
 [android画面サイズの取得｜˙꒰ঌ❤︎有野†梨花❤︎໒꒱·̩͙⋆.*](https://note.com/arino_rika/n/ned8b837d740c)
 
 [オブジェクト指向の初学者でもわかるポリモーフィズム #Java - Qiita](https://qiita.com/tomonori_hioki/items/d8b1f8a6552c94b3180a)
+
+[How Media API works in Android #Java - Qiita](https://qiita.com/KeithYokoma/items/ed873676ecb28196781f)
+
+[Java JDK を Ubuntu にインストールして Hello World する #WSL - Qiita](https://qiita.com/studio_meowtoon/items/4d11e94a2389758759cd)
+
+[Java Decompiler project の JD-GUI で JAR ファイルからソースコードを生成する #decompiler - Qiita](https://qiita.com/niwasawa/items/d89e7cef0c749c6afea6)
+
+[【Java】JD-GUIでスタンドアロンでjarごとclassをデコンパイルする - suer TIL](https://atsum.in/java/jd-gui/)
+
+[Kali LinuxのJD-GUIでJava逆コンパイルしてみる - ろば電子が詰まつてゐる](https://ozuma.hatenablog.jp/entry/20130817/1376748772)
+
+[AndroidのAPKを逆コンパイルする #Android - Qiita](https://qiita.com/chibi929/items/940623d33d9f6eb3877f)
+
+[apkを逆コンパイルする方法 | かんきつ箱](https://kanki2kei.com/2022/03/767)
+
+[Androidアプリ：リバースエンジニアリングの危険性とその対策 | Blog | AG-TECH](https://www.agtech.co.jp/blog/2024/09/reverse-engineering-dangers-and-countermeasures/)
+
+[apkをデコンパイルしてjavaソースコードを解析する - 動かざることバグの如し](https://blog.turai.work/entry/20240914/1726245014)
+
+[apkファイルからjavaソースコードを見られるようになるまで #Android - Qiita](https://qiita.com/le_skamba/items/04c0a0cfe420be862122)
+
+[【Android】APKをデコンパイルしてみる #初心者 - Qiita](https://qiita.com/ist-m-k/items/904e842c691e4a66e4a8#%E5%A4%B1%E6%95%97%E3%81%97%E3%81%9F%E6%96%B9%E6%B3%95dex2jarjad%E6%89%8B%E9%A0%86%E8%A9%B3%E7%B4%B0)
+
+[Apache Maven をインストールしてみた #初心者 - Qiita](https://qiita.com/miyuki_samitani/items/33a8c2b49dcd9f65199c)
+
+[Java - 「.class」ファイルをJavaファイルにコンパイルする方法（jd-cli decompiler）](https://codechacha.com/ja/java-decompile-class-file/)
+
+[jadxでAPKをデコンパイルし中身を確認する - kwn’s blog](https://kwn1125.hatenablog.com/entry/2021/06/01/210000)
 
 
 
@@ -960,11 +1068,19 @@
 
 [Chart.jsのバージョン別変更点まとめ：2系から4系移行時の注意点 – 株式会社ルーター](https://rooter.jp/programming/js-node/diff-chart-js-version/)
 
+[JavaScriptの命名規則早見表（と記法） #JavaScript - Qiita](https://qiita.com/RyosukeSomeya/items/90f8e780b37c53758276)
+
 
 
 ## Kotlin
 
 [[Android]自動スクロールで手を動かすことなく実機確認を行う #Java - Qiita](https://qiita.com/yamachita0109/items/81c2c3d24f873597325a)
+
+[Androidアプリ終了イベント（処理）はどこに書く？ #Kotlin - Qiita](https://qiita.com/yasukotelin/items/bbb1ea517a883e359d7f)
+
+[【Android】端末の戻るボタンでアプリを終了する - Furudateのブログ](https://furudate.hatenablog.com/entry/2013/06/09/031049)
+
+
 
 ## LaTeX
 
@@ -1163,6 +1279,8 @@
 
 [Next.jsを使うべき5つの理由 + 実装Tips](https://qiita.com/Yuki_Oshima/items/5c0dfd8f7af8fb76af8f)
 
+[【個人開発】お店の混雑度を取得しようとしたら挫折した話 #JavaScript - Qiita](https://qiita.com/ngtnysk/items/77cfb94e9b0eda5bb846)
+
 
 
 ## Nginx
@@ -1192,6 +1310,8 @@
 [Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
 [フロントエンド開発の３ステップ（npmことはじめ） #Node.js - Qiita](https://qiita.com/hashrock/items/15f4a4961183cfbb2658)
+
+[雑にしていない？PHPの命名規則を理解し、効率よく開発を進めよう - 忍者CODEマガジン](https://ninjacode.work/magazine/programming/php17/)
 
 
 
@@ -1377,8 +1497,6 @@
 
 [Pythonで始める録音機能付きDiscord Bot: (3) Databaseとの連携 #初心者 - Qiita](https://qiita.com/Shirataki2/items/37d48868cd7b999a13b2)
 
-[Python3系でSlack Botの作成〜基礎的な対話を実装する #bot - Qiita](https://qiita.com/_croissant_/items/8d6334b76576762df349)
-
 [Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
 
 [【画像処理】硬貨(コイン)を検出してみよう #Python - Qiita](https://qiita.com/spc_ehara/items/e627f5633d0e9d98a39a)
@@ -1450,6 +1568,24 @@
 [Python命名規則：PEP8とリーダブルコードより #Python3 - Qiita](https://qiita.com/shiracamus/items/bc3bdfc206b39e0a75b2)
 
 [DiscordのBotでのファイル添付の仕方など【Python】 #discord - Qiita](https://qiita.com/chatrate/items/aa6625f6663fa2ca33d6)
+
+[pip installのバージョン指定方法](https://zenn.dev/wtkn25/articles/python-pip-install-version)
+
+[PythonのLiteral型について調べてみた（PEP586） #Python3 - Qiita](https://qiita.com/simonritchie/items/04832ab86c962b3e51cd)
+
+[Pythonのクラスについて #初心者 - Qiita](https://qiita.com/eric50905/items/3030cfa03f849fec04dd)
+
+[pipでアップデートするときのコマンド pip update #Python - Qiita](https://qiita.com/HyunwookPark/items/242a8ceea656416b6da8)
+
+[Pythonとpipパッケージのバージョン確認＆一括アップデート方法](https://zenn.dev/haretokidoki/articles/8836fecf6b4cfc)
+
+[【画像処理】画像処理のための環境構築(Python) #OpenCV - Qiita](https://qiita.com/spc_ehara/items/c71aed04881d8b0acbc9)
+
+[pythonのインストールパッケージの依存関係ミスマッチを解消しよう #Python - Qiita](https://qiita.com/tat_mae084/items/4fcccc539afcfdc71573)
+
+[【画像処理】PythonでOpenCVを使った色空間の変換 #Python - Qiita](https://qiita.com/spc_ehara/items/5c35d3c9900ad5e18e5c)
+
+
 
 ## RaspberryPi
 
@@ -1859,6 +1995,14 @@
 
 [Rubyをインストール／アップデートするには？（Windows編） - Build Insider](https://www.buildinsider.net/language/rubytips/0004/)
 
+[【Ruby超入門】命名規則](https://zenn.dev/yyykms123/articles/2019-11-20-naming-convention)
+
+[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
+
+[Rubyの命名規約 #Ruby - Qiita](https://qiita.com/takahashim/items/ccfd489c9b26f15b7193)
+
+[Railsにおける命名規則 #Rails - Qiita](https://qiita.com/gakkie/items/3afcd505c786364aa5fa)
+
 
 
 ## Rust
@@ -1926,6 +2070,22 @@
 [Linux: bashシェルにおいて数値計算を行ういくつかの方法 #Bash - Qiita](https://qiita.com/frozencatpisces/items/c2872781ef9cbfb1b8fb)
 
 [今どきのシェルスクリプトは数値計算にexprを使わない（POSIX準拠） #Bash - Qiita](https://qiita.com/ko1nksm/items/46fa9df8031275c7dc0a)
+
+
+
+## Slack
+
+[Slackの未読メッセージだけを表示できる「全未読」機能！　重要なメッセージを見逃さない！](https://workteria.forward-soft.co.jp/blog/detail/10465)
+
+[Slack ボットの作成手順 #備忘録 - Qiita](https://qiita.com/odm_knpr0122/items/04c342ec8d9fe85e0fe9)
+
+[Python3系でSlack Botの作成〜基礎的な対話を実装する #bot - Qiita](https://qiita.com/_croissant_/items/8d6334b76576762df349)
+
+[Slack 特定のメッセージにユーザーが自動リアクションする機能をGASで実装する #JavaScript - Qiita](https://qiita.com/Keichan_15/items/355ce2bf271bba4fe0eb)
+
+[slackのファイル共有でソースコードがバイナリとして扱われる問題と対策 – 株式会社ルーター](https://rooter.jp/infra-ops/file-converted-to-binary-on-slack/)
+
+[SlackのチャンネルIDの確認方法 #Slack - Qiita](https://qiita.com/akis1215/items/cb68b2de6542a742da0a)
 
 
 
@@ -2111,6 +2271,24 @@
 
 [MySQLからPostgreSQLへの移行時にenum型をvarchar型に変えた話 – 株式会社ルーター](https://rooter.jp/programming/db/mysql_to_postgresql_enum_to_varchar/)
 
+[データベースオブジェクトの命名規約 #規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
+
+[【SQLに慣れる】ユーザー登録・権限付与 #MySQL - Qiita](https://qiita.com/yukibe/items/4ba2aa49510ab1f6b1f1)
+
+[MySQLをインストール後、ユーザーを作成するまでの手順 - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2019/02/11/135557)
+
+[MySQL Serverに外部から接続する #MySQL - Qiita](https://qiita.com/tocomi/items/0c009d7299584df49378)
+
+[MySQLでのPort番号の確認 #MySQL - Qiita](https://qiita.com/MLLB/items/3ce82faf475e1d1d38ce)
+
+[同じLANに接続しているPCでローカルのMySQLにリモート接続する方法 #VB.Net - Qiita](https://qiita.com/miki_grapes/items/040c9329b7c523a6e7bc)
+
+[MySQLを外部パソコンから接続する方法 | 合同会社ウェブライト](https://weblight.jp/mysql-connect/)
+
+[MySQL | 新しいパスワードを設定する(SET PASSWORD 文、ALTER USER文)](https://www.javadrive.jp/mysql/user/index2.html)
+
+
+
 ## Streamlit
 
 [【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
@@ -2163,6 +2341,14 @@
 
 [「Swift」とは？Appleが開発した新しいプログラミング言語の特徴](https://hnavi.co.jp/knowledge/blog/swift/)
 
+
+
+## Training
+
+
+
+
+
 ## TypeScript
 
 [ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
@@ -2180,6 +2366,8 @@
 [TypeScriptの特徴とは？JavaScriptとの違いを交えて解説](https://hnavi.co.jp/knowledge/blog/typescript/)
 
 [ローカル環境でTypeScriptを実行する手順](https://zenn.dev/zaruta/articles/d453ca6d3bed88)
+
+[[TS] 命名規則のまとめ #TypeScript - Qiita](https://qiita.com/mistylady/items/21843c01f0b7289a6c83)
 
 
 
@@ -2291,6 +2479,13 @@
 
 [【Ubuntu 22.04】【OpenSSH】SHA-1 関連の接続許可(ver 8系) | NE-Lab](https://www.ne-lab.com/platform/linux/2023/11/718/)
 
+[Ubuntu14.10でメモリの使用状況を確認する #Linux - Qiita](https://qiita.com/shinyashikis@github/items/7eb33f22cc6ad02f37ea)
+
+[Ubuntuでのdebパッケージのインストール方法 - オープンソースの力を活用する方法～Ubuntuの世界へようこそ～](https://www.linux.digibeatrix.com/software-and-app-management/install-deb-packages-ubuntu/)
+
+[Ubuntuにdebファイルをインストール #Ubuntu - Qiita](https://qiita.com/Shi05yu/items/6ba18aa4644dc7e78376)
+
+[UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
 
 
 
@@ -2307,6 +2502,12 @@
 [Vimで改行コードを変更する #Vim - Qiita](https://qiita.com/bezeklik/items/aca37ffb127821311d6b)
 
 [Vimで改行コードを修正する - 恥は/dev/nullへ by 初心者](https://uhoho.hatenablog.jp/entry/2022/10/18/044550)
+
+[エディタの vi と vim って何が違うの？【Linux】 | フジミヤログ](https://www.fujimiya-san.com/archives/1552)
+
+[Vim、vi(vim)コマンドの使い方(初級編) #Vim - Qiita](https://qiita.com/Yuto_Tatsumi/items/307c15555da333453dfd)
+
+
 
 ## Vite
 
@@ -2355,6 +2556,8 @@
 [【VSCode】プレーンテキストと言語の関連付け #初心者 - Qiita](https://qiita.com/mihooo24/items/300847c8b391721c7823)
 
 [VSCode のターミナルを下・左・右に配置する #VSCode - Qiita](https://qiita.com/DriftwoodJP/items/7b0db35d99cd03350b83)
+
+[VS Code の便利なショートカットキー #VSCode - Qiita](https://qiita.com/12345/items/64f4372fbca041e949d0)
 
 
 
@@ -2418,6 +2621,10 @@
 
 [コマンドプロンプトでそこそこ快適な開発環境を整備する #Windows - Qiita](https://qiita.com/ytakashina/items/1c2f6d53246fc798c6bc)
 
+[WSL1/WSL2 を再起動する方法 - 備忘録](https://kagasu.hatenablog.com/entry/2020/01/02/155532)
+
+[Frida traceを使ったWindowsアプリの動的解析・改ざん方法 | DNPハイパーテック](https://www.hypertech.co.jp/column/developer/2023/08/dynamicanalysis_windows_applications/)
+
 
 
 ## Words
@@ -2460,6 +2667,8 @@
 
 [「保守性」と「拡張性」が複数の意味をもっていそうなので調べてみた - ソフトウェアの品質を学びまくる](https://www.kzsuzuki.com/entry/2023/03/21/184842)
 
+[構造体とは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word13243.html)
+
 
 
 ## Etc
@@ -2496,8 +2705,6 @@
 
 [家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
 
-[Slack ボットの作成手順 #備忘録 - Qiita](https://qiita.com/odm_knpr0122/items/04c342ec8d9fe85e0fe9)
-
 [システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
 
 [開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
@@ -2526,11 +2733,7 @@
 
 [「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
 
-[SlackのチャンネルIDの確認方法 #Slack - Qiita](https://qiita.com/akis1215/items/cb68b2de6542a742da0a)
-
 [PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
-
-[slackのファイル共有でソースコードがバイナリとして扱われる問題と対策 – 株式会社ルーター](https://rooter.jp/infra-ops/file-converted-to-binary-on-slack/)
 
 [【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
 
@@ -2541,4 +2744,24 @@
 [クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
 
 [【C】関数名変数名は自由につけて良いのか #命名規則 - Qiita](https://qiita.com/hanatan079/items/11d9c08458e42a0425f4)
+
+[android12 の タスクキル 対策について - 備忘録](https://blog.goo.ne.jp/fpoul/e/4a7b81b91387daed8712ccbd7520f621)
+
+[【画像処理】画像処理の基本(なにがすごいのか、なにが難しいのか) #物体検出 - Qiita](https://qiita.com/spc_ehara/items/0539c648b1784e16306f)
+
+[【画像処理】そもそも画像とは(JPG,PNG,GIF,BMP,SVG) #拡張子 - Qiita](https://qiita.com/spc_ehara/items/fe05049f5a6bd67c48f3)
+
+[エンジニア(ほぼ)未経験でルーターに入社した新卒が、入社1か月経って考えたこと – 株式会社ルーター](https://rooter.jp/?p=57210&preview=1&_ppp=03c5855ed1)
+
+[独学リバースエンジニアリング　バイナリファイルの解析 #Linux - Qiita](https://qiita.com/Brutus/items/df652167993bfd02dbce)
+
+[Android apk 解析・リバースエンジニアリングツール よく使う奴まとめ | サイバー犯罪とセキュリティ](https://blog.azunyan1111.com/android-apk-%E8%A7%A3%E6%9E%90%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/)
+
+[混雑エリアに関する情報を Google マップから入手する - マップ ヘルプ](https://support.google.com/maps/answer/11323117?hl=ja)
+
+[Googleの混雑状況とは？データの見方や仕組みを解説 | フリースクエア](https://freesquare.co.jp/media/meo/crowded/)
+
+[店舗の「混雑状況」をリアルタイムで情報更新できるツール5選を紹介｜Googleマップやトクバイなど - 口コミアカデミー](https://academy.kutikomi.com/news/meo_gbp_congestioninfo/)
+
+[グーグルマップの著作権とは？気をつけるポイントを解説！｜トピックス｜集客課題解決のMEO対策＆WEBコンサルティング｜miraiz株式会社](https://miraiz-inc.co.jp/%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E8%91%97%E4%BD%9C%E6%A8%A9%E3%81%A8%E3%81%AF%EF%BC%9F%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%83%9D%E3%82%A4%E3%83%B3/)
 

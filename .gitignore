@@ -1,1 +1,4 @@
 reading.md
+*.txt
+*.pdf
+/books

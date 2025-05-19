@@ -120,6 +120,10 @@
 
 [Google Ads API のポリシー - Google 広告ポリシー ヘルプ](https://support.google.com/adspolicy/answer/6169371?hl=ja)
 
+[OpenAI の API の使い方 #Python - Qiita](https://qiita.com/Natu_ja/items/289efe08dd38cc78d506)
+
+[OpenAI APIの使い方講座【公式Quickstart】 #Python - Qiita](https://qiita.com/Isaka-code/items/b50983796636503b44c5)
+
 
 
 ## Asm
@@ -204,6 +208,8 @@
 
 [【AWS CLI】S3上のフォルダを削除する | 現場で使える！ AWS実践ガイド](https://aws-guide.work/s3-folder-rm/)
 
+[Amazon Braketで量子コンピュータをはじめよう！ #AWS - Qiita](https://qiita.com/snuffkin/items/29bc6ee24bc2bff55df3)
+
 
 
 ## Bat
@@ -240,6 +246,8 @@
 
 [【C】関数名変数名は自由につけて良いのか #命名規則 - Qiita](https://qiita.com/hanatan079/items/11d9c08458e42a0425f4)
 
+[C言語でオブジェクト指向を表現する (クラス、継承) #C - Qiita](https://qiita.com/qiita_kuru/items/8f3441bce9b2f53d1d62)
+
 
 
 ## Career
@@ -269,6 +277,8 @@
 [chrome_remoteでframeやiframe内の要素をスクレイピングする方法｜Facebookシェア数の取得手順 – 株式会社ルーター](https://rooter.jp/web-crawling/chrome-remote-frame-iframe-element-access/)
 
 [chrome_remoteを使ってchromeの機能拡張をスクレイピングできるか？ – 株式会社ルーター](https://rooter.jp/web-crawling/line_scraping_via_chrome_extention/)
+
+[chrome_remote を使って、Google Chrome 以外のブラウザも自動操縦してみる – 株式会社ルーター](https://rooter.jp/web-crawling/crawling_various_browser/)
 
 
 
@@ -374,6 +384,8 @@
 
 [grep的なPowerShellコマンドSelect-String #PowerShell - Qiita](https://qiita.com/kmr_hryk/items/101c15c8c1c95469f53e)
 
+[【Linux】scpコマンドの使い方 #Linuxコマンド - Qiita](https://qiita.com/Jazuma/items/30e78b61fe7e1661f089)
+
 
 
 ## Cpp
@@ -400,11 +412,17 @@
 
 [DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】 #AtCoder - Qiita](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)
 
+[C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
+
+[c++ 構造体の諸々 No3 #C++ - Qiita](https://qiita.com/sesame0224/items/9866629c2cedc3f6c904)
+
 
 
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
+
+
 
 ## Curl
 
@@ -726,6 +744,10 @@
 
 [GAS×スプレッドシート｜セル編集時に日付を自動入力｜イチからDX｜mochi](https://note.com/mochi_assistant/n/n76f5d67c4ae7)
 
+[【GAS】天気の情報を毎朝自動でリマインドするプログラムを作る | キャリアの実験室](https://life-table.com/gas-weather-api/)
+
+[GASの実行を一時中断・止めて処理を遅延させる方法(sleepメソッド) | AutoWorker〜Google Apps Script(GAS)とSikuliで始める業務改善入門](https://auto-worker.com/blog/?p=4815)
+
 
 
 ## Git
@@ -877,6 +899,8 @@
 [【git】git でコンフリクトさせて解消してみる #Git - Qiita](https://qiita.com/narikkyo/items/50063fe3cf849fa570fc)
 
 [【Git/GitHub/エラー解消法】git pushしたらConflicting filesが発生した時の解消方法 - 気ままに気ままのエンジニアブログ](https://hachimaki37.hatenablog.com/entry/2021/04/14/194312)
+
+[SSHでgit cloneする（gitlab） #Git - Qiita](https://qiita.com/altblanc/items/2ddcfa68ece7a68aff3d)
 
 
 
@@ -1225,6 +1249,14 @@
 [【LaTeX】等号・不等号・近似記号に関するコマンド107個一覧 | 数学の景色](https://mathlandscape.com/latex-equal/)
 
 [【LaTeX】括弧類のかき方一覧と大きさの変更方法まとめ | 数学の景色](https://mathlandscape.com/latex-bracket/)
+
+[subfilesによるLaTeXファイル分割 #LaTeX - Qiita](https://qiita.com/kemukowa/items/8621a19a9fa0664e4400)
+
+[他のTeXファイルの内容を読み込む方法 #TeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/47447063fff3c56f6a36)
+
+[【LaTeX】証明環境proofのあれこれ | 数学の景色](https://mathlandscape.com/latex-proof/)
+
+
 
 ## Linux
 
@@ -1719,6 +1751,10 @@
 
 [PythonでABC343を解いてみたよ。(A～F問題) #AtCoder - Qiita](https://qiita.com/hyouchun/items/bc3aa4a9ce530a58b57a)
 
+[Python3の整数int型に最大値はない（上限なし） | note.nkmk.me](https://note.nkmk.me/python-int-max-value/)
+
+[分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
+
 
 
 ## RaspberryPi
@@ -2151,6 +2187,12 @@
 
 [【Ruby】インストール済みのGemを確認する方法 #Rails - Qiita](https://qiita.com/tetusan/items/ac59833b0f91e92c623f)
 
+[【Ruby】Struct(構造体クラス)を理解する #Ruby - Qiita](https://qiita.com/k-penguin-sato/items/54189d5ed4e5f7463266)
+
+[Ruby クラスの基礎知識まとめ #class - Qiita](https://qiita.com/nk-ty/items/654b285a7bcbd82b1cff)
+
+[シンボルとは！？【Ruby超入門】 #Ruby - Qiita](https://qiita.com/yyykms123/items/6a6ae7fe8cd9263a3d1c)
+
 
 
 ## Rust
@@ -2450,6 +2492,18 @@
 [DBeaverのGUIからデータをエクスポート&インポートする #運動通信社 - Qiita](https://qiita.com/nero-15/items/13b996cb79f6d4f2ffe7)
 
 [【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.11.14 MySQL データベースのほかのマシンへのコピー](https://dev.mysql.com/doc/refman/8.0/ja/copying-databases.html)
+
+[MySQLでテーブルを別のデータベースに移動してみる #MySQL - Qiita](https://qiita.com/shinry/items/fa0f26a542f52a4cab9a)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 7.4.5.2 サーバー間でのデータベースのコピー](https://dev.mysql.com/doc/refman/8.0/ja/mysqldump-copying-to-other-server.html)
+
+[MySQLのテーブル作成 既存DBからのDDL生成はエクスポート機能を使う | ポテパンスタイル](https://style.potepan.com/articles/18367.html)
+
+[MySQLでダンプデータをインポートする方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/14/223826)
+
+[データベースの命名規則 - Avinton Japan](https://avinton.com/academy/database-naming-conventions/)
 
 
 
@@ -2794,6 +2848,8 @@
 [コマンドでのProxy設定 #Windows - Qiita](https://qiita.com/inframemo/items/a524c987bea9ccb26a66)
 
 [コマンド プロンプトを使用したプロキシ設定のリセット](https://help.webex.com/ja-jp/article/WBX84804/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88)
+
+[【Windows10】対処法：フォルダサイズが表示されません - MiniTool](https://jp.minitool.com/data-recovery/show-folder-size-windows-10.html)
 
 
 

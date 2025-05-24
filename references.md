@@ -64,6 +64,28 @@
 
 
 
+## Algorithm
+
+[いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
+
+[グラフのサイクル検出 (閉路検出) by DFS - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2023/05/20/200517)
+
+[連結グラフ　判定アルゴリズム - inninzityouのブログ](https://kisaragi.hatenablog.jp/entry/2018/03/07/105850)
+
+[DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】 #AtCoder - Qiita](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)
+
+[4-3. バブルソート（単純交換法） | Python講座](https://www.kaijo-academy.jp/joho/py43.html)
+
+[累積和をPythonで学ぶ #AtCoder - Qiita](https://qiita.com/yuta0003/items/62dd291795f16a81fb38)
+
+[累積和を何も考えずに書けるようにする！ #AtCoder - Qiita](https://qiita.com/drken/items/56a6b68edef8fc605821#fn1)
+
+[Atcoderで累積和が出てきたのでこれを機にちょっと勉強する #Python - Qiita](https://qiita.com/tttol777/items/2f3c89e1921eab83f72c)
+
+[小数点以下を切り上げる場合の商を求める方法【競技プログラミング】 #競技プログラミング - Qiita](https://qiita.com/penpenpen/items/7692545adedfb9407ec9)
+
+
+
 ## Android
 
 [Android apk 解析・リバースエンジニアリングツール よく使う奴まとめ | サイバー犯罪とセキュリティ](https://blog.azunyan1111.com/android-apk-%E8%A7%A3%E6%9E%90%E3%83%BB%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%84%E3%83%BC%E3%83%AB/)
@@ -71,6 +93,12 @@
 [AndroidでのSSLピンニング。SSLピンニングを実現するには？ | Apurv Pandey | Medium](https://mailapurvpandey.medium.com/ssl-pinning-in-android-90dddfa3e051)
 
 [android12 の タスクキル 対策について - 備忘録](https://blog.goo.ne.jp/fpoul/e/4a7b81b91387daed8712ccbd7520f621)
+
+[【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
+
+[ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
+
+[ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
 
 
@@ -123,6 +151,10 @@
 [OpenAI の API の使い方 #Python - Qiita](https://qiita.com/Natu_ja/items/289efe08dd38cc78d506)
 
 [OpenAI APIの使い方講座【公式Quickstart】 #Python - Qiita](https://qiita.com/Isaka-code/items/b50983796636503b44c5)
+
+[Google Vision API を使った類似画像判定 – 株式会社ルーター](https://rooter.jp/ml/google_vision_api_similar_image_detection/)
+
+[Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
 
 
 
@@ -228,6 +260,28 @@
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
 
+
+
+## Binary
+
+[protocol bufferに入門した](https://zenn.dev/nozomi_iida/articles/1022_proto_learning)
+
+[今さらProtocol Buffersと、手に馴染む道具の話 #JSON - Qiita](https://qiita.com/yugui/items/160737021d25d761b353)
+
+[gRPC - Protocol Buffers データ型 メモ #ProtocolBuffers - Qiita](https://qiita.com/yukina-ge/items/98fe190cef2024d45fbd)
+
+[Android / iOS で shell を使いたい](https://zenn.dev/yokotsukuda/articles/20240121-shell-smartphone)
+
+[Protocol Buffers: バイナリフォーマット(Wire Format)の中身 #ProtocolBuffers - Qiita](https://qiita.com/nozmiz/items/5f56b5e8e280c22121de)
+
+[Encoding | Protocol Buffers Documentation](https://protobuf.dev/programming-guides/encoding/)
+
+[Protocol Bufferのバイナリをデコードする. 実務でprotocol… | by timakin | Medium](https://medium.com/@timakin/protocol-buffer%E3%81%AE%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%92%E3%83%87%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B-1fdf4f537cee)
+
+[独学リバースエンジニアリング　バイナリファイルの解析 #Linux - Qiita](https://qiita.com/Brutus/items/df652167993bfd02dbce)
+
+
+
 ## C
 
 [1. FIRフィルタ](https://tmytokai.github.io/open-ed/activity/d-filter/text02/page01.html)
@@ -260,6 +314,18 @@
 
 [エンジニア(ほぼ)未経験でルーターに入社した新卒が、入社1か月経って考えたこと – 株式会社ルーター](https://rooter.jp/?p=57210&preview=1&_ppp=03c5855ed1)
 
+[ルーターでクローリングエンジニアの新人研修を通して感じたこと – 株式会社ルーター](https://rooter.jp/rooter/what-felt-rooter-crawling-engineer-traning/)
+
+[採用情報 – 株式会社ルーター](https://rooter.jp/recruit/)
+
+[IT業界未経験から始めた学生アルバイトの5年間を振り返ってみた – 株式会社ルーター](https://rooter.jp/rooter/koyama_graduation/)
+
+[実務未経験で入社した社会人エンジニアが、ルーターで学んだ事 – 株式会社ルーター](https://rooter.jp/rooter/what-to-learn-from-rooter/)
+
+[理系学部卒エンジニア志望がルーターでの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after-rooter-training/)
+
+[ルーターの研修で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/skills-learned-by-training/)
+
 
 
 ## Chrome
@@ -279,6 +345,12 @@
 [chrome_remoteを使ってchromeの機能拡張をスクレイピングできるか？ – 株式会社ルーター](https://rooter.jp/web-crawling/line_scraping_via_chrome_extention/)
 
 [chrome_remote を使って、Google Chrome 以外のブラウザも自動操縦してみる – 株式会社ルーター](https://rooter.jp/web-crawling/crawling_various_browser/)
+
+[コマンドラインからChromeを起動する際のオプション指定 – 株式会社ルーター](https://rooter.jp/web-crawling/google_chrome_boot_option/)
+
+[ProtocolBuffersのencodeとdecodeの方法](https://zenn.dev/daijinload/articles/c4ca5d2f2d9d00)
+
+[chrome_remoteでCanvaに動画ファイルを自動アップロード – 株式会社ルーター](https://rooter.jp/infra-ops/upload-video-to-canva-with-chrome_remote/)
 
 
 
@@ -386,6 +458,18 @@
 
 [【Linux】scpコマンドの使い方 #Linuxコマンド - Qiita](https://qiita.com/Jazuma/items/30e78b61fe7e1661f089)
 
+[jqコマンドでCSVを出力する方法 – 株式会社ルーター](https://rooter.jp/data-format/jq_json_to_csv/)
+
+[protoc コマンドで .proto ファイルをコンパイルする (Protocol Buffers Compiler)｜まくろぐ](https://maku.blog/p/37e6uck/)
+
+[protocの使い方 - Carpe Diem](https://christina04.hatenablog.com/entry/protoc-usage)
+
+[sftpクライアントをバッチで動かしたいならrcloneが便利 – 株式会社ルーター](https://rooter.jp/environment/sftp-connection-with-rclone/)
+
+[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
+
+[Linux ファイルの文字コード確認・変換 #Linuxコマンド - Qiita](https://qiita.com/H_Neco/items/48fa2eaaa0d9af2e45fe)
+
 
 
 ## Cpp
@@ -393,8 +477,6 @@
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
 
 [C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
-
-[いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
 
 [最低限これだけ知ってればゲームが作れるDXライブラリ関数集 #初心者 - Qiita](https://qiita.com/GandT/items/ec6e12bcacf7c66c315e)
 
@@ -405,12 +487,6 @@
 [(a + b - 1) / b で a / b の切り上げを計算する - yn2011's blog](https://pokuwagata.hatenablog.com/entry/2020/08/22/153557)
 
 [C++におけるおすすめ命名規則 #C++11 - Qiita](https://qiita.com/rinse_/items/a11ec988e7378642e8e2)
-
-[グラフのサイクル検出 (閉路検出) by DFS - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2023/05/20/200517)
-
-[連結グラフ　判定アルゴリズム - inninzityouのブログ](https://kisaragi.hatenablog.jp/entry/2018/03/07/105850)
-
-[DFS (深さ優先探索) 超入門！ 〜 グラフ・アルゴリズムの世界への入口 〜【後編】 #AtCoder - Qiita](https://qiita.com/drken/items/a803d4fc4a727e02f7ba)
 
 [C++言語の基礎　第3弾：クラス #class - Qiita](https://qiita.com/Yuya-Shimizu/items/45d42fe2942a684fa96a)
 
@@ -461,6 +537,44 @@
 [HTTPリクエストのGET/POSTをショートカット(iOS)とcURL(コマンド)で比較 #curl - Qiita](https://qiita.com/zunda_pixel/items/eeb43422f6ba96050368)
 
 [ブラウザのリクエストをcURL形式で取得 #ShellScript - Qiita](https://qiita.com/ueokande/items/a580e9d9f17dbf82f382)
+
+[windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+
+
+
+## Data Science
+
+[Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
+
+
+
+## Discord
+
+[discord.pyにおけるログイン時のイベントにおける処理の追加 #Python - Qiita](https://qiita.com/halglobe0108/items/71f40a065012c11e495c)
+
+[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
+
+[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
+
+[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
+
+[PythonでDiscordのBotを作る #discord.py - Qiita](https://qiita.com/Yumax-panda/items/9349e06f5a12d4466ca7)
+
+[Discord Bot を複数個起動させる方法（Python） #discord - Qiita](https://qiita.com/rnk0085/items/57a8759ae3bdc4bdcf70)
+
+[Discord Bot作成を完全に理解する](https://zenn.dev/king/articles/4201f4ee821a27)
+
+[Discord のリアクションに反応し通知する Bot #Python - Qiita](https://qiita.com/Erytheia/items/cf447c24538e13994a38)
+
+[Pythonで始める録音機能付きDiscord Bot: (3) Databaseとの連携 #初心者 - Qiita](https://qiita.com/Shirataki2/items/37d48868cd7b999a13b2)
+
+[Discord Bot と 顔認識を組み合わせてみた　～ＬＴ用～ #Python - Qiita](https://qiita.com/str32/items/373e48f4b1e6f4befa8c)
+
+[Gmailに来たメールをDiscordにBOTとして送信する方法 #GAS - Qiita](https://qiita.com/tnkTaka/items/5bcedceddd276660f863)
+
+[discord.py入門(1) #Python - Qiita](https://qiita.com/sizumita/items/9d44ae7d1ce007391699)
+
+[DiscordのBotでのファイル添付の仕方など【Python】 #discord - Qiita](https://qiita.com/chatrate/items/aa6625f6663fa2ca33d6)
 
 
 
@@ -730,8 +844,6 @@
 
 [GASでセルの値を取得、変更、削除 #JavaScript - Qiita](https://qiita.com/Bzbot/items/a1f716adb1742b23b288)
 
-[Gmailに来たメールをDiscordにBOTとして送信する方法 #GAS - Qiita](https://qiita.com/tnkTaka/items/5bcedceddd276660f863)
-
 [GASとGoogleスプレッドシートを使ってTwitterのDM自動返信botを作成する #GoogleAppsScript - Qiita](https://qiita.com/MokonaSato/items/a0fa8955370e4e3b817b)
 
 [Google Apps Script(GAS)比較演算子と論理演算子まとめ｜youtube戦略室](https://note.com/youtube_consul/n/n9ec4c152dc8c)
@@ -902,6 +1014,13 @@
 
 [SSHでgit cloneする（gitlab） #Git - Qiita](https://qiita.com/altblanc/items/2ddcfa68ece7a68aff3d)
 
+[【git】ブランチ名の変更方法(ローカル、リモート) #Git - Qiita](https://qiita.com/shungo_m/items/4218e70751375b4bfeec)
+
+[Git on iPad/A-Shell｜Banb Studio](https://note.com/banb_studio/n/nbb16abee9fd4)
+
+[ローカルのgitignore設定](https://zenn.dev/pluck/scraps/911c0d5c62e165)
+
+
 
 
 ## Go
@@ -909,6 +1028,8 @@
 [SHA-1、SHA-2、SHA256が結局なんなのかわからないので調べた #Go - Qiita](https://qiita.com/souhub/items/025353003c5acb6e89fb)
 
 [Go言語とはどんなプログラミング言語？特徴やできることを解説](https://hnavi.co.jp/knowledge/blog/go/)
+
+[自作protocプラグインで実現するスキーマベースの認可処理 - enechain Tech Blog](https://techblog.enechain.com/entry/protoc-acl)
 
 
 
@@ -925,6 +1046,8 @@
 [グーグルマップの著作権とは？気をつけるポイントを解説！｜トピックス｜集客課題解決のMEO対策＆WEBコンサルティング｜miraiz株式会社](https://miraiz-inc.co.jp/%E3%82%B0%E3%83%BC%E3%82%B0%E3%83%AB%E3%83%9E%E3%83%83%E3%83%97%E3%81%AE%E8%91%97%E4%BD%9C%E6%A8%A9%E3%81%A8%E3%81%AF%EF%BC%9F%E6%B0%97%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B%E3%83%9D%E3%82%A4%E3%83%B3/)
 
 [Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)
+
+[Googleスプレッドシートで動的な条件つき書式をつける – 株式会社ルーター](https://rooter.jp/no-category/dynamic_conditional_format_in_google_spreadsheet/)
 
 
 
@@ -1138,6 +1261,10 @@
 
 [正規表現の基本 #Java - Qiita](https://qiita.com/arucraft/items/7c8811b5cf37d700adc4)
 
+[継承について（オブジェクト指向） #Java - Qiita](https://qiita.com/kaito121855/items/460e50d64a2bdfaad30d)
+
+[ProtobufRecord](https://docs.deephaven.io/javadoc/20221001/io/deephaven/kafka/ingest/protobuf/ProtobufRecord.html)
+
 
 
 ## JavaScript
@@ -1207,6 +1334,8 @@
 [JS/TSでタイムゾーン情報付きの`Date.toISOString()`を作成する #JavaScript - Qiita](https://qiita.com/h53/items/05139982c6fd81212b08)
 
 [Chart.jsで東京の夏の気温データをグラフ化するチュートリアル – 株式会社ルーター](https://rooter.jp/programming/js-node/create-graph-by-chart-js/)
+
+[TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
 
 
@@ -1431,6 +1560,8 @@
 
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
+
+
 ## Next.js
 
 [Nextjsの初心者向けに説明～環境構築まで #React - Qiita](https://qiita.com/yutakiya/items/371fec6e878e57fffa08)
@@ -1523,10 +1654,6 @@
 
 [Python で終了時に必ず何か実行したい #Python3 - Qiita](https://qiita.com/qualitia_cdev/items/f536002791671c6238e3)
 
-[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
-
-[Discord Bot と 顔認識を組み合わせてみた　～ＬＴ用～ #Python - Qiita](https://qiita.com/str32/items/373e48f4b1e6f4befa8c)
-
 [PythonでURLエンコードする際の初歩的なミス #Python3 - Qiita](https://qiita.com/TekuLion/items/294b922aada8c5d5201c)
 
 [pip: Python環境構築ガイド - python.jp](https://www.python.jp/install/ubuntu/pip.html)
@@ -1561,8 +1688,6 @@
 
 [【Python】n進数→10進数、10進数→n進数【AtCoder】 #N進数 - Qiita](https://qiita.com/ether2420/items/061c19a000c52adf7f3e)
 
-[4-3. バブルソート（単純交換法） | Python講座](https://www.kaijo-academy.jp/joho/py43.html)
-
 [Ubuntu 22.04.4LTS に uv を入れて Python のパッケージを管理する - Sig9 Memo v4.0](https://sig9.org/blog/2024/04/18/)
 
 [[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
@@ -1590,8 +1715,6 @@
 [Pythonにて日付と時刻を扱う方法 #Python - Qiita](https://qiita.com/H_M1978/items/48e762720904abb3b97f)
 
 [Pythonのasync/awaitを理解したい【asyncio】](https://zenn.dev/iharuoru/articles/45dedf1a1b8352)
-
-[Pythonで実用Discord Bot(discordpy解説) #Python3 - Qiita](https://qiita.com/1ntegrale9/items/9d570ef8175cf178468f)
 
 [Pythonで非同期処理をするときのasyncioの使い方 | ABC DX Tech Blog](https://tech.asahi.co.jp/posts/20240328-7eb3)
 
@@ -1655,12 +1778,6 @@
 
 [CodeRunnerでpython: command not foundが出る場合 #Python3 - Qiita](https://qiita.com/kurohige113/items/e1b2e66e92c7fa607bff)
 
-[Discord のリアクションに反応し通知する Bot #Python - Qiita](https://qiita.com/Erytheia/items/cf447c24538e13994a38)
-
-[Pythonで始める録音機能付きDiscord Bot: (3) Databaseとの連携 #初心者 - Qiita](https://qiita.com/Shirataki2/items/37d48868cd7b999a13b2)
-
-[Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
-
 [【画像処理】硬貨(コイン)を検出してみよう #Python - Qiita](https://qiita.com/spc_ehara/items/e627f5633d0e9d98a39a)
 
 [未経験者含む高校生で校内のWebアプリを作ろうとしたら失敗した話。 #Python - Qiita](https://qiita.com/harryp0tterK/items/e8de3e1eed654308cd0d)
@@ -1669,13 +1786,7 @@
 
 [Pythonで累積和・累積積（itertools.accumulate） | note.nkmk.me](https://note.nkmk.me/python-itertools-accumulate/)
 
-[Discord Bot を複数個起動させる方法（Python） #discord - Qiita](https://qiita.com/rnk0085/items/57a8759ae3bdc4bdcf70)
-
 [Pythonパッケージ開発チュートリアル #GitHub - Qiita](https://qiita.com/Ag_smith/items/bd8b67d4e0c4255ecd09)
-
-[PythonでDiscordのBotを作る #discord.py - Qiita](https://qiita.com/Yumax-panda/items/9349e06f5a12d4466ca7)
-
-[Discord Bot作成を完全に理解する](https://zenn.dev/king/articles/4201f4ee821a27)
 
 [Python, set型で集合演算（和集合、積集合や部分集合の判定など） | note.nkmk.me](https://note.nkmk.me/python-set/)
 
@@ -1695,19 +1806,9 @@
 
 [【完全網羅】Python dictについて #初心者 - Qiita](https://qiita.com/kubochiro/items/5d5cb57ee071702d15da)
 
-[累積和をPythonで学ぶ #AtCoder - Qiita](https://qiita.com/yuta0003/items/62dd291795f16a81fb38)
-
-[累積和を何も考えずに書けるようにする！ #AtCoder - Qiita](https://qiita.com/drken/items/56a6b68edef8fc605821#fn1)
-
-[Atcoderで累積和が出てきたのでこれを機にちょっと勉強する #Python - Qiita](https://qiita.com/tttol777/items/2f3c89e1921eab83f72c)
-
 [Pythonで引数と戻り値の型を明示する #Python3 - Qiita](https://qiita.com/hashimo_846/items/5a2f722b63f301736d35)
 
-[小数点以下を切り上げる場合の商を求める方法【競技プログラミング】 #競技プログラミング - Qiita](https://qiita.com/penpenpen/items/7692545adedfb9407ec9)
-
 [Pythonで数値が整数か小数かを判定 | note.nkmk.me](https://note.nkmk.me/python-check-int-float/)
-
-[Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
 
 [Pythonで平方数を判定する | プログラミング学習　初心者向け入門ガイド](https://laptrinhcanban.com/ja/python/nhap-mon-lap-trinh-python/so-trong-python/kiem-tra-so-chinh-phuong-trong-python/)
 
@@ -1728,8 +1829,6 @@
 [Pythonの命名規則とルール](https://zenn.dev/gakkie555/articles/b7d89442365943)
 
 [Python命名規則：PEP8とリーダブルコードより #Python3 - Qiita](https://qiita.com/shiracamus/items/bc3bdfc206b39e0a75b2)
-
-[DiscordのBotでのファイル添付の仕方など【Python】 #discord - Qiita](https://qiita.com/chatrate/items/aa6625f6663fa2ca33d6)
 
 [pip installのバージョン指定方法](https://zenn.dev/wtkn25/articles/python-pip-install-version)
 
@@ -1754,6 +1853,8 @@
 [Python3の整数int型に最大値はない（上限なし） | note.nkmk.me](https://note.nkmk.me/python-int-max-value/)
 
 [分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
+
+[Pythonで10進数→N進数変換とN進数→10進数変換 #Python3 - Qiita](https://qiita.com/juchilian/items/3bc082c96fcf6524f0ef)
 
 
 
@@ -2193,6 +2294,34 @@
 
 [シンボルとは！？【Ruby超入門】 #Ruby - Qiita](https://qiita.com/yyykms123/items/6a6ae7fe8cd9263a3d1c)
 
+[fluentdを用いたMySQLからPostgreSQLへのデータ移行方法 – 株式会社ルーター](https://rooter.jp/infra-ops/fluent-plugin-mysql-to-postgresql/)
+
+[ActiveRecordのpreloadで結合先のテーブルで絞り込む方法 – 株式会社ルーター](https://rooter.jp/web-ui/activerecord-preload-where-joined-table-column/)
+
+[Rubyのcompact! に注意。 #破壊的操作 - Qiita](https://qiita.com/motoki4917/items/403b7f845c35e6ed0790)
+
+[【Ruby】 irbの使い方とは？ | Pikawaka](https://pikawaka.com/ruby/irb)
+
+[Rubyにおいてのirbの基本的な使い方 #Ruby - Qiita](https://qiita.com/kimascript/items/5ad179973c23079e5ea5)
+
+[Schema定義なしにProtocol Buffersをparseしてみる – 株式会社ルーター](https://rooter.jp/web-crawling/protobuf_parse/)
+
+[Protocol Buffers を使って、Rails の RESTful API をスキーマ駆動開発してみた #Ruby - Qiita](https://qiita.com/t0yohei/items/8b04bd427767c8df7465)
+
+[Protocol Buffers / Ruby Generated Code（和訳） #gRPC - Qiita](https://qiita.com/takegamm/items/a8ad1c38cc04d06c4546)
+
+[rubygems上にあるgemの全てのバージョンを調べた上で、versionを指定してinstallする #Ruby - Qiita](https://qiita.com/natsume1108/items/6fe0be12ff1616ed01f9)
+
+[RubyからProtobufを使う - tmtms のメモ](https://blog.tmtms.net/entry/2016/06/12/ruby-protobuf)
+
+[Ruby でハッシュを使ってCSVに書き込めるクラスを作ってみた – 株式会社ルーター](https://rooter.jp/programming/ruby/ruby_csv_write_with_hash/)
+
+[Chrome DevTools Protocol(CDP)のDispatchMouseEventを使ってGoogleChrome上のマウスを自動操縦する – 株式会社ルーター](https://rooter.jp/web-crawling/chromdevtoolsprotocol_mouse_automation/)
+
+[スクレイピングの文字列抽出でよく使うRubyの正規表現 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_regular_expression/)
+
+[Rubyで最速のxlsx生成プログラムを作ってみた – 株式会社ルーター](https://rooter.jp/data-format/fastest-xlsx-generatior-ruby/)
+
 
 
 ## Rust
@@ -2278,6 +2407,8 @@
 [SlackのチャンネルIDの確認方法 #Slack - Qiita](https://qiita.com/akis1215/items/cb68b2de6542a742da0a)
 
 [キーボードで Slack を使いこなす | Slack](https://slack.com/intl/ja-jp/help/articles/115003340723-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7-Slack-%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99)
+
+[Slack 通知を設定する | Slack](https://slack.com/intl/ja-jp/help/articles/201355156-Slack-%E9%80%9A%E7%9F%A5%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
 
 
 
@@ -2505,6 +2636,16 @@
 
 [データベースの命名規則 - Avinton Japan](https://avinton.com/academy/database-naming-conventions/)
 
+[DockerでMariaDBのいろんな環境を簡単に構築する – 株式会社ルーター](https://rooter.jp/infra-ops/docker_mariadb_build/)
+
+[MySQLから巨大データをタブ区切りテキストで出力する方法 – 株式会社ルーター](https://rooter.jp/data-format/mysql_to_tab/)
+
+[PostgreSQLのカラム追加を指定の場所にする方法 – 株式会社ルーター](https://rooter.jp/programming/db/postgresql_add_column/)
+
+[[MySQL／PostgreSQL] TRUNCATEによる自動採番主キーへの影響と対応方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-postgresql-truncate-serial/)
+
+[pgloaderでMySQLからPostgreSQLにデータ移行する方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-to-postgresql-pgloader/)
+
 
 
 ## Streamlit
@@ -2645,8 +2786,6 @@
 
 [【Netdata】Ubuntu 18.04上にインストールした時のメモ - とーますメモ](https://thoames.hatenadiary.jp/entry/2020/04/30/003034)
 
-[discord botをdaemonにする流れ #Ubuntu - Qiita](https://qiita.com/halglobe0108/items/8d8ec566255562160ec8)
-
 [【2023年版】UbuntuのUSBインストールメディアを作成 | RTC-Library-FUKUSHIMA](https://rtc-fukushima.jp/technical/6671/)
 
 [UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
@@ -2705,6 +2844,8 @@
 
 [UbuntuのPATHの設定方法 #Ubuntu - Qiita](https://qiita.com/takanemu/items/6027291be8a2a6af9adc)
 
+[UbuntuでのDocker環境構築方法を全パターン試す – 株式会社ルーター](https://rooter.jp/infra-ops/ubuntu-docker-setup/)
+
 
 
 ## Vim
@@ -2728,6 +2869,8 @@
 [vimで作られるファイルへの対処法 .swp .un~ .*~ #Vim - Qiita](https://qiita.com/chihiro/items/3b8d643474f3accc9b3c)
 
 [初心者向け vimrcの設定方法 #Vim - Qiita](https://qiita.com/iwaseasahi/items/0b2da68269397906c14c)
+
+[Vim [検索, 置換] #初心者 - Qiita](https://qiita.com/Ham4690/items/a67edf57d7d695abd030)
 
 
 
@@ -2783,6 +2926,12 @@
 
 [Visual Studio Code に Proxy を設定する方法 #VSCode - Qiita](https://qiita.com/cointoss1973/items/b3c84daeed90fd183501)
 
+[VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) #Git - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
+
+[VisualStudioCode ターミナルタブを切り替えるショートカットを設定する #初心者 - Qiita](https://qiita.com/miriwo/items/876daee1eda5465f4f37)
+
+[Visual Studio Code キーボード ショートカット #VSCode - Qiita](https://qiita.com/oruponu/items/ae9c720d4522c1606daf)
+
 
 
 ## Vue.js
@@ -2811,13 +2960,16 @@
 
 [プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
 
+[有効期限切れSSL証明書を使うとWebサイトは閲覧不能に | ネオワーカーズサポートサイト](https://support.neoworks.jp/ssl/update/ssl-disabled/)
+
+[Webサイトへアクセスしたら「このサイトは安全ではありません」と表示されます｜GMOクラウド｜ALTUS サポート](https://helpcenter.gmocloud.com/altus/s/article/ch-2893)
+
+
 
 
 ## Windows
 
 [デスクトップの背景をモニターごとに別々の画像で設定 - パソコントラブルＱ＆Ａ](https://www.724685.com/weekly/qa220803.htm)
-
-[windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
 
 [WinDbg をインストールしてとりあえず使えるところまで設定する方法 #Windows - Qiita](https://qiita.com/tokawa-ms/items/62625c7acc263185f530)
 
@@ -2937,15 +3089,9 @@
 
 [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
 
-[【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
-
 [ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
-
-[ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
-
-[ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
 
 [URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
 
@@ -2991,4 +3137,8 @@
 
 [クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
 
-[独学リバースエンジニアリング　バイナリファイルの解析 #Linux - Qiita](https://qiita.com/Brutus/items/df652167993bfd02dbce)
+[TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
+
+[僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
+
+

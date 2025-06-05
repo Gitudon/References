@@ -352,6 +352,8 @@
 
 [chrome_remoteでCanvaに動画ファイルを自動アップロード – 株式会社ルーター](https://rooter.jp/infra-ops/upload-video-to-canva-with-chrome_remote/)
 
+[Chromeの「localhostで接続が拒否されました」の解決策](https://www.partitionwizard.jp/news/localhost-refused-to-connect.html)
+
 
 
 ## Commands
@@ -469,6 +471,12 @@
 [自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
 
 [Linux ファイルの文字コード確認・変換 #Linuxコマンド - Qiita](https://qiita.com/H_Neco/items/48fa2eaaa0d9af2e45fe)
+
+[利用しているポート番号からどのプロセスが利用しているか確認する #Linux - Qiita](https://qiita.com/toshihirock/items/c6a09575c2d88c210483)
+
+[ifconfigは古い！](https://zenn.dev/tryeverything/articles/a0001_net-tools)
+
+[duコマンド、ディレクトリの容量を確認 #Linuxコマンド - Qiita](https://qiita.com/matsu_qiita/items/536c947282e427414b5c)
 
 
 
@@ -1020,6 +1028,15 @@
 
 [ローカルのgitignore設定](https://zenn.dev/pluck/scraps/911c0d5c62e165)
 
+[ローカルブランチに特定のリモートブランチをpull #Git - Qiita](https://qiita.com/hinatades/items/d47dec72a87c5fed50f7)
+
+[Gitの変更を取り消すには( git statusした時の modifiedの取り消し方やコミットの取り消し方など)](https://zenn.dev/norihashimo/articles/8afc81ff48451c)
+
+[複数のgitアカウントを使い分ける #Git - Qiita](https://qiita.com/0084ken/items/f4a8b0fbff135a987fea)
+
+[git add を取り消す #Git - Qiita](https://qiita.com/yukure/items/89562e5eb1d03995dc5b)
+
+[【Git】stashコマンドのまとめと使い方 〜変更差分の一時退避〜 #初心者 - Qiita](https://qiita.com/nakaji0210/items/330f6dcb361da074c2c0)
 
 
 
@@ -1048,6 +1065,10 @@
 [Googleドライブ上の文書やプレゼンテーションで特定の場所のリンクを共有する方法 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/130604google_docs/)
 
 [Googleスプレッドシートで動的な条件つき書式をつける – 株式会社ルーター](https://rooter.jp/no-category/dynamic_conditional_format_in_google_spreadsheet/)
+
+[列ごとに色分けしたい！Google スプレッドシートでカラースケールを列単位で独立適用する方法（GAS、マクロ不使用） – 株式会社ルーター](https://rooter.jp/data-format/spreadsheet_independent_color_scale_per_column/)
+
+[スプシで複数の表や列を1つにまとめる方法【FLATTEN関数の使い方】 – 株式会社ルーター](https://rooter.jp/data-format/many-table-or-row-combine-into-one/)
 
 
 
@@ -1158,6 +1179,8 @@
 [CSS 入門 - ウェブ開発の学習 | MDN](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Styling_basics/Getting_started)
 
 [htmlのid属性とclass属性の命名はハイフンかcamelかsnakeか #HTML - Qiita](https://qiita.com/itagakishintaro/items/168667d5ee4c56b30d52)
+
+[相対パスの書き方（特に`./`と `../`）を段階的に学ぶ記事 #絶対パス - Qiita](https://qiita.com/BigRaccoonDog/items/0ce44edab7aec664bed4)
 
 
 
@@ -1337,6 +1360,8 @@
 
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
+[JSON.parse() - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+
 
 
 ## Kotlin
@@ -1384,6 +1409,12 @@
 [他のTeXファイルの内容を読み込む方法 #TeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/47447063fff3c56f6a36)
 
 [【LaTeX】証明環境proofのあれこれ | 数学の景色](https://mathlandscape.com/latex-proof/)
+
+[太字・斜体 | あがきながら覚えるTeX](https://hakuoku.github.io/agakuTeX/tutorial/5_4emph/)
+
+[[自動改行]長い数式を折り返して表示させる3つの方法 #LaTeX - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/5d1bb5e50ffe53f8ba99)
+
+[LaTeX 枠付き文章](http://www.yamamo10.jp/yamamoto/comp/latex/make_doc/box/box.php)
 
 
 
@@ -1476,6 +1507,10 @@
 
 [marp 自作テーマが適用できない人は marp-cli を使えばいいと思う](https://typememo.jp/tech/marp-cli-basic/)
 
+[【VSCode】Markdownに目次を自動作成する方法 #初学者 - Qiita](https://qiita.com/P-man_Brown/items/797733f359af613c35e6)
+
+[【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件 #VSCode - Qiita](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
+
 
 
 ## Microsoft
@@ -1560,6 +1595,8 @@
 
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
+[【基本情報技術者】IPアドレスのクラス #基本情報技術者試験 - Qiita](https://qiita.com/pieceofmysoul1225/items/b75f5d00ca40de49b8b8)
+
 
 
 ## Next.js
@@ -1617,6 +1654,10 @@
 ## Protocol
 
 [HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)
+
+[HTTP レスポンスステータスコード - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Status)
+
+
 
 ## Python
 
@@ -1855,6 +1896,18 @@
 [分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
 
 [Pythonで10進数→N進数変換とN進数→10進数変換 #Python3 - Qiita](https://qiita.com/juchilian/items/3bc082c96fcf6524f0ef)
+
+[テンソル積を理解する（numpy.tensordot） #Python - Qiita](https://qiita.com/nyandora/items/0fac6e307edc16c3cb91)
+
+[[競プロ用]ランレングス圧縮まとめ #Python - Qiita](https://qiita.com/Kept1994/items/e9179d1dd7c6455d6883)
+
+[FizzBuzz問題 #Python - Qiita](https://qiita.com/Pitts7/items/6b03f22d46fe84ee0aa1)
+
+[【徹底解説】スクレイピングとは｜初心者にも分かるスクレイピングに関する解説! #Python - Qiita](https://qiita.com/Octoparse_Japan/items/3a766a5615d82674b873)
+
+[Pythonで手軽に始めるWebスクレイピング #初心者 - Qiita](https://qiita.com/Moh_no/items/a835f77b6b4e3972fbbe)
+
+[PythonのURL結合にはos.path.joinではなくurlparse.urljoinを使う #urllib - Qiita](https://qiita.com/___fff_/items/577b494e1725e5173be5)
 
 
 
@@ -2322,6 +2375,18 @@
 
 [Rubyで最速のxlsx生成プログラムを作ってみた – 株式会社ルーター](https://rooter.jp/data-format/fastest-xlsx-generatior-ruby/)
 
+[JSON形式の文字列をハッシュに変換する - 逆引きRuby](https://scrapbox.io/rubytips/JSON%E5%BD%A2%E5%BC%8F%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B)
+
+[Ruby 文字列をハッシュに変換 #Ruby - Qiita](https://qiita.com/uplus_e10/items/65a50935250639bf8308)
+
+[Rubyで指定した文字列が含まれるか確かめる方法を現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/21363)
+
+[【ruby】p pp puts print　違い。 #Ruby - Qiita](https://qiita.com/george_naoya/items/f5d84581d3a301a9c22f)
+
+[return, break, next の使い方 #Ruby - Qiita](https://qiita.com/asagohan2301/items/21a0600ce0bd79ed0d28)
+
+[Webブラウザ自動操縦ライブラリchrome_remoteの後継のFerrumの使い方 – 株式会社ルーター](https://rooter.jp/web-crawling/ferrum/)
+
 
 
 ## Rust
@@ -2646,6 +2711,14 @@
 
 [pgloaderでMySQLからPostgreSQLにデータ移行する方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-to-postgresql-pgloader/)
 
+[hanhan's blog - SQL の不等式条件は <> が適切](https://blog.hanhans.net/2021/03/21/sql-inequality-condition/)
+
+[【SQLの基本】比較演算子の使い方について | ポテパンスタイル](https://style.potepan.com/articles/24366.html)
+
+[【MySQL】MySQLで使えるJOIN全部試してみた #MySQL - Qiita](https://qiita.com/TomoProg/items/a82ad0ee0cdee8848cd1)
+
+[【SQL】DISTINCTで重複行を除外する方法を解説 │ TechMania](https://techmania.jp/blog/sql-distinct/)
+
 
 
 ## Streamlit
@@ -2872,6 +2945,12 @@
 
 [Vim [検索, 置換] #初心者 - Qiita](https://qiita.com/Ham4690/items/a67edf57d7d695abd030)
 
+[Vimで文字コードを指定する #Vim - Qiita](https://qiita.com/bezeklik/items/2c9925f9c07762559471)
+
+[vimで複数行削除 #Vim - Qiita](https://qiita.com/YokoYokoko/items/b156538b434108302470)
+
+[viで文字を削除するコマンド【色々な方法まとめました】](https://eng-entrance.com/linux-vi-delete)
+
 
 
 ## Vite
@@ -2932,6 +3011,18 @@
 
 [Visual Studio Code キーボード ショートカット #VSCode - Qiita](https://qiita.com/oruponu/items/ae9c720d4522c1606daf)
 
+[VSCodeでPythonフォーマッターを設定してみた](https://zenn.dev/bellstone/articles/ff5aac74455cbf)
+
+[VSCodeの見た目をいい感じに調整する](https://zenn.dev/haru_0205/articles/66535a3c4ba403)
+
+[【VSCode】pythonのシンタックスハイライトが適用されなくなったとき #Python - Qiita](https://qiita.com/ryutarom128/items/d52ec3db2d11b79599da)
+
+[VSCodeでCPUの稼働率が張り付くんやが！？](https://zenn.dev/genssk/articles/19b509351e12f2)
+
+[VSCodeの便利なショートカットキー（検索と置換系）](https://zenn.dev/uniformnext/articles/0edccd0c681474)
+
+[VSCodeの折りたたみについて #VSCode - Qiita](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
+
 
 
 ## Vue.js
@@ -2964,6 +3055,7 @@
 
 [Webサイトへアクセスしたら「このサイトは安全ではありません」と表示されます｜GMOクラウド｜ALTUS サポート](https://helpcenter.gmocloud.com/altus/s/article/ch-2893)
 
+[スプレッドシートをダークモードにする方法とならない時の対処法 | ゆけブログ](https://yukeblog.org/blog/spreadsheet80/)
 
 
 
@@ -3002,6 +3094,8 @@
 [コマンド プロンプトを使用したプロキシ設定のリセット](https://help.webex.com/ja-jp/article/WBX84804/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88)
 
 [【Windows10】対処法：フォルダサイズが表示されません - MiniTool](https://jp.minitool.com/data-recovery/show-folder-size-windows-10.html)
+
+[❗️Windows 11で「クイックアクセスメニュー」が表示されない？原因と解決策を徹底解説！❗️ - エラー大全集](https://error-daizenn.hatenablog.com/entry/2025/01/10/152939)
 
 
 
@@ -3049,6 +3143,8 @@
 
 [regファイルとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word14677.html)
 
+[SVCファイル拡張子： ファイルの種類は？ それを開く方法は？](https://www.solvusoft.com/ja/file-extensions/file-extension-svc/)
+
 
 
 ## Wsl
@@ -3078,6 +3174,8 @@
 [WSLには3つの「バージョン」がある #Linux - Qiita](https://qiita.com/omu_kato/items/f9a6b5a02e25f5f2a487)
 
 [WSL2の Ubuntu 20.04 を 22.04 へアップグレードしてみた #Linux - Qiita](https://qiita.com/j-baba/items/c2e6426c9b32685ec082)
+
+[Windows11にアップデートしたらエクスプローラーでLinuxが表示されなくなった｜Hattori](https://note.com/astrobutsurist/n/n4e4f2ffe982f)
 
 
 
@@ -3141,4 +3239,5 @@
 
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
 
+[[意見交換] Qiita記事の見出しレベルは1と2のどちらから始めるべきか - Qiita](https://qiita.com/yusuke_s_yusuke/questions/f445294afd222fbc4001)
 

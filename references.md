@@ -62,6 +62,22 @@
 
 [［Android］エミュレータで Screen Pinning (画面の固定) を解除する方法 #ScreenPinning - Qiita](https://qiita.com/kaleidot725/items/f90fb1733f3b6013df77)
 
+[androidの操作を自動化したときの覚書 #Android - Qiita](https://qiita.com/techno-tanoC/items/b93723618a792c7096ee)
+
+[徹底解説！パソコンがスマホを認識しないときにはどうしたらいい？ | スマホ・iphone修理のスマホスピタル](https://smahospital.jp/column/repair-smartphone/computer_cannot_recognize_smartphone/)
+
+[USBデバッグ接続で端末が認識しない | ソウサクカツドウ！](https://teammoko.jp/usb_debug_unauthorized)
+
+[USBデバッグモードを有効にしていますが、まだ接続されていない場合は、どうすれば良いですか？](https://www.tenorshare.jp/faq/android-enabled-usb-debugging-but-not-connected.html)
+
+[WSL2でadbを楽に使う方法](https://zenn.dev/suudai/articles/6dad7d08ce8835)
+
+[Android Debug Bridge(adb)をWSL上で使いたい – 株式会社ルーター](https://rooter.jp/environment/adb-with-wsl/)
+
+[Ubuntu で Android の実機の接続に関する設定](https://www.kkaneko.jp/pro/js/udevadm.html)
+
+[[覚え書き]AndroidにWindowsからadbコマンドで接続する #Android - Qiita](https://qiita.com/nandymak/items/5e76f5b8277dfb815e10#shell%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
+
 
 
 ## Algorithm
@@ -354,6 +370,16 @@
 
 [Chromeの「localhostで接続が拒否されました」の解決策](https://www.partitionwizard.jp/news/localhost-refused-to-connect.html)
 
+[Ubuntu で Chrome の古いバージョンを使う方法 #Ubuntu - Qiita](https://qiita.com/ekzemplaro/items/11539f5bd9b80a6c7dca)
+
+[Dockerコンテナ上のChromeの動きが悪い時の対応方法 #CentOS - Qiita](https://qiita.com/ponsuke0531/items/a96105a17a5c63612478)
+
+[chrome remote-debugging-portオプションをつけて実行してもListenされない。](https://teratail.com/questions/3tw4tzuo2k7wq5)
+
+[ubuntuデスクトップ環境 にChromeブラウザをインストールする方法 - SEO対策の賢者](https://wisenetwork.net/archives/2513)
+
+[[走り書き]Selenium + Chrome 136以降で標準プロファイルを読み込めない #スクレイピング - Qiita](https://qiita.com/203mmH/items/7ef4d8c29d4fea159e67)
+
 
 
 ## Commands
@@ -477,6 +503,38 @@
 [ifconfigは古い！](https://zenn.dev/tryeverything/articles/a0001_net-tools)
 
 [duコマンド、ディレクトリの容量を確認 #Linuxコマンド - Qiita](https://qiita.com/matsu_qiita/items/536c947282e427414b5c)
+
+[xmllint で XML ファイルを整形する - Sig9 Memo v4.0](https://sig9.org/blog/2023/01/01/)
+
+[4. xmllint使用方法](https://saj.co.jp/techinfo/htmls/xml-libxml2-xmllint_usage.html)
+
+[xmllint を使って、xmlをパースした #Bash - Qiita](https://qiita.com/kudojp/items/6e2ca905c609dffdf0d5)
+
+[[awk] 基本的な使い方](http://sweng.web.fc2.com/ja/program/awk/quick-start.html)
+
+[chmod コマンド #Terminal - Qiita](https://qiita.com/ntkgcj/items/6450e25c5564ccaa1b95)
+
+[【ネットワーク入門】tracerouteでネットワークの経路を調べる/pingで接続先の生存確認 #Network - Qiita](https://qiita.com/shiei_kawa/items/9cb116d1ea36572037c1)
+
+[tracerouteの使用方法とオプションについて | セキュリティ専門企業発、ネットワーク・ログ監視の技術情報 - KnowledgeStare（ナレッジステア）](https://www.secuavail.com/kb/windows-linux/traceroute-option/)
+
+[ムービーダウンロードツールyt-dlpのインストールと使い方](https://zenn.dev/vs7k1/articles/80d7525a08bde0)
+
+[yt-dlp を Windows 10/11で実行する #YouTube - Qiita](https://qiita.com/Bacalhau/items/ca02c5c35c714a40bb4d)
+
+[【WSL】Windows上のUbuntuでyt-dlpを動かす #Bash - Qiita](https://qiita.com/MATO/items/7030ac7db6f0f05a7b56)
+
+[FFmpegによる動画ファイル分析入門 |](https://weblabo.oscasierra.net/ffmpeg-video-analizing/)
+
+[それFFmpegで出来るよ！ #ffmpeg - Qiita](https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8)
+
+[MP4動画のバイナリファイルをコマンドラインでいじる方法のメモ #mp4box - Qiita](https://qiita.com/kunichiko/items/6fc1ec29989da28e6287)
+
+[MP4Boxの設定 #mp4box - Qiita](https://qiita.com/szk_2024/items/d9c4dbb5e4fa881662d8)
+
+[【Linuxコマンド】diffでファイルの差分を出力する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/51012)
+
+[ffprobeで動画を解析する #ffmpeg - Qiita](https://qiita.com/hapoon/items/0e7d2f941e5da8cec8d1)
 
 
 
@@ -1038,6 +1096,10 @@
 
 [【Git】stashコマンドのまとめと使い方 〜変更差分の一時退避〜 #初心者 - Qiita](https://qiita.com/nakaji0210/items/330f6dcb361da074c2c0)
 
+[git checkout解説 #Git - Qiita](https://qiita.com/yunano/items/f3133ea64efed762df2f)
+
+[Gitサブモジュールを扱う際のTips](https://zenn.dev/sakaki_web/articles/785d2da8aaf2fa)
+
 
 
 ## Go
@@ -1416,6 +1478,10 @@
 
 [LaTeX 枠付き文章](http://www.yamamo10.jp/yamamoto/comp/latex/make_doc/box/box.php)
 
+[【LaTeX】mod（剰余類）に関するコマンド4つ | 数学の景色](https://mathlandscape.com/latex-mod/)
+
+[【LaTeX】括弧類のかき方一覧と大きさの変更方法まとめ | 数学の景色](https://mathlandscape.com/latex-bracket/)
+
 
 
 ## Linux
@@ -1539,6 +1605,12 @@
 
 [デモ動画を作るための最低限のCanvaスキル – 株式会社ルーター](https://rooter.jp/infra-ops/canva-free-demo-video-editing/)
 
+[MP4のファイル構造を解説 #mp4 - Qiita](https://qiita.com/satken2/items/d14b4113fe3fb5f5597b)
+
+[そもそも動画ファイルって何？ MP4ファイルの中身を見てみよう (1/4)|CodeZine（コードジン）](https://codezine.jp/article/detail/19591)
+
+[MP4のデータ構造 #mp4 - Qiita](https://qiita.com/daisukeoda/items/87f6b5e9427c3feeaabf)
+
 
 
 ## Network
@@ -1596,6 +1668,8 @@
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
 [【基本情報技術者】IPアドレスのクラス #基本情報技術者試験 - Qiita](https://qiita.com/pieceofmysoul1225/items/b75f5d00ca40de49b8b8)
+
+[SSHのconfigファイルで複数の接続先を管理する #SSH - Qiita](https://qiita.com/muniere/items/edc5dbd9799041071d63)
 
 
 
@@ -1908,6 +1982,20 @@
 [Pythonで手軽に始めるWebスクレイピング #初心者 - Qiita](https://qiita.com/Moh_no/items/a835f77b6b4e3972fbbe)
 
 [PythonのURL結合にはos.path.joinではなくurlparse.urljoinを使う #urllib - Qiita](https://qiita.com/___fff_/items/577b494e1725e5173be5)
+
+[【Python】OpenCV(cv2)のインストール方法(pip install)を解説 – trends](https://trends.codecamp.jp/blogs/media/column38)
+
+[pygame（パイゲーム）を使ってみよう #Python - Qiita](https://qiita.com/ricky-sensei/items/21290fcb342939221b67)
+
+[【図解】Pythonのライブラリ 24選＋α #初心者 - Qiita](https://qiita.com/python_academia/items/62aefbf4e373cd2aa496)
+
+[Pythonの標準ライブラリについて #学習 - Qiita](https://qiita.com/benjamin1gou/items/9d292274b817acf90df6)
+
+[最新のChromedriverの設定　vol.2 #Python - Qiita](https://qiita.com/Chronos2500/items/7f56898af25523d04598)
+
+[【Python】一時ファイル・デイレクトリの作成（tempfile）](https://zenn.dev/makio/articles/1618749de268ef)
+
+[【Python】pythonコマンドとpython3コマンドの違いを徹底解説](https://zenn.dev/nuinui/articles/82b32e206b3fc3)
 
 
 
@@ -2329,8 +2417,6 @@
 
 [RubyのNokogiriで子要素のみのテキストを取得し兄弟要素から指定する – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_only_child_text_select_by_sibling/)
 
-[Nokogiri でスクレイピングしていて レイアウトが変わると困る！ – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_scraping_patch/)
-
 [UTF8の絵文字を削除する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-remove-emojis-in-utf8/)
 
 [RailsでONLY_FULL_GROUP_BYに反しているクエリを洗い出す方法 – 株式会社ルーター](https://rooter.jp/programming/ruby/identify-non-compliant-only-full-group-by/)
@@ -2386,6 +2472,24 @@
 [return, break, next の使い方 #Ruby - Qiita](https://qiita.com/asagohan2301/items/21a0600ce0bd79ed0d28)
 
 [Webブラウザ自動操縦ライブラリchrome_remoteの後継のFerrumの使い方 – 株式会社ルーター](https://rooter.jp/web-crawling/ferrum/)
+
+[rubyのOpen3でハマったところ](https://zenn.dev/tkebt/articles/42284661377a27)
+
+[ライブラリ:open3 > バージョン:2.3.0 | るりまサーチ (Ruby 2.3.0)](https://rurema.clear-code.com/library:open3/version:2.3.0/)
+
+[open3でシェルコマンドを実行してラップする - ツナワタリマイライフ](https://blog.chaspy.me/entry/2016/04/24/120000)
+
+[module Open3 (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/class/Open3.html)
+
+[オブジェクトをテキストのテーブル表記にする table_format gem の紹介 #Ruby - Qiita](https://qiita.com/akicho8/items/84a80b396509adf7ce36)
+
+[ruby の pack template 文字列の表 #Ruby - Qiita](https://qiita.com/Nabetani/items/4bdbe0c22bc1e8781c2a)
+
+[Rubyのfaradayを使ってslackにsnippetを投下する #Slack - Qiita](https://qiita.com/yuji_sakurai/items/caba3bf646f904f71555)
+
+[rubyで正規表現を使わずにURLの構成要素を取得する – 株式会社ルーター](https://rooter.jp/programming/get_url_component_without_regular_expression/)
+
+[正規表現とmatch,subメソッド #Ruby - Qiita](https://qiita.com/Naaa0/items/49e4eea18fa93db18d68)
 
 
 
@@ -2474,6 +2578,16 @@
 [キーボードで Slack を使いこなす | Slack](https://slack.com/intl/ja-jp/help/articles/115003340723-%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%81%A7-Slack-%E3%82%92%E4%BD%BF%E3%81%84%E3%81%93%E3%81%AA%E3%81%99)
 
 [Slack 通知を設定する | Slack](https://slack.com/intl/ja-jp/help/articles/201355156-Slack-%E9%80%9A%E7%9F%A5%E3%82%92%E8%A8%AD%E5%AE%9A%E3%81%99%E3%82%8B)
+
+[slackのwebhook通知でinvalid_payload エラーが出る原因 #Slack - Qiita](https://qiita.com/hayato0311/items/3f80b1eb68e56c744de2)
+
+[メッセージの書式設定 | Slack](https://slack.com/intl/ja-jp/help/articles/202288908-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B8%E5%BC%8F%E8%A8%AD%E5%AE%9A)
+
+[Webhook URL を経由して slack に通知する方法 ―crossnote の操作をトリガーにした実例紹介― #Slack - Qiita](https://qiita.com/update_it_inc/items/e7bc2607b14f91cfaa24)
+
+[slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
+
+[SlackのIncoming Webhooksを使い倒す #slackbot - Qiita](https://qiita.com/ik-fib/items/b4a502d173a22b3947a0)
 
 
 
@@ -2919,6 +3033,10 @@
 
 [UbuntuでのDocker環境構築方法を全パターン試す – 株式会社ルーター](https://rooter.jp/infra-ops/ubuntu-docker-setup/)
 
+[Ubuntu で Android の実機の接続に関する設定](https://www.kkaneko.jp/pro/js/udevadm.html)
+
+[Ubuntuにdebファイルをインストール #Ubuntu - Qiita](https://qiita.com/Shi05yu/items/6ba18aa4644dc7e78376)
+
 
 
 ## Vim
@@ -3097,6 +3215,8 @@
 
 [❗️Windows 11で「クイックアクセスメニュー」が表示されない？原因と解決策を徹底解説！❗️ - エラー大全集](https://error-daizenn.hatenablog.com/entry/2025/01/10/152939)
 
+[Windows 11/10でUSB機器・Bluetooth機器が認識されない場合 動作が不安定な場合の対処方法｜サンワサプライ株式会社](https://www.sanwa.co.jp/seihin_joho/windows10_usb/index.html)
+
 
 
 ## Words
@@ -3145,6 +3265,10 @@
 
 [SVCファイル拡張子： ファイルの種類は？ それを開く方法は？](https://www.solvusoft.com/ja/file-extensions/file-extension-svc/)
 
+[bashとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11786.html)
+
+[データとビジネスをつなぐデータストラテジストとは|自己紹介記事｜PROMPT FOR PLANNER](https://note.com/data_teller/n/n5b4025b9097e)
+
 
 
 ## Wsl
@@ -3176,6 +3300,8 @@
 [WSL2の Ubuntu 20.04 を 22.04 へアップグレードしてみた #Linux - Qiita](https://qiita.com/j-baba/items/c2e6426c9b32685ec082)
 
 [Windows11にアップデートしたらエクスプローラーでLinuxが表示されなくなった｜Hattori](https://note.com/astrobutsurist/n/n4e4f2ffe982f)
+
+[WSL で Windowsネイティブな.exeを実行する | ハングスタック](https://hangstuck.com/wsl-adb/)
 
 
 
@@ -3240,4 +3366,10 @@
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
 
 [[意見交換] Qiita記事の見出しレベルは1と2のどちらから始めるべきか - Qiita](https://qiita.com/yusuke_s_yusuke/questions/f445294afd222fbc4001)
+
+[【備忘録】改行コード「CR」「LF」「CRLF」の違い #改行コード - Qiita](https://qiita.com/sbeleg_77/items/833de09f7bca24bc8ab8)
+
+[プログラムにおける終了コードとは？その役割とNode.jsでの活用例 #ShellScript - Qiita](https://qiita.com/tasukuwatanabe/items/da8e71e3427c9febddc4)
+
+[特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
 

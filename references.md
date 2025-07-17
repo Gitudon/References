@@ -78,6 +78,16 @@
 
 [[覚え書き]AndroidにWindowsからadbコマンドで接続する #Android - Qiita](https://qiita.com/nandymak/items/5e76f5b8277dfb815e10#shell%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B)
 
+[adb コマンドで現在起動中の activity を立ち上げる - Diary](https://koko206.hatenablog.com/entry/2021/11/15/213159)
+
+[備忘録 〜プログラミング〜](https://buchi.hatenablog.com/)
+
+[開いているActivityを一発で表示するコマンド #Android - Qiita](https://qiita.com/endoidou/items/f8f8052ab4c484c31bd1)
+
+[Androidで今開いているアクティブなActivityを調べるコマンド - Tatuas Blog](https://tatuas.hatenablog.com/entry/2017/04/23/143546)
+
+[adbでURL SchemeからActivityを開く #Android - Qiita](https://qiita.com/sekitaka_1214/items/2a974894130f450d3226)
+
 
 
 ## Algorithm
@@ -100,6 +110,12 @@
 
 [小数点以下を切り上げる場合の商を求める方法【競技プログラミング】 #競技プログラミング - Qiita](https://qiita.com/penpenpen/items/7692545adedfb9407ec9)
 
+[【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
+
+[ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
+
+[ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
+
 
 
 ## Android
@@ -110,11 +126,29 @@
 
 [android12 の タスクキル 対策について - 備忘録](https://blog.goo.ne.jp/fpoul/e/4a7b81b91387daed8712ccbd7520f621)
 
-[【探索 chapter2】2分探索法](https://qiita.com/__800/items/8d9c6331377b68a8d070)
+[Facebookのsdkを使わずにURL共有/ページを起動する #Android - Qiita](https://qiita.com/ikemura23/items/95518c37c11068ba1242)
 
-[ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
+[ローカル起動のサーバー/フロントアプリケーションをAndroidエミュレータのWebViewで開く #webView - Qiita](https://qiita.com/beeytnh/items/8f3cd7c5c486d4697ccc)
 
-[ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
+[Android のアプリ内ブラウザについてのまとめ #webView - Qiita](https://qiita.com/otofu-square/items/3153dc75438acb3f71d0)
+
+[androidのwebviewについてのまとめ #Android - Qiita](https://qiita.com/pe-ta/items/0ec020c5615e17b1dc48)
+
+[Android System WebView プレリリースチャネルのススメ — HACK The Nikkei](https://hack.nikkei.com/blog/advent20231209/)
+
+[Android で WebView メモ](https://zenn.dev/erukiti/articles/android-webview)
+
+[Android(Kotlin)でSNSアプリを開くintentを書きたいときに使えるスニペット](https://zenn.dev/pytokyo/articles/75a45f005ad23ccb2960)
+
+[AndroidのWebViewでInstagramを表示する - くらげになりたい。](https://www.memory-lovers.blog/entry/2019/01/22/153757)
+
+[AndroidのLineやFaceBookのWebview（アプリ内ブラウザ）からだけサイトが表示されない場合の対処法 #SSL証明書 - Qiita](https://qiita.com/tentatsu/items/a5d4eef026caf069f9c5)
+
+[【Android】特定のリンクをアプリ内で開く(WebView) #Java - Qiita](https://qiita.com/kilalabu/items/d5ad2629d61f77a7f5fe)
+
+[Instagramのユーザページと詳細ページへ暗黙的Intentで遷移する。 - メモ2ブログ](https://sakebook.hatenablog.com/entry/2016/04/10/194113)
+
+[【モバイル対応】URLでアプリを開く #iOS - Qiita](https://qiita.com/RINYU_DRVO/items/e1c5b64dd3af19c9d905)
 
 
 
@@ -171,6 +205,22 @@
 [Google Vision API を使った類似画像判定 – 株式会社ルーター](https://rooter.jp/ml/google_vision_api_similar_image_detection/)
 
 [Google Translation APIを利用してみよう！ #Python - Qiita](https://qiita.com/Macho000/items/86350978addefe109d20)
+
+[Gemini APIで類似画像をクラスタリング！枚数増加時の精度劣化を回避する方法 – 株式会社ルーター](https://rooter.jp/data-format/clustering_method_by_gemini-api/)
+
+[Fetch API(JavaScript)を用いたスクレイピング方法 – 株式会社ルーター](https://rooter.jp/web-crawling/fetch_api_scraping/)
+
+[Youtube Data APIで動画の情報を収集 #Python - Qiita](https://qiita.com/nbayashi/items/bde26cd04f08de21d552)
+
+[Google Gemini の REST API を Ruby から使ってみる - ユニファ開発者ブログ](https://tech.unifa-e.com/entry/2023/12/20/090000)
+
+[ruby で gemini api を動かしてみる](https://zenn.dev/miiiiiii/articles/45ff303e8bd069)
+
+[Generating content  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/api/generate-content?hl=ja)
+
+[RubyからGemini（1.5 Pro）を利用する](https://zenn.dev/dyoshikawa/articles/google-vertexai-gemini-ruby)
+
+[Gemini モデル  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/models?hl=ja)
 
 
 
@@ -318,6 +368,8 @@
 
 [C言語でオブジェクト指向を表現する (クラス、継承) #C - Qiita](https://qiita.com/qiita_kuru/items/8f3441bce9b2f53d1d62)
 
+[C言語で16文字でセグフォらせる #Python - Qiita](https://qiita.com/yasuo-ozu/items/ddc5d3e8e4a97eaa470c)
+
 
 
 ## Career
@@ -341,6 +393,8 @@
 [理系学部卒エンジニア志望がルーターでの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after-rooter-training/)
 
 [ルーターの研修で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/skills-learned-by-training/)
+
+[2年間のエンジニアアルバイトの振り返り – 株式会社ルーター](https://rooter.jp/rooter/two-year-review/)
 
 
 
@@ -536,6 +590,44 @@
 
 [ffprobeで動画を解析する #ffmpeg - Qiita](https://qiita.com/hapoon/items/0e7d2f941e5da8cec8d1)
 
+[yt-dlpでYouTube動画をダウンロード中にエラーが発生した場合の対処法 | エラー解決ガイド | プログラミングのせせらぎ](https://programming.awaisora.com/c5ee0b83-0af2-4044-b437-dd538914f02a/)
+
+[オンライン動画をダウンロードするyt-dlpをバッチファイルから起動する｜mamoo](https://note.com/mamoo965/n/n2ad01afc9e03)
+
+[yt-dlpでよく使うオプション【メモ】｜hato](https://note.com/hato1198/n/n32ddfcf7a70e)
+
+[nc(netcat)コマンドの説明と使い方について #netcat - Qiita](https://qiita.com/boccham/items/536bf9201eec81c617d5)
+
+[Linux tar.gz tar 圧縮 解凍 #Linux - Qiita](https://qiita.com/HyunwookPark/items/047ba2da9ef16bcac356)
+
+[[Linux]ファイルの圧縮、解凍方法 #Linux - Qiita](https://qiita.com/supersaiakujin/items/c6b54e9add21d375161f)
+
+[既存のファイルを空にするLinuxコマンド #Linuxコマンド - Qiita](https://qiita.com/nabewata07/items/e67d008a1f10429bb3bf)
+
+[ls -laで表示される内容を完全に理解する #初学者向け - Qiita](https://qiita.com/devmatsuko/items/dfc92f98b83b7ac175a4)
+
+[【Linuxコマンド】shutdownでOSをシャットダウンする方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/51060)
+
+[ImageMagickのインストール(WSL環境) | Optical Learning Blog](http://optical-learning-blog.realop.co.jp/?eid=4)
+
+[imagickを使うためにImageMagickの最新版をインストールする話 #PHP - Qiita](https://qiita.com/SHIN_DEVELOP/items/c60eb9cd592f4a6a0f00)
+
+[ImageMagick『montage』コマンドで複数画像をグリッド上に並べて結合する方法 Windows, Mac［RMagick］ - ポヨログ](https://poyoon.com/imagemagick-montage-windows-mac-rmagick/)
+
+[ImageMagickで複数画像を1枚に合成 CodingFirst](http://iyukki.blog56.fc2.com/blog-entry-135.html)
+
+[ImageMagick コマンドまとめ #ImageMagick - Qiita](https://qiita.com/kuboyoo/items/d0123d1f043e63fc6d4c)
+
+[Imagemagickで画像を合成する1 (画像を重ね合わせる) | Imagemagickの使い方日本語マニュアル](https://imagemagick.biz/archives/672)
+
+[【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
+
+[ffmpegだけを使って、動画or複数の画像を1枚に合成する方法 #Linux - Qiita](https://qiita.com/tatsubey/items/f39011ba08ef9a6e0ddc)
+
+[Debian での Ngrok のアンインストール:](https://www.tempmail.us.com/ja/ngrok/debian-%E3%81%A7%E3%81%AE-ngrok-%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97-%E3%82%AC%E3%82%A4%E3%83%89)
+
+[【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
+
 
 
 ## Cpp
@@ -641,6 +733,10 @@
 [discord.py入門(1) #Python - Qiita](https://qiita.com/sizumita/items/9d44ae7d1ce007391699)
 
 [DiscordのBotでのファイル添付の仕方など【Python】 #discord - Qiita](https://qiita.com/chatrate/items/aa6625f6663fa2ca33d6)
+
+[Discordでリンクを送信する時、プレビューを無効にする。](https://zenn.dev/milkystack/articles/558251b3a6f48b)
+
+[【Discord】テキストを装飾する方法 | Markdown記法 チートシート #discord - Qiita](https://qiita.com/xero/items/6026ed007d5d34623a50)
 
 
 
@@ -791,6 +887,16 @@
 [コンテナの名前として許される文字列](https://zenn.dev/termoshtt/articles/container-naming-rules)
 
 [M2MacのDocker環境構築方法をさまざまなパターンで試す – 株式会社ルーター](https://rooter.jp/environment/docker-env-on-m2mac/)
+
+[Dockerで none なイメージを一括で削除するワンライナー #Docker - Qiita](https://qiita.com/DQNEO/items/e3a03a14beb616630032)
+
+[Django + Docker でImageFieldを反映させる方法(pillow) #Python - Qiita](https://qiita.com/cardene/items/579dd53e2b245722f2ab)
+
+[Python, OpenCV, Pillow(PIL)で画像サイズ（幅、高さ）を取得 | note.nkmk.me](https://note.nkmk.me/python-opencv-pillow-image-size/)
+
+[pythonでMySQLに接続しようとしたときに「Mysql.connector.errors.InternalError: Unread result found.」のエラー - ともだちはすくないです](https://trade-and-develop.hatenablog.com/entry/2017/02/23/021119)
+
+[PythonからMySQLに接続してデータベースを操作するには - TECH PLAY Magazine](https://techplay.jp/column/1787)
 
 
 
@@ -1100,6 +1206,34 @@
 
 [Gitサブモジュールを扱う際のTips](https://zenn.dev/sakaki_web/articles/785d2da8aaf2fa)
 
+[Git push後のコミットメッセージを変更する方法 #GitHub - Qiita](https://qiita.com/sc_tsuchiya/items/32c1798415338537ec49)
+
+[GitでPush後の過去のコミットメッセージを修正 #giit - Qiita](https://qiita.com/rururu_kenken/items/0171873a6e8cd0d4c140)
+
+[git stage / unstage #Git - Qiita](https://qiita.com/ybiquitous/items/68307e94874875194610)
+
+[VSCodeでラクラクGit操作 #Git - Qiita](https://qiita.com/papi_tokei/items/675b980770a6d7479100)
+
+[Git / GitHubを(VSCode)で使うときのとても個人的なチートシート #Git - Qiita](https://qiita.com/haruotsu/items/6e82f631cd19570832cf)
+
+[Visual Studio CodeでGitを利用する：特集：Visual Studio Code早分かりガイド（1/3 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1507/21/news017.html)
+
+[Gitでの変更を戻す方法（初心者から中級者まで） #GitHub - Qiita](https://qiita.com/ys-office-llc/items/2a65193fd19894d8e4df)
+
+[【超初心者向け】VS Code×Git「ステージされている変更がなく、コミットできません。」について](https://zenn.dev/40_comeback_eng/articles/6a2812aa60accb)
+
+[VSCodeでgit add -p を快適に行う #Git - Qiita](https://qiita.com/shohe05/items/3690d1c913fc0d8fdb4d)
+
+[VSCodeでのGitの基本操作まとめ #新人プログラマ応援 - Qiita](https://qiita.com/y-tsutsu/items/2ba96b16b220fb5913be)
+
+[Gitのブランチとマージについて(git branch, git merge) #初心者 - Qiita](https://qiita.com/eric50905/items/fa0fe0d8430b5191688e)
+
+[リモートブランチをマージ | Talend Studio ヘルプ](https://help.qlik.com/talend/ja-JP/studio-user-guide/8.0-R2024-07/merging-remote-branches-git-only)
+
+[Git の仕組み #Git - Qiita](https://qiita.com/haystacker/items/b2408940d11acd0fc674)
+
+[.gitignoreに拡張子なしのファイルを登録する - 備忘録置いとく](https://fhiyo.github.io/2017/10/07/git-ignore-all-extension-less-files.html)
+
 
 
 ## Go
@@ -1131,6 +1265,16 @@
 [列ごとに色分けしたい！Google スプレッドシートでカラースケールを列単位で独立適用する方法（GAS、マクロ不使用） – 株式会社ルーター](https://rooter.jp/data-format/spreadsheet_independent_color_scale_per_column/)
 
 [スプシで複数の表や列を1つにまとめる方法【FLATTEN関数の使い方】 – 株式会社ルーター](https://rooter.jp/data-format/many-table-or-row-combine-into-one/)
+
+[Googleスプレッドシートの「並べ替え」ワザ3選。フィルタ、複数列、SORT関数を使い分ける！ | できるネット](https://dekiru.net/article/23081/)
+
+[GoogleスプレッドシートのVLOOKUP関数で別シートを参照する方法。IMPORTRANGE関数を組み合わせれば別ファイルも参照可能！ | できるネット](https://dekiru.net/article/23283/)
+
+[VLOOKUP関数で#N/Aを0表示にするには（エクセル） - 事務屋ドットコム](https://www.jimuya.com/?p=2356)
+
+[【EXCEL】VLOOKUP関数で0を返さず、空欄は空欄で返す方法│コアースのブログ](https://coeure.co.jp/blog/excel/vlookup_170705)
+
+[VLOOKUPで合計は不可→SUMIF関数を使う](https://pcacademy.jp/excel-vlookup-total)
 
 
 
@@ -1243,6 +1387,10 @@
 [htmlのid属性とclass属性の命名はハイフンかcamelかsnakeか #HTML - Qiita](https://qiita.com/itagakishintaro/items/168667d5ee4c56b30d52)
 
 [相対パスの書き方（特に`./`と `../`）を段階的に学ぶ記事 #絶対パス - Qiita](https://qiita.com/BigRaccoonDog/items/0ce44edab7aec664bed4)
+
+[Bootstrapをカスタムしてインスタ(instagram)みたいなお洒落なモーダルを作る。 #HTML - Qiita](https://qiita.com/yukiji/items/75a50cc67f13c2b6bb00)
+
+[SinatraでCSSやJSファイルが読み込めないときの解決策 #JavaScript - Qiita](https://qiita.com/kawabex/items/81e22f6d77b34da8cf6f)
 
 
 
@@ -1424,6 +1572,10 @@
 
 [JSON.parse() - JavaScript | MDN](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 
+[Facebookページをスマホアプリで直接開くリンクの仕込み方 [SNS] | ジュウロクデザイン](https://16deza.com/open-facebookpage-in-app-directly/)
+
+[FacebookのURLクリックでアプリを開く | iwadjp's Blog!](https://www.blog2020.iwadjp.com/2022/05/18/post-2416/)
+
 
 
 ## Kotlin
@@ -1482,6 +1634,22 @@
 
 [【LaTeX】括弧類のかき方一覧と大きさの変更方法まとめ | 数学の景色](https://mathlandscape.com/latex-bracket/)
 
+[dvipdfmxで「warning: iCCP: known incorrect sRGB profile」というエラーが出る場合の対処方法 #LaTeX - Qiita](https://qiita.com/takahashim/items/39534bd820f7fd71a5bb)
+
+[Visual Studio Code/LaTeX - TeX Wiki](https://texwiki.texjp.org/?Visual%20Studio%20Code%2FLaTeX#xf262f5b)
+
+[VSCodeでのLaTeXの環境構築](https://zenn.dev/hash_yuki/articles/31855fbdb5fdf7)
+
+[VSCodeでLaTeX環境構築｜たっふぃ](https://note.com/tuffy_bun/n/n050d9e64faba)
+
+[エラーと警告を読むゾ #LaTeXWorkshop - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/4ede21b06d094ad3b89e)
+
+[vscodeのLaTeX Workshopで「chkTeX」による日本語エラーが頻出する #VSCode - Qiita](https://qiita.com/ganyariya/items/c8f02f10f4546900bb68)
+
+[【LaTeX】極限(limなど)に関するコマンドとテクニック | 数学の景色](https://mathlandscape.com/latex-lim/)
+
+[Tex 改行をまたいで括弧をつける - 粗大メモ置き場](https://ossyaritoori.hatenablog.com/entry/2017/01/12/Tex_%E6%94%B9%E8%A1%8C%E3%82%92%E3%81%BE%E3%81%9F%E3%81%84%E3%81%A7%E6%8B%AC%E5%BC%A7%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B)
+
 
 
 ## Linux
@@ -1491,7 +1659,6 @@
 [バイナリ解析ツール #Security - Qiita](https://qiita.com/Amayarielu/items/8b4b67fea20bd8733730)
 
 [Linuxのネットワーク設定備忘録 #CentOS - Qiita](https://qiita.com/Pochichi/items/68983eeada77ea54206f)
-
 
 [rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
 
@@ -1518,6 +1685,8 @@
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
 
 [SSH接続に対するエラーを、サーバ全体で行う #Linux - Qiita](https://qiita.com/itohdaigo/items/2f969e2db77f1de6621d)
+
+[Linux　環境変数について #Linux - Qiita](https://qiita.com/kiyomura10/items/cdf3ee9106256d7ab78a)
 
 
 
@@ -1671,6 +1840,12 @@
 
 [SSHのconfigファイルで複数の接続先を管理する #SSH - Qiita](https://qiita.com/muniere/items/edc5dbd9799041071d63)
 
+["*****"のサーバー IP アドレスが見つかりませんでした（第二回目の投稿)｜ヒロ－シン](https://note.com/yoshida_sin/n/nf46f4d50cee8)
+
+[サーバーのIPアドレスが見つかりませんでした…エラーの対処方法※4つの原因と解決策を紹介 | サイト引越し屋さん](https://site-hikkoshi.com/10215/)
+
+[バッファロー製ルータとIPv6の組合せでLINEが使えなくなった件 #dns - Qiita](https://qiita.com/amidoazuki/items/39b6a318ba86b5e05a31)
+
 
 
 ## Next.js
@@ -1724,6 +1899,10 @@
 [PHPでできることとは？具体例を用いてわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/4064#index_id2)
 
 [PHPを使ったウェブサイトの作り方](https://zenn.dev/ohno/articles/57c37b7356df1b)
+
+[Facebookの「l.php」について: 小粋空間](https://www.koikikukan.com/archives/2012/07/09-015555.php)
+
+
 
 ## Protocol
 
@@ -1996,6 +2175,22 @@
 [【Python】一時ファイル・デイレクトリの作成（tempfile）](https://zenn.dev/makio/articles/1618749de268ef)
 
 [【Python】pythonコマンドとpython3コマンドの違いを徹底解説](https://zenn.dev/nuinui/articles/82b32e206b3fc3)
+
+[Pillow(PIL; Python Imaging Library)の概要とData Augmentationの実装 #DeepLearning - Qiita](https://qiita.com/Chi_corp_123/items/54af1900c1101a8ce7e1)
+
+[pythonでcase文を書く #Python - Qiita](https://qiita.com/yushikmr/items/f83ea32ec597a3b1a827)
+
+[Webページから画像を取得し、リサイズを行う #Python - Qiita](https://qiita.com/yamaAtsu/items/020eec010973d48d1cc7)
+
+[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
+
+[Pythonで文字列を検索（〜を含むか判定、位置取得） | note.nkmk.me](https://note.nkmk.me/python-str-search/)
+
+[OpenCVで「libpng warning: iCCP: known incorrect sRGB profile」というエラーの対処法 | Harukaのお道具箱](https://techblog.nullstack.engineer/entry/opencv_error1/)
+
+[Pythonでリストの要素をシャッフル（random.shuffle, sample） | note.nkmk.me](https://note.nkmk.me/python-random-shuffle/)
+
+[return文 #Python - Qiita](https://qiita.com/D-hatamoto/items/84dd823ab8b8bc8b2bf7)
 
 
 
@@ -2491,6 +2686,44 @@
 
 [正規表現とmatch,subメソッド #Ruby - Qiita](https://qiita.com/Naaa0/items/49e4eea18fa93db18d68)
 
+[rubyの「||=」の仕様を理解と、Railsのpresenceメソッドとは #Ruby - Qiita](https://qiita.com/kaito_program/items/3077bffa592b14928a26)
+
+[【Rails】 presenceメソッドの便利な使い方やリファクタリング方法 | Pikawaka](https://pikawaka.com/rails/presence)
+
+[パーフェクトRuby RakeとRakefile #Ruby - Qiita](https://qiita.com/hikao/items/36d514cc4e6349bb40cd)
+
+[net/httpライブラリを使って、RubyでHTTP通信してみた #HTTP - Qiita](https://qiita.com/katu_/items/a116c261c8616fd01fca)
+
+[net/http でログインが必要なサイトの情報を取得する – 株式会社ルーター](https://rooter.jp/web-crawling/net_http_login_curl/)
+
+[gemの仕組み](https://zenn.dev/d0ne1s/scraps/a6c6151f9cea5f)
+
+[Rails7.1の非同期メソッドを試してみた – 株式会社ルーター](https://rooter.jp/programming/ruby/async-methods-rails7-1/)
+
+[【Ruby】例外処理の基礎について #初心者 - Qiita](https://qiita.com/yamaBBB/items/72f6bf92b15397298be4)
+
+[Rubyのバージョン変更 #Ruby - Qiita](https://qiita.com/tkc310/items/9c9a6ccc110b159b967b)
+
+[Ruby :: arrayかどうかチェックする [Tipsというかメモ]](https://tm.root-n.com/programming:ruby:etc:is_array)
+
+[Ruby | 文字列を分割する](https://www.javadrive.jp/ruby/string_class/index12.html)
+
+[RailsのActiveRecordでwhere in句を使う #SQL - Qiita](https://qiita.com/ultrasevenstar/items/babe4aa7449baa83989b)
+
+[【Rails】 結局bundlerって何？bundlerの仕組みを図解形式で徹底解説 | Pikawaka](https://pikawaka.com/rails/bundler)
+
+[Rubyにおける真偽値で終わるメソッドの命名について #Ruby - Qiita](https://qiita.com/takumi555/items/aa1d8bdda402648b4f06)
+
+[Sinatraでよく使うツール その2 - ローイングファンのプログラミング日記](https://rowingfan.hatenablog.jp/entry/2018/09/30/085937)
+
+[Sinatra と Chartkick でグラフを描画する #Ruby - Qiita](https://qiita.com/superrino130/items/7b574df107251914cc55)
+
+[Yay! I'm on Heroku! #Ruby - Qiita](https://qiita.com/superrino130/items/a002538de3f02ed63451)
+
+[Sinatra アプリを CSS で装飾 #Ruby - Qiita](https://qiita.com/superrino130/items/d563cba6f527c627bf07)
+
+[Sinatraの使い方あれこれ #Ruby - Qiita](https://qiita.com/Feel-Physics/items/7c83a795e37bdf52cfef)
+
 
 
 ## Rust
@@ -2558,6 +2791,28 @@
 [Linux: bashシェルにおいて数値計算を行ういくつかの方法 #Bash - Qiita](https://qiita.com/frozencatpisces/items/c2872781ef9cbfb1b8fb)
 
 [今どきのシェルスクリプトは数値計算にexprを使わない（POSIX準拠） #Bash - Qiita](https://qiita.com/ko1nksm/items/46fa9df8031275c7dc0a)
+
+[zshのmacでPATHを通す方法（設定ファイルに環境変数を加える） | 素人エンジニアの苦悩](https://amateur-engineer.com/mac-path-zsh/)
+
+[$PATHを通してシェルスクリプトを実行してみる！](https://zenn.dev/tiga_aws/articles/ee8eb860c6255b)
+
+[初心者向けシェルスクリプトの基本コマンドの紹介 #ShellScript - Qiita](https://qiita.com/zayarwinttun/items/0dae4cb66d8f4bd2a337)
+
+[どこからでも実行できるシェルスクリプトの正しい書き方 ～ 冒頭でディレクトリを移動するな！ #Linux - Qiita](https://qiita.com/ko1nksm/items/37a55543073b8239a21c)
+
+[どこからでも起動できるシェルスクリプトを書く #Bash - Qiita](https://qiita.com/bilzard/items/1f21dae536eca8509025)
+
+[Bash シェルスクリプト入門 ~SQLの生成を例に~ #ShellScript - Qiita](https://qiita.com/tsukasaI/items/3e2174037a58463f78df)
+
+[シェルスクリプトからSQL文を実行する | iret.media](https://iret.media/969)
+
+[【MySQL】コマンドラインまたはシェルからSQLファイルを実行する方法について解説 | ポテパンスタイル](https://style.potepan.com/articles/19593.html)
+
+[シェルスクリプトで配列を作る方法 #Linux - Qiita](https://qiita.com/nkojima/items/066c67fb6c41d8b43b22)
+
+[シェルスクリプトで、配列を関数に渡す、配列を関数より受け取る - OPEN TONE Labs](https://www.opentone.co.jp/ot-lab/all/web-system/shellscript)
+
+[シェルスクリプト while 文 #ShellScript - Qiita](https://qiita.com/blueskyarea/items/e140159fcfb3a9be0608)
 
 
 
@@ -2833,6 +3088,24 @@
 
 [【SQL】DISTINCTで重複行を除外する方法を解説 │ TechMania](https://techmania.jp/blog/sql-distinct/)
 
+[[SQL] UPDATE文の基本構文 #SQL - Qiita](https://qiita.com/minhee/items/8de52f4bffb886c68b99)
+
+[auto_incrementの番号を振り直す方法 | Miyachi Labo](https://labo.kon-ruri.co.jp/auto_increment_restart/)
+
+[MySQLのPrimaryKey（id）を振り直す #MySQL - Qiita](https://qiita.com/HorikawaTokiya/items/c135540d2f46e148748b)
+
+[MySQL かんたんにテーブルのid番号を1からリセットする方法 #Ruby - Qiita](https://qiita.com/ramuneru/items/ae1d7230b528c5594d6a)
+
+[MySQLのAUTO_INCREMENT(連番)をリセット(初期化)する方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/03/153206)
+
+[SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
+
+[jsonを分割してから横持ち→縦持ちに変換するクエリ（備忘録） #SQL - Qiita](https://qiita.com/mczkym/items/80f0f0d8ec67f3477a01)
+
+[SQLで各日付に対して1件ずつデータを取得する方法 | プログラミングのせせらぎ](https://programming.awaisora.com/ca565889-b94d-49ee-a65c-0f6c0dbb5d5b/)
+
+[特定の列名を持つテーブルを検索する(Oracle)(SQLServer) - 管理人Kのひとりごと](https://www.k-hitorigoto.online/entry/2017/03/13/201942)
+
 
 
 ## Streamlit
@@ -2887,11 +3160,9 @@
 
 [「Swift」とは？Appleが開発した新しいプログラミング言語の特徴](https://hnavi.co.jp/knowledge/blog/swift/)
 
+[Facebookアプリからのディープリンク【iOS編】 #Swift - Qiita](https://qiita.com/190yamashita/items/8fb8336432e854639c77)
 
-
-## Training
-
-
+[iOSでSafari以外のブラウザを起動する #Swift - Qiita](https://qiita.com/bontaro_1/items/ddb3eefa6e7f16b4597f)
 
 
 
@@ -3141,11 +3412,39 @@
 
 [VSCodeの折りたたみについて #VSCode - Qiita](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
 
+[【Tips】VSCode のRemote-SSH が遅い！と思ったら（VMWare Player使用下） #VSCode - Qiita](https://qiita.com/skokado/items/fdef6befcb0d3e164276)
+
+[VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
+
+[「VS Code」の拡張機能「Remote SSH」にてSSH接続中、接続先のCPUを占有する件の対策【rg】](https://narwhale.net/post-584/)
+
+[Visual Studio Codeに入れるべき拡張機能【2024年最新版】 #VSCode - Qiita](https://qiita.com/qrrq/items/0e116a59743874d18cb1)
+
+[VSCode要らない赤波線｜樋園　駿](https://note.com/hizono_hayao/n/n870a88a19205)
+
+[[VSCode] LaTeX Workshopの編集画面の波線を非表示にする。 #LaTeXWorkshop - Qiita](https://qiita.com/haniokasai/items/5204fc0857b6077d549b)
+
+[Visual Studio Code / settings.json / tasks.json #VSCode - Qiita](https://qiita.com/AsahinaKei/items/d3d77bd618da7a76746e)
+
+[LaTeX Workshop を使いこなす #VSCode - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/a9357dd469320ffb65a0)
+
+[VSCodeでPDF見たい…見たくない? #VSCode - Qiita](https://qiita.com/tomoki1207/items/8e7ade9b7bf6dd362f08)
+
+[vscode用PDF拡張機能｜かーでぃ / KAMADA Makoto](https://note.com/kerdy/n/n5e5e15e73de8)
+
+[とりあえず入れとくと便利なVSCodeの拡張機能 #VSCode - Qiita](https://qiita.com/shun_sakamoto/items/794fba33fa0b2701178c)
+
+[Visual Studio Code のファイルアイコンを変える #VSCode - Qiita](https://qiita.com/aoi70/items/388c9ce772d11a9bad8f)
+
+[【時短！】VSCodeでインデントを一瞬で自動整形する方法をわかりやすく解説します！｜エンジニアブログ](https://programming-engineer.com/vscode-indentation/)
+
 
 
 ## Vue.js
 
 [Vue.js入門(Vue.jsの初心者は必ず読め‼︎) #Vue.js - Qiita](https://qiita.com/Hashimoto-Noriaki/items/ea60d5932f13a9cd5707)
+
+
 
 ## Web
 
@@ -3305,6 +3604,12 @@
 
 
 
+## Xml
+
+[[初心者向け]xmlの操作方法,基本的な使い方について | Android Cafe](https://android-cafeteria.com/how_to_use_xml-382)
+
+
+
 ## Etc
 
 [【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
@@ -3372,4 +3677,26 @@
 [プログラムにおける終了コードとは？その役割とNode.jsでの活用例 #ShellScript - Qiita](https://qiita.com/tasukuwatanabe/items/da8e71e3427c9febddc4)
 
 [特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
+
+[PDFをデータベース化するコツ – 株式会社ルーター](https://rooter.jp/web-crawling/pdfdatabase/)
+
+[WebViewとネイティブアプリの違いとメリット・デメリット | 株式会社アイリッジ](https://iridge.jp/blog/202303/33668/)
+
+[モバイルアプリ開発時に注意！アクセス制限不備の脆弱性と対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/people/20210625_002645.html)
+
+[アナリティクス(GA4)参照元のl.facebook.comの「I」って？ | 集客コンサルティングのサイト](https://asanoyukinobu.com/google-analytics-ifacebook-com/)
+
+[アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
+
+[Instagramに記載されたリンクをアプリで開く方法 | エンジニアの備忘録](https://engrmemo.jp/archives/instagram-inner-browser-to-app/)
+
+[データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
+
+[Instagramの投稿にURLを載せてリンク誘導する方法は？ | 株式会社ガイアックス](https://gaiax-socialmedialab.jp/qa/instagram-post-link/)
+
+[Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
+
+[【2020年10月修正】Facebook アプリの立ち上げ方 URLスキーム編 - すまっぽん！ ー リピーターファン化ツール　月額300円の負担で オンライン名刺としても](https://www.smappon.jp/58395.html)
+
+[Facebook Messenger に URLをシェアする - 狂ったお茶会のlog](https://dormouse666.hatenablog.com/entry/2019/06/05/125504)
 

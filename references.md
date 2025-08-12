@@ -150,6 +150,38 @@
 
 [【モバイル対応】URLでアプリを開く #iOS - Qiita](https://qiita.com/RINYU_DRVO/items/e1c5b64dd3af19c9d905)
 
+[Androidスマホで「リンク」と「アプリ」の関連付けを設定する方法 | エンジニアの備忘録](https://engrmemo.jp/archives/pixel-default-apk-link/)
+
+[AndroidスマホのChromeで「リンク」を「Webブラウザ」で開く方法 | エンジニアの備忘録](https://engrmemo.jp/archives/chrome-open-link-browser/)
+
+[Android System WebViewのバージョン確認方法 | ドキュメント / KARTE for App / トラブルシュート（全般） | KARTEサポートサイト](https://support.karte.io/post/6ZhT98nzJsDFeQBoWXHFpy)
+
+[対応リンクを開く: おはのおはなし](https://ohaohaoha.cocolog-nifty.com/blog/2021/08/post-ce6ed3.html)
+
+[Androidスマホの「デフォルト」アプリとは？ 標準アプリを変更・解除する方法 | アプリオ](https://appllio.com/how-to-change-default-app-android-smartphone)
+
+[Androidアプリリンクのサポートを有効にする](https://auth0.com/docs/ja-jp/get-started/applications/enable-android-app-links-support)
+
+[Android App Linksの複数ホスト対応と、Android App Links対応Webサイトに対して複数アプリを関連付けるための知見 - クックパッド開発者ブログ](https://techlife.cookpad.com/entry/2022/05/31/100000)
+
+[Android アプリリンクの処理  |  App architecture  |  Android Developers](https://developer.android.com/training/app-links?hl=ja)
+
+[【Android】URLをタップしたらアプリを開くようにWebでAppLinkの検証設定を行う - アプリ開発備忘録](https://matsudamper.hatenablog.com/entry/2022/04/15/235458)
+
+[Android アプリリンクを検証する  |  App architecture  |  Android Developers](https://developer.android.com/training/app-links/verify-android-applinks?hl=ja)
+
+[Android12以降でのAndroidアプリリンクの話 #Android - Qiita](https://qiita.com/wakka0014/items/6eb0014df8f98efc8dfa)
+
+[Androidアプリリンクの設定 | Adjust Help Center](https://help.adjust.com/ja/article/set-up-android-app-links)
+
+[Android アプリリンクの処理  |  App architecture  |  Android Developers](https://developer.android.com/training/app-links?hl=ja)
+
+[Android アプリのリンクの追加  |  Android Studio  |  Android Developers](https://developer.android.com/studio/write/app-link-indexing?hl=ja)
+
+[Androidスマホで「リンク」と「アプリ」の関連付けを設定する方法 | エンジニアの備忘録](https://engrmemo.jp/android/pixel-default-apk-link/)
+
+[【解決】Android9.0でリンクURLを開くアプリを変更できない場合の対処設定方法 | スマホPCの使い方の説明書](https://teachios.com/android9-0-link-open-app-change)
+
 
 
 ## API
@@ -221,6 +253,16 @@
 [RubyからGemini（1.5 Pro）を利用する](https://zenn.dev/dyoshikawa/articles/google-vertexai-gemini-ruby)
 
 [Gemini モデル  |  Gemini API  |  Google AI for Developers](https://ai.google.dev/gemini-api/docs/models?hl=ja)
+
+[Gemini 2.5 Pro  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-pro?hl=ja)
+
+[Gemini 2.5 Flash  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/2-5-flash?hl=ja)
+
+[生成制御機能  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/control-generated-output?hl=ja)
+
+[Gemini API を使用してコンテンツを生成する  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/inference?hl=ja#topP)
+
+[コンテンツ生成パラメータ  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/content-generation-parameters?hl=ja#temperature)
 
 
 
@@ -346,6 +388,14 @@
 
 [独学リバースエンジニアリング　バイナリファイルの解析 #Linux - Qiita](https://qiita.com/Brutus/items/df652167993bfd02dbce)
 
+[バイナリ解析ツール #Security - Qiita](https://qiita.com/Amayarielu/items/8b4b67fea20bd8733730)
+
+[ghidraを使ったBIOSなどバイナリファイルの解析方法のメモ（わかっているところまで） - tunozemichanの日記 / tunozemichan's diary](https://tunozemichan.hatenablog.com/entry/2021/06/01/192409)
+
+[逆アセンブラ(リバースエンジニアリングで使用)の最強ツールGhidra | 与太郎のLinux道楽](https://ameblo.jp/l-yotarou/entry-12638835576.html)
+
+[バイナリを逆アセンブルして中を覗いてみた - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/programming/c-lang/reverse-assemble/)
+
 
 
 ## C
@@ -399,8 +449,6 @@
 
 
 ## Chrome
-
-[Chromeの開発者ツールで捕捉した通信をcurlコマンドでコピーする - エンジニアのはしがき](https://tm-progapp.hatenablog.com/entry/2022/09/07/184452)
 
 [古いバージョンのChromeDriverをダウンロードする – 株式会社ルーター](https://rooter.jp/environment/chromedriver-version-dl/)
 
@@ -532,8 +580,6 @@
 
 [wgetでの保存先ディレクトリを指定する · tatsushid.github.io](https://tatsushid.github.io/blog/2014/08/specify-wget-savedir/)
 
-[PowerShellでcurl, wgetを使いたい #Windows - Qiita](https://qiita.com/gentaro/items/af0d0eba7e9aca1a6416)
-
 [PowerShellでgrep (Select-String) を使う | 晴耕雨読](https://tex2e.github.io/blog/powershell/Select-String)
 
 [grep的なPowerShellコマンドSelect-String #PowerShell - Qiita](https://qiita.com/kmr_hryk/items/101c15c8c1c95469f53e)
@@ -628,6 +674,19 @@
 
 [【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
 
+[ffmpeg でよく利用するコマンド群](https://zenn.dev/pinto0309/scraps/94f2cbaa8d150a)
+
+[【ffmpeg】超便利なコマンド18選・解説付き](https://zenn.dev/glisan/articles/ab080968556908)
+
+[FFmpeg の使い方 (基本) #ffmpeg - Qiita](https://qiita.com/yh1224/items/38d4ef1cf768aa3368d6)
+
+[ffmpegでMP4ファイルを結合する #ffmpeg - Qiita](https://qiita.com/niusounds/items/c386e02ab8e67030bdc0)
+
+[[FFmpeg] 複数の動画を結合する »キリンスキ](https://kirinsuki.net/2024/03/19/)
+
+[壊れた動画ファイル（moov atom not found）の修復例 - いっしきまさひこBLOG](https://blog.masahiko.info/entry/2020/10/15/211720)
+
+[ディレクトリ内のファイル数をカウントする #Linux - Qiita](https://qiita.com/stc1988/items/e3a1d7dccafe4ab573fa)
 
 
 ## Cpp
@@ -650,11 +709,23 @@
 
 [c++ 構造体の諸々 No3 #C++ - Qiita](https://qiita.com/sesame0224/items/9866629c2cedc3f6c904)
 
+[emplace_back とは何か (C++)](https://zenn.dev/mafafa/articles/370875167e4a3a)
+
+
+
+## C#
+
+[C# 二分探索法で配列のなかから最も近い値を取得する | 鳩でもわかるC#](https://lets-csharp.com/binary-search-nearest-value/)
+
 
 
 ## CTF
 
 [【CTF】SECCON Beginners CTF 2023 新卒チームWriteup | マイナビエンジニアブログ](https://engineerblog.mynavi.jp/technology/ctf-2023-writeup/)
+
+[ゼロから始めるCapture The Flag | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/3376)
+
+[最近のCTFのRev問を解いてデコンパイルの練習をしてみた #Security - Qiita](https://qiita.com/hada2/items/c87e2d0d537559dca77c)
 
 
 
@@ -697,6 +768,24 @@
 [ブラウザのリクエストをcURL形式で取得 #ShellScript - Qiita](https://qiita.com/ueokande/items/a580e9d9f17dbf82f382)
 
 [windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+
+[curlでCookieを保存、送信する #curl - Qiita](https://qiita.com/beckyJPN/items/e85d40459e7e535dae73)
+
+[CURLを使用したUAの偽装 | タンス](https://tansunohazama.sakura.ne.jp/wordpress/curl%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fua%E3%81%AE%E5%81%BD%E8%A3%85/)
+
+[curlを使ってベーシック認証→ユーザーログイン→ファイルダウンロード #curl - Qiita](https://qiita.com/sukakako/items/9273fa05948af43ab39d)
+
+[curlコマンドでダウンロードしたい #curl - Qiita](https://qiita.com/ponsuke0531/items/38e6421058364b6f8562)
+
+[curlコマンドでSSLクライアント認証を行うには #Linux - Qiita](https://qiita.com/libra_lt/items/8102e9b10a17f2f7fb3b)
+
+[PowerShellでcurl, wgetを使いたい #Windows - Qiita](https://qiita.com/gentaro/items/af0d0eba7e9aca1a6416)
+
+[Chromeの開発者ツールで捕捉した通信をcurlコマンドでコピーする - エンジニアのはしがき](https://tm-progapp.hatenablog.com/entry/2022/09/07/184452)
+
+[curlコマンドで入力フォームにテキストを入力してPOSTをするテスト - Hacking life travel tech anything](https://www.travelhacks.tokyo/entry/curl-post-d-option)
+
+[slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
 
 
 
@@ -898,6 +987,22 @@
 
 [PythonからMySQLに接続してデータベースを操作するには - TECH PLAY Magazine](https://techplay.jp/column/1787)
 
+[Docker のインストール — Docker-docs-ja 1.12.RC ドキュメント](https://docs.docker.jp/linux/step_one.html)
+
+[【PostgreSQL】docker-composeで起動と初期データ投入 #Docker - Qiita](https://qiita.com/ke_suke0215/items/90deba2bf484293000fc)
+
+[Docker ComposeとSQLiteでMetabaseを構築してみる #docker-compose - Qiita](https://qiita.com/h_tyokinuhata/items/4f2e72a826b1fd745cce)
+
+[DockerでMySQL環境構築](https://zenn.dev/ryo7/articles/create-mysql-on-docker)
+
+[docker-composeを使って最高の開発環境を手に入れた](https://muunyblue.github.io/7d128c1d4a33165a8676d1650d8ff828.html#_5)
+
+[[01] デフォルト環境 runserver + SQLite3 の構築 #Docker - Qiita](https://qiita.com/robozushi10/items/fc8e40ad7ecc29131ea3)
+
+[Dockerコンテナ上のDebianでSQLite3をビルドしたときのメモ - dullwhaleのメモ帳](https://dullwhale-public.hateblo.jp/entry/2022/03/11/163639)
+
+[Docker で PHP + SQLite3 の開発環境を構築する – Ewig Leere(Lab2)](https://labor.ewigleere.net/2021/05/01/sqlite-docker/)
+
 
 
 ## Edge
@@ -1031,6 +1136,12 @@
 [【GAS】天気の情報を毎朝自動でリマインドするプログラムを作る | キャリアの実験室](https://life-table.com/gas-weather-api/)
 
 [GASの実行を一時中断・止めて処理を遅延させる方法(sleepメソッド) | AutoWorker〜Google Apps Script(GAS)とSikuliで始める業務改善入門](https://auto-worker.com/blog/?p=4815)
+
+[Googleドキュメントを、GASで編集する。 #JavaScript - Qiita](https://qiita.com/pkino/items/e8f226b6170c7800e47f)
+
+[GASからGoogleドキュメントを操作する方法 #GoogleAppsScript - Qiita](https://qiita.com/kakakaori830/items/288307c7e639ac02ba7f)
+
+[【新機能】Googleドキュメント タブ機能で出来ること・出来ないこと・GAS対応｜mir](https://note.com/mir4545/n/n8b270736a4b0#e65b54ce-1a04-4b9c-8104-2a004052a47d)
 
 
 
@@ -1234,6 +1345,10 @@
 
 [.gitignoreに拡張子なしのファイルを登録する - 備忘録置いとく](https://fhiyo.github.io/2017/10/07/git-ignore-all-extension-less-files.html)
 
+[fixedpoint.jp - なぜGitでブランチを作成することを「ブランチを切る」というのか (2022-02-22)](https://www.fixedpoint.jp/2022/02/22/creating-a-branch.html)
+
+[Git でリモートのコミットを取り消す（git reset -> push -f）【Git Tips!】 #GitHub - Qiita](https://qiita.com/yokoba569/items/e99e73ae554af4fb6d99)
+
 
 
 ## Go
@@ -1275,6 +1390,32 @@
 [【EXCEL】VLOOKUP関数で0を返さず、空欄は空欄で返す方法│コアースのブログ](https://coeure.co.jp/blog/excel/vlookup_170705)
 
 [VLOOKUPで合計は不可→SUMIF関数を使う](https://pcacademy.jp/excel-vlookup-total)
+
+[Googleスプレッドシートでセル内のテキストの折り返し、切り詰め、はみ出し設定をする方法 | キングソフト Tips](https://tips.kingsoft.jp/post/750)
+
+[（Gスプレッドシート）特定の文字以降を抽出する方法 - いきなり答える備忘録](https://www.officeisyours.com/entry/2024/06/21/173000)
+
+[テキストの中の文字列を抽出するときに便利な関数【Google スプレッドシート/Excel】 | 株式会社LIG(リグ)｜DX支援・システム開発・Web制作](https://liginc.co.jp/531122)
+
+[Googleスプレッドシート IMPORTRANGE関数 超応用例 2｜mir](https://note.com/mir4545/n/n766473bde1f3)
+
+[スプレッドシートのIF、SUMIF、COUNTIFで「含む(部分一致)」を条件判定する | AutoWorker〜Google Apps Script(GAS)とSikuliで始める業務改善入門](https://auto-worker.com/blog/?p=2825)
+
+[Google スプレッドシート 別のシートの値を参照する | スタッフブログ | 福岡・北九州のウェブアクセシビリティ専門web制作会社](https://masizime.com/blog/entry-201.html)
+
+[【Googleスプレッドシート】特定の文字列を抽出する方法](https://ponicom.net/left-light-mid/)
+
+[文字列を分割する「SPLIT関数」の使い方と”応用技”（Googleスプレッドシート） - 初心者脱出！SEO情報ブログ](https://seo-blog.hatenablog.com/entry/spreadsheet_split)
+
+[SPLIT - Google ドキュメント エディタ ヘルプ](https://support.google.com/docs/answer/3094136?hl=ja)
+
+[SPLIT関数で文字列を分割。データを「,」や「/」で区切って個別のセルに格納できる | Googleドライブ | できるネット](https://dekiru.net/article/18395/)
+
+[（Gスプレッドシート）2つの列を比較して重複する値（重複しない値）を抽出する - いきなり答える備忘録](https://www.officeisyours.com/entry/2019/12/09/010517)
+
+[【スプレッドシート】隣のセルより大きかったら色を染める（条件付き書式・GAS） #GoogleSpreadSheet - Qiita](https://qiita.com/tky529/items/bbbc6a782e67520e29bf)
+
+[YouTube | チャンネルにリンクを設定する](https://www.howtonote.jp/youtube/channel/index10.html)
 
 
 
@@ -1391,6 +1532,8 @@
 [Bootstrapをカスタムしてインスタ(instagram)みたいなお洒落なモーダルを作る。 #HTML - Qiita](https://qiita.com/yukiji/items/75a50cc67f13c2b6bb00)
 
 [SinatraでCSSやJSファイルが読み込めないときの解決策 #JavaScript - Qiita](https://qiita.com/kawabex/items/81e22f6d77b34da8cf6f)
+
+[【2022年】YouTube埋め込みの全パラメータを一覧にしてみた #HTML - Qiita](https://qiita.com/kiyh/items/335fbd36a9fe4e2fab22)
 
 
 
@@ -1650,6 +1793,10 @@
 
 [Tex 改行をまたいで括弧をつける - 粗大メモ置き場](https://ossyaritoori.hatenablog.com/entry/2017/01/12/Tex_%E6%94%B9%E8%A1%8C%E3%82%92%E3%81%BE%E3%81%9F%E3%81%84%E3%81%A7%E6%8B%AC%E5%BC%A7%E3%82%92%E3%81%A4%E3%81%91%E3%82%8B)
 
+[数式の入力と数式環境 - ★はじめてのLaTeX - Cute.Guides at 九州大学 Kyushu University](https://guides.lib.kyushu-u.ac.jp/LaTeX-LectureNote/equations)
+
+[【LaTeX】数式番号に関するあれこれ | 数学の景色](https://mathlandscape.com/latex-eqnum/)
+
 
 
 ## Linux
@@ -1687,6 +1834,8 @@
 [SSH接続に対するエラーを、サーバ全体で行う #Linux - Qiita](https://qiita.com/itohdaigo/items/2f969e2db77f1de6621d)
 
 [Linux　環境変数について #Linux - Qiita](https://qiita.com/kiyomura10/items/cdf3ee9106256d7ab78a)
+
+
 
 
 
@@ -1846,6 +1995,10 @@
 
 [バッファロー製ルータとIPv6の組合せでLINEが使えなくなった件 #dns - Qiita](https://qiita.com/amidoazuki/items/39b6a318ba86b5e05a31)
 
+[Webhook.siteのインストール方法 #ibmcloud - Qiita](https://qiita.com/testnin2/items/a31bcb1a67370d3eea62)
+
+[403エラーとは？Webスクレイピング実行時のエラー解決方法を解説 #スクレイピング - Qiita](https://qiita.com/Octoparse_Japan/items/1faac7a19091a5964e2d)
+
 
 
 ## Next.js
@@ -1894,13 +2047,25 @@
 
 
 
-## PHP
+## Pdf
+
+[PDFスクレイピング手法全公開 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_scraping/)
+
+[PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
+
+[PDFをデータベース化するコツ – 株式会社ルーター](https://rooter.jp/web-crawling/pdfdatabase/)
+
+
+
+## Php
 
 [PHPでできることとは？具体例を用いてわかりやすく解説 | 侍エンジニアブログ](https://www.sejuku.net/blog/4064#index_id2)
 
 [PHPを使ったウェブサイトの作り方](https://zenn.dev/ohno/articles/57c37b7356df1b)
 
 [Facebookの「l.php」について: 小粋空間](https://www.koikikukan.com/archives/2012/07/09-015555.php)
+
+[[Android][Kotlin][PHP]カスタムURLスキーム対応 - 株式会社MIX](https://mixltd.jp/blog/android_php_custom_url_scheme/)
 
 
 
@@ -2191,6 +2356,32 @@
 [Pythonでリストの要素をシャッフル（random.shuffle, sample） | note.nkmk.me](https://note.nkmk.me/python-random-shuffle/)
 
 [return文 #Python - Qiita](https://qiita.com/D-hatamoto/items/84dd823ab8b8bc8b2bf7)
+
+[most recent call last | 朝礼のネタ！　何かない？　日々の話題](https://ameblo.jp/yumop/entry-12753850648.html)
+
+[【Python3】AtCoder Beginner Contest 090 問題B #Python3 - Qiita](https://qiita.com/polarbear08/items/8823847bdce97f3d0332)
+
+[Pythonで回文数かどうかの判定をするアルゴリズムをwhile文で実装する | Pythonの森](https://pymori.xyz/tmhnbtbhpv/)
+
+[【Python】回文数(Palindrome Number)](https://zenn.dev/daichi09167/articles/b22b67578b7f63)
+
+[Python ビット演算 超入門 #Python - Qiita](https://qiita.com/7shi/items/41d262ca11ea16d85abc)
+
+[PythonのFFmpegで、ログを表示させない。 #ffmpeg - Qiita](https://qiita.com/ForestSeo/items/41d6dcb5ab3ca7af7e3a)
+
+[[Python] 排他的論理和についてまとめてみる #新人 - Qiita](https://qiita.com/k_yamashita/items/3faa53c8164e605363d6)
+
+[《アルゴリズムを学ぶ》14.二分探索 #Python - Qiita](https://qiita.com/Midori_M/items/4910aabfa56f290436ed)
+
+[Python defaultdict の使い方 #モジュール - Qiita](https://qiita.com/xza/items/72a1b07fcf64d1f4bdb7)
+
+[SymPyモジュールのprime関数の不思議｜Pythonic HighSchool](https://note.com/ictsr4/n/n0f325757f672)
+
+[【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた #Python - Qiita](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f)
+
+[[python]約数を列挙するプログラム #Python - Qiita](https://qiita.com/tokki7127/items/bde22d8c0fdafbe531e3)
+
+[Pythonで学ぶアルゴリズム　第17弾：並べ替え（バブルソート） #algorithm - Qiita](https://qiita.com/Yuya-Shimizu/items/99349001f0fccc0d8d41)
 
 
 
@@ -2552,8 +2743,6 @@
 
 [String#length (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/String/i/length.html)
 
-[curlコマンドで入力フォームにテキストを入力してPOSTをするテスト - Hacking life travel tech anything](https://www.travelhacks.tokyo/entry/curl-post-d-option)
-
 [Rubyの多重代入あれこれまとめ #Ruby - Qiita](https://qiita.com/yancya/items/c557864f307d429bbde4)
 
 [Rubyで外部コマンドを実行して結果を受け取る方法あれこれ #Ruby - Qiita](https://qiita.com/tyabe/items/56c9fa81ca89088c5627)
@@ -2724,6 +2913,8 @@
 
 [Sinatraの使い方あれこれ #Ruby - Qiita](https://qiita.com/Feel-Physics/items/7c83a795e37bdf52cfef)
 
+[Ruby の private と protected 。歴史と使い分け #Ruby - Qiita](https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e)
+
 
 
 ## Rust
@@ -2839,8 +3030,6 @@
 [メッセージの書式設定 | Slack](https://slack.com/intl/ja-jp/help/articles/202288908-%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8%E3%81%AE%E6%9B%B8%E5%BC%8F%E8%A8%AD%E5%AE%9A)
 
 [Webhook URL を経由して slack に通知する方法 ―crossnote の操作をトリガーにした実例紹介― #Slack - Qiita](https://qiita.com/update_it_inc/items/e7bc2607b14f91cfaa24)
-
-[slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
 
 [SlackのIncoming Webhooksを使い倒す #slackbot - Qiita](https://qiita.com/ik-fib/items/b4a502d173a22b3947a0)
 
@@ -3106,6 +3295,40 @@
 
 [特定の列名を持つテーブルを検索する(Oracle)(SQLServer) - 管理人Kのひとりごと](https://www.k-hitorigoto.online/entry/2017/03/13/201942)
 
+[SQLのCOUNTとは？データ件数を取得するためのCOUNT関数の使い方](https://www.bold.ne.jp/engineer-club/sql-count)
+
+[SQL実行計画の疑問解決には「とりあえずEXPLAIN」しよう | Think IT（シンクイット）](https://thinkit.co.jp/article/9658)
+
+[EXPLAINのExtraの項目ちゃんと理解している..?](https://zenn.dev/miya_tech/articles/c1b9ca01e90a7b)
+
+[【MySQL】Using temporary と Using filesort が出るクエリについて - fighters48's Tech Blog](https://tdr-now.hateblo.jp/entry/2024/09/09/125725)
+
+[MySQL SlowQueryの対処法 #DB - Qiita](https://qiita.com/nikadon/items/2f66b447ed6d3b26d78e)
+
+[【SQL】「GROUP BY」句とは？使い方、集計関数などとの組み合わせも詳しく解説 │ TechMania](https://techmania.jp/blog/sql-group-by/)
+
+[僕の高速かつ可読性の高いSQL（サブクエリ編） #PostgreSQL - Qiita](https://qiita.com/SSKNOK/items/5dc5b02133b188e48676)
+
+[SQLで高速化を考えた時にできるテクニック・コツをまとめて紹介！ | ポテパンスタイル](https://style.potepan.com/articles/26070.html)
+
+[SQL Joinサンプル集　Joinで遅いSQLの原因を調べる方法 | ポテパンスタイル](https://style.potepan.com/articles/14926.html#SQLJOINSQL)
+
+[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
+
+[SQL Serverで全テーブルの件数、カラム数を調べる #SQLServer - Qiita](https://qiita.com/YoshijiGates/items/9e135e3d5ebb9f9586bd)
+
+[SQL Serverでレコード件数を調べる方法 #Database - Qiita](https://qiita.com/fuk101/items/90f257ef968097d01d60)
+
+[SQL distinctとcountを組み合わせてデータ種類をカウントする | ポテパンスタイル](https://style.potepan.com/articles/22701.html)
+
+[【初心者向け】SQLにおけるINNER JOIN（内部結合）を分かりやすく解説 - TECH PLAY Magazine](https://techplay.jp/column/1742)
+
+[WITH句を使ったデータの結合 #SQL - Qiita](https://qiita.com/ponkomarujp/items/3c2cf9cbac144c44421f)
+
+[テーブル結合についての備忘録 その2 #SQL - Qiita](https://qiita.com/mounntainn/items/2c5a568c98b7e9c38c6f)
+
+[SQLのORDER BY句とは？データを並べ替えるORDER BY句の使い方](https://www.bold.ne.jp/engineer-club/sql-order-by)
+
 
 
 ## Streamlit
@@ -3163,6 +3386,8 @@
 [Facebookアプリからのディープリンク【iOS編】 #Swift - Qiita](https://qiita.com/190yamashita/items/8fb8336432e854639c77)
 
 [iOSでSafari以外のブラウザを起動する #Swift - Qiita](https://qiita.com/bontaro_1/items/ddb3eefa6e7f16b4597f)
+
+[Custom URL Schemeでアプリ内の任意のページを表示する #Swift - Qiita](https://qiita.com/yamataku29/items/67f12142522306c3f86a)
 
 
 
@@ -3308,6 +3533,52 @@
 
 [Ubuntuにdebファイルをインストール #Ubuntu - Qiita](https://qiita.com/Shi05yu/items/6ba18aa4644dc7e78376)
 
+[LinuxサーバのIPアドレスを固定する方法 #Ubuntu - Qiita](https://qiita.com/tabatad/items/4e5990c91d68f0ba01f1)
+
+[Linuxで固定IP設定（設定ファイル・コマンド） #Ubuntu - Qiita](https://qiita.com/routerman/items/4d19b3084fa58723830c)
+
+[Ubuntu　aptでインストールできない問題｜原因：サポート切れによるaptのsources.listのリンク切れ　 | ファミプログ](https://oyako-programming.com/ubuntu-apt-error)
+
+[Ubuntu aptでinstallできない問題 #Linux - Qiita](https://qiita.com/colotech37/items/6613baf6bc2fa6514131)
+
+[apt installが失敗したので、少しapt updateに関して調べてみた - 酒と開発の日々](https://guldra-cranch.hatenablog.com/entry/2020/11/07/172749)
+
+[apt installのトラブルシューティング #Linux - Qiita](https://qiita.com/pyon_kiti_jp/items/78a239fe4ad2ce86a84e)
+
+[【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
+
+
+
+## Url
+
+[【2020年10月修正】Facebook アプリの立ち上げ方 URLスキーム編 - すまっぽん！ ー リピーターファン化ツール　月額300円の負担で オンライン名刺としても](https://www.smappon.jp/58395.html)
+
+[Facebook Messenger に URLをシェアする - 狂ったお茶会のlog](https://dormouse666.hatenablog.com/entry/2019/06/05/125504)
+
+[Instagramに記載されたリンクをアプリで開く方法 | エンジニアの備忘録](https://engrmemo.jp/archives/instagram-inner-browser-to-app/)
+
+[youtubeブラウザで開くの最新方法とトラブル回避術｜アプリ不要で再生環境を徹底解説 | SEO対策・ホームページ制作 | ホームページ制作・アプリ制作・LP制作に関するマーケティング情報局 | 株式会社アシスト](https://assist-all.co.jp/column/hp/20250501-4346/)
+
+[Skip Search：URLスキームリスト](https://blog.sawamapp.com/p/skip-searchurl.html)
+
+[LINE URL Scheme 一覧 #linebot - Qiita](https://qiita.com/Yo_4040/items/4200993a420e79709bc9)
+
+[URLスキームで外部のアプリを開く方法。AdaloでURLスキームを使う - ツバサテック](https://tsubasa.tech/archives/856)
+
+[[iOS 8] Apple 公式の URL Scheme | DevelopersIO](https://dev.classmethod.jp/articles/apple-official-url-scheme/)
+
+[iOSでCustom URL Scheme活用 #iOS - Qiita](https://qiita.com/iwanamix/items/689c611e895e3b025d51)
+
+[【iOS】お気に入りのYouTube動画をワンタップで開く方法 - ゆるおたノート](https://yuru-wota.hateblo.jp/entry/Shortcut/Play-on-YouTube)
+
+[URLスキームを使ってブラウザからアプリを開く | cly7796.net](https://cly7796.net/blog/smartphone/open-application-from-web-browser-using-custom-url-scheme/)
+
+[ディープリンクとは？アプリ別（Android、iOS）に設定方法も紹介](https://www.sungrove.co.jp/deep-linking/)
+
+[「URLでアプリを開く」を丁寧に深堀りしていく｜株式会社トリドリ（toridori）](https://note.com/toridori_inc/n/nb7237a217a51)
+
+[Universal Links & App Links 完全理解：仕組みから実装、デバッグまで](https://zenn.dev/hsylife/articles/72edd8b6234576)
+
 
 
 ## Vim
@@ -3339,6 +3610,8 @@
 [vimで複数行削除 #Vim - Qiita](https://qiita.com/YokoYokoko/items/b156538b434108302470)
 
 [viで文字を削除するコマンド【色々な方法まとめました】](https://eng-entrance.com/linux-vi-delete)
+
+[とりあえずvimを使えるようになりたい人のための記事](https://zenn.dev/vim_jp/articles/0009-just_want_to_be_able_to_use_for_vim_begineer)
 
 
 
@@ -3438,6 +3711,8 @@
 
 [【時短！】VSCodeでインデントを一瞬で自動整形する方法をわかりやすく解説します！｜エンジニアブログ](https://programming-engineer.com/vscode-indentation/)
 
+[Visual Studio Code の設定で、言語ごとのインデントを設定する](https://zenn.dev/longbridge/articles/91ebea06542b06)
+
 
 
 ## Vue.js
@@ -3516,6 +3791,8 @@
 
 [Windows 11/10でUSB機器・Bluetooth機器が認識されない場合 動作が不安定な場合の対処方法｜サンワサプライ株式会社](https://www.sanwa.co.jp/seihin_joho/windows10_usb/index.html)
 
+[Windows 11 - ユーザーフォルダー名を変更する方法 - PC設定のカルマ](https://pc-karuma.net/change-windows-11-user-folder-name/)
+
 
 
 ## Words
@@ -3567,6 +3844,11 @@
 [bashとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11786.html)
 
 [データとビジネスをつなぐデータストラテジストとは|自己紹介記事｜PROMPT FOR PLANNER](https://note.com/data_teller/n/n5b4025b9097e)
+
+[クロスサイトスクリプティング（XSS）とは？わかりやすく解説 | クラウド型WAF『攻撃遮断くん』](https://www.shadan-kun.com/waf_websecurity/xss/)
+
+[チケットを切るの意味 エンジニアから学ぶタスク管理・仕事術 - ワードプレスプラクティス](https://e-senryaku.jp/creating-tickets-task-management/)
+
 
 
 
@@ -3656,8 +3938,6 @@
 
 [「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
 
-[PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
-
 [【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
 
 [命名規則についてまとめてみた（キャメルケース，パスカルケース，スネークケース，ケバブケース, etc...） #命名規則 - Qiita](https://qiita.com/shota0616/items/4ac7a8696b3f6ccbe2bc)
@@ -3678,8 +3958,6 @@
 
 [特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
 
-[PDFをデータベース化するコツ – 株式会社ルーター](https://rooter.jp/web-crawling/pdfdatabase/)
-
 [WebViewとネイティブアプリの違いとメリット・デメリット | 株式会社アイリッジ](https://iridge.jp/blog/202303/33668/)
 
 [モバイルアプリ開発時に注意！アクセス制限不備の脆弱性と対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/people/20210625_002645.html)
@@ -3688,15 +3966,11 @@
 
 [アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
 
-[Instagramに記載されたリンクをアプリで開く方法 | エンジニアの備忘録](https://engrmemo.jp/archives/instagram-inner-browser-to-app/)
-
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
 
 [Instagramの投稿にURLを載せてリンク誘導する方法は？ | 株式会社ガイアックス](https://gaiax-socialmedialab.jp/qa/instagram-post-link/)
 
 [Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
 
-[【2020年10月修正】Facebook アプリの立ち上げ方 URLスキーム編 - すまっぽん！ ー リピーターファン化ツール　月額300円の負担で オンライン名刺としても](https://www.smappon.jp/58395.html)
-
-[Facebook Messenger に URLをシェアする - 狂ったお茶会のlog](https://dormouse666.hatenablog.com/entry/2019/06/05/125504)
+[Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
 

@@ -88,6 +88,10 @@
 
 [adbでURL SchemeからActivityを開く #Android - Qiita](https://qiita.com/sekitaka_1214/items/2a974894130f450d3226)
 
+[adb shell inputで簡単ログイン #Android - Qiita](https://qiita.com/misoca12/items/7772ad14223a6fa4273f)
+
+[PCから「adb install/adb uninstall」を使ってアプリ(apk)を端末に直接インストール/アンインストールする方法 | AndMem](https://andmem.blogspot.com/2015/06/adb-install-uninstall-apk.html)
+
 
 
 ## Algorithm
@@ -115,6 +119,8 @@
 [ソートアルゴリズム9種を動画で学ぶ](https://stacked-tip.hateblo.jp/entry/20170909/1504955625)
 
 [ソートアルゴリズムとは？基本、種類、学習方法を丁寧に解説します](https://web-camp.io/magazine/archives/109922)
+
+[judge.u-aizu.ac.jp/onlinejudge/commentary.jsp?id=ALDS1_2_A&pattern=post&type=general&filter=Algorithm](https://judge.u-aizu.ac.jp/onlinejudge/commentary.jsp?id=ALDS1_2_A&pattern=post&type=general&filter=Algorithm)
 
 
 
@@ -184,7 +190,7 @@
 
 
 
-## API
+## Api
 
 [TwitterのDMの取得でちょっとハマった話 #初心者 - Qiita](https://qiita.com/kaji-tan/items/ead6ad8b9b809a7be29b)
 
@@ -263,6 +269,24 @@
 [Gemini API を使用してコンテンツを生成する  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/model-reference/inference?hl=ja#topP)
 
 [コンテンツ生成パラメータ  |  Generative AI on Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/content-generation-parameters?hl=ja#temperature)
+
+[広告ライブラリAPI](https://www.facebook.com/ads/library/api/?source=nav-header)
+
+[OAuth 2.0ベアラートークン | Docs | Twitter Developer Platform](https://developer.x.com/ja/docs/authentication/oauth-2-0)
+
+[レート制限 | Docs | Twitter Developer Platform](https://developer.x.com/ja/docs/x-api/rate-limits)
+
+[Twitter APIの制限とその対策方法 #TwitterAPI - Qiita](https://qiita.com/takuya77088/items/9430b7eb05812f4067fc)
+
+[ユーザーのツイートの参照 | Docs | Twitter Developer Platform](https://developer.x.com/ja/docs/tutorials/explore-a-users-tweets)
+
+[Explore a user’s Posts and mentions with the X API v2 - X](https://docs.x.com/tutorials/explore-a-users-posts)
+
+[Twitter API（X API）とは？できることや料金体系、利用方法を解説｜Udemy メディア](https://udemy.benesse.co.jp/development/system/twitter-api.html)
+
+[Twitter API v2(X API Free)の使い方・移行(2025年)【GAS】 #JavaScript - Qiita](https://qiita.com/neru-dev/items/857cc27fd69411496388)
+
+[X（旧 Twitter）からデータをスクレイピング・取得する方法 #スクレイピングツール - Qiita](https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088)
 
 
 
@@ -688,6 +712,11 @@
 
 [ディレクトリ内のファイル数をカウントする #Linux - Qiita](https://qiita.com/stc1988/items/e3a1d7dccafe4ab573fa)
 
+[【Linux】yt-dlp を使ってYouTubeなどの動画をダウンロードする #yt-dlp - Qiita](https://qiita.com/elphaba/items/12af5c06a765eade4cb2)
+
+[yt-dlpのインストール方法について #Python - Qiita](https://qiita.com/KKKKK12345/items/6d3901e4ee5d38014389)
+
+
 
 ## Cpp
 
@@ -710,6 +739,8 @@
 [c++ 構造体の諸々 No3 #C++ - Qiita](https://qiita.com/sesame0224/items/9866629c2cedc3f6c904)
 
 [emplace_back とは何か (C++)](https://zenn.dev/mafafa/articles/370875167e4a3a)
+
+[[C++] 関数から複数の戻り値を返す #C++11 - Qiita](https://qiita.com/dfukunaga/items/e2375369d5b280e4a939)
 
 
 
@@ -793,6 +824,8 @@
 
 [Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
 
+[【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた #Python - Qiita](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f)
+
 
 
 ## Discord
@@ -826,6 +859,16 @@
 [Discordでリンクを送信する時、プレビューを無効にする。](https://zenn.dev/milkystack/articles/558251b3a6f48b)
 
 [【Discord】テキストを装飾する方法 | Markdown記法 チートシート #discord - Qiita](https://qiita.com/xero/items/6026ed007d5d34623a50)
+
+[【Discord】サーバー・チャンネル権限の付与方法【ディスコード】 - ゲームウィズ](https://gamewith.jp/discord/457150)
+
+[Discordでユーザー一覧をCSV出力するBotを作ってみた #Python - Qiita](https://qiita.com/sabaaba/items/5ab7b5b0a128c672a96b)
+
+[Pythonで始める録音機能付きDiscord Bot: (1) 入門 discord.py #初心者 - Qiita](https://qiita.com/Shirataki2/items/3b9f9766bc25bb204ed3)
+
+[Pythonで始める録音機能付きDiscord Bot: (2) 便利機能(Bot拡張,Cog,Embed) #初心者 - Qiita](https://qiita.com/Shirataki2/items/9bdc62548e7b24d3c803)
+
+[Pythonで始める録音機能付きDiscord Bot: (3) Databaseとの連携 #初心者 - Qiita](https://qiita.com/Shirataki2/items/37d48868cd7b999a13b2)
 
 
 
@@ -1008,6 +1051,14 @@
 ## Edge
 
 [Microsoft Edge で既定の検索エンジンを変更する - Microsoft サポート](https://support.microsoft.com/ja-jp/microsoft-edge/microsoft-edge-%E3%81%A7%E6%97%A2%E5%AE%9A%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-cccaf51c-a4df-a43e-8036-d4d2c527a791)
+
+[Microsoft Edge を閉じるたびにキャッシュデータをクリア - パソコントラブルＱ＆Ａ](https://www.724685.com/weekly/qa220406.htm)
+
+[<4D6963726F736F667420576F7264202D204D6963726F736F6674204564676582CC979A97F08FEE95F1834E838A834190DD92E890E096BE8F912E646F6378>](https://www.touhokusoutai.net/pdf/MicrosoftEdge.pdf)
+
+[図解【Microsoft Edge】キャッシュを自動的に削除させる方法を紹介します。 | こぶたのピグちゃん](https://mypigchan.com/edge-cache-auto)
+
+[図解【Microsoft Edge】キャッシュを削除する方法を紹介します。 | こぶたのピグちゃん](https://mypigchan.com/edge-cache)
 
 
 
@@ -1348,6 +1399,12 @@
 [fixedpoint.jp - なぜGitでブランチを作成することを「ブランチを切る」というのか (2022-02-22)](https://www.fixedpoint.jp/2022/02/22/creating-a-branch.html)
 
 [Git でリモートのコミットを取り消す（git reset -> push -f）【Git Tips!】 #GitHub - Qiita](https://qiita.com/yokoba569/items/e99e73ae554af4fb6d99)
+
+[コンフリクトのマージ | GitLab](https://gitlab-docs.creationline.com/ee/user/project/merge_requests/conflicts.html)
+
+[[Git]あるはずのsubmoduleが空ディレクトリになってる場合の対処法 · DQNEO日記](https://dqn.sakusakutto.jp/2013/06/git_submodule_empty_directory.html)
+
+[GitSubmoduleの基本的な使い方 #Git - Qiita](https://qiita.com/lvn-takeuchi/items/58e8c8dfc2e775ba32dc)
 
 
 
@@ -1797,6 +1854,8 @@
 
 [【LaTeX】数式番号に関するあれこれ | 数学の景色](https://mathlandscape.com/latex-eqnum/)
 
+[【LaTeX】ファイルを分割してそれを読み込む方法 | 数学の景色](https://mathlandscape.com/latex-input/)
+
 
 
 ## Linux
@@ -1835,7 +1894,7 @@
 
 [Linux　環境変数について #Linux - Qiita](https://qiita.com/kiyomura10/items/cdf3ee9106256d7ab78a)
 
-
+[パッケージ管理について - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/column/7078/)
 
 
 
@@ -2383,6 +2442,14 @@
 
 [Pythonで学ぶアルゴリズム　第17弾：並べ替え（バブルソート） #algorithm - Qiita](https://qiita.com/Yuya-Shimizu/items/99349001f0fccc0d8d41)
 
+[【asyncmy】PythonでMySQL（MariaDB）に接続する | ジコログ](https://self-development.info/%E3%80%90asyncmy%E3%80%91python%E3%81%A7mysql%EF%BC%88mariadb%EF%BC%89%E3%81%AB%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/)
+
+[【Python】AtCoderの言語アップデートでの変更点をまとめてみたよ。 #Python - Qiita](https://qiita.com/hyouchun/items/8a830952315666576c3d)
+
+[【Python】自由自在にソートしよう！ #初心者 - Qiita](https://qiita.com/_ken_/items/b8a1bd37750781227bb7)
+
+[X (Twitter) API を使って Qiita 投稿ポスト（ツイート）を収集する #Python - Qiita](https://qiita.com/Isaka-code/items/8872740c13e8fc4156dc)
+
 
 
 ## RaspberryPi
@@ -2422,6 +2489,10 @@
 [土日で完成！ 趣味のラズパイ　ラズパイをNTPサーバーにする | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230620_ntp_server.html)
 
 [土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
+
+[RaspberryPiにUbuntuサーバーを入れて公開鍵とGoogle Authenticator使ってSSHするまで - どっかの元高専生の技術備忘録](https://datsuka-qwerty.hatenablog.com/entry/linuxtips/rasp-setup-ssh-2fa)
+
+
 
 ## React
 
@@ -2915,6 +2986,28 @@
 
 [Ruby の private と protected 。歴史と使い分け #Ruby - Qiita](https://qiita.com/tbpgr/items/6f1c0c7b77218f74c63e)
 
+[【Ruby Gold3.1詰まったシリーズ】filter_mapメソッド確認してみた #AdventCalendar2023 - Qiita](https://qiita.com/Takaharu_01/items/004da950f99b1b9658d5)
+
+[Enumerable#filter_map (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerable/i/filter_map.html)
+
+[【Ruby】条件に一致する要素のみ抜き出し新たな配列を作る。filterとselect #Ruby - Qiita](https://qiita.com/shizen-shin/items/6894ba7ae73b54545f39)
+
+[Array#filter (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/filter.html)
+
+[SinatraにおけるURLとルーティング、パラメータなどの関係](https://zenn.dev/funxxfun/articles/02651267d96f5e)
+
+[Sinatraで家族用todoリストを作る #Ruby - Qiita](https://qiita.com/superrino130/items/20f588f6a8b4d607c081)
+
+[【Rails】saveとsave!の挙動の違い #Ruby - Qiita](https://qiita.com/ym0628/items/d05cccb3405bcd60b1fe)
+
+[DateTime.parse (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/DateTime/s/parse.html)
+
+[【Ruby】Date、Time、Datetimeクラスの基本 #datetime - Qiita](https://qiita.com/manbolila/items/8ded79359c450dd30e06)
+
+[Railsで文字列から日時をパースしたい #Ruby - Qiita](https://qiita.com/aono/items/3d348fb5bd7f85a3a6ed)
+
+[ruby の Date.parse の私の知らなかった機能 #Ruby - Qiita](https://qiita.com/Nabetani/items/2613c4dea86a4db614d8)
+
 
 
 ## Rust
@@ -2926,6 +3019,14 @@
 [Rustをはじめよう その2(プログラム作成&実行編) | DCS blog](https://blog.dcs.co.jp/rust/20202409-rust-2.html)
 
 [Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
+
+
+
+## Security
+
+[QRコードでシークレットを渡してワンタイムパスワード認証する（Google AuthenticatorとかAuthyみたいな）やつがやりたい #MFA - Qiita](https://qiita.com/sengoku/items/5bf20d82580ad0f04980)
+
+[コマンドラインのGoogle Authenticatorのotpauthをパスワードマネージャに登録するときの注意点 #1Password - Qiita](https://qiita.com/nicemiddle/items/ce0d1d9811588b9381ae)
 
 
 
@@ -3329,6 +3430,28 @@
 
 [SQLのORDER BY句とは？データを並べ替えるORDER BY句の使い方](https://www.bold.ne.jp/engineer-club/sql-order-by)
 
+[SQL 文字列結合メモ #SQLServer - Qiita](https://qiita.com/Sammy_U/items/5498b93ff77d52c7e8fb)
+
+[SQLで文字列を結合するにはconcat関数 引数の数やNULLの扱い等、仕様に差異あり | ポテパンスタイル](https://style.potepan.com/articles/30406.html)
+
+[[MySQL]mysqldumpを利用して別の環境にデータを移行する #mysql5.7 - Qiita](https://qiita.com/ryoishizawa/items/2d8eb898b848a501f91c)
+
+[【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
+
+[DBeaver で MariaDB に mysqldump --no-data をする際の注意点と TIPS #Windows - Qiita](https://qiita.com/irauji/items/3c7d351568c2ea6b4c56)
+
+[mysqldumpまとめ #MySQL - Qiita](https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c)
+
+[mysqldumpオプションまとめ。whereで条件を指定したりする | Basicinc Enjoy Hacking!](https://tech.basicinc.jp/articles/82)
+
+[MySQLで特定のテーブルの一部のデータだけ dump するときには --where オプションを使いましょう - LCL Engineers' Blog](https://techblog.lclco.com/entry/2019/04/30/190000)
+
+[mysqldumpで特定のレコードだけエクスポートする - oinume journal](https://journal.lampetty.net/entry/mysqldump-option-where)
+
+[MySQL mysqldumpコマンドで取得したdumpファイルの中身を覗いてみる #MySQL8.0 - Qiita](https://qiita.com/miriwo/items/3a852411283ae79358d1)
+
+[SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
+
 
 
 ## Streamlit
@@ -3547,6 +3670,14 @@
 
 [【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
 
+[SSHログインにGoogle Authenticatorを使用する - SIOS SECURITY BLOG](https://security.sios.jp/security/ssh_google_authenticator/)
+
+[Google Authenticatorを使ってSSHに二段階認証を組み込んでみる - Luciferous Report](https://luciferous-report.hatenablog.com/entry/2016/11/18/021234)
+
+[Ubuntu 16.04 LTSでGoogle Authenticatorによるワンタイムパスワードを用いたsshログイン時の二要素認証 | 俺的備忘録 〜なんかいろいろ〜](https://orebibou.com/ja/home/201607/20160727_002/)
+
+[第508回　Ubuntuでコマンドラインからワンタイムパスワードを扱う | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
+
 
 
 ## Url
@@ -3578,6 +3709,10 @@
 [「URLでアプリを開く」を丁寧に深堀りしていく｜株式会社トリドリ（toridori）](https://note.com/toridori_inc/n/nb7237a217a51)
 
 [Universal Links & App Links 完全理解：仕組みから実装、デバッグまで](https://zenn.dev/hsylife/articles/72edd8b6234576)
+
+[LINE URLスキームでLINEの機能を使う | LINE Developers](https://developers.line.biz/ja/docs/line-login/using-line-url-scheme/#opening-line-app-settings-screens)
+
+[LINE URL Scheme 一覧 #linebot - Qiita](https://qiita.com/Yo_4040/items/4200993a420e79709bc9)
 
 
 
@@ -3973,4 +4108,8 @@
 [Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
 
 [Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
+
+[LIFFブラウザとLINE内ブラウザって何が違うの？ #LINE - Qiita](https://qiita.com/course_k/items/8bdda799832c9207f26e#%E3%81%8A%E3%81%BE%E3%81%91)
+
+[LINEの内部ブラウザを知っていますか？LINEの内部Webブラウザで閲覧しているかどうかを確認する方法](https://zenn.dev/aiq_dev/articles/edd2cb1248aef4)
 

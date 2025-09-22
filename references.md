@@ -1474,6 +1474,8 @@
 
 [YouTube | チャンネルにリンクを設定する](https://www.howtonote.jp/youtube/channel/index10.html)
 
+[Google Driveをコマンドラインから扱う(Gdrive使用) #fedora - Qiita](https://qiita.com/neustrashimy/items/5973ccefbffdbc243abc)
+
 
 
 ## HTML/CSS
@@ -1776,6 +1778,10 @@
 
 [FacebookのURLクリックでアプリを開く | iwadjp's Blog!](https://www.blog2020.iwadjp.com/2022/05/18/post-2416/)
 
+[JavaScript で QRコードのデコード：jsQR で簡素な処理（日本語の扱いでハマった部分についても記載） #QRcode - Qiita](https://qiita.com/youtoy/items/d94a5bf835d3f4007c81)
+
+[JavaScriptが有効になっているのに動かないのはなぜ？原因と解決法を徹底解説！](https://withcode.tech/media/javascript_stop_reason/)
+
 
 
 ## Kotlin
@@ -1857,6 +1863,20 @@
 [【LaTeX】ファイルを分割してそれを読み込む方法 | 数学の景色](https://mathlandscape.com/latex-input/)
 
 [TeX のエラーメッセージ - TeX Wiki](https://texwiki.texjp.org/?TeX%20%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8)
+
+[Texによる文書作成11 ～2段組み文書の作成 - つれづれなる備忘録](https://atatat.hatenablog.com/entry/cloud_latex11_2column)
+
+[latex 2段組のレジュメ的な #LaTeX - Qiita](https://qiita.com/e1702akashi/items/870d1c0131f5e0ffb3e9)
+
+[【LaTeX】2段組・多段組にする方法とその周辺 | 数学の景色](https://mathlandscape.com/latex-column/)
+
+[LaTexの参考文献表示スタイルについて #LaTeX - Qiita](https://qiita.com/izayoi5776/items/6bc577e12fec7730f72b)
+
+[数式の相互参照: mathtools の紹介 - 裏紙に雑文](https://mtino1594.hatenablog.com/entry/2017/11/20/012034)
+
+[餅と輪 » LaTeXで複数の参考文献を参照する場合のciteの書き方](https://blog.mochiring.net/archives/664)
+
+[改行＆改ページ](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/kaipage.html)
 
 
 
@@ -2452,6 +2472,10 @@
 
 [X (Twitter) API を使って Qiita 投稿ポスト（ツイート）を収集する #Python - Qiita](https://qiita.com/Isaka-code/items/8872740c13e8fc4156dc)
 
+[[競プロ python] ふんわりと理解！SortedListの仕組み](https://zenn.dev/pokeshun/articles/f5362825e512cf)
+
+[【簡単】QRコードの作成と読み取り in Python #OpenCV - Qiita](https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6)
+
 
 
 ## RaspberryPi
@@ -3010,6 +3034,7 @@
 
 [ruby の Date.parse の私の知らなかった機能 #Ruby - Qiita](https://qiita.com/Nabetani/items/2613c4dea86a4db614d8)
 
+[dotenvで環境変数をセットするには #Ruby - Qiita](https://qiita.com/pyon_kiti_jp/items/f3b0d4fff3b10f7f489e)
 
 
 ## Rust
@@ -3029,6 +3054,10 @@
 [QRコードでシークレットを渡してワンタイムパスワード認証する（Google AuthenticatorとかAuthyみたいな）やつがやりたい #MFA - Qiita](https://qiita.com/sengoku/items/5bf20d82580ad0f04980)
 
 [コマンドラインのGoogle Authenticatorのotpauthをパスワードマネージャに登録するときの注意点 #1Password - Qiita](https://qiita.com/nicemiddle/items/ce0d1d9811588b9381ae)
+
+[Google Authenticator から シークレットキーを抽出する方法 - 物理の駅 Physics station by 現役研究者](https://phst.hateblo.jp/entry/2023/12/20/080000)
+
+[～魔法使い(ウィザード級ハッカー)への道～初心者エンジニアの積み上げ日記 #Security - Qiita](https://qiita.com/Maki-HamarukiLab/items/dde5911cbf19d1f1d6e5)
 
 
 
@@ -3929,6 +3958,8 @@
 [Windows 11/10でUSB機器・Bluetooth機器が認識されない場合 動作が不安定な場合の対処方法｜サンワサプライ株式会社](https://www.sanwa.co.jp/seihin_joho/windows10_usb/index.html)
 
 [Windows 11 - ユーザーフォルダー名を変更する方法 - PC設定のカルマ](https://pc-karuma.net/change-windows-11-user-folder-name/)
+
+[Windows11でデュアルディスプレイなのに壁紙別個にできないんですけど！！](https://zenn.dev/usuyuki/articles/93c9192b1f10df)
 
 
 

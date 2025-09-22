@@ -1856,6 +1856,8 @@
 
 [【LaTeX】ファイルを分割してそれを読み込む方法 | 数学の景色](https://mathlandscape.com/latex-input/)
 
+[TeX のエラーメッセージ - TeX Wiki](https://texwiki.texjp.org/?TeX%20%E3%81%AE%E3%82%A8%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8)
+
 
 
 ## Linux
@@ -3378,8 +3380,6 @@
 
 [【SQL】DISTINCTで重複行を除外する方法を解説 │ TechMania](https://techmania.jp/blog/sql-distinct/)
 
-[[SQL] UPDATE文の基本構文 #SQL - Qiita](https://qiita.com/minhee/items/8de52f4bffb886c68b99)
-
 [auto_incrementの番号を振り直す方法 | Miyachi Labo](https://labo.kon-ruri.co.jp/auto_increment_restart/)
 
 [MySQLのPrimaryKey（id）を振り直す #MySQL - Qiita](https://qiita.com/HorikawaTokiya/items/c135540d2f46e148748b)
@@ -3677,6 +3677,8 @@
 [Ubuntu 16.04 LTSでGoogle Authenticatorによるワンタイムパスワードを用いたsshログイン時の二要素認証 | 俺的備忘録 〜なんかいろいろ〜](https://orebibou.com/ja/home/201607/20160727_002/)
 
 [第508回　Ubuntuでコマンドラインからワンタイムパスワードを扱う | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
+
+[aptコマンドチートシート #Ubuntu - Qiita](https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007)
 
 
 
@@ -3984,6 +3986,8 @@
 
 [チケットを切るの意味 エンジニアから学ぶタスク管理・仕事術 - ワードプレスプラクティス](https://e-senryaku.jp/creating-tickets-task-management/)
 
+[ディストリビューションとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12473.html)
+
 
 
 
@@ -4112,4 +4116,8 @@
 [LIFFブラウザとLINE内ブラウザって何が違うの？ #LINE - Qiita](https://qiita.com/course_k/items/8bdda799832c9207f26e#%E3%81%8A%E3%81%BE%E3%81%91)
 
 [LINEの内部ブラウザを知っていますか？LINEの内部Webブラウザで閲覧しているかどうかを確認する方法](https://zenn.dev/aiq_dev/articles/edd2cb1248aef4)
+
+[バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
+
+[ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
 

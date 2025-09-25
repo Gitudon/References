@@ -1878,6 +1878,14 @@
 
 [改行＆改ページ](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/kaipage.html)
 
+[【LaTeX】文字の色を変える方法 | 数学の景色](https://mathlandscape.com/latex-color/)
+
+[TeX備忘録](https://www.rcnp.osaka-u.ac.jp/~yoshikaw/development/tex.html)
+
+[LaTeXでヘッダとフッタを見出しページでも統一したい #LaTeX - Qiita](https://qiita.com/hermite2053/items/d869f8673838080a238b)
+
+[Texによる文書作成14 ～文章を枠で囲う - つれづれなる備忘録](https://atatat.hatenablog.com/entry/cloud_latex14_frame)
+
 
 
 ## Linux
@@ -2475,6 +2483,10 @@
 [[競プロ python] ふんわりと理解！SortedListの仕組み](https://zenn.dev/pokeshun/articles/f5362825e512cf)
 
 [【簡単】QRコードの作成と読み取り in Python #OpenCV - Qiita](https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6)
+
+[【Python】スライス操作についてまとめ #初心者 - Qiita](https://qiita.com/tanuk1647/items/276d2be36f5abb8ea52e)
+
+[PythonのLambda式：簡潔さと便利さを手に入れよう #lambda式 - Qiita](https://qiita.com/eruru/items/1c4b04af04905cf57b51)
 
 
 
@@ -3745,6 +3757,8 @@
 
 [LINE URL Scheme 一覧 #linebot - Qiita](https://qiita.com/Yo_4040/items/4200993a420e79709bc9)
 
+[クリックスルーでハッシュ記号（ポンド記号）を使用する - スタジオ ヘルプ](https://support.google.com/richmedia/answer/190941?hl=ja)
+
 
 
 ## Vim
@@ -4019,6 +4033,7 @@
 
 [ディストリビューションとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12473.html)
 
+[総合開発環境(IDE)とは何か？初心者におすすめの4つのIDEを紹介 #VSCode - Qiita](https://qiita.com/EasyCoder/items/81cf7674235a7a19d69c)
 
 
 
@@ -4151,4 +4166,6 @@
 [バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
 
 [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
+
+[git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 

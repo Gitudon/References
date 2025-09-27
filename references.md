@@ -1886,6 +1886,8 @@
 
 [Texによる文書作成14 ～文章を枠で囲う - つれづれなる備忘録](https://atatat.hatenablog.com/entry/cloud_latex14_frame)
 
+[BiBTeXとは #LaTeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/14f9727845e020f8e7e9)
+
 
 
 ## Linux

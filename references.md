@@ -190,7 +190,7 @@
 
 
 
-## Api
+## API
 
 [TwitterのDMの取得でちょっとハマった話 #初心者 - Qiita](https://qiita.com/kaji-tan/items/ead6ad8b9b809a7be29b)
 
@@ -287,6 +287,8 @@
 [Twitter API v2(X API Free)の使い方・移行(2025年)【GAS】 #JavaScript - Qiita](https://qiita.com/neru-dev/items/857cc27fd69411496388)
 
 [X（旧 Twitter）からデータをスクレイピング・取得する方法 #スクレイピングツール - Qiita](https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088)
+
+[Document: querySelector() メソッド - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/Document/querySelector)
 
 
 
@@ -505,6 +507,8 @@
 [ubuntuデスクトップ環境 にChromeブラウザをインストールする方法 - SEO対策の賢者](https://wisenetwork.net/archives/2513)
 
 [[走り書き]Selenium + Chrome 136以降で標準プロファイルを読み込めない #スクレイピング - Qiita](https://qiita.com/203mmH/items/7ef4d8c29d4fea159e67)
+
+[Ubuntu、Mac、Windowsでのchromeリモートデスクトップ導入方法 – 株式会社ルーター](https://rooter.jp/infra-ops/chrome-remote-desktop/)
 
 
 
@@ -1406,6 +1410,10 @@
 
 [GitSubmoduleの基本的な使い方 #Git - Qiita](https://qiita.com/lvn-takeuchi/items/58e8c8dfc2e775ba32dc)
 
+[Gitのtagを理解する #初心者 - Qiita](https://qiita.com/k-penguin-sato/items/c62b47dd79f144c68dad)
+
+[.gitignoreに記載したのに反映されない件 #Git - Qiita](https://qiita.com/fuwamaki/items/3ed021163e50beab7154)
+
 
 
 ## Go
@@ -1475,6 +1483,10 @@
 [YouTube | チャンネルにリンクを設定する](https://www.howtonote.jp/youtube/channel/index10.html)
 
 [Google Driveをコマンドラインから扱う(Gdrive使用) #fedora - Qiita](https://qiita.com/neustrashimy/items/5973ccefbffdbc243abc)
+
+[[Google Docs / programming] google docs 上でもソースコードをきれいに表示 (2種類あるよ) #GoogleDocs - Qiita](https://qiita.com/siruku6/items/32685f684057388abc9a)
+
+[Google Docs でMarkdown風に入力するときのチートシート #Markdown記法 - Qiita](https://qiita.com/n-eguchi/items/c698e320f0cb268a3711)
 
 
 
@@ -1593,6 +1605,14 @@
 [SinatraでCSSやJSファイルが読み込めないときの解決策 #JavaScript - Qiita](https://qiita.com/kawabex/items/81e22f6d77b34da8cf6f)
 
 [【2022年】YouTube埋め込みの全パラメータを一覧にしてみた #HTML - Qiita](https://qiita.com/kiyh/items/335fbd36a9fe4e2fab22)
+
+[shadow DOM」ってなに？特徴と使い方 #HTML - Qiita](https://qiita.com/tanimoto-hikari/items/8f56ee7d2166fe561fc6)
+
+[rootセレクタってよくわからないよね | koralle's Front-End Tech Memo](https://fe-memo.koralle-mgmg.com/css/root-selector/)
+
+[:root{}内に定義したCSS変数をJavaScriptから取得する方法 #scss - Qiita](https://qiita.com/sshuuu/items/a83acc485e1b94643e92)
+
+[shadow DOM」ってなに？特徴と使い方 #HTML - Qiita](https://qiita.com/tanimoto-hikari/items/8f56ee7d2166fe561fc6)
 
 
 
@@ -1782,6 +1802,22 @@
 
 [JavaScriptが有効になっているのに動かないのはなぜ？原因と解決法を徹底解説！](https://withcode.tech/media/javascript_stop_reason/)
 
+[JavaScriptの「Uncaught TypeError: Cannot set property」エラー解決方法｜Kinsta®](https://kinsta.com/jp/blog/uncaught-typeerror-cannot-set-property/)
+
+[Uncaught TypeError: Cannot set properties of null (setting 'value')](https://zenn.dev/rikotsuka/articles/10c7464e765a03)
+
+[DOMの仕組みについて簡単にまとめた #JavaScript - Qiita](https://qiita.com/_lvyuu/items/289ee8921247d486d2cc)
+
+[何度調べてもわからないDOMに決着をつける](https://zenn.dev/antez/articles/b6eb22cb228a49)
+
+[Shadow DOMと仮想DOM｜Jito日本語ドキュメント](https://zenn.dev/itte/books/5ce6aac9166aed/viewer/f59d3e)
+
+[Shadow DOM の仕様について](https://zenn.dev/localer/articles/590ae7c41553d2)
+
+[Shadow DOMとは？基本概念とWeb開発での役割 | 株式会社一創](https://www.issoh.co.jp/tech/details/5426/)
+
+[Shadow DOM](https://ja.javascript.info/shadow-dom)
+
 
 
 ## Kotlin
@@ -1892,6 +1928,14 @@
 
 [フォントについての命令](https://www.comm.tcu.ac.jp/~math/hnakai/math/others/tex/foundamental/font.htm)
 
+[TikZ 入門(2) ～関数グラフを描く～｜大山 壇](https://note.com/dan_oyama/n/n4a69a68f7be5)
+
+[注釈](http://www3.otani.ac.jp/fkdsemi/pLaTeX_manual/tyusyaku.html)
+
+[【LaTeX】脚注【\footnote】](https://takataninote.com/tex/footnote.html)
+
+[LaTeXコマンド集 - 脚注](https://www.latex-sample.com/struct/footnote.html)
+
 
 
 ## Linux
@@ -1989,6 +2033,12 @@
 [【VSCode】Markdownに目次を自動作成する方法 #初学者 - Qiita](https://qiita.com/P-man_Brown/items/797733f359af613c35e6)
 
 [【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件 #VSCode - Qiita](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
+
+
+
+## Matlab
+
+[【初心者向け】MATLABとは？できることやPythonとの違いを解説 | AIdrops](https://www.bigdata-navi.com/aidrops/7766/)
 
 
 
@@ -2576,7 +2626,9 @@
 
 [Reactで将棋アプリを作りました - izumo’s diary](https://izumo27.hatenablog.com/entry/2020/01/14/211200)
 
-[rbenvの使い方と仕組みについて #Ruby - Qiita](https://qiita.com/Kodak_tmo/items/73147ed4f0eec54d6e94)
+[ここからはじめるReactの基礎の基礎 #JavaScript - Qiita](https://qiita.com/shizuma/items/6392dc55624c80f5503c)
+
+
 
 ## Ruby
 
@@ -3053,6 +3105,11 @@
 [ruby の Date.parse の私の知らなかった機能 #Ruby - Qiita](https://qiita.com/Nabetani/items/2613c4dea86a4db614d8)
 
 [dotenvで環境変数をセットするには #Ruby - Qiita](https://qiita.com/pyon_kiti_jp/items/f3b0d4fff3b10f7f489e)
+
+[Bundlerの使い方 #Ruby - Qiita](https://qiita.com/oshou/items/6283c2315dc7dd244aef)
+
+[Rubyの継承について #プログラミング勉強日記 - Qiita](https://qiita.com/mzmz__02/items/8d88337e5fc1537acf9c)
+
 
 
 ## Rust
@@ -3899,6 +3956,8 @@
 
 [Visual Studio Code の設定で、言語ごとのインデントを設定する](https://zenn.dev/longbridge/articles/91ebea06542b06)
 
+[VS Code のワークスペースをちゃんと使いたい #初心者 - Qiita](https://qiita.com/amac-53/items/86b1466e93524844c2a8)
+
 
 
 ## Vue.js
@@ -4174,4 +4233,6 @@
 [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
 
 [git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
+
+[Intellij系のIDEと.ideaディレクトリについて - らせんびより](https://naomichi-h.hatenablog.com/entry/2022/11/06/171021)
 

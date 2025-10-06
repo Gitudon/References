@@ -1888,6 +1888,10 @@
 
 [BiBTeXとは #LaTeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/14f9727845e020f8e7e9)
 
+[【LaTeX】文字の大きさを変える](https://takataninote.com/tex/font-size.html)
+
+[フォントについての命令](https://www.comm.tcu.ac.jp/~math/hnakai/math/others/tex/foundamental/font.htm)
+
 
 
 ## Linux

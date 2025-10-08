@@ -2058,6 +2058,8 @@
 
 [Excelで文字列型から異なる型へ変換する方法 – 株式会社ルーター](https://rooter.jp/data-format/convert-data-types-in-excel/)
 
+[いまさら聞けないIT用語：「マクロ」とは？ VBAとの違い、できること、Excelマクロの初歩など基本を解説 | データで越境者に寄り添うメディア データのじかん](https://data.wingarc.com/about-macro-25915)
+
 
 
 ## Movie
@@ -3958,6 +3960,8 @@
 
 [VS Code のワークスペースをちゃんと使いたい #初心者 - Qiita](https://qiita.com/amac-53/items/86b1466e93524844c2a8)
 
+[VSCodeでTerminalがある下のパネルを開く方法](https://zenn.dev/suba/articles/6f2e224d24bedc)
+
 
 
 ## Vue.js
@@ -4235,4 +4239,6 @@
 [git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 
 [Intellij系のIDEと.ideaディレクトリについて - らせんびより](https://naomichi-h.hatenablog.com/entry/2022/11/06/171021)
+
+[今まで追加した設定（随時更新）](https://zenn.dev/pb/articles/a82d08f3d92805)
 

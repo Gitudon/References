@@ -510,6 +510,8 @@
 
 [Ubuntu、Mac、Windowsでのchromeリモートデスクトップ導入方法 – 株式会社ルーター](https://rooter.jp/infra-ops/chrome-remote-desktop/)
 
+[DevTools Protocolを使ってChromeを操作＆CSSカバレッジを取得する #ChromeDevTool - Qiita](https://qiita.com/kozy4324/items/aa38a41685399fc330f7)
+
 
 
 ## Commands
@@ -3112,6 +3114,12 @@
 
 [Rubyの継承について #プログラミング勉強日記 - Qiita](https://qiita.com/mzmz__02/items/8d88337e5fc1537acf9c)
 
+[Ruby | dotenv gem で 環境変数をスマートに管理 #ruby #dotenv #Ruby - Qiita](https://qiita.com/tbpgr/items/b7126c3d2d8f0329b11c)
+
+[dotenv gemの使い方 - 時々とおまわり](https://karlley.hatenablog.jp/entry/2022/09/13/195059)
+
+[gemとはなんじゃその①　初心者→中級者へのSTEP13/25 #Ruby - Qiita](https://qiita.com/kamohicokamo/items/ded4cad5be1778547640)
+
 
 
 ## Rust
@@ -4239,6 +4247,10 @@
 [git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 
 [Intellij系のIDEと.ideaディレクトリについて - らせんびより](https://naomichi-h.hatenablog.com/entry/2022/11/06/171021)
+
+[「LINEにアクセスできません」とエラーが出た時の対処法まとめ｜株式会社Tenorshare](https://note.com/tenorsharejp/n/n485277e69950)
+
+[【最新】7つの方法で「LINEにアクセスできません」不具合を解決](https://www.imobie.jp/support/line-connection-error.htm)
 
 [今まで追加した設定（随時更新）](https://zenn.dev/pb/articles/a82d08f3d92805)
 

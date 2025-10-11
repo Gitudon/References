@@ -4052,6 +4052,8 @@
 
 [Windows11でデュアルディスプレイなのに壁紙別個にできないんですけど！！](https://zenn.dev/usuyuki/articles/93c9192b1f10df)
 
+[PowerShellで環境変数を再読込する #PowerShell - Qiita](https://qiita.com/yuta0801/items/adb58591c3d9432bd868)
+
 
 
 ## Words

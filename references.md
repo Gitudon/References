@@ -886,6 +886,8 @@
 
 [Python×Djangoプロジェクトの環境構築 #Git - Qiita](https://qiita.com/minezaki-mutsuki/items/c639eb864273f3ecee5a)
 
+[Templates - テンプレートフォルダを作成｜Django Online Guide Book](https://zenn.dev/mom/books/4c7430e6a7b321/viewer/80b204)
+
 
 
 ## Docker
@@ -1415,6 +1417,8 @@
 [Gitのtagを理解する #初心者 - Qiita](https://qiita.com/k-penguin-sato/items/c62b47dd79f144c68dad)
 
 [.gitignoreに記載したのに反映されない件 #Git - Qiita](https://qiita.com/fuwamaki/items/3ed021163e50beab7154)
+
+[開発ディレクトリ構成 ベストプラクティス](https://zenn.dev/moneyforward/articles/dev-directory-structure)
 
 
 
@@ -1977,6 +1981,20 @@
 [Linux　環境変数について #Linux - Qiita](https://qiita.com/kiyomura10/items/cdf3ee9106256d7ab78a)
 
 [パッケージ管理について - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/column/7078/)
+
+[Linuxディレクトリ構造 #Ubuntu - Qiita](https://qiita.com/nys9302/items/a8ddeedd3cd9d0deb332)
+
+[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
+
+[/lost+found,sync,VFS,/proc/filesystems #Linux - Qiita](https://qiita.com/ss12345/items/50152c419206085201ea)
+
+[/bin, /usr/bin, /usr/sbin, /usr/local/bin の違いとは？ #Linux - Qiita](https://qiita.com/valzer0/items/67a4c8bf2b1be0fc825a)
+
+[FHSの「/mnt,/media」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/mnt_fhs)
+
+[FHSの「/run」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/run_fhs)
+
+[FHSの「/srv」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/srv_fhs)
 
 
 
@@ -2547,6 +2565,8 @@
 [【Python】スライス操作についてまとめ #初心者 - Qiita](https://qiita.com/tanuk1647/items/276d2be36f5abb8ea52e)
 
 [PythonのLambda式：簡潔さと便利さを手に入れよう #lambda式 - Qiita](https://qiita.com/eruru/items/1c4b04af04905cf57b51)
+
+[pythonで二部グラフの判定 #Python - Qiita](https://qiita.com/hukuhuku11111a1/items/6b0c1a83d1434b7890e8)
 
 
 

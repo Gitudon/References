@@ -2166,6 +2166,8 @@
 
 [403エラーとは？Webスクレイピング実行時のエラー解決方法を解説 #スクレイピング - Qiita](https://qiita.com/Octoparse_Japan/items/1faac7a19091a5964e2d)
 
+[DNSとは？今さら聞けない基礎知識や仕組みを解説 | トークネット・お役立ち情報 | TOHKnet 東北電力グループ 株式会社トークネット](https://www.tohknet.co.jp/useful/article/202411_dns/)
+
 
 
 ## Next.js
@@ -4133,6 +4135,12 @@
 [ディストリビューションとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12473.html)
 
 [総合開発環境(IDE)とは何か？初心者におすすめの4つのIDEを紹介 #VSCode - Qiita](https://qiita.com/EasyCoder/items/81cf7674235a7a19d69c)
+
+[DNSとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word1287.html)
+
+[サブネットマスクとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11975.html)
+
+[IPアドレスとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word172.html)
 
 
 

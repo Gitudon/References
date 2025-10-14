@@ -4080,6 +4080,12 @@
 
 [PowerShellで環境変数を再読込する #PowerShell - Qiita](https://qiita.com/yuta0801/items/adb58591c3d9432bd868)
 
+[ゼロから理解する! Windows の環境変数 Path と設定方法 | CHAM](https://cham.space/setpath/)
+
+[Windowsのシステム環境変数とユーザ環境変数 #Windows - Qiita](https://qiita.com/yamap_55/items/9a3f7af47dc879104e71)
+
+[Windows環境変数の超基本を理解する為のアプローチ #新人プログラマ応援 - Qiita](https://qiita.com/jeyei/items/2c385e4e0488a5fa2591)
+
 
 
 ## Words

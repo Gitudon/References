@@ -3142,6 +3142,8 @@
 
 [gemとはなんじゃその①　初心者→中級者へのSTEP13/25 #Ruby - Qiita](https://qiita.com/kamohicokamo/items/ded4cad5be1778547640)
 
+[Array#compact (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/compact.html)
+
 
 
 ## Rust
@@ -3587,6 +3589,8 @@
 [MySQL mysqldumpコマンドで取得したdumpファイルの中身を覗いてみる #MySQL8.0 - Qiita](https://qiita.com/miriwo/items/3a852411283ae79358d1)
 
 [SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
+
+[SQL | COUNT(DISTINCT column_name) は「同じ値の種類数」をカウントする #初心者 - Qiita](https://qiita.com/YumaInaura/items/1a1123ed4f33d30d9548)
 
 
 

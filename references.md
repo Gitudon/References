@@ -104,6 +104,8 @@
 
 [精霊の守り人 上橋 菜穂子 からプログラマが学ぶとよい７つの視点 with ChatGPT #上橋菜穂子 - Qiita](https://qiita.com/kaizen_nagoya/items/e42386135874c7256c44)
 
+[【警鐘】AI資本主義の終着点：それは“企業のロゴ”を掲げた共産主義だった #ポエム - Qiita](https://qiita.com/futayubi5656/items/9efaa420d26231b3de75)
+
 
 
 ## Algorithm
@@ -2579,6 +2581,14 @@
 [PythonのLambda式：簡潔さと便利さを手に入れよう #lambda式 - Qiita](https://qiita.com/eruru/items/1c4b04af04905cf57b51)
 
 [pythonで二部グラフの判定 #Python - Qiita](https://qiita.com/hukuhuku11111a1/items/6b0c1a83d1434b7890e8)
+
+[[python備忘録] Config関連をもう少し綺麗にまとめたい #Python - Qiita](https://qiita.com/Sora_Yamamoto/items/c44cb9589edf2a6659f0)
+
+[Python初心者がAnacondaを使わない方が良い3つの理由｜れいぬ。](https://note.com/homare_channel/n/n840c1340ca02)
+
+[モンスターボールのモンテカルロシミュレーション #Python - Qiita](https://qiita.com/qwer123123/items/ba01c25b3406e389df6e)
+
+[【Python】fletでフォルダーを選択する #Flet - Qiita](https://qiita.com/merorin/items/87c51daa43386a630291)
 
 
 

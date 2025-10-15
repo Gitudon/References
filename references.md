@@ -94,6 +94,18 @@
 
 
 
+## AI
+
+[AIを“使いこなす”人と“使われる”人の決定的な違い #ChatGPT - Qiita](https://qiita.com/nolanlover0527/items/472379133127f1b08a07)
+
+[画像認識で「綾鷹を選ばせる」AIを作る #Python - Qiita](https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188)
+
+[「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
+
+[精霊の守り人 上橋 菜穂子 からプログラマが学ぶとよい７つの視点 with ChatGPT #上橋菜穂子 - Qiita](https://qiita.com/kaizen_nagoya/items/e42386135874c7256c44)
+
+
+
 ## Algorithm
 
 [いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
@@ -2320,8 +2332,6 @@
 
 [[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
 
-[画像認識で「綾鷹を選ばせる」AIを作る #Python - Qiita](https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188)
-
 [Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
 
 [【Python入門】メモリの解放や効率的に使う方法をマスターしよう！ | 侍エンジニアブログ](https://www.sejuku.net/blog/74447)
@@ -3144,6 +3154,10 @@
 
 [Array#compact (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/compact.html)
 
+[paiza Rubyのプログラミング練習問題をやってみた #初心者 - Qiita](https://qiita.com/sato-git-hub/items/b666b89eba711f0aff44)
+
+[【Rails8】Rails開発で出会ったエラーとその解決まとめ #初心者 - Qiita](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
+
 
 
 ## Rust
@@ -3822,7 +3836,7 @@
 
 
 
-## Url
+## URL
 
 [【2020年10月修正】Facebook アプリの立ち上げ方 URLスキーム編 - すまっぽん！ ー リピーターファン化ツール　月額300円の負担で オンライン名刺としても](https://www.smappon.jp/58395.html)
 
@@ -3857,6 +3871,8 @@
 [LINE URL Scheme 一覧 #linebot - Qiita](https://qiita.com/Yo_4040/items/4200993a420e79709bc9)
 
 [クリックスルーでハッシュ記号（ポンド記号）を使用する - スタジオ ヘルプ](https://support.google.com/richmedia/answer/190941?hl=ja)
+
+[URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
 
 
 
@@ -4206,8 +4222,6 @@
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
 
-[URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
-
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
 
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
@@ -4237,8 +4251,6 @@
 [「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
 
 [HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
-
-[「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
 
 [【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
 
@@ -4293,4 +4305,8 @@
 [【最新】7つの方法で「LINEにアクセスできません」不具合を解決](https://www.imobie.jp/support/line-connection-error.htm)
 
 [今まで追加した設定（随時更新）](https://zenn.dev/pb/articles/a82d08f3d92805)
+
+[異常精進は異常 #ポエム - Qiita](https://qiita.com/TrueRyoB/items/17dc50f5e51b6d1c32f3)
+
+[プログラミング雑記 2025/10/15 #AI - Qiita](https://qiita.com/ishisaka/items/4d613ba956a94cfea3c6)
 

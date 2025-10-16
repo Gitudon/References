@@ -4112,6 +4112,10 @@
 
 [Windows環境変数の超基本を理解する為のアプローチ #新人プログラマ応援 - Qiita](https://qiita.com/jeyei/items/2c385e4e0488a5fa2591)
 
+[WinSCPとは :: WinSCP](https://winscp.net/eng/docs/lang:jp)
+
+[【WinSCPをお使いの方へ】セッションなどの設定情報を簡単にお引越しする方法 | Web | マイホームブログ | Web屋の芝生DIY](https://web-diy.jp/2017/05/170508_01/)
+
 
 
 ## Words

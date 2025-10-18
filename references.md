@@ -136,6 +136,8 @@
 
 [judge.u-aizu.ac.jp/onlinejudge/commentary.jsp?id=ALDS1_2_A&pattern=post&type=general&filter=Algorithm](https://judge.u-aizu.ac.jp/onlinejudge/commentary.jsp?id=ALDS1_2_A&pattern=post&type=general&filter=Algorithm)
 
+[二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜 #競技プログラミング - Qiita](https://qiita.com/drken/items/97e37dd6143e33a64c8c)
+
 
 
 ## Android

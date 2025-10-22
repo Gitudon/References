@@ -488,6 +488,8 @@
 
 [2年間のエンジニアアルバイトの振り返り – 株式会社ルーター](https://rooter.jp/rooter/two-year-review/)
 
+[サマーインターンで絶望してきた - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2018/09/06/193915)
+
 
 
 ## Chrome

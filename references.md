@@ -1436,6 +1436,14 @@
 
 [開発ディレクトリ構成 ベストプラクティス](https://zenn.dev/moneyforward/articles/dev-directory-structure)
 
+[リポジトリファイルAPI | GitLab](https://gitlab-docs.creationline.com/ee/api/repository_files.html)
+
+[プロジェクトAPI | GitLab](https://gitlab-docs.creationline.com/ee/api/projects.html)
+
+[GitLab API の 簡単な使い方 | 404 motivation not found](https://tech-blog.s-yoshiki.com/entry/186)
+
+[Projects API | GitLab Docs](https://docs.gitlab.com/api/projects)
+
 
 
 ## Go
@@ -1957,6 +1965,8 @@
 [【LaTeX】脚注【\footnote】](https://takataninote.com/tex/footnote.html)
 
 [LaTeXコマンド集 - 脚注](https://www.latex-sample.com/struct/footnote.html)
+
+[LaTeX の Listing 対応言語一覧 | 晴耕雨読](https://tex2e.github.io/blog/latex/listing-predefined-languages)
 
 
 

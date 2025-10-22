@@ -3640,6 +3640,8 @@
 
 [SQL | COUNT(DISTINCT column_name) は「同じ値の種類数」をカウントする #初心者 - Qiita](https://qiita.com/YumaInaura/items/1a1123ed4f33d30d9548)
 
+[外部ホストからのMySQL接続 [メモとかメモのようなものとか（By ルーキーの中のひと）]](https://wiki.rookie-inc.com/serverapps/db/mysql/connectexternal)
+
 
 
 ## Streamlit

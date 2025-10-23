@@ -106,6 +106,8 @@
 
 [【警鐘】AI資本主義の終着点：それは“企業のロゴ”を掲げた共産主義だった #ポエム - Qiita](https://qiita.com/futayubi5656/items/9efaa420d26231b3de75)
 
+[ぽこぽこ界隈のブランドを集計をしてみた – 株式会社ルーター](https://rooter.jp/web-crawling/pocopoco_brands/)
+
 
 
 ## Algorithm
@@ -203,6 +205,12 @@
 [Androidスマホで「リンク」と「アプリ」の関連付けを設定する方法 | エンジニアの備忘録](https://engrmemo.jp/android/pixel-default-apk-link/)
 
 [【解決】Android9.0でリンクURLを開くアプリを変更できない場合の対処設定方法 | スマホPCの使い方の説明書](https://teachios.com/android9-0-link-open-app-change)
+
+[AndroidでTaskerを使ってみる（基本） #Android - Qiita](https://qiita.com/archem/items/e930b3edc4b6f4e37338)
+
+[Magisk Moduleの作成方法｜limzei89](https://note.com/limzei89/n/n74b1f5bba972)
+
+[Magiskの機能とインストールについて!?: 気ままにデジタル生活](https://digital-life.seesaa.net/article/503441753.html)
 
 
 
@@ -740,6 +748,8 @@
 
 [yt-dlpのインストール方法について #Python - Qiita](https://qiita.com/KKKKK12345/items/6d3901e4ee5d38014389)
 
+[wgetでファイル名を指定してダウンロード | ex1-lab](https://ex1.m-yabe.com/archives/2817)
+
 
 
 ## Cpp
@@ -1165,6 +1175,8 @@
 [frida-ps | Frida • A world-class dynamic instrumentation toolkit](https://frida.re/docs/frida-ps/)
 
 [Fridaを使うための前準備をやってみた - Shikata Ga Nai](https://cysec148.hatenablog.com/entry/2020/12/10/165838)
+
+[BurpSuiteとFridaの橋渡し「Brida」の紹介](https://zenn.dev/fiord/articles/5627ec252945d8c6df11)
 
 
 

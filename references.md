@@ -2622,6 +2622,12 @@
 
 [男性稼得モデル成立の数理構造 #Python - Qiita](https://qiita.com/abcdefg123/items/0d98a9ae941e4f2c38c8)
 
+[Python 3.13 vs 3.14 ベンチマーキング #Python - Qiita](https://qiita.com/goran_bahamut/items/2f8938f49e167761ad46)
+
+[f2pyでPython forループの高速化 #Fortran - Qiita](https://qiita.com/tarako1889/items/3f6faa163d701d99dcfa)
+
+[AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性 #AWS - Qiita](https://qiita.com/har1101/items/a99fafb7526145e475b9#%E4%BB%96%E3%81%AE%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99)
+
 
 
 ## RaspberryPi
@@ -3203,6 +3209,8 @@
 [【Rails8】Rails開発で出会ったエラーとその解決まとめ #初心者 - Qiita](https://qiita.com/koxrtx/items/67d8bd002e24b8c55157)
 
 [FormでBooleanを渡すときの注意点！（MySQLとActiveRecordにおけるBooleanの管理方法の違い） #Ruby - Qiita](https://qiita.com/macker-jp/items/f864d20ad1d9fc317173)
+
+[【Rails】Userをメールアドレスで検索するときは find_by を使わない #Ruby - Qiita](https://qiita.com/jnchito/items/9d6077d90d85a1130b71)
 
 
 

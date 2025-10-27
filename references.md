@@ -2644,6 +2644,8 @@
 
 [【Python】Anaconda で仮想環境を作る #Ubuntu - Qiita](https://qiita.com/masaki130/items/006712e73eea7a80788e)
 
+[Fast API 備忘録🐍 #Python - Qiita](https://qiita.com/LILY-24hour/items/fddbd9c7fc7397f8ccb0)
+
 
 
 ## RaspberryPi

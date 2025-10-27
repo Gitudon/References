@@ -92,6 +92,10 @@
 
 [PCから「adb install/adb uninstall」を使ってアプリ(apk)を端末に直接インストール/アンインストールする方法 | AndMem](https://andmem.blogspot.com/2015/06/adb-install-uninstall-apk.html)
 
+[コマンドラインからWiFiをオンオフする #Android - Qiita](https://qiita.com/kinneko/items/6bc0ed37bd9501e8e3a8)
+
+[adbコマンドからwifi on/offする - myaskovsky00’s diary](https://myaskovsky00.hatenablog.com/entry/2018/05/26/080004)
+
 
 
 ## AI

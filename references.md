@@ -140,6 +140,8 @@
 
 [二分探索アルゴリズムを一般化 〜 めぐる式二分探索法のススメ 〜 #競技プログラミング - Qiita](https://qiita.com/drken/items/97e37dd6143e33a64c8c)
 
+[茶色コーダーがABCを初めてキャンセルして感じたこと #AtCoder - Qiita](https://qiita.com/TrueRyoB/items/121771e61c0472ceff4c)
+
 
 
 ## Android
@@ -342,7 +344,7 @@
 
 
 
-## Aws
+## AWS
 
 [AWS CLI の最新バージョンのインストールまたは更新 - AWS Command Line Interface](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/getting-started-install.html)
 
@@ -399,6 +401,8 @@
 [【AWS CLI】S3上のフォルダを削除する | 現場で使える！ AWS実践ガイド](https://aws-guide.work/s3-folder-rm/)
 
 [Amazon Braketで量子コンピュータをはじめよう！ #AWS - Qiita](https://qiita.com/snuffkin/items/29bc6ee24bc2bff55df3)
+
+[【振り返り】2025年10月20日AWS大規模障害、何が起こったの？ #AWS - Qiita](https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3)
 
 
 
@@ -469,6 +473,8 @@
 [C言語でオブジェクト指向を表現する (クラス、継承) #C - Qiita](https://qiita.com/qiita_kuru/items/8f3441bce9b2f53d1d62)
 
 [C言語で16文字でセグフォらせる #Python - Qiita](https://qiita.com/yasuo-ozu/items/ddc5d3e8e4a97eaa470c)
+
+[WindowsでもLinuxでも使えるミリ秒タイマー #C - Qiita](https://qiita.com/n31nh/items/8a796954368a864dd4a3)
 
 
 
@@ -1084,6 +1090,8 @@
 
 [【Docker】ボリュームとは #初心者向け - Qiita](https://qiita.com/10sya/items/7df2364e163e5dfea45c)
 
+[DockerコンテナでLaTeX文書作成 #Docker - Qiita](https://qiita.com/buckling_load/items/3ea9e0d641695aff56b0)
+
 
 
 ## Edge
@@ -1461,6 +1469,8 @@
 [Projects API | GitLab Docs](https://docs.gitlab.com/api/projects)
 
 [【git】プッシュ前に"ちょ待てよ"発動させたい。 #Git - Qiita](https://qiita.com/umekikazuya/items/6d92fb70bf3c709ceb52)
+
+[【GitHub】PRの差分が見づらい...を解決するCompare機能が便利だった #GitHub - Qiita](https://qiita.com/taien5/items/cb61a20efa1e9209f465)
 
 
 
@@ -2039,6 +2049,8 @@
 [FHSの「/run」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/run_fhs)
 
 [FHSの「/srv」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/srv_fhs)
+
+[ターミナルでほのぼの #Linux - Qiita](https://qiita.com/yuukikun666/items/a12bf44ee8c8c0c72ed3)
 
 
 
@@ -2627,6 +2639,10 @@
 [f2pyでPython forループの高速化 #Fortran - Qiita](https://qiita.com/tarako1889/items/3f6faa163d701d99dcfa)
 
 [AgentCore Runtimeの非同期実行で広がる、Ambient Agentの可能性 #AWS - Qiita](https://qiita.com/har1101/items/a99fafb7526145e475b9#%E4%BB%96%E3%81%AE%E5%8F%82%E8%80%83%E8%B3%87%E6%96%99)
+
+[Pythonで学ぶアナログ回路 #Python - Qiita](https://qiita.com/qwer123123/items/d3fbe4bbc4012259d122)
+
+[【Python】Anaconda で仮想環境を作る #Ubuntu - Qiita](https://qiita.com/masaki130/items/006712e73eea7a80788e)
 
 
 
@@ -3890,6 +3906,8 @@
 
 [aptコマンドチートシート #Ubuntu - Qiita](https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007)
 
+[Ubuntu ログイン時の二段階認証実装方法 #Linux - Qiita](https://qiita.com/neouchida/items/fc83088f43c360dad008)
+
 
 
 ## URL
@@ -4161,6 +4179,12 @@
 [WinSCPとは :: WinSCP](https://winscp.net/eng/docs/lang:jp)
 
 [【WinSCPをお使いの方へ】セッションなどの設定情報を簡単にお引越しする方法 | Web | マイホームブログ | Web屋の芝生DIY](https://web-diy.jp/2017/05/170508_01/)
+
+[指定したディレクトリ以下の容量が大きいファイルTOP30を表示する #Windows - Qiita](https://qiita.com/kono046/items/0f1876e4422e9379623a)
+
+[「厄介なdbファイル（Thumbs.db）を消す方法＝dbファイルを育てる」！？ #Windows - Qiita](https://qiita.com/scrashim9R/items/d06d9224a57738ebc804)
+
+[Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
 
 
 

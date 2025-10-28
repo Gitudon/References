@@ -548,6 +548,8 @@
 
 [DevTools Protocolを使ってChromeを操作＆CSSカバレッジを取得する #ChromeDevTool - Qiita](https://qiita.com/kozy4324/items/aa38a41685399fc330f7)
 
+[Google Chromeでブラウザ履歴と検索履歴を消去する方法](https://linux-jp.org/?p=20025)
+
 
 
 ## Commands

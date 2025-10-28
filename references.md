@@ -550,6 +550,20 @@
 
 [Google Chromeでブラウザ履歴と検索履歴を消去する方法](https://linux-jp.org/?p=20025)
 
+[デバイスから Chrome のデータを自動的に削除する - Chrome Enterprise and Education ヘルプ](https://support.google.com/chrome/a/answer/10686330?hl=ja#zippy=%2Clinux)
+
+[Chrome アプリと拡張機能のポリシーを設定する（Linux） - Chrome Enterprise and Education ヘルプ](https://support.google.com/chrome/a/answer/7517525?hl=ja)
+
+[Chrome Enterprise のポリシーリストと管理 | ドキュメント](https://chromeenterprise.google/policies/?policy=ClearBrowsingDataOnExitList)
+
+[GoogleChromeの履歴自動消去設定 - やじま公式ブログ](https://yajimanji.hatenablog.com/entry/2024/03/11/233932)
+
+[【Google Chrome】終了時にCookieを自動削除して自動ログインを解除する：Google Chrome完全ガイド - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1907/03/news020.html)
+
+[GoogleChromeの閲覧履歴の自動削除はなくなったのか？｜ピアサポートブログチャンネル](https://note.com/cute_koala582/n/ne8fed1402db1)
+
+[【Chrome】閲覧履歴を自動で削除する方法と手動で削除する方法をわかりやすく解説 | 情シスの自由帳](https://jo-sys.net/google-chrome-hist/)
+
 
 
 ## Commands
@@ -1882,6 +1896,12 @@
 
 [Shadow DOM](https://ja.javascript.info/shadow-dom)
 
+[ShadowRoot: mode プロパティ - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/ShadowRoot/mode)
+
+[コンソールにundefinedと表示されますが、これはバグでしょうか？ - Recursionサポート](https://support.recursionist.io/help/undefined/)
+
+[ShadowRoot - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/ShadowRoot)
+
 
 
 ## Kotlin
@@ -2651,6 +2671,8 @@
 [【Python】Anaconda で仮想環境を作る #Ubuntu - Qiita](https://qiita.com/masaki130/items/006712e73eea7a80788e)
 
 [Fast API 備忘録🐍 #Python - Qiita](https://qiita.com/LILY-24hour/items/fddbd9c7fc7397f8ccb0)
+
+[[Q&A] shadow-rootで囲まれたテキストボックスのスクレイピング方法について - Qiita](https://qiita.com/shumaiuma/questions/2116f1d0cd86d8d0ae8d)
 
 
 
@@ -4262,7 +4284,7 @@
 
 
 
-## Wsl
+## WSL
 
 [WSLとwindows間のファイル連携 #Windows - Qiita](https://qiita.com/quzq/items/1096c638c0d86795be13)
 
@@ -4401,4 +4423,6 @@
 [異常精進は異常 #ポエム - Qiita](https://qiita.com/TrueRyoB/items/17dc50f5e51b6d1c32f3)
 
 [プログラミング雑記 2025/10/15 #AI - Qiita](https://qiita.com/ishisaka/items/4d613ba956a94cfea3c6)
+
+[プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
 

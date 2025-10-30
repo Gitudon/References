@@ -2022,6 +2022,8 @@
 
 [LaTeX の Listing 対応言語一覧 | 晴耕雨読](https://tex2e.github.io/blog/latex/listing-predefined-languages)
 
+[LaTeXコマンド - 論文の見出し - 部・節・小節 - part, section, subsection](https://medemanabu.net/latex/part-section-subsection/)
+
 
 
 ## Linux
@@ -2249,6 +2251,8 @@
 [403エラーとは？Webスクレイピング実行時のエラー解決方法を解説 #スクレイピング - Qiita](https://qiita.com/Octoparse_Japan/items/1faac7a19091a5964e2d)
 
 [DNSとは？今さら聞けない基礎知識や仕組みを解説 | トークネット・お役立ち情報 | TOHKnet 東北電力グループ 株式会社トークネット](https://www.tohknet.co.jp/useful/article/202411_dns/)
+
+[メッシュWi-Fiとは？初心者にもわかりやすく解説します | バッファロー](https://www.buffalo.jp/topics/select/detail/meshwifi.html)
 
 
 
@@ -4425,4 +4429,6 @@
 [プログラミング雑記 2025/10/15 #AI - Qiita](https://qiita.com/ishisaka/items/4d613ba956a94cfea3c6)
 
 [プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
+
+[決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
 

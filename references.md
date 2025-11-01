@@ -4286,6 +4286,8 @@
 
 [IPアドレスとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word172.html)
 
+[SAEとは - IT用語辞典 e-Words](https://e-words.jp/w/SAE.html)
+
 
 
 ## WSL

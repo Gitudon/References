@@ -2706,6 +2706,8 @@
 
 [【画像処理】PythonでOpenCVを使った色空間の変換 #Python - Qiita](https://qiita.com/spc_ehara/items/5c35d3c9900ad5e18e5c)
 
+[uvを使ってPython環境を構築する #Git - Qiita](https://qiita.com/DR623G/items/50e6136f7f9f365d7c6a)
+
 
 
 ## RaspberryPi

@@ -2678,6 +2678,10 @@
 
 [[Q&A] shadow-rootで囲まれたテキストボックスのスクレイピング方法について - Qiita](https://qiita.com/shumaiuma/questions/2116f1d0cd86d8d0ae8d)
 
+[bisect --- 配列二分法アルゴリズム — Python 3.14.0 ドキュメント](https://docs.python.org/ja/3/library/bisect.html)
+
+[python 二分探索　bisect.bisect_leftとbisect.bisect_rightを0から実装するのは意外と簡単 #Python - Qiita](https://qiita.com/xu1718191411/items/42f6b32959be58458546)
+
 
 
 ## RaspberryPi
@@ -4433,4 +4437,6 @@
 [プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
 
 [決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
+
+[サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
 

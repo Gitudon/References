@@ -2034,6 +2034,8 @@
 
 [BiBTeXとは #LaTeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/14f9727845e020f8e7e9)
 
+[【LaTeX】ベクトル(太字・矢印)のかき方とテクニック | 数学の景色](https://mathlandscape.com/latex-vector/)
+
 
 
 ## Lean

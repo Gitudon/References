@@ -408,6 +408,8 @@
 
 [【振り返り】2025年10月20日AWS大規模障害、何が起こったの？ #AWS - Qiita](https://qiita.com/zhang_hang/items/e63468ec53a95bb605a3)
 
+[AmazonBraketで学ぶ量子コンピュータ⑤ #AWS - Qiita](https://qiita.com/doiken_/items/112f628e2fd9ce07c7a2)
+
 
 
 ## Bat
@@ -775,6 +777,8 @@
 [yt-dlpのインストール方法について #Python - Qiita](https://qiita.com/KKKKK12345/items/6d3901e4ee5d38014389)
 
 [wgetでファイル名を指定してダウンロード | ex1-lab](https://ex1.m-yabe.com/archives/2817)
+
+[【Linux】uptimeコマンド #初心者 - Qiita](https://qiita.com/Taira0222/items/533b40d35be53fc1d610)
 
 
 
@@ -1492,6 +1496,8 @@
 
 [【GitHub】PRの差分が見づらい...を解決するCompare機能が便利だった #GitHub - Qiita](https://qiita.com/taien5/items/cb61a20efa1e9209f465)
 
+[GitLab CI/CD artifacts 有効期限問題、3つの解決策比較 #CICD - Qiita](https://qiita.com/YusukeHarada/items/8d843165b55527cfa845)
+
 
 
 ## Go
@@ -2023,6 +2029,14 @@
 [LaTeX の Listing 対応言語一覧 | 晴耕雨読](https://tex2e.github.io/blog/latex/listing-predefined-languages)
 
 [LaTeXコマンド - 論文の見出し - 部・節・小節 - part, section, subsection](https://medemanabu.net/latex/part-section-subsection/)
+
+[学術論文の情報をそれらしい形で出力する方法 #TeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/a552ad66705f4f9a5710)
+
+[BiBTeXとは #LaTeX - Qiita](https://qiita.com/SUZUKI_Masaya/items/14f9727845e020f8e7e9)
+
+
+
+## Lean
 
 
 
@@ -2681,6 +2695,14 @@
 [bisect --- 配列二分法アルゴリズム — Python 3.14.0 ドキュメント](https://docs.python.org/ja/3/library/bisect.html)
 
 [python 二分探索　bisect.bisect_leftとbisect.bisect_rightを0から実装するのは意外と簡単 #Python - Qiita](https://qiita.com/xu1718191411/items/42f6b32959be58458546)
+
+[Python Windows環境 VirtualEnv で tcl ライブラリが見つからないエラーの対処 | Glob](https://www.typea.info/blog/index.php/2015/07/26/python_windows_virtualenv_tcl/)
+
+[uv （pythonパッケージマネージャー）の使い方　簡易版 #Python - Qiita](https://qiita.com/futakuchi0117/items/9ec8bd84797fed180647)
+
+[【画像処理】サルでもわかる画像処理講座　はじめに #Python - Qiita](https://qiita.com/spc_ehara/items/e425b6dcc0398299c40d)
+
+[【画像処理】PythonでOpenCVを使った色空間の変換 #Python - Qiita](https://qiita.com/spc_ehara/items/5c35d3c9900ad5e18e5c)
 
 
 

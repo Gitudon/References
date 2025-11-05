@@ -2040,6 +2040,8 @@
 
 ## Lean
 
+[証明支援システムLeanに入門する #1](https://zenn.dev/hartshorne/articles/43ee847e82879c)
+
 
 
 ## Linux

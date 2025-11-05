@@ -510,6 +510,8 @@
 
 [サマーインターンで絶望してきた - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2018/09/06/193915)
 
+[【技術情報】すぐにメモを取らないことから始める、新時代のインプット術 #初心者 - Qiita](https://qiita.com/futayubi5656/items/951ba24bfcc5c2b73e5b)
+
 
 
 ## Chrome
@@ -780,6 +782,8 @@
 
 [【Linux】uptimeコマンド #初心者 - Qiita](https://qiita.com/Taira0222/items/533b40d35be53fc1d610)
 
+[【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技15選 #Linux - Qiita](https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960)
+
 
 
 ## Cpp
@@ -881,6 +885,158 @@
 [curlコマンドで入力フォームにテキストを入力してPOSTをするテスト - Hacking life travel tech anything](https://www.travelhacks.tokyo/entry/curl-post-d-option)
 
 [slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
+
+
+
+## Database
+
+[外部ホストからのMySQL接続 [メモとかメモのようなものとか（By ルーキーの中のひと）]](https://wiki.rookie-inc.com/serverapps/db/mysql/connectexternal)
+
+[[MySQL]mysqldumpを利用して別の環境にデータを移行する #mysql5.7 - Qiita](https://qiita.com/ryoishizawa/items/2d8eb898b848a501f91c)
+
+[【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
+
+[DBeaver で MariaDB に mysqldump --no-data をする際の注意点と TIPS #Windows - Qiita](https://qiita.com/irauji/items/3c7d351568c2ea6b4c56)
+
+[mysqldumpまとめ #MySQL - Qiita](https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c)
+
+[mysqldumpオプションまとめ。whereで条件を指定したりする | Basicinc Enjoy Hacking!](https://tech.basicinc.jp/articles/82)
+
+[MySQLで特定のテーブルの一部のデータだけ dump するときには --where オプションを使いましょう - LCL Engineers' Blog](https://techblog.lclco.com/entry/2019/04/30/190000)
+
+[mysqldumpで特定のレコードだけエクスポートする - oinume journal](https://journal.lampetty.net/entry/mysqldump-option-where)
+
+[MySQL mysqldumpコマンドで取得したdumpファイルの中身を覗いてみる #MySQL8.0 - Qiita](https://qiita.com/miriwo/items/3a852411283ae79358d1)
+
+[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
+
+[【MySQL】Using temporary と Using filesort が出るクエリについて - fighters48's Tech Blog](https://tdr-now.hateblo.jp/entry/2024/09/09/125725)
+
+[MySQL SlowQueryの対処法 #DB - Qiita](https://qiita.com/nikadon/items/2f66b447ed6d3b26d78e)
+
+[MySQLのPrimaryKey（id）を振り直す #MySQL - Qiita](https://qiita.com/HorikawaTokiya/items/c135540d2f46e148748b)
+
+[MySQL かんたんにテーブルのid番号を1からリセットする方法 #Ruby - Qiita](https://qiita.com/ramuneru/items/ae1d7230b528c5594d6a)
+
+[MySQLのAUTO_INCREMENT(連番)をリセット(初期化)する方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/03/153206)
+
+[PostgreSQLのmysql_fdwを使ったUTF8MB4外部テーブルの文字化け防止策 – 株式会社ルーター](https://rooter.jp/infra-ops/select_utf8mb4_mysql_fdw/)
+
+[MySQLからPostgreSQLへの移行時にenum型をvarchar型に変えた話 – 株式会社ルーター](https://rooter.jp/programming/db/mysql_to_postgresql_enum_to_varchar/)
+
+[データベースオブジェクトの命名規約 #規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
+
+[【SQLに慣れる】ユーザー登録・権限付与 #MySQL - Qiita](https://qiita.com/yukibe/items/4ba2aa49510ab1f6b1f1)
+
+[MySQLをインストール後、ユーザーを作成するまでの手順 - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2019/02/11/135557)
+
+[MySQL Serverに外部から接続する #MySQL - Qiita](https://qiita.com/tocomi/items/0c009d7299584df49378)
+
+[MySQLでのPort番号の確認 #MySQL - Qiita](https://qiita.com/MLLB/items/3ce82faf475e1d1d38ce)
+
+[同じLANに接続しているPCでローカルのMySQLにリモート接続する方法 #VB.Net - Qiita](https://qiita.com/miki_grapes/items/040c9329b7c523a6e7bc)
+
+[MySQLを外部パソコンから接続する方法 | 合同会社ウェブライト](https://weblight.jp/mysql-connect/)
+
+[MySQL | 新しいパスワードを設定する(SET PASSWORD 文、ALTER USER文)](https://www.javadrive.jp/mysql/user/index2.html)
+
+[PostgreSQLのスキーマ作成とsearch_path設定の実践例（MySQLユーザー向け） – 株式会社ルーター](https://rooter.jp/infra-ops/postgresql-schema/)
+
+[MySQLのデータベースをコピーする方法 |](https://weblabo.oscasierra.net/mysql-database-copy/)
+
+[MySQLテーブルコピーの完全ガイド｜構造・データ・インデックスを簡単に複製する方法│MySQL & MariaDBの世界](https://www.dbtech.digibeatrix.com/mysql/table-management/mysql-copy-table-guide/)
+
+[異なるサーバー間でのデータベースのコピーにハマった話(SQLServer) #DB - Qiita](https://qiita.com/denden00/items/24ea2828b38a35b73452)
+
+[SQL Server 異なるサーバー間　（違うDB）でテーブルをコピーしたいとき 簡単な方法 – 勉強メモ](https://weekend-v.work/archives/397)
+
+[DBeaverのGUIからデータをエクスポート&インポートする #運動通信社 - Qiita](https://qiita.com/nero-15/items/13b996cb79f6d4f2ffe7)
+
+[【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.11.14 MySQL データベースのほかのマシンへのコピー](https://dev.mysql.com/doc/refman/8.0/ja/copying-databases.html)
+
+[MySQLでテーブルを別のデータベースに移動してみる #MySQL - Qiita](https://qiita.com/shinry/items/fa0f26a542f52a4cab9a)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 7.4.5.2 サーバー間でのデータベースのコピー](https://dev.mysql.com/doc/refman/8.0/ja/mysqldump-copying-to-other-server.html)
+
+[MySQLのテーブル作成 既存DBからのDDL生成はエクスポート機能を使う | ポテパンスタイル](https://style.potepan.com/articles/18367.html)
+
+[MySQLでダンプデータをインポートする方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/14/223826)
+
+[データベースの命名規則 - Avinton Japan](https://avinton.com/academy/database-naming-conventions/)
+
+[DockerでMariaDBのいろんな環境を簡単に構築する – 株式会社ルーター](https://rooter.jp/infra-ops/docker_mariadb_build/)
+
+[MySQLから巨大データをタブ区切りテキストで出力する方法 – 株式会社ルーター](https://rooter.jp/data-format/mysql_to_tab/)
+
+[PostgreSQLのカラム追加を指定の場所にする方法 – 株式会社ルーター](https://rooter.jp/programming/db/postgresql_add_column/)
+
+[[MySQL／PostgreSQL] TRUNCATEによる自動採番主キーへの影響と対応方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-postgresql-truncate-serial/)
+
+[pgloaderでMySQLからPostgreSQLにデータ移行する方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-to-postgresql-pgloader/)
+
+[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
+
+[【MySQL 8.3】rootユーザーのパスワードを忘れた際のパスワード変更方法（Windows） #Windows10 - Qiita](https://qiita.com/nkserveren26/items/f67de3dc7ca80b4c0e10)
+
+[【MySQL】rootユーザーのパスワードを忘れてしまった時 #MySQL - Qiita](https://qiita.com/nekihcom/items/43874b566c397347df0a)
+
+[MySQL/MariaDBで未使用のテーブルを効率的に見つける方法 – 株式会社ルーター](https://rooter.jp/infra-ops/identify_unnecessary_tables/)
+
+[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
+
+[RailsとMySQLでiOSの絵文字に対応(UTF8MB4化)した話 - Akata Works](https://akataworks.hatenadiary.jp/entry/2016/02/26/102439)
+
+[MySQLで桁が足りない分を０で埋める #MySQL - Qiita](https://qiita.com/toshikitsubouchi/items/68d0638f9164a7d3323b)
+
+[DBeaver使い方メモ #PostgreSQL - Qiita](https://qiita.com/12345/items/48f6856e32fd618ea307)
+
+[DBeaverでやらかした話 #DBeaver - Qiita](https://qiita.com/tosiooooooo/items/46b2ae7c0687dc061775)
+
+[DBeaverのSQLエディタが使いにくい覚書 - RTB SoftLab ラテベ ソフトラボ (ラテベラボ)](https://www.ratebelab.com/soft/homepage_blog/628/)
+
+[データベースツール DBeaver のインストールと基本機能（Windows 上）](https://www.kkaneko.jp/tools/win/dbeaver.html)
+
+[DBeaver をインストールしたので記録しておく #DBeaver - Qiita](https://qiita.com/azumabashi/items/bd6988be8eab1f380546)
+
+[MariaDBのAUTO_INCREMENTについて #mariadb - Qiita](https://qiita.com/chaspy/items/51e000070a15a829434a)
+
+[MariaDB /MySQL rootパスワードの設定 | knowledge](https://knowledge.willnet.ad.jp/mysql-secure-installation/)
+
+[【MariaDB（MySQL）】インストール直後にrootでログインしたい #mariadb - Qiita](https://qiita.com/wsigma21/items/73e1b46d2ec138698674)
+
+[マリアDBでテーブル作成時のエラー「there can be only one auto column and it must be defined as a key mariadb」 #MySQL - Qiita](https://qiita.com/nakamoto_yuki/items/69cf9ba26f1b651808af)
+
+[mariaDBにsudoなしでrootで接続する – OS.ManiaX](https://osmaniax.1banzaka.com/server/mariadb%E3%81%ABsudo%E3%81%AA%E3%81%97%E3%81%A7root%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/4568)
+
+[Ubuntu22.04 MariaDBのインストールとデータベースの作成｜ogs-digilife](https://note.com/ogs_digilife/n/nb7dba54010cb#16aa7ff1-f00d-4f09-abd0-f5d340a5d792)
+
+[MariaDB インストール ( Ubuntu 18.04 / 20.04 / 22.04 / 24.04 LTS , Raspberry Pi OS) #mariadb - Qiita](https://qiita.com/nanbuwks/items/c98c51744bd0f72a7087)
+
+[MariaDB を削除して、Mysql をインストール #MySQL - Qiita](https://qiita.com/ekzemplaro/items/84e413b04c871ac1dd48)
+
+[MariaDB コマンド（随時追加） #Database - Qiita](https://qiita.com/ynack/items/b24cacdadb8a002bc9d2)
+
+[【入門】データベース設計まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
+
+[SQLServer: int型のID値を持つテーブルをできる限り短時間でbigint型に変更する #DB - Qiita](https://qiita.com/p2sk/items/cdab2d91127ec8169ff1)
+
+[【node.js】MySQL8.0に接続できない。Error: ER_NOT_SUPPORTED_AUTH_MODE - 中堅プログラマーの備忘録](https://www.chuken-engineer.com/entry/2020/09/04/074216)
+
+[Node.js 【MySQL 8.0 に接続できない。】 #Express - Qiita](https://qiita.com/harukin721/items/99c606364a012cceb0d8)
+
+[MySQL導入方法 #MySQL8.0 - Qiita](https://qiita.com/emily-08/items/882f9532989948f1d1d8)
+
+[VSCodeの拡張機能でMySQLに接続する #備忘録 - Qiita](https://qiita.com/keso_keso/items/bff50653b3cb798dc1d7)
+
+[Visual Studio CodeをMySQLツールとして使う #VSCode - Qiita](https://qiita.com/brgd/items/ea571b6f84acadfd962d)
+
+[VS Code上でMySQLを扱いたい | 株式会社ウイングドア](https://wingdoor.co.jp/blog/vs-code%E4%B8%8A%E3%81%A7mysql%E3%82%92%E6%89%B1%E3%81%84%E3%81%9F%E3%81%84/)
+
+[Node.jsでMySQL 8.0へ接続しようとする時に発生するエラー #MySQL8.0 - Qiita](https://qiita.com/monga3/items/6583c07a9b275b469608)
+
+[VScode上でDBをGUI操作できるMySQL Shell for VS Codeを使ってみた #VSCode - Qiita](https://qiita.com/shunbaba/items/ea89e7dcf30ae07c6d44)
 
 
 
@@ -2712,6 +2868,10 @@
 
 [uvを使ってPython環境を構築する #Git - Qiita](https://qiita.com/DR623G/items/50e6136f7f9f365d7c6a)
 
+[WSL2 + Ubuntu 22.04 + ROS2 Humble + uv 環境構築メモ #Python - Qiita](https://qiita.com/Hdan/items/ffbcdc1b85a65516ece6)
+
+[🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
+
 
 
 ## RaspberryPi
@@ -3296,6 +3456,10 @@
 
 [【Rails】Userをメールアドレスで検索するときは find_by を使わない #Ruby - Qiita](https://qiita.com/jnchito/items/9d6077d90d85a1130b71)
 
+[Rubyで簡易的なMCPサーバーを作ってみる #Ruby - Qiita](https://qiita.com/tsuzuki_takaaki/items/a4a54cf2a7bacdb0834f)
+
+[新旧RubyバージョンにおけるHTTPクライアントの選択肢 – 株式会社ルーター](https://rooter.jp/web-crawling/old_and_new_http_client_for_ruby/)
+
 
 
 ## Rust
@@ -3450,45 +3614,15 @@
 
 [SQLのMAX関数（最大値）・MIN（最小値）の使い方を徹底解説 | Z MARKETING](https://z-marketing.net/sql-max-min/)
 
-[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
-
-[【初心者向け入門】MySQLの基本操作 #mamp - Qiita](https://qiita.com/ab-boy_ringo/items/2fd8a57fa4b7d1fd6e23)
-
-[MySQLの開発環境を用意しよう（windows） | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-env-win)
-
-[MySQLを利用しようとしたら、【アクセスが拒否されました】とでた #初心者 - Qiita](https://qiita.com/koinunopochi/items/d8eff802a87bfeb948cd)
-
-[MYSQL コマンド #MySQL - Qiita](https://qiita.com/ooyy0121/items/3dfc9796d4bf560093fa)
-
 [MySQL | データベースを削除する(DROP DATABASE文)](https://www.javadrive.jp/mysql/database/index5.html)
-
-[VScode上でDBをGUI操作できるMySQL Shell for VS Codeを使ってみた #VSCode - Qiita](https://qiita.com/shunbaba/items/ea89e7dcf30ae07c6d44)
 
 [VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
 
 [VSCodeから使える超便利なSQLツール “Database Client” – Obenkyolab](https://obenkyolab.com/?p=4818)
 
-[【node.js】MySQL8.0に接続できない。Error: ER_NOT_SUPPORTED_AUTH_MODE - 中堅プログラマーの備忘録](https://www.chuken-engineer.com/entry/2020/09/04/074216)
-
-[Node.js 【MySQL 8.0 に接続できない。】 #Express - Qiita](https://qiita.com/harukin721/items/99c606364a012cceb0d8)
-
-[MySQL導入方法 #MySQL8.0 - Qiita](https://qiita.com/emily-08/items/882f9532989948f1d1d8)
-
-[VSCodeの拡張機能でMySQLに接続する #備忘録 - Qiita](https://qiita.com/keso_keso/items/bff50653b3cb798dc1d7)
-
-[Visual Studio CodeをMySQLツールとして使う #VSCode - Qiita](https://qiita.com/brgd/items/ea571b6f84acadfd962d)
-
-[VS Code上でMySQLを扱いたい | 株式会社ウイングドア](https://wingdoor.co.jp/blog/vs-code%E4%B8%8A%E3%81%A7mysql%E3%82%92%E6%89%B1%E3%81%84%E3%81%9F%E3%81%84/)
-
-[Node.jsでMySQL 8.0へ接続しようとする時に発生するエラー #MySQL8.0 - Qiita](https://qiita.com/monga3/items/6583c07a9b275b469608)
-
 [VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
 
 [SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
-
-[【入門】データベース設計まとめ #Rails - Qiita](https://qiita.com/KNR109/items/5d4a1954f3e8fd8eaae7)
-
-[SQLServer: int型のID値を持つテーブルをできる限り短時間でbigint型に変更する #DB - Qiita](https://qiita.com/p2sk/items/cdab2d91127ec8169ff1)
 
 [MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
 
@@ -3496,25 +3630,7 @@
 
 [テーブルへの列の追加 (データベース エンジン) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/relational-databases/tables/add-columns-to-a-table-database-engine?view=sql-server-ver16)
 
-[mariaDBにsudoなしでrootで接続する – OS.ManiaX](https://osmaniax.1banzaka.com/server/mariadb%E3%81%ABsudo%E3%81%AA%E3%81%97%E3%81%A7root%E3%81%A7%E6%8E%A5%E7%B6%9A%E3%81%99%E3%82%8B/4568)
-
-[Ubuntu22.04 MariaDBのインストールとデータベースの作成｜ogs-digilife](https://note.com/ogs_digilife/n/nb7dba54010cb#16aa7ff1-f00d-4f09-abd0-f5d340a5d792)
-
-[MariaDB インストール ( Ubuntu 18.04 / 20.04 / 22.04 / 24.04 LTS , Raspberry Pi OS) #mariadb - Qiita](https://qiita.com/nanbuwks/items/c98c51744bd0f72a7087)
-
-[MariaDB を削除して、Mysql をインストール #MySQL - Qiita](https://qiita.com/ekzemplaro/items/84e413b04c871ac1dd48)
-
-[MariaDB コマンド（随時追加） #Database - Qiita](https://qiita.com/ynack/items/b24cacdadb8a002bc9d2)
-
 [MariaDB | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mariadb/database/index1.html)
-
-[MariaDBのAUTO_INCREMENTについて #mariadb - Qiita](https://qiita.com/chaspy/items/51e000070a15a829434a)
-
-[MariaDB /MySQL rootパスワードの設定 | knowledge](https://knowledge.willnet.ad.jp/mysql-secure-installation/)
-
-[【MariaDB（MySQL）】インストール直後にrootでログインしたい #mariadb - Qiita](https://qiita.com/wsigma21/items/73e1b46d2ec138698674)
-
-[マリアDBでテーブル作成時のエラー「there can be only one auto column and it must be defined as a key mariadb」 #MySQL - Qiita](https://qiita.com/nakamoto_yuki/items/69cf9ba26f1b651808af)
 
 [SQL│テーブルを作成する（CREATE TABLE） | アナリティクス沖縄│DataAnalytics](https://analytics-okinawa.jp/sql/839/)
 
@@ -3525,10 +3641,6 @@
 [MySQLデータベースに絵文字を保存する #MySQL - Qiita](https://qiita.com/miyamasaru/items/37450598610228aa7fc1)
 
 [MySQLでテーブルを削除する方法【DROP TABLE文】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/5115)
-
-[データベースツール DBeaver のインストールと基本機能（Windows 上）](https://www.kkaneko.jp/tools/win/dbeaver.html)
-
-[DBeaver をインストールしたので記録しておく #DBeaver - Qiita](https://qiita.com/azumabashi/items/bd6988be8eab1f380546)
 
 [【SQL】JOINとUNIONの違いとは？サンプルを用いながら解説！ - DX-Accelerator データ人材常駐支援サービス | UNCOVER TRUTH](https://www.uncovertruth.co.jp/dx-accelerator/blog/articles/sql/053/)
 
@@ -3548,12 +3660,6 @@
 
 [【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
 
-[DBeaver使い方メモ #PostgreSQL - Qiita](https://qiita.com/12345/items/48f6856e32fd618ea307)
-
-[DBeaverでやらかした話 #DBeaver - Qiita](https://qiita.com/tosiooooooo/items/46b2ae7c0687dc061775)
-
-[DBeaverのSQLエディタが使いにくい覚書 - RTB SoftLab ラテベ ソフトラボ (ラテベラボ)](https://www.ratebelab.com/soft/homepage_blog/628/)
-
 [MySQLのユーザ一覧を表示する #初心者 - Qiita](https://qiita.com/miriwo/items/5ebd52f9538ce8573788)
 
 [【SQL】カラム追加・編集ALTER TABLEを使う #MySQL - Qiita](https://qiita.com/panda-chibi/items/eec4d314a2ff6698d18c)
@@ -3561,8 +3667,6 @@
 [MySQLでテーブル一覧とカラム一覧を同時に取ってくる #MySQL - Qiita](https://qiita.com/furusin_oriver/items/f81351c96efbb40432df)
 
 [【SQL入門】CHARとVARCHARの違い #基礎 - Qiita](https://qiita.com/aberyotaro/items/c589430bdb00c6ab4922)
-
-[MySQLで桁が足りない分を０で埋める #MySQL - Qiita](https://qiita.com/toshikitsubouchi/items/68d0638f9164a7d3323b)
 
 [19-CREATE文①テーブル作成 – ウェルフィールド（WellField）](https://well-field.co.jp/services/education/web-text/sql-mysql/sql-v19)
 
@@ -3580,87 +3684,17 @@
 
 [[SQL] UPDATE文の基本構文 #SQL - Qiita](https://qiita.com/minhee/items/8de52f4bffb886c68b99)
 
-[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
-
-[RailsとMySQLでiOSの絵文字に対応(UTF8MB4化)した話 - Akata Works](https://akataworks.hatenadiary.jp/entry/2016/02/26/102439)
-
 [【MySQL】DELETEとTRUNCATEのざっくりとした違い #MySQL - Qiita](https://qiita.com/shuhei_m/items/28b5aab580f527f62b41)
 
 [TRUNCATE TABLE (Transact-SQL) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver16)
 
 [SQLのTRUNCATEとは？全てのデータを削除するTRUNCATE文の使い方](https://www.bold.ne.jp/engineer-club/sql-truncate)
 
-[【MySQL】auto_increment（オートインクリメント）の連番状態をリセット（初期化）する #Database - Qiita](https://qiita.com/sola-msr/items/d6c70995ddd95361dda7)
-
-[【MySQL 8.3】rootユーザーのパスワードを忘れた際のパスワード変更方法（Windows） #Windows10 - Qiita](https://qiita.com/nkserveren26/items/f67de3dc7ca80b4c0e10)
-
-[【MySQL】rootユーザーのパスワードを忘れてしまった時 #MySQL - Qiita](https://qiita.com/nekihcom/items/43874b566c397347df0a)
-
-[MySQL/MariaDBで未使用のテーブルを効率的に見つける方法 – 株式会社ルーター](https://rooter.jp/infra-ops/identify_unnecessary_tables/)
-
-[新旧RubyバージョンにおけるHTTPクライアントの選択肢 – 株式会社ルーター](https://rooter.jp/web-crawling/old_and_new_http_client_for_ruby/)
-
 [データチェックに便利なSQL – 株式会社ルーター](https://rooter.jp/web-crawling/sql_for_datacheck/)
 
 [MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
 
 [SQL Serverでレコード件数を調べる方法 #Database - Qiita](https://qiita.com/fuk101/items/90f257ef968097d01d60)
-
-[PostgreSQLのmysql_fdwを使ったUTF8MB4外部テーブルの文字化け防止策 – 株式会社ルーター](https://rooter.jp/infra-ops/select_utf8mb4_mysql_fdw/)
-
-[MySQLからPostgreSQLへの移行時にenum型をvarchar型に変えた話 – 株式会社ルーター](https://rooter.jp/programming/db/mysql_to_postgresql_enum_to_varchar/)
-
-[データベースオブジェクトの命名規約 #規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
-
-[【SQLに慣れる】ユーザー登録・権限付与 #MySQL - Qiita](https://qiita.com/yukibe/items/4ba2aa49510ab1f6b1f1)
-
-[MySQLをインストール後、ユーザーを作成するまでの手順 - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2019/02/11/135557)
-
-[MySQL Serverに外部から接続する #MySQL - Qiita](https://qiita.com/tocomi/items/0c009d7299584df49378)
-
-[MySQLでのPort番号の確認 #MySQL - Qiita](https://qiita.com/MLLB/items/3ce82faf475e1d1d38ce)
-
-[同じLANに接続しているPCでローカルのMySQLにリモート接続する方法 #VB.Net - Qiita](https://qiita.com/miki_grapes/items/040c9329b7c523a6e7bc)
-
-[MySQLを外部パソコンから接続する方法 | 合同会社ウェブライト](https://weblight.jp/mysql-connect/)
-
-[MySQL | 新しいパスワードを設定する(SET PASSWORD 文、ALTER USER文)](https://www.javadrive.jp/mysql/user/index2.html)
-
-[PostgreSQLのスキーマ作成とsearch_path設定の実践例（MySQLユーザー向け） – 株式会社ルーター](https://rooter.jp/infra-ops/postgresql-schema/)
-
-[MySQLのデータベースをコピーする方法 |](https://weblabo.oscasierra.net/mysql-database-copy/)
-
-[MySQLテーブルコピーの完全ガイド｜構造・データ・インデックスを簡単に複製する方法│MySQL & MariaDBの世界](https://www.dbtech.digibeatrix.com/mysql/table-management/mysql-copy-table-guide/)
-
-[異なるサーバー間でのデータベースのコピーにハマった話(SQLServer) #DB - Qiita](https://qiita.com/denden00/items/24ea2828b38a35b73452)
-
-[SQL Server 異なるサーバー間　（違うDB）でテーブルをコピーしたいとき 簡単な方法 – 勉強メモ](https://weekend-v.work/archives/397)
-
-[DBeaverのGUIからデータをエクスポート&インポートする #運動通信社 - Qiita](https://qiita.com/nero-15/items/13b996cb79f6d4f2ffe7)
-
-[【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.11.14 MySQL データベースのほかのマシンへのコピー](https://dev.mysql.com/doc/refman/8.0/ja/copying-databases.html)
-
-[MySQLでテーブルを別のデータベースに移動してみる #MySQL - Qiita](https://qiita.com/shinry/items/fa0f26a542f52a4cab9a)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 7.4.5.2 サーバー間でのデータベースのコピー](https://dev.mysql.com/doc/refman/8.0/ja/mysqldump-copying-to-other-server.html)
-
-[MySQLのテーブル作成 既存DBからのDDL生成はエクスポート機能を使う | ポテパンスタイル](https://style.potepan.com/articles/18367.html)
-
-[MySQLでダンプデータをインポートする方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/14/223826)
-
-[データベースの命名規則 - Avinton Japan](https://avinton.com/academy/database-naming-conventions/)
-
-[DockerでMariaDBのいろんな環境を簡単に構築する – 株式会社ルーター](https://rooter.jp/infra-ops/docker_mariadb_build/)
-
-[MySQLから巨大データをタブ区切りテキストで出力する方法 – 株式会社ルーター](https://rooter.jp/data-format/mysql_to_tab/)
-
-[PostgreSQLのカラム追加を指定の場所にする方法 – 株式会社ルーター](https://rooter.jp/programming/db/postgresql_add_column/)
-
-[[MySQL／PostgreSQL] TRUNCATEによる自動採番主キーへの影響と対応方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-postgresql-truncate-serial/)
-
-[pgloaderでMySQLからPostgreSQLにデータ移行する方法 – 株式会社ルーター](https://rooter.jp/infra-ops/mysql-to-postgresql-pgloader/)
 
 [hanhan's blog - SQL の不等式条件は <> が適切](https://blog.hanhans.net/2021/03/21/sql-inequality-condition/)
 
@@ -3671,12 +3705,6 @@
 [【SQL】DISTINCTで重複行を除外する方法を解説 │ TechMania](https://techmania.jp/blog/sql-distinct/)
 
 [auto_incrementの番号を振り直す方法 | Miyachi Labo](https://labo.kon-ruri.co.jp/auto_increment_restart/)
-
-[MySQLのPrimaryKey（id）を振り直す #MySQL - Qiita](https://qiita.com/HorikawaTokiya/items/c135540d2f46e148748b)
-
-[MySQL かんたんにテーブルのid番号を1からリセットする方法 #Ruby - Qiita](https://qiita.com/ramuneru/items/ae1d7230b528c5594d6a)
-
-[MySQLのAUTO_INCREMENT(連番)をリセット(初期化)する方法 - Web開発における知見共有系ページ](https://job-info.hateblo.jp/entry/2024/09/03/153206)
 
 [SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
 
@@ -3692,10 +3720,6 @@
 
 [EXPLAINのExtraの項目ちゃんと理解している..?](https://zenn.dev/miya_tech/articles/c1b9ca01e90a7b)
 
-[【MySQL】Using temporary と Using filesort が出るクエリについて - fighters48's Tech Blog](https://tdr-now.hateblo.jp/entry/2024/09/09/125725)
-
-[MySQL SlowQueryの対処法 #DB - Qiita](https://qiita.com/nikadon/items/2f66b447ed6d3b26d78e)
-
 [【SQL】「GROUP BY」句とは？使い方、集計関数などとの組み合わせも詳しく解説 │ TechMania](https://techmania.jp/blog/sql-group-by/)
 
 [僕の高速かつ可読性の高いSQL（サブクエリ編） #PostgreSQL - Qiita](https://qiita.com/SSKNOK/items/5dc5b02133b188e48676)
@@ -3703,8 +3727,6 @@
 [SQLで高速化を考えた時にできるテクニック・コツをまとめて紹介！ | ポテパンスタイル](https://style.potepan.com/articles/26070.html)
 
 [SQL Joinサンプル集　Joinで遅いSQLの原因を調べる方法 | ポテパンスタイル](https://style.potepan.com/articles/14926.html#SQLJOINSQL)
-
-[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
 
 [SQL Serverで全テーブルの件数、カラム数を調べる #SQLServer - Qiita](https://qiita.com/YoshijiGates/items/9e135e3d5ebb9f9586bd)
 
@@ -3724,27 +3746,11 @@
 
 [SQLで文字列を結合するにはconcat関数 引数の数やNULLの扱い等、仕様に差異あり | ポテパンスタイル](https://style.potepan.com/articles/30406.html)
 
-[[MySQL]mysqldumpを利用して別の環境にデータを移行する #mysql5.7 - Qiita](https://qiita.com/ryoishizawa/items/2d8eb898b848a501f91c)
-
-[【備忘録】DBeaverでDBをdumpする2つの方法 #MySQL - Qiita](https://qiita.com/ssc-syuinoue/items/41691ab6f1af8c6aa20b)
-
-[DBeaver で MariaDB に mysqldump --no-data をする際の注意点と TIPS #Windows - Qiita](https://qiita.com/irauji/items/3c7d351568c2ea6b4c56)
-
-[mysqldumpまとめ #MySQL - Qiita](https://qiita.com/PlanetMeron/items/3a41e14607a65bc9b60c)
-
-[mysqldumpオプションまとめ。whereで条件を指定したりする | Basicinc Enjoy Hacking!](https://tech.basicinc.jp/articles/82)
-
-[MySQLで特定のテーブルの一部のデータだけ dump するときには --where オプションを使いましょう - LCL Engineers' Blog](https://techblog.lclco.com/entry/2019/04/30/190000)
-
-[mysqldumpで特定のレコードだけエクスポートする - oinume journal](https://journal.lampetty.net/entry/mysqldump-option-where)
-
-[MySQL mysqldumpコマンドで取得したdumpファイルの中身を覗いてみる #MySQL8.0 - Qiita](https://qiita.com/miriwo/items/3a852411283ae79358d1)
-
 [SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
 
 [SQL | COUNT(DISTINCT column_name) は「同じ値の種類数」をカウントする #初心者 - Qiita](https://qiita.com/YumaInaura/items/1a1123ed4f33d30d9548)
 
-[外部ホストからのMySQL接続 [メモとかメモのようなものとか（By ルーキーの中のひと）]](https://wiki.rookie-inc.com/serverapps/db/mysql/connectexternal)
+[SQL設計で頭を抱えているあなたへ #初心者 - Qiita](https://qiita.com/sebayashi-tomoya/items/aad50a7a6b642db59888)
 
 
 
@@ -4469,4 +4475,7 @@
 [決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
 
 [サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
+
+[プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
+
 

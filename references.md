@@ -112,6 +112,10 @@
 
 [ぽこぽこ界隈のブランドを集計をしてみた – 株式会社ルーター](https://rooter.jp/web-crawling/pocopoco_brands/)
 
+[今AIで話題のMCPサーバーとは？？ #初心者 - Qiita](https://qiita.com/kinopy513/items/75f9db4893b5048eb99f)
+
+[ChatGPT APIを使ってYouTube動画を要約する – 株式会社ルーター](https://rooter.jp/ml/chatgpt-youtube/)
+
 
 
 ## Algorithm
@@ -320,6 +324,12 @@
 
 [Document: querySelector() メソッド - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/Document/querySelector)
 
+[GitHub Actionsを活用して擬似APIサーバーを用意する #Python - Qiita](https://qiita.com/Kanahiro/items/e7021b05199ae52e818b)
+
+[GitHub Pagesを活用して擬似REST APIサーバーを作る #Python - Qiita](https://qiita.com/Kanahiro/items/9cfa6fa5cc9c3fcb57fd)
+
+[GitHub ActionsとGitHub PagesでつくるWeb API（郵便番号検索） - @mizumotokのブログ](https://mizumotok.hatenablog.jp/entry/2020/04/22/163416)
+
 
 
 ## Asm
@@ -511,6 +521,18 @@
 [サマーインターンで絶望してきた - たのしい駆動開発](https://ssabcire.hatenablog.com/entry/2018/09/06/193915)
 
 [【技術情報】すぐにメモを取らないことから始める、新時代のインプット術 #初心者 - Qiita](https://qiita.com/futayubi5656/items/951ba24bfcc5c2b73e5b)
+
+[福島柊哉はrooterを卒業します – 株式会社ルーター](https://rooter.jp/rooter/fukushima-graduation/)
+
+[都内の大学生が今すぐルーターでエンジニアバイトを始めるべき6つの理由 – 株式会社ルーター](https://rooter.jp/rooter/fourth-year-student-engineer/)
+
+[怠惰な学生におすすめするエンジニアアルバイトの魅力！ – 株式会社ルーター](https://rooter.jp/rooter/engineer-job-for-lazy-students/)
+
+[「高校生エンジニア」という選択肢 – 株式会社ルーター](https://rooter.jp/rooter/high-school-engineer/)
+
+[非情報系の自分が実際にエンジニアバイトに挑戦してみて – 株式会社ルーター](https://rooter.jp/rooter/challenge-engineer-parttime-job/)
+
+[読書好きの文系高校生の私がプログラマーとして働き始めるまでの話 – 株式会社ルーター](https://rooter.jp/rooter/book-lover-to-engineer/)
 
 
 
@@ -784,6 +806,8 @@
 
 [【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技15選 #Linux - Qiita](https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960)
 
+[PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
+
 
 
 ## Cpp
@@ -885,6 +909,8 @@
 [curlコマンドで入力フォームにテキストを入力してPOSTをするテスト - Hacking life travel tech anything](https://www.travelhacks.tokyo/entry/curl-post-d-option)
 
 [slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
+
+[Linux で Crontab と CURL コマンドを組み合わせて CURL を定期実行する方法 #自動化 - Qiita](https://qiita.com/bill86854238/items/700899fb338d5b0270f7)
 
 
 
@@ -2440,6 +2466,10 @@
 
 [メッシュWi-Fiとは？初心者にもわかりやすく解説します | バッファロー](https://www.buffalo.jp/topics/select/detail/meshwifi.html)
 
+[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
+
+[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
+
 
 
 ## Next.js
@@ -3470,6 +3500,12 @@
 
 [新旧RubyバージョンにおけるHTTPクライアントの選択肢 – 株式会社ルーター](https://rooter.jp/web-crawling/old_and_new_http_client_for_ruby/)
 
+[chrome_remoteでiframe内のコンテンツを取得する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/iframe-operate-in-chrome_remote/)
+
+[RubyをPythonと比較してみて – 株式会社ルーター](https://rooter.jp/programming/comparing-ruby-to-python/)
+
+[bundler 2.0.1に潜む落とし穴 – 株式会社ルーター](https://rooter.jp/programming/ruby/pitfall-of-bundler-2-0-1/)
+
 
 
 ## Rust
@@ -3761,6 +3797,8 @@
 [SQL | COUNT(DISTINCT column_name) は「同じ値の種類数」をカウントする #初心者 - Qiita](https://qiita.com/YumaInaura/items/1a1123ed4f33d30d9548)
 
 [SQL設計で頭を抱えているあなたへ #初心者 - Qiita](https://qiita.com/sebayashi-tomoya/items/aad50a7a6b642db59888)
+
+[【MySQL】EXPLAINとヒント句でクエリ速度をチューニング – 株式会社ルーター](https://rooter.jp/infra-ops/mysql_index_hints/)
 
 
 
@@ -4066,6 +4104,8 @@
 
 [とりあえずvimを使えるようになりたい人のための記事](https://zenn.dev/vim_jp/articles/0009-just_want_to_be_able_to_use_for_vim_begineer)
 
+[VimでモダンなRuby開発環境を構築する – 株式会社ルーター](https://rooter.jp/programming/vim-modern-ruby/)
+
 
 
 ## Vite
@@ -4084,11 +4124,7 @@
 
 [Viteを利用したReact/TypeScriptプロジェクトの作成とGitHubへの公開手順](https://zenn.dev/kkoisland/articles/9df5a22092c796)
 
-## VPN
 
-[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
-
-[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
 
 ## VSCode
 

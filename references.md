@@ -330,6 +330,10 @@
 
 [GitHub ActionsとGitHub PagesでつくるWeb API（郵便番号検索） - @mizumotokのブログ](https://mizumotok.hatenablog.jp/entry/2020/04/22/163416)
 
+[LINE Notifyの終了に伴い代替のサービス通知方法を比較 | LINE公式アカウント徹底活用ブログ](https://blog.socialplus.jp/knowledge/solution-to-replace-line-notify/)
+
+[【line notify】pythonでlineへ通知してみよう！ – 株式会社ルーター](https://rooter.jp/web-crawling/line-notify_with_python/)
+
 
 
 ## Asm
@@ -533,6 +537,8 @@
 [非情報系の自分が実際にエンジニアバイトに挑戦してみて – 株式会社ルーター](https://rooter.jp/rooter/challenge-engineer-parttime-job/)
 
 [読書好きの文系高校生の私がプログラマーとして働き始めるまでの話 – 株式会社ルーター](https://rooter.jp/rooter/book-lover-to-engineer/)
+
+[大学2年生がプログラミングアルバイトに挑戦してみて – 株式会社ルーター](https://rooter.jp/rooter/as-a-part-time-student/)
 
 
 
@@ -807,6 +813,8 @@
 [【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技15選 #Linux - Qiita](https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960)
 
 [PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
+
+[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
 
 
 
@@ -1888,7 +1896,7 @@
 
 [:root{}内に定義したCSS変数をJavaScriptから取得する方法 #scss - Qiita](https://qiita.com/sshuuu/items/a83acc485e1b94643e92)
 
-[shadow DOM」ってなに？特徴と使い方 #HTML - Qiita](https://qiita.com/tanimoto-hikari/items/8f56ee7d2166fe561fc6)
+[スクレイピングに便利なCSSセレクタ記事まとめ【効率よく探すコツも】 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-in-scraping/)
 
 
 

@@ -888,7 +888,7 @@
 
 
 
-## Database
+## DataBase
 
 [外部ホストからのMySQL接続 [メモとかメモのようなものとか（By ルーキーの中のひと）]](https://wiki.rookie-inc.com/serverapps/db/mysql/connectexternal)
 
@@ -1037,6 +1037,16 @@
 [Node.jsでMySQL 8.0へ接続しようとする時に発生するエラー #MySQL8.0 - Qiita](https://qiita.com/monga3/items/6583c07a9b275b469608)
 
 [VScode上でDBをGUI操作できるMySQL Shell for VS Codeを使ってみた #VSCode - Qiita](https://qiita.com/shunbaba/items/ea89e7dcf30ae07c6d44)
+
+[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
+
+[【初心者向け入門】MySQLの基本操作 #mamp - Qiita](https://qiita.com/ab-boy_ringo/items/2fd8a57fa4b7d1fd6e23)
+
+[MySQLの開発環境を用意しよう（windows） | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-env-win)
+
+[MySQLを利用しようとしたら、【アクセスが拒否されました】とでた #初心者 - Qiita](https://qiita.com/koinunopochi/items/d8eff802a87bfeb948cd)
+
+[MYSQL コマンド #MySQL - Qiita](https://qiita.com/ooyy0121/items/3dfc9796d4bf560093fa)
 
 
 

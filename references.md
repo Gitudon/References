@@ -116,6 +116,8 @@
 
 [ChatGPT APIを使ってYouTube動画を要約する – 株式会社ルーター](https://rooter.jp/ml/chatgpt-youtube/)
 
+[MCPの基礎 #Python - Qiita](https://qiita.com/tatsuya11bbs/items/47d78d50b73273dbd3b3)
+
 
 
 ## Algorithm

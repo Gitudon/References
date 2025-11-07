@@ -3530,6 +3530,8 @@
 
 [chrome_remoteで特定の通信をキャプチャする – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-catch-network-by-chrome_remote/)
 
+[最速でMySQLデータベースのデータをCSVに書き出す方法 – 株式会社ルーター](https://rooter.jp/infra-ops/fastest_mysql_to_csv/)
+
 
 
 ## Rust

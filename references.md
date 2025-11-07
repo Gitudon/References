@@ -338,6 +338,8 @@
 
 [Qiita API v2ドキュメント - Qiita Developer](https://qiita.com/api/v2/docs)
 
+[RubyでYouTube Data API入門 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_youtube-data-api/)
+
 
 
 ## Asm

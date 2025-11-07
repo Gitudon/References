@@ -546,6 +546,10 @@
 
 [大学2年生がプログラミングアルバイトに挑戦してみて – 株式会社ルーター](https://rooter.jp/rooter/as-a-part-time-student/)
 
+[初めてのエンジニアバイトをやってみて良かったこと – 株式会社ルーター](https://rooter.jp/rooter/engineer-part-time-job/)
+
+[プログラミング未経験、新卒エンジニアのリアル – 株式会社ルーター](https://rooter.jp/rooter/new-graduate-engineer-with-no-programming-experience/)
+
 
 
 ## Chrome
@@ -1471,6 +1475,8 @@
 [GASからGoogleドキュメントを操作する方法 #GoogleAppsScript - Qiita](https://qiita.com/kakakaori830/items/288307c7e639ac02ba7f)
 
 [【新機能】Googleドキュメント タブ機能で出来ること・出来ないこと・GAS対応｜mir](https://note.com/mir4545/n/n8b270736a4b0#e65b54ce-1a04-4b9c-8104-2a004052a47d)
+
+[Google Apps ScriptでCSSセレクタを用いたスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/scrape-with-css-selector-in-gas/)
 
 
 
@@ -3519,6 +3525,10 @@
 [RubyをPythonと比較してみて – 株式会社ルーター](https://rooter.jp/programming/comparing-ruby-to-python/)
 
 [bundler 2.0.1に潜む落とし穴 – 株式会社ルーター](https://rooter.jp/programming/ruby/pitfall-of-bundler-2-0-1/)
+
+[[入門編] Nokogiriで画像URLを抽出し、画像ファイルをローカルにダウンロードする – 株式会社ルーター](https://rooter.jp/web-crawling/getting_imgurl_with_nokogiri_and_downloading_for_beginner/)
+
+[chrome_remoteで特定の通信をキャプチャする – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-catch-network-by-chrome_remote/)
 
 
 

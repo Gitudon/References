@@ -3636,6 +3636,8 @@
 
 [シェルスクリプト while 文 #ShellScript - Qiita](https://qiita.com/blueskyarea/items/e140159fcfb3a9be0608)
 
+[bashコーディング規約 #Bash - Qiita](https://qiita.com/mashumashu/items/f5b5ff62fef8af0859c5)
+
 
 
 ## Slack

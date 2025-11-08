@@ -3638,6 +3638,8 @@
 
 [bashコーディング規約 #Bash - Qiita](https://qiita.com/mashumashu/items/f5b5ff62fef8af0859c5)
 
+[bash コーディングルール #Bash - Qiita](https://qiita.com/mato-599/items/053ca6e00fb747147e1c)
+
 
 
 ## Slack

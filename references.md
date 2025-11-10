@@ -3834,6 +3834,8 @@
 
 [【MySQL】EXPLAINとヒント句でクエリ速度をチューニング – 株式会社ルーター](https://rooter.jp/infra-ops/mysql_index_hints/)
 
+[ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
+
 
 
 ## Streamlit

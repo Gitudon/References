@@ -1480,6 +1480,8 @@
 
 [Google Apps ScriptでCSSセレクタを用いたスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/scrape-with-css-selector-in-gas/)
 
+[外部からJSONをPOSTするだけでGoogleSpreadSheetにデータを書き込む – 株式会社ルーター](https://rooter.jp/programming/edit-spreadsheet-with-gas/)
+
 
 
 ## Git

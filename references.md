@@ -610,6 +610,8 @@
 
 [ヘッドレスchromeとは？CLIで実行する方法](https://zenn.dev/suhyoenbae/articles/b9dd996a02abbd)
 
+[ポート転送でローカル サーバーと Chrome インスタンスにアクセスする  |  Chrome DevTools  |  Chrome for Developers](https://developer.chrome.com/docs/devtools/remote-debugging/local-server?hl=ja)
+
 
 
 ## Commands
@@ -1343,6 +1345,14 @@
 [図解【Microsoft Edge】キャッシュを自動的に削除させる方法を紹介します。 | こぶたのピグちゃん](https://mypigchan.com/edge-cache-auto)
 
 [図解【Microsoft Edge】キャッシュを削除する方法を紹介します。 | こぶたのピグちゃん](https://mypigchan.com/edge-cache)
+
+[UbuntuでMicrosoft Edgeを使う | LIFEWORK Blog](https://lifework-blog.com/ubuntu-microsoft-edge/)
+
+[Microsoft Edge を Linux にインストールする | サブログ -sub log-](https://sub-log.jp/2023/11/29/install-microsoft-edge-in-linux/)
+
+[【Linux】Ubuntu22.04 LTSにMicrosoft Edgeをインストール | ひろぴよのDX日記](https://it-dxblog.com/ubuntu22-edge/)
+
+[Microsoft Edge DevTools プロトコル - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-edge/devtools/protocol/)
 
 
 

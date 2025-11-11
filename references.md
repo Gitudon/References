@@ -2264,6 +2264,10 @@
 
 [【LaTeX】ベクトル(太字・矢印)のかき方とテクニック | 数学の景色](https://mathlandscape.com/latex-vector/)
 
+[【LaTeX】引用文quote, quotationとverse環境 | 数学の景色](https://mathlandscape.com/latex-quote/)
+
+[LaTeXコマンド - 引用 - quote, quotation](https://medemanabu.net/latex/quote-quotation/)
+
 
 
 ## Lean
@@ -3551,6 +3555,10 @@
 [Ferrum を使って特定の要素のスクリーンショットを撮影する #Ruby - Qiita](https://qiita.com/QUANON/items/31fed0de05764f152f6a)
 
 [wicked_pdfの後継になる？FerrumでHTMLからPDFを生成する](https://zenn.dev/mofmof_inc/articles/pdf_generated_by_ferrum)
+
+[Rubyのグローバル変数の使い方 - ポップインサイト](https://popinsight.jp/blog/?p=92052)
+
+[【Ruby】変数の種類と違い(グローバル変数・ローカル変数・インスタンス変数) #Rails - Qiita](https://qiita.com/tomokichi_ruby/items/a2548176d85457f622a4)
 
 
 

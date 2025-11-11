@@ -608,6 +608,8 @@
 
 [【Chrome】閲覧履歴を自動で削除する方法と手動で削除する方法をわかりやすく解説 | 情シスの自由帳](https://jo-sys.net/google-chrome-hist/)
 
+[ヘッドレスchromeとは？CLIで実行する方法](https://zenn.dev/suhyoenbae/articles/b9dd996a02abbd)
+
 
 
 ## Commands
@@ -3537,6 +3539,8 @@
 [最速でMySQLデータベースのデータをCSVに書き出す方法 – 株式会社ルーター](https://rooter.jp/infra-ops/fastest_mysql_to_csv/)
 
 [Ferrum を使って特定の要素のスクリーンショットを撮影する #Ruby - Qiita](https://qiita.com/QUANON/items/31fed0de05764f152f6a)
+
+[wicked_pdfの後継になる？FerrumでHTMLからPDFを生成する](https://zenn.dev/mofmof_inc/articles/pdf_generated_by_ferrum)
 
 
 

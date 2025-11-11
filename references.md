@@ -2268,6 +2268,10 @@
 
 [LaTeXコマンド - 引用 - quote, quotation](https://medemanabu.net/latex/quote-quotation/)
 
+[【LaTeX】空白(スペース)の調節](https://takataninote.com/tex/space.html)
+
+[【LaTeX】垂直方向の空白(スペース)vspace,vfill | 数学の景色](https://mathlandscape.com/latex-vspace/)
+
 
 
 ## Lean

@@ -3536,6 +3536,8 @@
 
 [最速でMySQLデータベースのデータをCSVに書き出す方法 – 株式会社ルーター](https://rooter.jp/infra-ops/fastest_mysql_to_csv/)
 
+[Ferrum を使って特定の要素のスクリーンショットを撮影する #Ruby - Qiita](https://qiita.com/QUANON/items/31fed0de05764f152f6a)
+
 
 
 ## Rust

@@ -340,6 +340,8 @@
 
 [RubyでYouTube Data API入門 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_youtube-data-api/)
 
+[Spotify APIをRubyで叩いて楽曲情報を取得する – 株式会社ルーター](https://rooter.jp/programming/ruby/fetch-track-info-spotify-api-with-ruby/)
+
 
 
 ## Asm
@@ -551,6 +553,10 @@
 [初めてのエンジニアバイトをやってみて良かったこと – 株式会社ルーター](https://rooter.jp/rooter/engineer-part-time-job/)
 
 [プログラミング未経験、新卒エンジニアのリアル – 株式会社ルーター](https://rooter.jp/rooter/new-graduate-engineer-with-no-programming-experience/)
+
+[アルバイト実務経験無しの大学生がルーターで研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after_rooter_training/)
+
+[プログラミング素人の大学一年生がweb系企業でアルバイトを初めた結果 – 株式会社ルーター](https://rooter.jp/rooter/fukushima_debut_article/)
 
 
 
@@ -1098,6 +1104,8 @@
 
 [MYSQL コマンド #MySQL - Qiita](https://qiita.com/ooyy0121/items/3dfc9796d4bf560093fa)
 
+[mysqldumpのinsertを1000件ずつコミットしてメモリ消費を抑える – 株式会社ルーター](https://rooter.jp/data-format/mysqldump_with_commit/)
+
 
 
 ## Data Science
@@ -1494,6 +1502,8 @@
 
 [外部からJSONをPOSTするだけでGoogleSpreadSheetにデータを書き込む – 株式会社ルーター](https://rooter.jp/programming/edit-spreadsheet-with-gas/)
 
+[【Line Notify】お手軽なGASでLINEへ通知してみよう! – 株式会社ルーター](https://rooter.jp/programming/gas-line-noify/)
+
 
 
 ## Git
@@ -1799,6 +1809,8 @@
 [[Google Docs / programming] google docs 上でもソースコードをきれいに表示 (2種類あるよ) #GoogleDocs - Qiita](https://qiita.com/siruku6/items/32685f684057388abc9a)
 
 [Google Docs でMarkdown風に入力するときのチートシート #Markdown記法 - Qiita](https://qiita.com/n-eguchi/items/c698e320f0cb268a3711)
+
+[変更履歴が重くなったgoogleスプレッドシートから変更履歴を取り出す – 株式会社ルーター](https://rooter.jp/infra-ops/google-spreadsheet-slow-history/)
 
 
 
@@ -3564,6 +3576,10 @@
 
 [【Ruby】変数の種類と違い(グローバル変数・ローカル変数・インスタンス変数) #Rails - Qiita](https://qiita.com/tomokichi_ruby/items/a2548176d85457f622a4)
 
+[Seleniumを使って無限スクロールをゆっくりスクロールする方法 – 株式会社ルーター](https://rooter.jp/web-crawling/selenium-scrawl-slowly/)
+
+[Rubyでcsvファイルを横持ちから縦持ち構造に変換する – 株式会社ルーター](https://rooter.jp/data-format/csv-unpivot/)
+
 
 
 ## Rust
@@ -3697,6 +3713,8 @@
 [Webhook URL を経由して slack に通知する方法 ―crossnote の操作をトリガーにした実例紹介― #Slack - Qiita](https://qiita.com/update_it_inc/items/e7bc2607b14f91cfaa24)
 
 [SlackのIncoming Webhooksを使い倒す #slackbot - Qiita](https://qiita.com/ik-fib/items/b4a502d173a22b3947a0)
+
+[Pythonで作るslack chatbot – 株式会社ルーター](https://rooter.jp/programming/python/slack-chat-bot-with-python/)
 
 
 

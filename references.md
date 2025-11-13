@@ -2972,6 +2972,8 @@
 
 [🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
 
+[Python3 : 簡易 WEB サーバーを立ち上げる | R-Y-O の IT 備忘録 Ver.2.0](https://raspi.ryo.sc/python3-simple-webserver/)
+
 
 
 ## RaspberryPi

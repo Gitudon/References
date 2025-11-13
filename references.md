@@ -452,6 +452,8 @@
 
 [treeコマンドで罫線が文字化けするときの対処法](https://yuusuke1988.hatenablog.jp/entry/2014/01/20/223602)
 
+[バッチファイルで外部プログラムを実行する](https://batchfile.hideharublog.com/batchfile-execute-external-program/)
+
 
 
 ## Binary
@@ -3582,6 +3584,10 @@
 
 [Rubyでcsvファイルを横持ちから縦持ち構造に変換する – 株式会社ルーター](https://rooter.jp/data-format/csv-unpivot/)
 
+[Rubyのクラスインスタンス変数とは何か](https://zenn.dev/kanazawa/articles/671a0928a4962c)
+
+[クラス変数とクラスインスタンス変数を理解する #Ruby - Qiita](https://qiita.com/shun_takagi/items/cba48fbe8c4de81b3fac)
+
 
 
 ## Rust
@@ -3883,6 +3889,8 @@
 [【MySQL】EXPLAINとヒント句でクエリ速度をチューニング – 株式会社ルーター](https://rooter.jp/infra-ops/mysql_index_hints/)
 
 [ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
+
+[SQL記述者全員が理解すべきSELECT文の論理的な処理順序のお話 #Database - Qiita](https://qiita.com/k_0120/items/a27ea1fc3b9bddc77fa1)
 
 
 

@@ -1362,6 +1362,8 @@
 
 [Microsoft Edge DevTools プロトコル - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-edge/devtools/protocol/)
 
+[Windows デバイスをリモートでデバッグする - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-edge/devtools/remote-debugging/windows)
+
 
 
 ## ElectricalEngineering

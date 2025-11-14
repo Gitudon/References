@@ -566,6 +566,8 @@
 
 [育休中のリスキリングとしてプログラミングを勉強し、Webエンジニアに転職したので本音のところを書いてみる #ポエム - Qiita](https://qiita.com/MIDO-ruby7/items/18ff8d14878a868b2005)
 
+[大学生がプログラミングバイトをはじめた感想 – 株式会社ルーター](https://rooter.jp/rooter/my-impressions-of-rooter/)
+
 
 
 ## Chrome
@@ -2157,6 +2159,8 @@
 [コンソールにundefinedと表示されますが、これはバグでしょうか？ - Recursionサポート](https://support.recursionist.io/help/undefined/)
 
 [ShadowRoot - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/ShadowRoot)
+
+[検索結果をエクセルに貼り付けやすくするブックマークレット – 株式会社ルーター](https://rooter.jp/web-crawling/google_result_bookmarklet/)
 
 
 

@@ -508,6 +508,8 @@
 
 [WindowsでもLinuxでも使えるミリ秒タイマー #C - Qiita](https://qiita.com/n31nh/items/8a796954368a864dd4a3)
 
+[経理からエンジニアへの転職 – 株式会社ルーター](https://rooter.jp/rooter/change-from-accounting-to-engineering/)
+
 
 
 ## Career

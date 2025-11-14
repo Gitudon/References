@@ -118,6 +118,8 @@
 
 [MCPの基礎 #Python - Qiita](https://qiita.com/tatsuya11bbs/items/47d78d50b73273dbd3b3)
 
+[ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話 #ClaudeCode - Qiita](https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80)
+
 
 
 ## Algorithm
@@ -561,6 +563,8 @@
 [アルバイト実務経験無しの大学生がルーターで研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after_rooter_training/)
 
 [プログラミング素人の大学一年生がweb系企業でアルバイトを初めた結果 – 株式会社ルーター](https://rooter.jp/rooter/fukushima_debut_article/)
+
+[育休中のリスキリングとしてプログラミングを勉強し、Webエンジニアに転職したので本音のところを書いてみる #ポエム - Qiita](https://qiita.com/MIDO-ruby7/items/18ff8d14878a868b2005)
 
 
 
@@ -3728,6 +3732,8 @@
 
 [Pythonで作るslack chatbot – 株式会社ルーター](https://rooter.jp/programming/python/slack-chat-bot-with-python/)
 
+[Ubuntu 22.04にSlack desktop app をダウンロードする #Ubuntu22.04 - Qiita](https://qiita.com/taka000/items/abef96bbda1cdc042d64)
+
 
 
 ## SQL
@@ -4470,6 +4476,8 @@
 
 [SAEとは - IT用語辞典 e-Words](https://e-words.jp/w/SAE.html)
 
+[体系的に学ぶ/教えるってどういうこと？ #学習 - Qiita](https://qiita.com/kumaichi/items/e05123dc5ab79018f727)
+
 
 
 ## WSL
@@ -4620,4 +4628,4 @@
 
 [プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
 
-
+[技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)

@@ -2544,6 +2544,8 @@
 
 [OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
 
+[IPv4の次はなぜIPv5じゃないの？ | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20081215/321389/)
+
 
 
 ## Next.js

@@ -568,6 +568,8 @@
 
 [大学生がプログラミングバイトをはじめた感想 – 株式会社ルーター](https://rooter.jp/rooter/my-impressions-of-rooter/)
 
+[プログラミングの楽しさを思い出したいあなたへ #ポエム - Qiita](https://qiita.com/riita10069/items/54dad04a4f418856e24c)
+
 
 
 ## Chrome

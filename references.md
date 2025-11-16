@@ -344,6 +344,8 @@
 
 [Spotify APIをRubyで叩いて楽曲情報を取得する – 株式会社ルーター](https://rooter.jp/programming/ruby/fetch-track-info-spotify-api-with-ruby/)
 
+[Qiita API v2を利用してcurlで投稿してみた #QiitaAPI - Qiita](https://qiita.com/kai_kou/items/663d3f7bbc4da4ccf62d)
+
 
 
 ## Asm
@@ -629,6 +631,8 @@
 [ヘッドレスchromeとは？CLIで実行する方法](https://zenn.dev/suhyoenbae/articles/b9dd996a02abbd)
 
 [ポート転送でローカル サーバーと Chrome インスタンスにアクセスする  |  Chrome DevTools  |  Chrome for Developers](https://developer.chrome.com/docs/devtools/remote-debugging/local-server?hl=ja)
+
+[DevTools の使い方を可能な限りスクショ付きで解説してみる](https://zenn.dev/mizchi/scraps/c72e6a55deca18)
 
 
 
@@ -1120,6 +1124,8 @@
 
 [mysqldumpのinsertを1000件ずつコミットしてメモリ消費を抑える – 株式会社ルーター](https://rooter.jp/data-format/mysqldump_with_commit/)
 
+[マリオカートのER図について考える #SQL - Qiita](https://qiita.com/assu_ming/items/9d80320e6f778d83c61f)
+
 
 
 ## Data Science
@@ -1127,6 +1133,8 @@
 [Kaggle環境の構築方法(GPUなし) #Python - Qiita](https://qiita.com/kyotoman/items/ebd1845ae19e17dc8808)
 
 [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた #Python - Qiita](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f)
+
+[VSCodeでGoogle Colabを使ってみた #GoogleColaboratory - Qiita](https://qiita.com/miyako6105/items/22dd729fcd857a8ee07c)
 
 
 
@@ -1751,6 +1759,8 @@
 [【GitHub】PRの差分が見づらい...を解決するCompare機能が便利だった #GitHub - Qiita](https://qiita.com/taien5/items/cb61a20efa1e9209f465)
 
 [GitLab CI/CD artifacts 有効期限問題、3つの解決策比較 #CICD - Qiita](https://qiita.com/YusukeHarada/items/8d843165b55527cfa845)
+
+[git clone 〇〇 が上手くできない時の対処法 〜 Authentication failed for 'https://github.com〇〇 〜 #初心者 - Qiita](https://qiita.com/kubochiro/items/d7e63030e06b1a5c7b0e)
 
 
 
@@ -2594,13 +2604,15 @@
 
 
 
-## Pdf
+## PDF
 
 [PDFスクレイピング手法全公開 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_scraping/)
 
 [PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
 
 [PDFをデータベース化するコツ – 株式会社ルーター](https://rooter.jp/web-crawling/pdfdatabase/)
+
+[決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
 
 
 
@@ -2989,6 +3001,12 @@
 [🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
 
 [Python3 : 簡易 WEB サーバーを立ち上げる | R-Y-O の IT 備忘録 Ver.2.0](https://raspi.ryo.sc/python3-simple-webserver/)
+
+[【完全理解】Python zip()関数についてあれこれ #初心者 - Qiita](https://qiita.com/kubochiro/items/5daedd51654a8155bc06)
+
+[Python イテレータとイテラブルの違いを理解する #データ構造 - Qiita](https://qiita.com/Tadataka_Takahashi/items/de5542dc205cf1542d3f)
+
+[読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 | ドクセル](https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450)
 
 
 
@@ -3629,6 +3647,8 @@
 [Google Authenticator から シークレットキーを抽出する方法 - 物理の駅 Physics station by 現役研究者](https://phst.hateblo.jp/entry/2023/12/20/080000)
 
 [～魔法使い(ウィザード級ハッカー)への道～初心者エンジニアの積み上げ日記 #Security - Qiita](https://qiita.com/Maki-HamarukiLab/items/dde5911cbf19d1f1d6e5)
+
+[一番分かりやすい OAuth の説明 #OAuth - Qiita](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
 
 
 
@@ -4632,10 +4652,11 @@
 
 [プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
 
-[決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
-
 [サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
 
 [プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
 
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
+
+[乱雑なコードの整理から学ぶ設計の初歩 - Speaker Deck](https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu)
+

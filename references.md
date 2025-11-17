@@ -156,6 +156,10 @@
 
 [茶色コーダーがABCを初めてキャンセルして感じたこと #AtCoder - Qiita](https://qiita.com/TrueRyoB/items/121771e61c0472ceff4c)
 
+[AtCoder ABC 432 C - Candy Tribulation (1Q, 茶色, 350 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2025/11/16/160322)
+
+[AtCoder ABC 301 C - AtCoder Cards (3Q, 灰色, 300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2023/05/14/001500)
+
 
 
 ## Android
@@ -3022,6 +3026,8 @@
 
 [ひので字用に表音+文節切りを自動化しよう #Python - Qiita](https://qiita.com/WS-Wsans/items/17601547dacef44c7360)
 
+[［解決！Python］リスト（配列）の要素を文字列のjoinメソッドで結合するには：解決！Python - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2212/27/news019.html)
+
 
 
 ## RaspberryPi
@@ -4456,6 +4462,8 @@
 
 [Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
 
+[Winキー + Spaceキー(入力言語の切り替え)を無効にする - ネットショッピングのすすめ](https://blog.kaimonojyoz.jp/win%E3%82%AD%E3%83%BC-space%E3%82%AD%E3%83%BC%E5%85%A5%E5%8A%9B%E8%A8%80%E8%AA%9E%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B.html)
+
 
 
 ## Words
@@ -4677,4 +4685,6 @@
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
 
 [乱雑なコードの整理から学ぶ設計の初歩 - Speaker Deck](https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu)
+
+[「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
 

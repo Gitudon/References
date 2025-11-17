@@ -572,6 +572,8 @@
 
 [プログラミングの楽しさを思い出したいあなたへ #ポエム - Qiita](https://qiita.com/riita10069/items/54dad04a4f418856e24c)
 
+[20代リーダーが実践する、尊敬と感謝でチームを動かす「上司論」と「後輩論」 #AI - Qiita](https://qiita.com/futayubi5656/items/5eb0d0d609d083cdce8b)
+
 
 
 ## Chrome
@@ -3008,6 +3010,8 @@
 
 [読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 | ドクセル](https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450)
 
+[ひので字用に表音+文節切りを自動化しよう #Python - Qiita](https://qiita.com/WS-Wsans/items/17601547dacef44c7360)
+
 
 
 ## RaspberryPi
@@ -4337,6 +4341,8 @@
 [VS Code のワークスペースをちゃんと使いたい #初心者 - Qiita](https://qiita.com/amac-53/items/86b1466e93524844c2a8)
 
 [VSCodeでTerminalがある下のパネルを開く方法](https://zenn.dev/suba/articles/6f2e224d24bedc)
+
+[初心者が覚えるべきVScodeコマンド一覧【Windows】 #VSCode - Qiita](https://qiita.com/isikoro2345/items/cd9c3ea043bf2c5fc120)
 
 
 

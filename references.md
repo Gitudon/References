@@ -902,7 +902,7 @@
 
 
 
-## Curl
+## cURL
 
 [curl コマンドでブラウザを操作する #Selenium - Qiita](https://qiita.com/noritakaIzumi/items/e46d195b82331ef8caed)
 
@@ -961,6 +961,8 @@
 [slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
 
 [Linux で Crontab と CURL コマンドを組み合わせて CURL を定期実行する方法 #自動化 - Qiita](https://qiita.com/bill86854238/items/700899fb338d5b0270f7)
+
+[cURL（curlコマンド）とは - IT用語辞典 e-Words](https://e-words.jp/w/cURL.html)
 
 
 

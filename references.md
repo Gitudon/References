@@ -120,6 +120,8 @@
 
 [ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話 #ClaudeCode - Qiita](https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80)
 
+[YouTubeの限定公開動画広告をBERTで分類する – 株式会社ルーター](https://rooter.jp/web-crawling/classify-youtube-ad-by-bert/)
+
 
 
 ## Algorithm
@@ -573,6 +575,10 @@
 [プログラミングの楽しさを思い出したいあなたへ #ポエム - Qiita](https://qiita.com/riita10069/items/54dad04a4f418856e24c)
 
 [20代リーダーが実践する、尊敬と感謝でチームを動かす「上司論」と「後輩論」 #AI - Qiita](https://qiita.com/futayubi5656/items/5eb0d0d609d083cdce8b)
+
+[rooterでエンジニアバイトを始めて良かった5つのこと – 株式会社ルーター](https://rooter.jp/rooter/five-good-things/)
+
+[情報系大学生でも学びの多いルーターの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after_training_ueno/)
 
 
 
@@ -2560,6 +2566,8 @@
 
 [IPv4の次はなぜIPv5じゃないの？ | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20081215/321389/)
 
+[インターネット疎通の無いサーバーで四苦八苦（curl、 yum、ntpなど） – 株式会社ルーター](https://rooter.jp/infra-ops/operation-of-server-without-internet-connection/)
+
 
 
 ## Next.js
@@ -3629,6 +3637,8 @@
 [Rubyのクラスインスタンス変数とは何か](https://zenn.dev/kanazawa/articles/671a0928a4962c)
 
 [クラス変数とクラスインスタンス変数を理解する #Ruby - Qiita](https://qiita.com/shun_takagi/items/cba48fbe8c4de81b3fac)
+
+[rubyで正規表現そのものに対する理解を深める – 株式会社ルーター](https://rooter.jp/programming/regexp_with_ruby/)
 
 
 

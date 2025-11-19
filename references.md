@@ -652,6 +652,12 @@
 
 [DevTools の使い方を可能な限りスクショ付きで解説してみる](https://zenn.dev/mizchi/scraps/c72e6a55deca18)
 
+[ubuntu24.04 に google chromeを インストールする #Ubuntu - Qiita](https://qiita.com/shooskay/items/b5e3175048041126ea4b)
+
+[UbuntuにChromeをインストールする手順 #ubuntu18.04 - Qiita](https://qiita.com/grgrjnjn/items/a5c4da336031b63f09a6)
+
+[UbuntuでGoogle Chromeをインストールする手順](https://go.lightnode.com/ja/tech/how-to-install-chrome-on-ubuntu)
+
 
 
 ## Commands
@@ -873,6 +879,10 @@
 [自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
 
 [DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
+
+[ubuntuですぐにシャットダウンする方法 #Linux - Qiita](https://qiita.com/akinami/items/ada95b72e43a36eeebc1)
+
+[【Ubuntu】ユーザのパスワードを変更する方法 | VPS Life](https://vpslife.server-memo.net/ubuntu_passwd/)
 
 
 
@@ -1408,7 +1418,7 @@
 
 
 
-## ElectricalEngineering
+## Electrical Engineering
 
 [【ラズパイ電子工作】7セグメントLEDに数値を表示させる方法 | 電気設計人.com](https://denkisekkeijin.com/raspberrypi/pi-7seg)
 
@@ -3046,6 +3056,8 @@
 
 [【Python】Python 関数とスコープを徹底理解する #Function - Qiita](https://qiita.com/nozomi2025/items/2d81f54d7254098549b8)
 
+[Python : クラスの継承 #オブジェクト指向 - Qiita](https://qiita.com/nyunyu122/items/9d7395f3d4de4190a991)
+
 
 
 ## RaspberryPi
@@ -3664,6 +3676,10 @@
 
 [rubyで正規表現そのものに対する理解を深める – 株式会社ルーター](https://rooter.jp/programming/regexp_with_ruby/)
 
+[Windowsユーザーの私がrbenvでrubyのインストール #Ruby - Qiita](https://qiita.com/ktpnobu/items/fa0c198ee14b9875817a)
+
+[Gemfileにバージョンを指定したり、しなかったり。Gemfileについて #Ruby - Qiita](https://qiita.com/morioka1206/items/19410fe414f441583998)
+
 
 
 ## Rust
@@ -4156,10 +4172,6 @@
 
 [お気に入りの Ubuntu キーバインド設定(i,j,k,l) #bashrc - Qiita](https://qiita.com/guchipon/items/a038ae156a670123cd16)
 
-[UbuntuにChromeをインストールする手順 #ubuntu18.04 - Qiita](https://qiita.com/grgrjnjn/items/a5c4da336031b63f09a6)
-
-[UbuntuでGoogle Chromeをインストールする手順](https://go.lightnode.com/ja/tech/how-to-install-chrome-on-ubuntu)
-
 [【Ubuntu 22.04】【OpenSSH】SHA-1 関連の接続許可(ver 8系) | NE-Lab](https://www.ne-lab.com/platform/linux/2023/11/718/)
 
 [Ubuntu14.10でメモリの使用状況を確認する #Linux - Qiita](https://qiita.com/shinyashikis@github/items/7eb33f22cc6ad02f37ea)
@@ -4415,6 +4427,8 @@
 [Webサイトへアクセスしたら「このサイトは安全ではありません」と表示されます｜GMOクラウド｜ALTUS サポート](https://helpcenter.gmocloud.com/altus/s/article/ch-2893)
 
 [スプレッドシートをダークモードにする方法とならない時の対処法 | ゆけブログ](https://yukeblog.org/blog/spreadsheet80/)
+
+[Firebase ってなに？【前提知識】](https://zenn.dev/conecone/articles/bad870afd2efe0)
 
 
 

@@ -2212,6 +2212,8 @@
 
 [検索結果をエクセルに貼り付けやすくするブックマークレット – 株式会社ルーター](https://rooter.jp/web-crawling/google_result_bookmarklet/)
 
+[TwitterシェアボタンをJavaScriptで実装しよう【Vanilla JS】 | Web it Works](https://webitworks.jp/twitter-share-button-javascript/)
+
 
 
 ## Kotlin
@@ -4213,6 +4215,8 @@
 [aptコマンドチートシート #Ubuntu - Qiita](https://qiita.com/SUZUKI_Masaya/items/1fd9489e631c78e5b007)
 
 [Ubuntu ログイン時の二段階認証実装方法 #Linux - Qiita](https://qiita.com/neouchida/items/fc83088f43c360dad008)
+
+[ubuntuのaptのkept backの解消 - ys memos](https://ysuzuki19.github.io/post/ubuntu-apt-following-packages-have-been-kept-back)
 
 
 

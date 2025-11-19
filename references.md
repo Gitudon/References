@@ -352,6 +352,12 @@
 
 [Qiita API v2を利用してcurlで投稿してみた #QiitaAPI - Qiita](https://qiita.com/kai_kou/items/663d3f7bbc4da4ccf62d)
 
+[Google Classroom APIを使ってGoogleクラスルームの情報を取得してみる｜KCompany](https://note.com/workstream/n/nf73cd4547302)
+
+[Google Classroom API  |  Google for Developers](https://developers.google.com/workspace/classroom/reference/rest?hl=ja)
+
+[REST Resource: courses  |  Google Classroom  |  Google for Developers](https://developers.google.com/workspace/classroom/reference/rest/v1/courses?hl=ja)
+
 
 
 ## Asm
@@ -1541,6 +1547,10 @@
 [外部からJSONをPOSTするだけでGoogleSpreadSheetにデータを書き込む – 株式会社ルーター](https://rooter.jp/programming/edit-spreadsheet-with-gas/)
 
 [【Line Notify】お手軽なGASでLINEへ通知してみよう! – 株式会社ルーター](https://rooter.jp/programming/gas-line-noify/)
+
+[【そのまま使える】Google Apps ScriptとGoogle Classroom APIを使ってGoogleクラスルームの情報を取得しスプレッドシートに書き出す｜KCompany](https://note.com/workstream/n/n6e4dd5da1efb)
+
+[Google Apps Scriptとは何か? できることや使い方を解説します - KCompany](https://kcompany.work/blog/what-is-google-apps-script/)
 
 
 
@@ -3029,6 +3039,12 @@
 [ひので字用に表音+文節切りを自動化しよう #Python - Qiita](https://qiita.com/WS-Wsans/items/17601547dacef44c7360)
 
 [［解決！Python］リスト（配列）の要素を文字列のjoinメソッドで結合するには：解決！Python - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2212/27/news019.html)
+
+[Selenium × Python × HerokuでGoogle ClassroomをスクレイピングするBOTを作った](https://zenn.dev/cyber_hacnosuke/articles/70b8945783e135)
+
+[【Python】Python プロジェクト構成のベストプラクティス徹底ガイド #pydantic - Qiita](https://qiita.com/nozomi2025/items/a06e401384e566cd449a)
+
+[【Python】Python 関数とスコープを徹底理解する #Function - Qiita](https://qiita.com/nozomi2025/items/2d81f54d7254098549b8)
 
 
 

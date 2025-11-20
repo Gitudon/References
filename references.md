@@ -590,6 +590,8 @@
 
 [情報系大学生でも学びの多いルーターの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after_training_ueno/)
 
+[元飲食店スタッフがルーターでの研修を終えた感想 – 株式会社ルーター](https://rooter.jp/rooter/syamu/)
+
 
 
 ## Chrome

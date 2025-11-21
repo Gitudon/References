@@ -592,6 +592,8 @@
 
 [元飲食店スタッフがルーターでの研修を終えた感想 – 株式会社ルーター](https://rooter.jp/rooter/syamu/)
 
+[食品メーカーからエンジニアバイトへ！実務を通してこそ学べると思うこと！ – 株式会社ルーター](https://rooter.jp/rooter/from-foodmaker-to-engineer/)
+
 
 
 ## Chrome

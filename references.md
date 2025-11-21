@@ -3700,6 +3700,8 @@
 
 [rubyのNokogiri attrメソッドの返り値が期待と違う！という時に確認すること – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri-method-attr/)
 
+[Ruby × Seleniumでファイルをダウンロード – 株式会社ルーター](https://rooter.jp/web-crawling/download_file_with_selenium/)
+
 
 
 ## Rust

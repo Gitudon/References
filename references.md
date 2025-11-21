@@ -594,6 +594,12 @@
 
 [食品メーカーからエンジニアバイトへ！実務を通してこそ学べると思うこと！ – 株式会社ルーター](https://rooter.jp/rooter/from-foodmaker-to-engineer/)
 
+[情報系大学生もレベルアップできる、初めての職業エンジニア業務 – 株式会社ルーター](https://rooter.jp/rooter/first-engineering-of-a-student/)
+
+[Railsを独学していた元数学科院生のルーター研修後記 – 株式会社ルーター](https://rooter.jp/rooter/rooter-training-postscript-of-math-grad/)
+
+[プログラミングを勉強して半年の人間がルーターの研修を受けました – 株式会社ルーター](https://rooter.jp/rooter/rooter-training-graduation-report/)
+
 
 
 ## Chrome
@@ -887,6 +893,8 @@
 [ubuntuですぐにシャットダウンする方法 #Linux - Qiita](https://qiita.com/akinami/items/ada95b72e43a36eeebc1)
 
 [【Ubuntu】ユーザのパスワードを変更する方法 | VPS Life](https://vpslife.server-memo.net/ubuntu_passwd/)
+
+[Unix/Linuxのbcコマンドを使ってシェル上で対話式に複雑な計算をする – 株式会社ルーター](https://rooter.jp/data-format/bc-command/)
 
 
 
@@ -3064,6 +3072,8 @@
 
 [Python : クラスの継承 #オブジェクト指向 - Qiita](https://qiita.com/nyunyu122/items/9d7395f3d4de4190a991)
 
+[webmって何だ？youtubeの配信の仕組みを調査してみる – 株式会社ルーター](https://rooter.jp/web-crawling/youtube-dl-format/)
+
 
 
 ## RaspberryPi
@@ -3685,6 +3695,10 @@
 [Windowsユーザーの私がrbenvでrubyのインストール #Ruby - Qiita](https://qiita.com/ktpnobu/items/fa0c198ee14b9875817a)
 
 [Gemfileにバージョンを指定したり、しなかったり。Gemfileについて #Ruby - Qiita](https://qiita.com/morioka1206/items/19410fe414f441583998)
+
+[巨大なGoogleスプレッドシートをRubyで軽めに処理する方法 – 株式会社ルーター](https://rooter.jp/programming/ruby/light-spreadsheets-processing-on-ruby/)
+
+[rubyのNokogiri attrメソッドの返り値が期待と違う！という時に確認すること – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri-method-attr/)
 
 
 

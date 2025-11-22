@@ -3702,6 +3702,10 @@
 
 [Ruby × Seleniumでファイルをダウンロード – 株式会社ルーター](https://rooter.jp/web-crawling/download_file_with_selenium/)
 
+[Rubyでテキストの言語判定を行う方法 – 株式会社ルーター](https://rooter.jp/programming/ruby/detect_language_by_ruby/)
+
+[Nokogiriのcssメソッドで「あるテキストを含むノード」を検索する – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri-css-selector-contains/)
+
 
 
 ## Rust
@@ -4009,6 +4013,10 @@
 [ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
 
 [SQL記述者全員が理解すべきSELECT文の論理的な処理順序のお話 #Database - Qiita](https://qiita.com/k_0120/items/a27ea1fc3b9bddc77fa1)
+
+[MySQL上の巨大なデータをストアドプロシージャで削除する – 株式会社ルーター](https://rooter.jp/data-format/delete-large-data-by-stored-procedure/)
+
+[次に身につけたい参照系クエリ入門 – 株式会社ルーター](https://rooter.jp/data-format/reader-sql-introduction/)
 
 
 

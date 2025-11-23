@@ -3706,6 +3706,8 @@
 
 [Nokogiriのcssメソッドで「あるテキストを含むノード」を検索する – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri-css-selector-contains/)
 
+[[運用初心者必見] これだけやれば安心、たった3行でRubyからSlackエラー通知 – 株式会社ルーター](https://rooter.jp/infra-ops/3lines_error_notify/)
+
 
 
 ## Rust

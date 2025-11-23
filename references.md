@@ -2426,6 +2426,8 @@
 
 [ターミナルでほのぼの #Linux - Qiita](https://qiita.com/yuukikun666/items/a12bf44ee8c8c0c72ed3)
 
+[Linux入門③:権限とユーザー管理を理解する（chmod／sudo 入門） #Linux - Qiita](https://qiita.com/lumiera78/items/8bd35a2e1b03882c6cf5)
+
 
 
 ## Lua

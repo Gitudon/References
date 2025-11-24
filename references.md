@@ -3080,6 +3080,8 @@
 
 [webmって何だ？youtubeの配信の仕組みを調査してみる – 株式会社ルーター](https://rooter.jp/web-crawling/youtube-dl-format/)
 
+[pythonでの順列全探索 #Python - Qiita](https://qiita.com/wihan23/items/107dfff1ecada60845b1)
+
 
 
 ## RaspberryPi
@@ -3748,7 +3750,7 @@
 
 [さくらのVPSでサーバー構築](https://jitaku.work/it/category/server-construction/sakura-construction/)
 
-[【初心者】ホームページ公開までの流れを説明します](https://rs.sakura.ad.jp/column/rs/homepage-release-flow/?gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiT4pow93xL9tSSlcA347FjpJP2N-sctlQ6pVPtIMjltA4KrdG06sixoC92UQAvD_BwE)
+[【初心者】ホームページ公開までの流れを説明します](https://rs.sakura.ad.jp/column/rs/homepage-release-flow)
 
 [コンソール](https://manual.sakura.ad.jp/vps/server/console.html)
 

@@ -3082,6 +3082,10 @@
 
 [pythonでの順列全探索 #Python - Qiita](https://qiita.com/wihan23/items/107dfff1ecada60845b1)
 
+[順列の辞書順での前後を求める | お勉強ブログ](https://xn--t8j715h0qi.jp/programming/44/)
+
+[Pythonで二分探索を行うライブラリ「bisect」 #アルゴリズム - Qiita](https://qiita.com/T_Wakasugi/items/c979e977f56531942de4)
+
 
 
 ## RaspberryPi

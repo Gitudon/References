@@ -1808,6 +1808,10 @@
 
 [git clone 〇〇 が上手くできない時の対処法 〜 Authentication failed for 'https://github.com〇〇 〜 #初心者 - Qiita](https://qiita.com/kubochiro/items/d7e63030e06b1a5c7b0e)
 
+[Githubでアクセストークンを使う - GitHub - [SMART]](https://rfs.jp/server/git/github/personal_access_tokens.html)
+
+[Githubでpush、アクセストークンを用いた方法 #GitHub - Qiita](https://qiita.com/Soma-Kai/items/26b013d0987d39867144)
+
 
 
 ## Go
@@ -3721,6 +3725,8 @@
 [Rustをはじめよう その2(プログラム作成&実行編) | DCS blog](https://blog.dcs.co.jp/rust/20202409-rust-2.html)
 
 [Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
+
+[あなたのRustすぐにパニックしませんか？ - unwrap of Death - #コーディング規約 - Qiita](https://qiita.com/komasayuki/items/8a70058bb13e394d834d)
 
 
 

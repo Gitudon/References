@@ -3720,6 +3720,8 @@
 
 [[運用初心者必見] これだけやれば安心、たった3行でRubyからSlackエラー通知 – 株式会社ルーター](https://rooter.jp/infra-ops/3lines_error_notify/)
 
+[【Ruby】digメソッドを使用して、ネストされた配列とハッシュの値を安全に取り出す方法 | ISSEN](https://blog.to-ko-s.com/dig/)
+
 
 
 ## Rust

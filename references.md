@@ -4036,6 +4036,8 @@
 
 [次に身につけたい参照系クエリ入門 – 株式会社ルーター](https://rooter.jp/data-format/reader-sql-introduction/)
 
+[SQL の比較演算子 "<>" と "!=" の違いについて #Database - Qiita](https://qiita.com/P-SiZK/items/de8f9eebc2148626f5c3)
+
 
 
 ## Streamlit

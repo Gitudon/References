@@ -2382,6 +2382,8 @@
 
 [Leanで実装しながら学ぶ群の定義 #数学 - Qiita](https://qiita.com/_hidden/items/c1eed7b1147a119579eb)
 
+[Lean4: 環境の構築セットアップ✍️メモ｜D.](https://note.com/deal/n/n36088577b32d)
+
 
 
 ## Linux

@@ -604,6 +604,10 @@
 
 [元お茶屋さんの勤務5ヶ月目アルバイトが感じる、ルーターでのアルバイトの魅力について – 株式会社ルーター](https://rooter.jp/rooter/how-lovely-to-work-at-rooter-is/)
 
+[SIer出身者がルーターでの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after-rooter-working-two-months/)
+
+[社会人からプログラミングを始めた素人がルーターの研修を受けてみた結果 – 株式会社ルーター](https://rooter.jp/rooter/amateur-took-rooter-training/)
+
 
 
 ## Chrome
@@ -3727,6 +3731,10 @@
 [【Ruby】digメソッドを使用して、ネストされた配列とハッシュの値を安全に取り出す方法 | ISSEN](https://blog.to-ko-s.com/dig/)
 
 [Rubyで配列が内包する要素の状態を判定してboolean型を返すメソッドまとめ – 株式会社ルーター](https://rooter.jp/programming/ruby/array2boolean/)
+
+[Nokogiriで容量が大きいxmlをparseしてメモリ溢れ(プロセスkilled)するときのNokogiri::XML::Reader – 株式会社ルーター](https://rooter.jp/data-format/nokogiri_xml_reader/)
+
+[Nokogiri拡張Rubygem Tonkachiのご紹介 – 株式会社ルーター](https://rooter.jp/web-crawling/tonkachi/)
 
 
 

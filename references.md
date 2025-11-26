@@ -600,6 +600,10 @@
 
 [プログラミングを勉強して半年の人間がルーターの研修を受けました – 株式会社ルーター](https://rooter.jp/rooter/rooter-training-graduation-report/)
 
+[IT未経験でルーターに転職し学んだこと – 株式会社ルーター](https://rooter.jp/rooter/after-rooter-working-three-months/)
+
+[元お茶屋さんの勤務5ヶ月目アルバイトが感じる、ルーターでのアルバイトの魅力について – 株式会社ルーター](https://rooter.jp/rooter/how-lovely-to-work-at-rooter-is/)
+
 
 
 ## Chrome
@@ -3721,6 +3725,8 @@
 [[運用初心者必見] これだけやれば安心、たった3行でRubyからSlackエラー通知 – 株式会社ルーター](https://rooter.jp/infra-ops/3lines_error_notify/)
 
 [【Ruby】digメソッドを使用して、ネストされた配列とハッシュの値を安全に取り出す方法 | ISSEN](https://blog.to-ko-s.com/dig/)
+
+[Rubyで配列が内包する要素の状態を判定してboolean型を返すメソッドまとめ – 株式会社ルーター](https://rooter.jp/programming/ruby/array2boolean/)
 
 
 

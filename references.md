@@ -2238,6 +2238,8 @@
 
 [TwitterシェアボタンをJavaScriptで実装しよう【Vanilla JS】 | Web it Works](https://webitworks.jp/twitter-share-button-javascript/)
 
+[【JavaScript】サイズ・座標 取得チートシート(Chrome) #JavaScript - Qiita](https://qiita.com/sho_U/items/a8234132c8b2248ca01b)
+
 
 
 ## Kotlin

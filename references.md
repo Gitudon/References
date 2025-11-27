@@ -450,6 +450,8 @@
 
 [AmazonBraketで学ぶ量子コンピュータ⑤ #AWS - Qiita](https://qiita.com/doiken_/items/112f628e2fd9ce07c7a2)
 
+[S3のフォルダごとの総容量、総サイズを知る方法 #AWS - Qiita](https://qiita.com/tosiooooooo/items/f01ac7fa8b2c74fba216)
+
 
 
 ## Bat
@@ -1819,6 +1821,8 @@
 [Githubでアクセストークンを使う - GitHub - [SMART]](https://rfs.jp/server/git/github/personal_access_tokens.html)
 
 [Githubでpush、アクセストークンを用いた方法 #GitHub - Qiita](https://qiita.com/Soma-Kai/items/26b013d0987d39867144)
+
+[git管理している途中から.gitignoreを追加して、その設定を反映させる方法 #Git - Qiita](https://qiita.com/kamesennin/items/226e3839e457b342b89f)
 
 
 
@@ -3739,6 +3743,16 @@
 [Nokogiriで容量が大きいxmlをparseしてメモリ溢れ(プロセスkilled)するときのNokogiri::XML::Reader – 株式会社ルーター](https://rooter.jp/data-format/nokogiri_xml_reader/)
 
 [Nokogiri拡張Rubygem Tonkachiのご紹介 – 株式会社ルーター](https://rooter.jp/web-crawling/tonkachi/)
+
+[head_object - Boto3 1.41.5 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3/client/head_object.html)
+
+[RubyDoc.info: Method: Aws::S3::Client#head_object – Documentation for aws-sdk-s3 (1.64.0) – RubyDoc.info](https://rubydoc.info/gems/aws-sdk-s3/1.64.0/Aws%2FS3%2FClient:head_object)
+
+[Class: Aws::S3::Client — AWS SDK for Ruby V3](https://docs.aws.amazon.com/sdk-for-ruby/v3/api/Aws/S3/Client.html)
+
+[aws-sdk-rubyでS3上のファイルの存在チェックをする方法](https://zenn.dev/furu07yu/articles/c7741a33b30542)
+
+[【Ruby】ハッシュとJSONの変換メモ #Ruby - Qiita](https://qiita.com/kure/items/3f81a4e1a24d07104596)
 
 
 

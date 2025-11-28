@@ -160,6 +160,10 @@
 
 [AtCoder ABC 301 C - AtCoder Cards (3Q, 灰色, 300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2023/05/14/001500)
 
+[Introduction to MinHash | speed blog](https://speed1313.github.io/posts/minhash/)
+
+[MinHashによる高速な類似検索 - Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/minhash/)
+
 
 
 ## Android
@@ -357,6 +361,8 @@
 [Google Classroom API  |  Google for Developers](https://developers.google.com/workspace/classroom/reference/rest?hl=ja)
 
 [REST Resource: courses  |  Google Classroom  |  Google for Developers](https://developers.google.com/workspace/classroom/reference/rest/v1/courses?hl=ja)
+
+[隣接都道府県APIをテスト公開します – 株式会社ルーター](https://rooter.jp/data-format/adjacentapi/)
 
 
 
@@ -609,6 +615,8 @@
 [SIer出身者がルーターでの研修を終えて – 株式会社ルーター](https://rooter.jp/rooter/after-rooter-working-two-months/)
 
 [社会人からプログラミングを始めた素人がルーターの研修を受けてみた結果 – 株式会社ルーター](https://rooter.jp/rooter/amateur-took-rooter-training/)
+
+[Web系未経験の機械系男子学生がルーターでのアルバイト半年間で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/how-a-mechanic-becomes-a-software-engineer/)
 
 
 
@@ -905,6 +913,8 @@
 [【Ubuntu】ユーザのパスワードを変更する方法 | VPS Life](https://vpslife.server-memo.net/ubuntu_passwd/)
 
 [Unix/Linuxのbcコマンドを使ってシェル上で対話式に複雑な計算をする – 株式会社ルーター](https://rooter.jp/data-format/bc-command/)
+
+[topコマンド、psコマンドでサーバ上の高負荷なプロセスを探してkillする – Linux編 – 株式会社ルーター](https://rooter.jp/infra-ops/linux-top-ps-kill/)
 
 
 
@@ -2630,6 +2640,8 @@
 
 [インターネット疎通の無いサーバーで四苦八苦（curl、 yum、ntpなど） – 株式会社ルーター](https://rooter.jp/infra-ops/operation-of-server-without-internet-connection/)
 
+[Chromeにプロキシを設定して、アクセス元IPアドレスを変更する方法ーselenium、curlのプロキシ設定含むー – 株式会社ルーター](https://rooter.jp/web-crawling/change-chrome-proxy/)
+
 
 
 ## Next.js
@@ -3744,6 +3756,10 @@
 
 [Nokogiri拡張Rubygem Tonkachiのご紹介 – 株式会社ルーター](https://rooter.jp/web-crawling/tonkachi/)
 
+[RailsでSQLインジェクションの対策：whereやsanitize_sqlメソッド – 株式会社ルーター](https://rooter.jp/programming/ruby/rails_use_where_or_sanitize_sql_methods_to_avoid_sql_injection/)
+
+[Nokogiriのat_cssメソッドで取得した要素(ノード)を完全に複製する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_node_dup/)
+
 [head_object - Boto3 1.41.5 documentation](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/s3/client/head_object.html)
 
 [RubyDoc.info: Method: Aws::S3::Client#head_object – Documentation for aws-sdk-s3 (1.64.0) – RubyDoc.info](https://rubydoc.info/gems/aws-sdk-s3/1.64.0/Aws%2FS3%2FClient:head_object)
@@ -4297,6 +4313,8 @@
 [Ubuntu ログイン時の二段階認証実装方法 #Linux - Qiita](https://qiita.com/neouchida/items/fc83088f43c360dad008)
 
 [ubuntuのaptのkept backの解消 - ys memos](https://ysuzuki19.github.io/post/ubuntu-apt-following-packages-have-been-kept-back)
+
+[windows10とUbuntu Desktopのデュアルブート環境の構築 – 株式会社ルーター](https://rooter.jp/infra-ops/windows_and_ubuntu/)
 
 
 

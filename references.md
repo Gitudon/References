@@ -364,6 +364,8 @@
 
 [隣接都道府県APIをテスト公開します – 株式会社ルーター](https://rooter.jp/data-format/adjacentapi/)
 
+[Google Vision APIをRubyで叩いて画像認識してみた – 株式会社ルーター](https://rooter.jp/ml/how-to-use-vision-api-ruby/)
+
 
 
 ## Asm
@@ -618,6 +620,16 @@
 
 [Web系未経験の機械系男子学生がルーターでのアルバイト半年間で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/how-a-mechanic-becomes-a-software-engineer/)
 
+[留学生がクローリング会社のルーターで研修を受けた感想 – 株式会社ルーター](https://rooter.jp/rooter/work-at-rooter-from-taiwan/)
+
+[ルーターでの研修を終えて、広告業界からクローリングエンジニアへ – 株式会社ルーター](https://rooter.jp/web-crawling/crawling-engineer-from-ad-industry/)
+
+[ルーターでスクレイピングエンジニアデビューしました！ – 株式会社ルーター](https://rooter.jp/rooter/engineer_first_year/)
+
+[ルーターの新人研修で学んだ5つの技術 – 株式会社ルーター](https://rooter.jp/web-crawling/5-skills-learned-by-new-comer-training/)
+
+[社会人からエンジニア転向して、ルーターのエンジニア新人研修で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/what_i_learned_after_working/)
+
 
 
 ## Chrome
@@ -685,6 +697,10 @@
 [UbuntuにChromeをインストールする手順 #ubuntu18.04 - Qiita](https://qiita.com/grgrjnjn/items/a5c4da336031b63f09a6)
 
 [UbuntuでGoogle Chromeをインストールする手順](https://go.lightnode.com/ja/tech/how-to-install-chrome-on-ubuntu)
+
+[Nokogiriでパースできない壊れたタグをChromeを使って修復する – 株式会社ルーター](https://rooter.jp/web-crawling/repair-broken-html-wiht-chrome/)
+
+[Chromeデベロッパーツールでhttp通信でレスポンスされるファイル群を見る – 株式会社ルーター](https://rooter.jp/web-crawling/developertool-for-scraping/)
 
 
 
@@ -1021,6 +1037,8 @@
 [Linux で Crontab と CURL コマンドを組み合わせて CURL を定期実行する方法 #自動化 - Qiita](https://qiita.com/bill86854238/items/700899fb338d5b0270f7)
 
 [cURL（curlコマンド）とは - IT用語辞典 e-Words](https://e-words.jp/w/cURL.html)
+
+[Webサービスをリバースエンジニアリングして、HTTP通信とJavaScriptの処理の流れを読み解いてみる – 株式会社ルーター](https://rooter.jp/web-crawling/web-service-reverse-engineering/)
 
 
 
@@ -2254,6 +2272,8 @@
 
 [【JavaScript】サイズ・座標 取得チートシート(Chrome) #JavaScript - Qiita](https://qiita.com/sho_U/items/a8234132c8b2248ca01b)
 
+[seleniumクローラー開発にJavaScriptを活用しよう – 株式会社ルーター](https://rooter.jp/web-crawling/selenium_execute_script/)
+
 
 
 ## Kotlin
@@ -2641,6 +2661,8 @@
 [インターネット疎通の無いサーバーで四苦八苦（curl、 yum、ntpなど） – 株式会社ルーター](https://rooter.jp/infra-ops/operation-of-server-without-internet-connection/)
 
 [Chromeにプロキシを設定して、アクセス元IPアドレスを変更する方法ーselenium、curlのプロキシ設定含むー – 株式会社ルーター](https://rooter.jp/web-crawling/change-chrome-proxy/)
+
+[CharlesでネイティブアプリのHTTP通信を覗く – 株式会社ルーター](https://rooter.jp/web-crawling/charles_http_native_app/)
 
 
 
@@ -3772,6 +3794,16 @@
 
 [[入門編] RubyからGoogleスプレッドシートを操作する簡単チュートリアル – 株式会社ルーター](https://rooter.jp/web-crawling/how_to_arrange_spreadsheet_by_ruby/)
 
+[スクレイピングにも便利なHashクラスメソッドを紹介します – 株式会社ルーター](https://rooter.jp/no-category/introduce-hash/)
+
+[Rubyの多次元hashから目的の値がある位置を検索する方法 – 株式会社ルーター](https://rooter.jp/data-format/hash_search/)
+
+[Mechanizeを使ってログインが必要なページをスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/mechanize_beginning/)
+
+[Rubyで簡易的なログ出力 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_easy_log/)
+
+[NokogiriでCSSセレクタとノードの深さを取得する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/css_selector_and_node_depth/)
+
 
 
 ## Rust
@@ -4705,6 +4737,8 @@
 [Windows11にアップデートしたらエクスプローラーでLinuxが表示されなくなった｜Hattori](https://note.com/astrobutsurist/n/n4e4f2ffe982f)
 
 [WSL で Windowsネイティブな.exeを実行する | ハングスタック](https://hangstuck.com/wsl-adb/)
+
+[ISBN13とは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word18793.html)
 
 
 

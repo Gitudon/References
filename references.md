@@ -3770,6 +3770,8 @@
 
 [【Ruby】ハッシュとJSONの変換メモ #Ruby - Qiita](https://qiita.com/kure/items/3f81a4e1a24d07104596)
 
+[[入門編] RubyからGoogleスプレッドシートを操作する簡単チュートリアル – 株式会社ルーター](https://rooter.jp/web-crawling/how_to_arrange_spreadsheet_by_ruby/)
+
 
 
 ## Rust
@@ -4493,6 +4495,8 @@
 [VSCodeでTerminalがある下のパネルを開く方法](https://zenn.dev/suba/articles/6f2e224d24bedc)
 
 [初心者が覚えるべきVScodeコマンド一覧【Windows】 #VSCode - Qiita](https://qiita.com/isikoro2345/items/cd9c3ea043bf2c5fc120)
+
+[VSCodeのターミナルで補完が効くように！（Visual Studio Code 1.98） #Git - Qiita](https://qiita.com/Nozomuts/items/45a0f2bcf0234d153f09)
 
 
 

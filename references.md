@@ -2486,6 +2486,8 @@
 
 [Linux入門③:権限とユーザー管理を理解する（chmod／sudo 入門） #Linux - Qiita](https://qiita.com/lumiera78/items/8bd35a2e1b03882c6cf5)
 
+[Linuxのディレクトリ構造 #Linux - Qiita](https://qiita.com/danieltanaka/items/65a596f874e7a6fcf579)
+
 
 
 ## Lua
@@ -2673,6 +2675,8 @@
 [CharlesでネイティブアプリのHTTP通信を覗く – 株式会社ルーター](https://rooter.jp/web-crawling/charles_http_native_app/)
 
 [Cookieの破棄されるタイミングについて #cookie - Qiita](https://qiita.com/kandalog/items/80d7574e6bd00afd5150)
+
+[フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか #Security - Qiita](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
 
 
 
@@ -3149,6 +3153,8 @@
 [Pythonの「仮想環境」を完全に理解しよう - Speaker Deck](https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou)
 
 [【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
+
+[再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル](https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430)
 
 
 
@@ -4405,6 +4411,8 @@
 [クリックスルーでハッシュ記号（ポンド記号）を使用する - スタジオ ヘルプ](https://support.google.com/richmedia/answer/190941?hl=ja)
 
 [URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
+
+[Twitterリンクの末尾にある"?s=xx"の意味 - みじんこのメモ書き](https://scrapbox.io/Mijinko/Twitter%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%9C%AB%E5%B0%BE%E3%81%AB%E3%81%82%E3%82%8B%22%3Fs=xx%22%E3%81%AE%E6%84%8F%E5%91%B3)
 
 
 

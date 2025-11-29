@@ -164,6 +164,8 @@
 
 [MinHashによる高速な類似検索 - Preferred Networks Tech Blog](https://tech.preferred.jp/ja/blog/minhash/)
 
+[2つの期間が重なり合うかどうかを判定する。 - こせきの技術日記](https://koseki.hatenablog.com/entry/20111021/range)
+
 
 
 ## Android
@@ -630,6 +632,8 @@
 
 [社会人からエンジニア転向して、ルーターのエンジニア新人研修で学んだこと – 株式会社ルーター](https://rooter.jp/rooter/what_i_learned_after_working/)
 
+[資料の準備が無い会議滅びろ委員会｜樫田光 | Hikaru Kashida](https://note.com/hik0107/n/nebe0465c1945#d77b027a-7e13-48f1-8612-bd1d581aa79d)
+
 
 
 ## Chrome
@@ -1039,6 +1043,10 @@
 [cURL（curlコマンド）とは - IT用語辞典 e-Words](https://e-words.jp/w/cURL.html)
 
 [Webサービスをリバースエンジニアリングして、HTTP通信とJavaScriptの処理の流れを読み解いてみる – 株式会社ルーター](https://rooter.jp/web-crawling/web-service-reverse-engineering/)
+
+[curl コマンドの基本](https://zenn.dev/skrikzts/articles/8fe062618f3fa8)
+
+[curlコマンド入門 #初心者向け - Qiita](https://qiita.com/tana0422/items/8e3d36b54638df7f6a4c)
 
 
 
@@ -2664,6 +2672,8 @@
 
 [CharlesでネイティブアプリのHTTP通信を覗く – 株式会社ルーター](https://rooter.jp/web-crawling/charles_http_native_app/)
 
+[Cookieの破棄されるタイミングについて #cookie - Qiita](https://qiita.com/kandalog/items/80d7574e6bd00afd5150)
+
 
 
 ## Next.js
@@ -3135,6 +3145,10 @@
 [順列の辞書順での前後を求める | お勉強ブログ](https://xn--t8j715h0qi.jp/programming/44/)
 
 [Pythonで二分探索を行うライブラリ「bisect」 #アルゴリズム - Qiita](https://qiita.com/T_Wakasugi/items/c979e977f56531942de4)
+
+[Pythonの「仮想環境」を完全に理解しよう - Speaker Deck](https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou)
+
+[【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
 
 
 
@@ -4349,6 +4363,8 @@
 [ubuntuのaptのkept backの解消 - ys memos](https://ysuzuki19.github.io/post/ubuntu-apt-following-packages-have-been-kept-back)
 
 [windows10とUbuntu Desktopのデュアルブート環境の構築 – 株式会社ルーター](https://rooter.jp/infra-ops/windows_and_ubuntu/)
+
+[【Ubuntu日和】【第82回】無限増殖するミニPCの活用方法！MicroCloudでご家庭クラウドを構築してみたぞ - PC Watch](https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html)
 
 
 

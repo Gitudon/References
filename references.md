@@ -4884,3 +4884,5 @@
 
 [「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
 
+[ディレクトリ構成図を書くときに便利な記号 #Windows - Qiita](https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6)
+

@@ -3168,6 +3168,8 @@
 
 [すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
 
+[Pythonで2進数、8進数、16進数の数値・文字列を相互に変換 | note.nkmk.me](https://note.nkmk.me/python-bin-oct-hex-int-format/)
+
 
 
 ## RaspberryPi
@@ -4425,6 +4427,8 @@
 [URLに「#（シャープ）」が付く意味は？URLフラグメントを使いこなそう！ | Aprico](https://aprico-media.com/posts/2518)
 
 [Twitterリンクの末尾にある"?s=xx"の意味 - みじんこのメモ書き](https://scrapbox.io/Mijinko/Twitter%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E6%9C%AB%E5%B0%BE%E3%81%AB%E3%81%82%E3%82%8B%22%3Fs=xx%22%E3%81%AE%E6%84%8F%E5%91%B3)
+
+[知らなかったでは済まされない!!よく見かけるexample.comのアドレスとは #初心者 - Qiita](https://qiita.com/suzutsuki0220/items/4ad83ed2e2adbb6507a4)
 
 
 

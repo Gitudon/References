@@ -368,6 +368,16 @@
 
 [Google Vision APIをRubyで叩いて画像認識してみた – 株式会社ルーター](https://rooter.jp/ml/how-to-use-vision-api-ruby/)
 
+[Twitter APIを初めて触ってみる(ツイートを取得) #curl - Qiita](https://qiita.com/masa_unofficial/items/caca35daf04a2afbf36a)
+
+[X(twitter) api v2を使って毎日の投稿を自動化する(2024/07)｜YGPuzzleGTANT](https://note.com/213414/n/n37a54c765ce4)
+
+[X（旧Twitter）投稿BotをPythonで構築：APIキー取得から自動投稿の実装まで #bot - Qiita](https://qiita.com/free-honda/items/6919ff23fc904e2dd1d9)
+
+[X（旧Twitter）のAPIを使って投稿をしてみる #Laravel - Qiita](https://qiita.com/miriwo/items/b80f9db156e1de4e5ca9)
+
+[マーケティング情報メディア「助っ人マーケター byGMO」](https://www.koukoku.jp/service/suketto/marketer/sns/%E3%80%902025%E5%B9%B4%E6%9C%80%E6%96%B0%E7%89%88%E3%80%91twitter-api%EF%BC%88x-api%EF%BC%89%E3%81%AE%E5%88%9D%E5%BF%83%E8%80%85%E5%90%91%E3%81%91%E7%99%BB%E9%8C%B2%EF%BD%9E%E6%B4%BB%E7%94%A8%E3%82%AC/)
+
 
 
 ## Asm
@@ -3155,6 +3165,8 @@
 [【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
 
 [再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル](https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430)
+
+[すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
 
 
 

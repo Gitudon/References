@@ -644,6 +644,12 @@
 
 [資料の準備が無い会議滅びろ委員会｜樫田光 | Hikaru Kashida](https://note.com/hik0107/n/nebe0465c1945#d77b027a-7e13-48f1-8612-bd1d581aa79d)
 
+[学生としてエンジニア経験を積む – 株式会社ルーター](https://rooter.jp/rooter/engineer-experience-as-student/)
+
+[実務で使う分析手法は5つで十分 – 株式会社ルーター](https://rooter.jp/web-data-report/analytical-method/)
+
+[ルーターでスクレイピング・クローリングエンジニアとして学んだこと – 株式会社ルーター](https://rooter.jp/web-crawling/what-learned-as-scraping-engineer-at-rooter/)
+
 
 
 ## Chrome
@@ -715,6 +721,8 @@
 [Nokogiriでパースできない壊れたタグをChromeを使って修復する – 株式会社ルーター](https://rooter.jp/web-crawling/repair-broken-html-wiht-chrome/)
 
 [Chromeデベロッパーツールでhttp通信でレスポンスされるファイル群を見る – 株式会社ルーター](https://rooter.jp/web-crawling/developertool-for-scraping/)
+
+[Chrome Developer Toolを使った通信の見方 – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-chrome-developer-tool/)
 
 
 
@@ -977,6 +985,12 @@
 ## C#
 
 [C# 二分探索法で配列のなかから最も近い値を取得する | 鳩でもわかるC#](https://lets-csharp.com/binary-search-nearest-value/)
+
+
+
+## CSV
+
+[CSVのファイルフォーマットの推奨形式と注意点 – 株式会社ルーター](https://rooter.jp/data-format/recommended-csv-format/)
 
 
 
@@ -2074,6 +2088,8 @@
 
 [HTML入門：インラインフレームを作成してみよう！ - プロエンジニア](https://proengineer.internous.co.jp/content/columnfeature/5541)
 
+[スクレイピングで使うCSSセレクタ　基礎編 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-connector/)
+
 
 
 ## Image
@@ -2555,6 +2571,8 @@
 [【VSCode】Markdownに目次を自動作成する方法 #初学者 - Qiita](https://qiita.com/P-man_Brown/items/797733f359af613c35e6)
 
 [【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件 #VSCode - Qiita](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
+
+[Markdown のアンカーリンクを理解したい #Markdown - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/af0b334af1a1e73a5661)
 
 
 
@@ -3838,6 +3856,22 @@
 
 [NokogiriでCSSセレクタとノードの深さを取得する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/css_selector_and_node_depth/)
 
+[Rubyでhtmlを整形したり、不要なタグを削除する – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_html_disused_tags/)
+
+[Rubyで処理が遅い行を特定する方法 – 株式会社ルーター](https://rooter.jp/programming/rblineprof/)
+
+[Rubyのオープンクラスでnet/httpのタイムアウト時間を延長する – 株式会社ルーター](https://rooter.jp/web-crawling/openclass/)
+
+[RubyでHTTP GET/POSTリクエストする方法 – 株式会社ルーター](https://rooter.jp/web-crawling/how2-httprequest-on-ruby/)
+
+[NokogiriでHTMLを対象に深さ優先探索 – 株式会社ルーター](https://rooter.jp/web-crawling/dfs_nokogiri/)
+
+[クローリング時にセル結合されたtableを綺麗にパースする(Table to Array) – 株式会社ルーター](https://rooter.jp/web-crawling/parse-connected-table/)
+
+[Rubyプログラミング環境構築(rbenv, Bundler編) (Mac/Linux) – 株式会社ルーター](https://rooter.jp/web-crawling/ruby-rbenv-bundler/)
+
+[Rubyプログラミング環境構築(ActiveRecord編) – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_activerecord/)
+
 
 
 ## Rust
@@ -4782,6 +4816,8 @@
 
 [ISBN13とは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word18793.html)
 
+[windows環境でクローラーを開発・運用するための環境構築方法 – 株式会社ルーター](https://rooter.jp/web-crawling/windows_ubuntu_crawl/)
+
 
 
 ## Xml
@@ -4903,4 +4939,8 @@
 [「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
 
 [ディレクトリ構成図を書くときに便利な記号 #Windows - Qiita](https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6)
+
+[職業スクレイピングエンジニアが考える、Webクローリング・Webスクレイピングとは？ – 株式会社ルーター](https://rooter.jp/web-crawling/what-is-web-crawling/)
+
+[スクレイピング(RPA)を支える技術-環境構築＆初級編 – 株式会社ルーター](https://rooter.jp/web-crawling/tech-for-scraping-beginner/)
 

@@ -3980,6 +3980,8 @@
 
 [Ubuntu 22.04にSlack desktop app をダウンロードする #Ubuntu22.04 - Qiita](https://qiita.com/taka000/items/abef96bbda1cdc042d64)
 
+[Slackでピン留めを使って大事なアイテムを保存しよう！メンバーと共有できる便利な活用術！](https://pc-like.com/slack/pin/)
+
 
 
 ## SQL

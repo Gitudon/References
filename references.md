@@ -4016,6 +4016,8 @@
 
 [Slackでピン留めを使って大事なアイテムを保存しよう！メンバーと共有できる便利な活用術！](https://pc-like.com/slack/pin/)
 
+[SlackAppの作り方 #Slack - Qiita](https://qiita.com/sakaimo/items/f8a8e7fce3efcb1ec6b5)
+
 
 
 ## SQL

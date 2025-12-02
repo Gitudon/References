@@ -4018,6 +4018,24 @@
 
 [SlackAppの作り方 #Slack - Qiita](https://qiita.com/sakaimo/items/f8a8e7fce3efcb1ec6b5)
 
+[Slack ボットの作成手順 #備忘録 - Qiita](https://qiita.com/odm_knpr0122/items/04c342ec8d9fe85e0fe9)
+
+[インストールしたはずのSlack appがワークスペースに表示されなくて困った #slackbot - Qiita](https://qiita.com/lighlighlighlighlight/items/74b0b4940d49caff6bb8)
+
+[Slack APIのコマンド一覧(curl編) - サーバーワークスエンジニアブログ](https://blog.serverworks.co.jp/slack-api-curl)
+
+[slack api curlまとめ - ハイパーマッスルエンジニア](https://www.rasukarusan.com/entry/2022/06/23/120000)
+
+[Slack Appを作成し、Bot Userとして、任意のチャネルに投稿する（Slackの設定 & curlコマンド） #SlackApp - Qiita](https://qiita.com/ftnext/items/9c6a264a85e3be4f4dc4)
+
+[Slack Botの種類と大まかな作り方 #slackbot - Qiita](https://qiita.com/namutaka/items/233a83100c94af033575)
+
+[【Slack】files.upload API 廃止に伴う書き換え curl もしくは Python Request関数を使って](https://zenn.dev/y_matsubara/articles/slack-post-file-202405)
+
+[Slack APIを使ってファイルをアップロードする curl ワンライナー編 #slackbot - Qiita](https://qiita.com/yugo-yamamoto/items/14545d323c196ec09b22)
+
+[Shell Script から新 API で Slack にファイル投稿する - Blog | OUCC - 大阪大学コンピュータクラブ](https://oucc.org/blog/articles/2024-12-04-slack/)
+
 
 
 ## SQL

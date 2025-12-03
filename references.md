@@ -650,6 +650,8 @@
 
 [ルーターでスクレイピング・クローリングエンジニアとして学んだこと – 株式会社ルーター](https://rooter.jp/web-crawling/what-learned-as-scraping-engineer-at-rooter/)
 
+[入社から今日までの、僕的「学びの流儀」 #AI - Qiita](https://qiita.com/torafukuro/items/8c3cfa1c8e4c54dc8d39)
+
 
 
 ## Chrome
@@ -1889,6 +1891,8 @@
 [Githubでpush、アクセストークンを用いた方法 #GitHub - Qiita](https://qiita.com/Soma-Kai/items/26b013d0987d39867144)
 
 [git管理している途中から.gitignoreを追加して、その設定を反映させる方法 #Git - Qiita](https://qiita.com/kamesennin/items/226e3839e457b342b89f)
+
+[githubのアカウント切り替えがめんどくさい（改善） #GitHub - Qiita](https://qiita.com/Dejipot/items/56edb1e68275dbfa26d4)
 
 
 
@@ -3194,6 +3198,8 @@
 
 [Pythonで2進数、8進数、16進数の数値・文字列を相互に変換 | note.nkmk.me](https://note.nkmk.me/python-bin-oct-hex-int-format/)
 
+[古典TOEIC #Python - Qiita](https://qiita.com/qwer123123/items/083837d2407815f2ce17)
+
 
 
 ## RaspberryPi
@@ -3877,6 +3883,10 @@
 [Rubyプログラミング環境構築(rbenv, Bundler編) (Mac/Linux) – 株式会社ルーター](https://rooter.jp/web-crawling/ruby-rbenv-bundler/)
 
 [Rubyプログラミング環境構築(ActiveRecord編) – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_activerecord/)
+
+[子供たちにRubyを楽しく学んで貰いたく頑張った話 #Ruby2D - Qiita](https://qiita.com/tomoaki-kimura/items/82b3db7ccb2f5feae01f)
+
+[【Ruby】 たい焼きで理解するオブジェクト指向におけるクラスの概念 | Pikawaka](https://pikawaka.com/ruby/class)
 
 
 
@@ -4817,6 +4827,10 @@
 [SAEとは - IT用語辞典 e-Words](https://e-words.jp/w/SAE.html)
 
 [体系的に学ぶ/教えるってどういうこと？ #学習 - Qiita](https://qiita.com/kumaichi/items/e05123dc5ab79018f727)
+
+[オブジェクト指向プログラミング言語一覧](https://jp.orientsoftware.com/blog/list-of-object-oriented-programming-languages/)
+
+[プログラミング言語を手続き型と関数型、静的型付けと動的型付けで4象限に分類する #プログラミング言語 - Qiita](https://qiita.com/danwatanabe/items/b2dae4b73f6c18056f3d)
 
 
 

@@ -954,6 +954,8 @@
 
 [topコマンド、psコマンドでサーバ上の高負荷なプロセスを探してkillする – Linux編 – 株式会社ルーター](https://rooter.jp/infra-ops/linux-top-ps-kill/)
 
+[【Linux】wcコマンドとは？ #Linuxコマンド - Qiita](https://qiita.com/h___nkm5/items/4f354864eadd6044682b)
+
 
 
 ## Cpp
@@ -1071,6 +1073,10 @@
 [curl コマンドの基本](https://zenn.dev/skrikzts/articles/8fe062618f3fa8)
 
 [curlコマンド入門 #初心者向け - Qiita](https://qiita.com/tana0422/items/8e3d36b54638df7f6a4c)
+
+[curlで画像やバイナリをPOSTする(Multipart form-data)｜えぬでんき](https://note.com/ndenki/n/nc5e6f0cc8535)
+
+[curlでファイルアップロードする方法と注意点 #curl - Qiita](https://qiita.com/u1tnk/items/3d1f4de1f104205bf0ed)
 
 
 
@@ -4036,6 +4042,16 @@
 
 [Shell Script から新 API で Slack にファイル投稿する - Blog | OUCC - 大阪大学コンピュータクラブ](https://oucc.org/blog/articles/2024-12-04-slack/)
 
+[2025 年 3 月での files.upload API 廃止と移行方法について #Python - Qiita](https://qiita.com/seratch/items/971980506da92ea6c8db)
+
+[2025 年 3 月での files.upload API 廃止と移行方法について](https://zenn.dev/slack/articles/7ce5065cc4daa7)
+
+[files.completeUploadExternal メソッド | Slack 開発者ドキュメント](https://docs.slack.dev/reference/methods/files.completeUploadExternal/)
+
+[conversations.replies method | Slack Developer Docs](https://docs.slack.dev/reference/methods/conversations.replies)
+
+[Working with files | Slack Developer Docs](https://docs.slack.dev/messaging/working-with-files/)
+
 
 
 ## SQL
@@ -4209,6 +4225,8 @@
 [次に身につけたい参照系クエリ入門 – 株式会社ルーター](https://rooter.jp/data-format/reader-sql-introduction/)
 
 [SQL の比較演算子 "<>" と "!=" の違いについて #Database - Qiita](https://qiita.com/P-SiZK/items/de8f9eebc2148626f5c3)
+
+[MySQL : 『DBサイズ』と『Tableサイズ』を確認するコマンドシート #MySQL - Qiita](https://qiita.com/i35_267/items/2a591fa5e7dcae11e72c)
 
 
 

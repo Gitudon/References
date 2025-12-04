@@ -1080,6 +1080,8 @@
 
 [curlでファイルアップロードする方法と注意点 #curl - Qiita](https://qiita.com/u1tnk/items/3d1f4de1f104205bf0ed)
 
+[cURL を Windows11 にインストールしてみた。 #Windows10 - Qiita](https://qiita.com/IoriGunji/items/db2141884c107b458c89)
+
 
 
 ## DataBase
@@ -4757,6 +4759,8 @@
 [Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
 
 [Winキー + Spaceキー(入力言語の切り替え)を無効にする - ネットショッピングのすすめ](https://blog.kaimonojyoz.jp/win%E3%82%AD%E3%83%BC-space%E3%82%AD%E3%83%BC%E5%85%A5%E5%8A%9B%E8%A8%80%E8%AA%9E%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B.html)
+
+[PowerShellで独自のエイリアスやショートカットを設定したい #PowerShell - Qiita](https://qiita.com/bonny_d/items/a2f3a3ac59304609e42a)
 
 
 

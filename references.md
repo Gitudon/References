@@ -3902,6 +3902,8 @@
 
 [【Ruby】 たい焼きで理解するオブジェクト指向におけるクラスの概念 | Pikawaka](https://pikawaka.com/ruby/class)
 
+[【Ruby】Ubuntu での Ruby 開発環境構築 #rbenv - Qiita](https://qiita.com/gyobo/items/895f76c6e34699a1b71c)
+
 
 
 ## Rust

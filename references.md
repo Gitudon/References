@@ -1250,6 +1250,8 @@
 
 [マリオカートのER図について考える #SQL - Qiita](https://qiita.com/assu_ming/items/9d80320e6f778d83c61f)
 
+[客先本番環境のNASデータをすべてrmした事件 ##失敗談 - Qiita](https://qiita.com/iikaiki/items/6882d91b92064cebb352)
+
 
 
 ## Data Science

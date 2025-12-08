@@ -122,6 +122,8 @@
 
 [YouTubeの限定公開動画広告をBERTで分類する – 株式会社ルーター](https://rooter.jp/web-crawling/classify-youtube-ad-by-bert/)
 
+[アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。](https://zenn.dev/watany/articles/ad14f8a352d62f)
+
 
 
 ## Algorithm
@@ -1900,6 +1902,8 @@
 
 [githubのアカウント切り替えがめんどくさい（改善） #GitHub - Qiita](https://qiita.com/Dejipot/items/56edb1e68275dbfa26d4)
 
+[空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け #Git - Qiita](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
+
 
 
 ## Go
@@ -3213,6 +3217,12 @@
 [【DSU編】AtCoder Library 解読 〜Pythonでの実装まで〜 #競技プログラミング - Qiita](https://qiita.com/AkariLuminous/items/93b8f13e0d33da4ac331)
 
 [基本的なグラフアルゴリズムの解説とPython実装【グラフ入門】](https://zenn.dev/syuya2036/articles/6e77df7083fc4f)
+
+[【Python】Python「デフォルト引数 × 可変オブジェクト」の罠 #Python - Qiita](https://qiita.com/nozomi2025/items/6ad11943fc222012f993)
+
+[【Python】Python モジュールとパッケージ #module - Qiita](https://qiita.com/nozomi2025/items/c86aa6a8bf150c8cbedb)
+
+[【Python】__init__.py でできる便利テクニックの宝庫 #Python - Qiita](https://qiita.com/nozomi2025/items/b38baadbea15cfef93fc)
 
 
 
@@ -5015,4 +5025,8 @@
 [職業スクレイピングエンジニアが考える、Webクローリング・Webスクレイピングとは？ – 株式会社ルーター](https://rooter.jp/web-crawling/what-is-web-crawling/)
 
 [スクレイピング(RPA)を支える技術-環境構築＆初級編 – 株式会社ルーター](https://rooter.jp/web-crawling/tech-for-scraping-beginner/)
+
+[メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
+
+[誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 

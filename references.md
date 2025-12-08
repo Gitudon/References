@@ -3224,6 +3224,8 @@
 
 [【Python】__init__.py でできる便利テクニックの宝庫 #Python - Qiita](https://qiita.com/nozomi2025/items/b38baadbea15cfef93fc)
 
+[Pythonで三角形の面積を求めるプログラムを作ろう(再) (ソースコード付き)｜__init__](https://note.com/__init__4335/n/ne3be43a9c9a1)
+
 
 
 ## RaspberryPi
@@ -4023,6 +4025,12 @@
 [bashコーディング規約 #Bash - Qiita](https://qiita.com/mashumashu/items/f5b5ff62fef8af0859c5)
 
 [bash コーディングルール #Bash - Qiita](https://qiita.com/mato-599/items/053ca6e00fb747147e1c)
+
+[シェルスクリプトにおける引数の受け取り方](https://zenn.dev/takeo/articles/df32fbd7413843)
+
+[シェルスクリプト オプション解析 徹底解説 (getopt / getopts) #Bash - Qiita](https://qiita.com/ko1nksm/items/cea7e7cfdc9e25432bab)
+
+[シェルスクリプトにオプションを追加したい｜hassy](https://note.com/hassy627hassy/n/n4847fbcde413)
 
 
 

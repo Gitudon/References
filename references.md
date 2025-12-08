@@ -168,6 +168,8 @@
 
 [2つの期間が重なり合うかどうかを判定する。 - こせきの技術日記](https://koseki.hatenablog.com/entry/20111021/range)
 
+[高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜 #競技プログラミング - Qiita](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
+
 
 
 ## Android
@@ -655,6 +657,8 @@
 [ルーターでスクレイピング・クローリングエンジニアとして学んだこと – 株式会社ルーター](https://rooter.jp/web-crawling/what-learned-as-scraping-engineer-at-rooter/)
 
 [入社から今日までの、僕的「学びの流儀」 #AI - Qiita](https://qiita.com/torafukuro/items/8c3cfa1c8e4c54dc8d39)
+
+[オープンソースソフトウェアの保守を職業として成立させるために必要なアイデアとは？ - GIGAZINE](https://gigazine.net/news/20211213-professional-maintainers-unsustainable/)
 
 
 
@@ -3944,6 +3948,10 @@
 
 [一番分かりやすい OAuth の説明 #OAuth - Qiita](https://qiita.com/TakahikoKawasaki/items/e37caf50776e00e733be)
 
+[【libxml2】libxml2プロジェクトは放棄されました #Security - Qiita](https://qiita.com/rana_kualu/items/29227778c0cb9ecd890f)
+
+[Libxml2 ふたたび脆弱性があると認識](https://zenn.dev/hikosakasohtaro/articles/a685c5877e6ddf)
+
 
 
 ## Server
@@ -4869,6 +4877,8 @@
 [オブジェクト指向プログラミング言語一覧](https://jp.orientsoftware.com/blog/list-of-object-oriented-programming-languages/)
 
 [プログラミング言語を手続き型と関数型、静的型付けと動的型付けで4象限に分類する #プログラミング言語 - Qiita](https://qiita.com/danwatanabe/items/b2dae4b73f6c18056f3d)
+
+[URIとURLの違いはソーセージとウィンナーの違いと覚えろ！！ #初心者 - Qiita](https://qiita.com/nakanishi03/items/7c80dfe2fe02e8df7b10)
 
 
 

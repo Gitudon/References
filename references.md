@@ -2802,6 +2802,18 @@
 
 
 
+## PostgreSQL
+
+[PostgreSQL 16導入メモ #Linux - Qiita](https://qiita.com/mizuk1013/items/23b3bd4b548ebb2ef596)
+
+[開発環境のPostgreSQLをパスワードなしでログインできるようにする #PostgreSQL - Qiita](https://qiita.com/hrtkmztn/items/4e5323b725fa46c7a8dd)
+
+[Ubuntu Linux 22.04 LTSにPostgreSQL 16をaptリポジトリーからインストールする #Ubuntu22.04 - Qiita](https://qiita.com/charon/items/c4862401b0198eeb5881)
+
+[PostgreSQL を Ubuntu に普通にインストール #Ubuntu - Qiita](https://qiita.com/nanbuwks/items/846cf3536a82a2798555)
+
+
+
 ## Protocol
 
 [HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)

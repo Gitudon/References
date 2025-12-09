@@ -3920,6 +3920,8 @@
 
 [【Ruby】Ubuntu での Ruby 開発環境構築 #rbenv - Qiita](https://qiita.com/gyobo/items/895f76c6e34699a1b71c)
 
+[Array#concat (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/concat.html)
+
 
 
 ## Rust

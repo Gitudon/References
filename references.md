@@ -2812,6 +2812,10 @@
 
 [PostgreSQL を Ubuntu に普通にインストール #Ubuntu - Qiita](https://qiita.com/nanbuwks/items/846cf3536a82a2798555)
 
+[PostgreSQLでMySQLのAUTO_INCREMENTを使う #MySQL - Qiita](https://qiita.com/shonansurvivors/items/4522f15c5e9a30860bc5)
+
+[[PostgreSQL] created_at, update_atを自動で入力させる #PostgreSQL - Qiita](https://qiita.com/ruemura3/items/7bdca11243c8f1b49ae2)
+
 
 
 ## Protocol

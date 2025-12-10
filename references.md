@@ -3252,6 +3252,14 @@
 
 [しくみ.py とは？ #Python - Qiita](https://qiita.com/hashimoto-kei/items/beedc437a9d76fec5f92)
 
+[【競プロ】PythonとPyPyの速度比較 #Python3 - Qiita](https://qiita.com/y-oksaku/items/f0c5c4681bc30dddf7f4)
+
+[PyPyの基礎知識まとめ その1 #Python - Qiita](https://qiita.com/ta_ta_ta_miya/items/33253e9bcbb7034f088d)
+
+[CPythonとPyPyの比較 - あるぱかのブログ](https://pakaaaaaaaaaa.hatenablog.com/entry/2024/02/19/220130)
+
+[【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】 #Pypy - Qiita](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b)
+
 
 
 ## RaspberryPi

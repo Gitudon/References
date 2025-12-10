@@ -1014,6 +1014,8 @@
 
 [最近のCTFのRev問を解いてデコンパイルの練習をしてみた #Security - Qiita](https://qiita.com/hada2/items/c87e2d0d537559dca77c)
 
+[Daily AlpacaHackがCTF初心者にとって楽しすぎる話 #Alpacahack - Qiita](https://qiita.com/ka-kii/items/f19d1e7ccd54f3adb845)
+
 
 
 ## cURL

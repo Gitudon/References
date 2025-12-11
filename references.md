@@ -3952,6 +3952,16 @@
 
 [Array#concat (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Array/i/concat.html)
 
+[RubyのDate / Time / DateTimeの違いを知らないと痛い目見るよ！のお話](https://zenn.dev/funxxfun/articles/932219f6bd18ac)
+
+[【Ruby】ライブラリまとめ（標準ライブラリ？組み込みライブラリ？外部ライブラリ？） #Gem - Qiita](https://qiita.com/sugamaan/items/d7871da28c0160b69609)
+
+[【Ruby入門】Rubyで外部ライブラリを読み込む：require - ポップインサイト](https://popinsight.jp/blog/?p=18845)
+
+[rbenv: no such command `install' となってinstallできない時の対処 #Ruby - Qiita](https://qiita.com/ktanoooo/items/37d80727b55099b09480)
+
+[【Ruby】 gemの仕組みを図解形式で学ぼう | Pikawaka](https://pikawaka.com/ruby/how-gem-works)
+
 
 
 ## Rust

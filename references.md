@@ -3260,6 +3260,12 @@
 
 [【AtCoder】Pythonで競プロをするときの注意点まとめ【競技プログラミング】 #Pypy - Qiita](https://qiita.com/kemuniku/items/1f1537e1df2ac8180d9b)
 
+[【競プロAtcoder】PyPyで再帰関数を用いたときにTLE/MLE/REが出てしまう時の対処法 #Python - Qiita](https://qiita.com/garudakai/items/ed41bbaca324d1ee28fe)
+
+[pypyで高速化したらメモリリークしたお話 - nyatla@hatena blog](https://nyatla.hatenadiary.jp/entry/20191121/1574338166)
+
+[ABC 015 D - 高橋くんの苦悩 PythonでのMLE,TLE対策](https://zenn.dev/chelo/articles/40db00cc240ff4)
+
 
 
 ## RaspberryPi

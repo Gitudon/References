@@ -662,6 +662,8 @@
 
 [オープンソースソフトウェアの保守を職業として成立させるために必要なアイデアとは？ - GIGAZINE](https://gigazine.net/news/20211213-professional-maintainers-unsustainable/)
 
+[エンジニアの雑談力って大事 #仕事効率化 - Qiita](https://qiita.com/sato_626/items/b07819166ee4a82155a7)
+
 
 
 ## Chrome

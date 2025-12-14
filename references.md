@@ -970,6 +970,8 @@
 
 [【Linux】wcコマンドとは？ #Linuxコマンド - Qiita](https://qiita.com/h___nkm5/items/4f354864eadd6044682b)
 
+[apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
+
 
 
 ## Cpp
@@ -2543,6 +2545,8 @@
 [Linux入門③:権限とユーザー管理を理解する（chmod／sudo 入門） #Linux - Qiita](https://qiita.com/lumiera78/items/8bd35a2e1b03882c6cf5)
 
 [Linuxのディレクトリ構造 #Linux - Qiita](https://qiita.com/danieltanaka/items/65a596f874e7a6fcf579)
+
+[Linux – apt の自動アップデートと停止方法 | pystyle](https://pystyle.info/linux-apt-auto-update)
 
 
 
@@ -4563,6 +4567,12 @@
 [windows10とUbuntu Desktopのデュアルブート環境の構築 – 株式会社ルーター](https://rooter.jp/infra-ops/windows_and_ubuntu/)
 
 [【Ubuntu日和】【第82回】無限増殖するミニPCの活用方法！MicroCloudでご家庭クラウドを構築してみたぞ - PC Watch](https://pc.watch.impress.co.jp/docs/column/ubuntu/2064787.html)
+
+[Ubuntuで自動的にapt upgradeするには？ - @ledsun blog](https://ledsun.hatenablog.com/entry/2023/04/26/090848)
+
+[大切なことはすべてUbuntuが教えてくれた　無人アップグレードを知りましょう #Linux - Qiita](https://qiita.com/Brutus/items/b264384361d08b7475f6)
+
+[unattended-upgradeでUbuntuのパッケージを自動更新する #ubuntu20.04 - Qiita](https://qiita.com/ymbk990/items/cabfc383e1c5e35eb4f9)
 
 
 

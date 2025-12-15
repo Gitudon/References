@@ -4358,6 +4358,16 @@
 
 [MySQL : 『DBサイズ』と『Tableサイズ』を確認するコマンドシート #MySQL - Qiita](https://qiita.com/i35_267/items/2a591fa5e7dcae11e72c)
 
+[EXPLAIN実行結果の読み方について解説 - MySQL #DB - Qiita](https://qiita.com/o-yyu-o/items/535058df6b9606f1f5ef)
+
+[MySQL の EXPLAIN を読むときの勘所 #パフォーマンスチューニング - Qiita](https://qiita.com/mamy1326/items/9960061ba9a74cda8d6b)
+
+[explainで確認するポイント（SQL速度改善）](https://zenn.dev/o2z/articles/a744523f34ac40)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 24.3.5 パーティションに関する情報を取得する](https://dev.mysql.com/doc/refman/8.0/ja/partitioning-info.html)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 8.2.1.13 条件フィルタ](https://dev.mysql.com/doc/refman/8.0/ja/condition-filtering.html)
+
 
 
 ## Streamlit

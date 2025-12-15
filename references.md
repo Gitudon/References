@@ -738,6 +738,8 @@
 
 [Chrome Developer Toolを使った通信の見方 – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-chrome-developer-tool/)
 
+[「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所](https://note.com/tanabata_lab/n/nfb68295ce7d7)
+
 
 
 ## Commands
@@ -2284,8 +2286,6 @@
 
 [Chart.jsのバージョン別変更点まとめ：2系から4系移行時の注意点 – 株式会社ルーター](https://rooter.jp/programming/js-node/diff-chart-js-version/)
 
-[JavaScriptの命名規則早見表（と記法） #JavaScript - Qiita](https://qiita.com/RyosukeSomeya/items/90f8e780b37c53758276)
-
 [JavaScriptでunix時間を一般時間に変換する - 福岡市のホームページ制作会社 AliveCast](https://alivecast.co.jp/know-how/jeon-insung-1103)
 
 [JavaScriptでunixtimeから日時へ変換するやり方のメモ #JavaScript - Qiita](https://qiita.com/shirokurotaitsu/items/5efd855900ec6135bbab)
@@ -2652,6 +2652,52 @@
 
 
 
+## Naming
+
+[雑にしていない？PHPの命名規則を理解し、効率よく開発を進めよう - 忍者CODEマガジン](https://ninjacode.work/magazine/programming/php17/)
+
+[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
+
+[Python命名規則の基本](https://zenn.dev/the_exile/articles/python-naming-convention-)
+
+[Pythonの命名規則とルール](https://zenn.dev/gakkie555/articles/b7d89442365943)
+
+[Python命名規則：PEP8とリーダブルコードより #Python3 - Qiita](https://qiita.com/shiracamus/items/bc3bdfc206b39e0a75b2)
+
+[JavaScriptの命名規則早見表（と記法） #JavaScript - Qiita](https://qiita.com/RyosukeSomeya/items/90f8e780b37c53758276)
+
+[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
+
+[読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 | ドクセル](https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450)
+
+[React / TypeScript の設計前に、改めて命名規則について把握する #React - Qiita](https://qiita.com/shuhosaka/items/4a11158b3e9060d3b612)
+
+[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
+
+[【Ruby超入門】命名規則](https://zenn.dev/yyykms123/articles/2019-11-20-naming-convention)
+
+[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
+
+[Rubyの命名規約 #Ruby - Qiita](https://qiita.com/takahashim/items/ccfd489c9b26f15b7193)
+
+[Railsにおける命名規則 #Rails - Qiita](https://qiita.com/gakkie/items/3afcd505c786364aa5fa)
+
+[Rubyにおける真偽値で終わるメソッドの命名について #Ruby - Qiita](https://qiita.com/takumi555/items/aa1d8bdda402648b4f06)
+
+[[TS] 命名規則のまとめ #TypeScript - Qiita](https://qiita.com/mistylady/items/21843c01f0b7289a6c83)
+
+[命名アンチパターン - Neo's World](https://neos21.net/tech/programming/naming-anti-patterns.html)
+
+[命名アンチパターン #オブジェクト指向 - Qiita](https://qiita.com/power3812/items/5eb0db4b53e5a8d4c913)
+
+[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
+
+[命名規則についてまとめてみた（キャメルケース，パスカルケース，スネークケース，ケバブケース, etc...） #命名規則 - Qiita](https://qiita.com/shota0616/items/4ac7a8696b3f6ccbe2bc)
+
+[連番は使い始めた時点で終わり - Neo's World](https://neos21.net/blog/2017/09/13-01.html)
+
+[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
+
 ## Network
 
 [Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
@@ -2740,6 +2786,8 @@
 
 [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか #Security - Qiita](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
 
+[家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
+
 
 
 ## Next.js
@@ -2783,8 +2831,6 @@
 [Node.jsとはなにか？なぜみんな使っているのか？ #JavaScript - Qiita](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
 
 [フロントエンド開発の３ステップ（npmことはじめ） #Node.js - Qiita](https://qiita.com/hashrock/items/15f4a4961183cfbb2658)
-
-[雑にしていない？PHPの命名規則を理解し、効率よく開発を進めよう - 忍者CODEマガジン](https://ninjacode.work/magazine/programming/php17/)
 
 
 
@@ -3038,14 +3084,6 @@
 
 [オブジェクト指向プログラミングとは #Python - Qiita](https://qiita.com/Arata0608/items/4ae829ef632735e0ac26)
 
-[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
-
-[Python命名規則の基本](https://zenn.dev/the_exile/articles/python-naming-convention-)
-
-[Pythonの命名規則とルール](https://zenn.dev/gakkie555/articles/b7d89442365943)
-
-[Python命名規則：PEP8とリーダブルコードより #Python3 - Qiita](https://qiita.com/shiracamus/items/bc3bdfc206b39e0a75b2)
-
 [pip installのバージョン指定方法](https://zenn.dev/wtkn25/articles/python-pip-install-version)
 
 [PythonのLiteral型について調べてみた（PEP586） #Python3 - Qiita](https://qiita.com/simonritchie/items/04832ab86c962b3e51cd)
@@ -3103,8 +3141,6 @@
 [pythonでcase文を書く #Python - Qiita](https://qiita.com/yushikmr/items/f83ea32ec597a3b1a827)
 
 [Webページから画像を取得し、リサイズを行う #Python - Qiita](https://qiita.com/yamaAtsu/items/020eec010973d48d1cc7)
-
-[Python命名規則一覧 #コーディング規約 - Qiita](https://qiita.com/naomi7325/items/4eb1d2a40277361e898b)
 
 [Pythonで文字列を検索（〜を含むか判定、位置取得） | note.nkmk.me](https://note.nkmk.me/python-str-search/)
 
@@ -3205,8 +3241,6 @@
 [【完全理解】Python zip()関数についてあれこれ #初心者 - Qiita](https://qiita.com/kubochiro/items/5daedd51654a8155bc06)
 
 [Python イテレータとイテラブルの違いを理解する #データ構造 - Qiita](https://qiita.com/Tadataka_Takahashi/items/de5542dc205cf1542d3f)
-
-[読みやすいPythonコードの書き方 (Ruff・命名規則・型ヒント) - 人工知能応用特論Ⅰ 第6回 | ドクセル](https://www.docswell.com/s/2625216247/52Q6J9-2025-11-11-194450)
 
 [ひので字用に表音+文節切りを自動化しよう #Python - Qiita](https://qiita.com/WS-Wsans/items/17601547dacef44c7360)
 
@@ -3346,8 +3380,6 @@
 
 [チュートリアル：React の導入 – React](https://ja.legacy.reactjs.org/tutorial/tutorial.html#setup-option-2-local-development-environment)
 
-[React / TypeScript の設計前に、改めて命名規則について把握する #React - Qiita](https://qiita.com/shuhosaka/items/4a11158b3e9060d3b612)
-
 [【React】 Context をいつ使うべきか #React - Qiita](https://qiita.com/anneau/items/c20afcb8693260cbb7ba)
 
 [React公式チュートリアルをTypeScriptでやる｜Toshimitsu Kugimoto](https://note.com/tkugimot/n/nf7fe751298b1)
@@ -3409,8 +3441,6 @@
 [RubyでHelloWorldを実装してみた #Ruby - Qiita](https://qiita.com/nori-channel/items/f111b37d35839deb90aa)
 
 [String#match? (Ruby 3.4 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/String/i/match=3f.html)
-
-[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
 
 [ruby ifを1行で書く方法 まとめ by 初心者 #Ruby - Qiita](https://qiita.com/MrTom_2020/items/7f6005041eeba8bf9150)
 
@@ -3688,14 +3718,6 @@
 
 [Rubyをインストール／アップデートするには？（Windows編） - Build Insider](https://www.buildinsider.net/language/rubytips/0004/)
 
-[【Ruby超入門】命名規則](https://zenn.dev/yyykms123/articles/2019-11-20-naming-convention)
-
-[Ruby 命名規則まとめ #Ruby - Qiita](https://qiita.com/TakeshiFukushima/items/647a652439b55525945f)
-
-[Rubyの命名規約 #Ruby - Qiita](https://qiita.com/takahashim/items/ccfd489c9b26f15b7193)
-
-[Railsにおける命名規則 #Rails - Qiita](https://qiita.com/gakkie/items/3afcd505c786364aa5fa)
-
 [RubyのNokogiriで子要素のみのテキストを取得し兄弟要素から指定する – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_only_child_text_select_by_sibling/)
 
 [UTF8の絵文字を削除する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-remove-emojis-in-utf8/)
@@ -3797,8 +3819,6 @@
 [RailsのActiveRecordでwhere in句を使う #SQL - Qiita](https://qiita.com/ultrasevenstar/items/babe4aa7449baa83989b)
 
 [【Rails】 結局bundlerって何？bundlerの仕組みを図解形式で徹底解説 | Pikawaka](https://pikawaka.com/rails/bundler)
-
-[Rubyにおける真偽値で終わるメソッドの命名について #Ruby - Qiita](https://qiita.com/takumi555/items/aa1d8bdda402648b4f06)
 
 [Sinatraでよく使うツール その2 - ローイングファンのプログラミング日記](https://rowingfan.hatenablog.jp/entry/2018/09/30/085937)
 
@@ -4416,8 +4436,6 @@
 
 [ローカル環境でTypeScriptを実行する手順](https://zenn.dev/zaruta/articles/d453ca6d3bed88)
 
-[[TS] 命名規則のまとめ #TypeScript - Qiita](https://qiita.com/mistylady/items/21843c01f0b7289a6c83)
-
 
 
 ## Typst
@@ -5004,8 +5022,6 @@
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
 
-[家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
-
 [システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
 
 [開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
@@ -5018,23 +5034,11 @@
 
 [ハードタブ VS ソフトタブ - サポンテ 勉強ノート](https://saponote.hatenablog.com/entry/2018/11/15/120000)
 
-[命名アンチパターン - Neo's World](https://neos21.net/tech/programming/naming-anti-patterns.html)
-
-[命名アンチパターン #オブジェクト指向 - Qiita](https://qiita.com/power3812/items/5eb0db4b53e5a8d4c913)
-
-[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
-
 [「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
 
 [HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
 
 [【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
-
-[命名規則についてまとめてみた（キャメルケース，パスカルケース，スネークケース，ケバブケース, etc...） #命名規則 - Qiita](https://qiita.com/shota0616/items/4ac7a8696b3f6ccbe2bc)
-
-[連番は使い始めた時点で終わり - Neo's World](https://neos21.net/blog/2017/09/13-01.html)
-
-[クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
 
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
@@ -5107,4 +5111,6 @@
 [メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
 
 [誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
+
+[なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
 

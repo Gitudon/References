@@ -2476,6 +2476,8 @@
 
 [【LaTeX】垂直方向の空白(スペース)vspace,vfill | 数学の景色](https://mathlandscape.com/latex-vspace/)
 
+[【LaTeX】相互参照【label,ref】](https://takataninote.com/tex/label.html)
+
 
 
 ## Lean

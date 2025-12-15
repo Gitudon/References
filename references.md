@@ -3308,6 +3308,8 @@
 
 [ABC 015 D - 高橋くんの苦悩 PythonでのMLE,TLE対策](https://zenn.dev/chelo/articles/40db00cc240ff4)
 
+[9x9 数独の答えになる組み合わせは何通りか #dlang - Qiita](https://qiita.com/devmynote/items/81c4bf8ccdc836fa2bd8)
+
 
 
 ## RaspberryPi

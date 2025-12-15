@@ -1026,6 +1026,12 @@
 
 
 
+## D
+
+[9x9 数独の答えになる組み合わせは何通りか #dlang - Qiita](https://qiita.com/devmynote/items/81c4bf8ccdc836fa2bd8)
+
+
+
 ## cURL
 
 [curl コマンドでブラウザを操作する #Selenium - Qiita](https://qiita.com/noritakaIzumi/items/e46d195b82331ef8caed)
@@ -3308,7 +3314,7 @@
 
 [ABC 015 D - 高橋くんの苦悩 PythonでのMLE,TLE対策](https://zenn.dev/chelo/articles/40db00cc240ff4)
 
-[9x9 数独の答えになる組み合わせは何通りか #dlang - Qiita](https://qiita.com/devmynote/items/81c4bf8ccdc836fa2bd8)
+
 
 
 

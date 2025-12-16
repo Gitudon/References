@@ -4004,6 +4004,8 @@
 
 [【Ruby】 gemの仕組みを図解形式で学ぼう | Pikawaka](https://pikawaka.com/ruby/how-gem-works)
 
+[Rubyでなにもしない - アクトインディ開発者ブログ](https://tech.actindi.net/2010/09/09/3492988117)
+
 
 
 ## Rust
@@ -4613,6 +4615,8 @@
 [大切なことはすべてUbuntuが教えてくれた　無人アップグレードを知りましょう #Linux - Qiita](https://qiita.com/Brutus/items/b264384361d08b7475f6)
 
 [unattended-upgradeでUbuntuのパッケージを自動更新する #ubuntu20.04 - Qiita](https://qiita.com/ymbk990/items/cabfc383e1c5e35eb4f9)
+
+[ubuntuにおける環境変数の設定 #Linux - Qiita](https://qiita.com/halglobe0108/items/735433531e7b17a20b54)
 
 
 

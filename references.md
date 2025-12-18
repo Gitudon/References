@@ -480,6 +480,8 @@
 
 [S3のフォルダごとの総容量、総サイズを知る方法 #AWS - Qiita](https://qiita.com/tosiooooooo/items/f01ac7fa8b2c74fba216)
 
+[AWSのS3で静的Webサイトを公開する手順まとめ #AWS - Qiita](https://qiita.com/nabettu/items/1605f78977d9909b5182)
+
 
 
 ## Bat

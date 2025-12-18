@@ -1924,6 +1924,12 @@
 
 [空のディレクトリを維持するための、 .gitkeep と .gitignore の使い分け #Git - Qiita](https://qiita.com/ndxbn/items/f124d2b183b60cb074e2)
 
+[gitの修正や取消のいろいろ #Git - Qiita](https://qiita.com/harukin721/items/892cfd2e6b7eaec62c19)
+
+[コミットメッセージの変更 - GitHub ドキュメント](https://docs.github.com/ja/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
+
+[Git commit メッセージの変更方法 #Git - Qiita](https://qiita.com/kenose0328/items/185f7e8634d816c85a84)
+
 
 
 ## Go

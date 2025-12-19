@@ -4992,6 +4992,8 @@
 
 [URIとURLの違いはソーセージとウィンナーの違いと覚えろ！！ #初心者 - Qiita](https://qiita.com/nakanishi03/items/7c80dfe2fe02e8df7b10)
 
+[マクロとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11242.html)
+
 
 
 ## WSL

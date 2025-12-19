@@ -2804,6 +2804,8 @@
 
 [家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
 
+[「今日ネットワークめっちゃ重くない？」の真犯人は私だった話 #ポエム - Qiita](https://qiita.com/KoheiKushida/items/2e4d3a0466c3c8a8f744)
+
 
 
 ## Next.js

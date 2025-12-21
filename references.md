@@ -976,8 +976,6 @@
 
 [apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
 
-[nano – Documentation](https://www.nano-editor.org/docs.php)
-
 
 
 ## Cpp
@@ -1561,6 +1559,10 @@
 ## Emacs
 
 [GNU Emacs documentation - GNU Project](https://www.gnu.org/software/emacs/documentation.html)
+
+[Emacsのよく使うコマンド #Emacs - Qiita](https://qiita.com/katsuta/items/7d492889820008d55e3b)
+
+[emacs-cmd.dvi](chrome-extension://mhjfbmdgcfjbbpaeojofohoefgiehjai/edge_pdf/index_delayed_ui.html)
 
 
 
@@ -2723,6 +2725,16 @@
 [連番は使い始めた時点で終わり - Neo's World](https://neos21.net/blog/2017/09/13-01.html)
 
 [クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
+
+
+
+## Nano
+
+[GNU nanoエディタの使い方 #nano - Qiita](https://qiita.com/Shiro-neko-kamen/items/82cbdfaeb291164333be)
+
+[nano – Documentation](https://www.nano-editor.org/docs.php)
+
+[nanoエディタとvimエディタの使い方（まとめ） #Linux - Qiita](https://qiita.com/morrrrr/items/ac6163405803b16a9386)
 
 
 
@@ -4721,6 +4733,11 @@
 [VimでモダンなRuby開発環境を構築する – 株式会社ルーター](https://rooter.jp/programming/vim-modern-ruby/)
 
 [help - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/)
+
+[これからvimコマンドを使おうとしている方々へ #Vim - Qiita](https://qiita.com/HiromuMasuda0228/items/5ef842ee50e7ac5e85f2)
+
+[Vim – 選択範囲の指定でコピー/カット・ペーストするコマンドの使い方 | Howpon[ハウポン]](https://howpon.com/18021)
+
 
 
 

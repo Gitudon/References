@@ -744,6 +744,14 @@
 
 
 
+## Coding
+
+[【プログラミング初心者向け】メソッドや関数を定義するときの考え方 - give IT a try](https://blog.jnito.com/entry/2022/07/14/092422)
+
+[GoF（Gang of Four）デザインパターン #デザインパターン - Qiita](https://qiita.com/gts/items/a5df06c243191a883381)
+
+
+
 ## Commands
 
 [奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
@@ -5182,6 +5190,4 @@
 [誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
-
-[GoF（Gang of Four）デザインパターン #デザインパターン - Qiita](https://qiita.com/gts/items/a5df06c243191a883381)
 

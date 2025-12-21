@@ -976,6 +976,8 @@
 
 [apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
 
+[nano – Documentation](https://www.nano-editor.org/docs.php)
+
 
 
 ## Cpp
@@ -1556,6 +1558,12 @@
 
 
 
+## Emacs
+
+[GNU Emacs documentation - GNU Project](https://www.gnu.org/software/emacs/documentation.html)
+
+
+
 ## Encryption
 
 [【耐量子計算機暗号・PQC】ML-KEM（CRYSTALS-KYBER）標準について](https://zenn.dev/ankoma/articles/f165d06efb1468)
@@ -1931,6 +1939,8 @@
 [コミットメッセージの変更 - GitHub ドキュメント](https://docs.github.com/ja/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
 
 [Git commit メッセージの変更方法 #Git - Qiita](https://qiita.com/kenose0328/items/185f7e8634d816c85a84)
+
+[Gitのコミットメッセージを後から変更する方法をわかりやすく書いてみた – 株式会社グランフェアズ](https://www.granfairs.com/blog/entry-3159/)
 
 
 
@@ -4709,6 +4719,8 @@
 [とりあえずvimを使えるようになりたい人のための記事](https://zenn.dev/vim_jp/articles/0009-just_want_to_be_able_to_use_for_vim_begineer)
 
 [VimでモダンなRuby開発環境を構築する – 株式会社ルーター](https://rooter.jp/programming/vim-modern-ruby/)
+
+[help - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/)
 
 
 

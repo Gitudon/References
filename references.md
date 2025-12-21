@@ -2714,6 +2714,8 @@
 
 [クラスの命名のアンチパターン #オブジェクト指向 - Qiita](https://qiita.com/magicant/items/8134edf969f9629fa66e)
 
+
+
 ## Network
 
 [Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
@@ -5151,4 +5153,6 @@
 [誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
+
+[GoF（Gang of Four）デザインパターン #デザインパターン - Qiita](https://qiita.com/gts/items/a5df06c243191a883381)
 

@@ -674,6 +674,8 @@
 
 [新卒エンジニアがコードレビューと設計でぶつかった壁と、その乗り越え方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/25-engineer-code-review-and-design)
 
+[【卒業ブログ】とあるアルバイト生の2年の軌跡 – 株式会社ルーター](https://rooter.jp/rooter/okahara-graduation/)
+
 
 
 ## Chrome
@@ -2521,6 +2523,8 @@
 [【LaTeX】垂直方向の空白(スペース)vspace,vfill | 数学の景色](https://mathlandscape.com/latex-vspace/)
 
 [【LaTeX】相互参照【label,ref】](https://takataninote.com/tex/label.html)
+
+[LaTeXコマンド - 行列と行列式 - matri, pmatrix, bmatrix](https://medemanabu.net/latex/matrix-pmatrix-bmatrix/)
 
 
 

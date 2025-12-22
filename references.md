@@ -172,6 +172,8 @@
 
 [高校生向け情報オリンピック教育の地域格差に挑んだ話 〜 AtCoder 水色になれる方法も公開！ 〜 #競技プログラミング - Qiita](https://qiita.com/drken/items/c853184ad95b9e9fd45d)
 
+[AtCoder で伸び悩んでいる人々を見て思うところ (2025/12) - えびちゃんの日記](https://rsk0315.hatenablog.com/entry/2025/12/21/190805)
+
 
 
 ## Android

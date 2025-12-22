@@ -2526,6 +2526,8 @@
 
 [LaTeXコマンド - 行列と行列式 - matri, pmatrix, bmatrix](https://medemanabu.net/latex/matrix-pmatrix-bmatrix/)
 
+[LaTeXコマンド - 文字の書体（フォント・太字・斜体）](https://medemanabu.net/latex/type-font/)
+
 
 
 ## Lean
@@ -3373,6 +3375,8 @@
 [ABC 015 D - 高橋くんの苦悩 PythonでのMLE,TLE対策](https://zenn.dev/chelo/articles/40db00cc240ff4)
 
 [Pythonで classmethod、staticmethod を使う #Python - Qiita](https://qiita.com/msrks/items/fdc9afd12effc2cba1bc)
+
+[PyEnchant (Python で動くスペルチェッカー) のインストールと試用（Windows 上）](https://www.kkaneko.jp/pro/python/pyenchant.html)
 
 
 

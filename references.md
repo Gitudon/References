@@ -126,6 +126,8 @@
 
 [AI初心者が最初に知っておくべき「AIハルシネーション」とは？ | ジェンスパーク開発奮闘記](https://genspark-dev-blog.pages.dev/post/10-ai_hallucination_basics)
 
+[AIを禁止して気づいた エンジニアの基礎体力 #新人プログラマ応援 - Qiita](https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
+
 
 
 ## Algorithm
@@ -416,6 +418,8 @@
 
 [Astroの基本環境構築メモ](https://zenn.dev/magurokan/scraps/f3f9571c6e7f3b)
 
+[SEOに強い！Astro.jsで実現する高速・軽量・柔軟・安全なWeb制作 | ブログ | 東京青山のWebサイト制作会社・ホームページ制作会社 | 株式会社デパート](https://depart-inc.com/blog/astro-website-guide/)
+
 
 
 ## AWS
@@ -667,6 +671,8 @@
 [オープンソースソフトウェアの保守を職業として成立させるために必要なアイデアとは？ - GIGAZINE](https://gigazine.net/news/20211213-professional-maintainers-unsustainable/)
 
 [エンジニアの雑談力って大事 #仕事効率化 - Qiita](https://qiita.com/sato_626/items/b07819166ee4a82155a7)
+
+[新卒エンジニアがコードレビューと設計でぶつかった壁と、その乗り越え方 - Speee DEVELOPER BLOG](https://tech.speee.jp/entry/25-engineer-code-review-and-design)
 
 
 
@@ -1295,6 +1301,8 @@
 [【AtCoderを分析】Webデータを分析して公開するための基本を網羅してみた #Python - Qiita](https://qiita.com/toast-uz/items/a0d9bfb64b9d85d3aa4f)
 
 [VSCodeでGoogle Colabを使ってみた #GoogleColaboratory - Qiita](https://qiita.com/miyako6105/items/22dd729fcd857a8ee07c)
+
+[30分で分かる！Pythonテキストマイニング入門 〜環境構築から基本分析まで〜 #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c67f51ed424c9367e30d)
 
 
 
@@ -2645,6 +2653,8 @@
 [【vscode】Markdownにおける目次(TOC)の作成に、Markdown All in Oneが便利だった件 #VSCode - Qiita](https://qiita.com/eyuta/items/b1a53f3da8c5f8e7f41d)
 
 [Markdown のアンカーリンクを理解したい #Markdown - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/af0b334af1a1e73a5661)
+
+[コードブロックについてまとめて理解したい #Markdown - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/6ab5122acb2c8be83946)
 
 
 

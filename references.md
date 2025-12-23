@@ -4076,6 +4076,10 @@
 
 [Rubyでなにもしない - アクトインディ開発者ブログ](https://tech.actindi.net/2010/09/09/3492988117)
 
+[rubyで別ファイルの変数を読み込むときに気を付けること #Ruby - Qiita](https://qiita.com/kokui/items/9386c90ab9e68bad0f88)
+
+[【Ruby】文字列の中に式や変数を埋め込みたい #Rails - Qiita](https://qiita.com/tetusan/items/4dcf5734e0b979b2a96c)
+
 
 
 ## Rust

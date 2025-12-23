@@ -128,6 +128,8 @@
 
 [AIを禁止して気づいた エンジニアの基礎体力 #新人プログラマ応援 - Qiita](https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
 
+[全てをなんちゃってソースコードにするクソアプリ #ポエム - Qiita](https://qiita.com/ampersand/items/e3cc3463c1834cda3290)
+
 
 
 ## Algorithm

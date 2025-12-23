@@ -996,6 +996,12 @@
 
 [apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
 
+[Windowsで映像入力デバイスからの映像をffmpegでエンコードする #Windows - Qiita](https://qiita.com/niusounds/items/726fbee7d05cc3669d42)
+
+[WindowsにFFmpegをインストールする方法 #ffmpeg - Qiita](https://qiita.com/Tadataka_Takahashi/items/9dcb0cf308db6f5dc31b)
+
+[ffmpegでサクッとデスクトップキャプチャ（音声も！） #Windows10 - Qiita](https://qiita.com/iroirous/items/4cd9d4bd9f071c25f635)
+
 
 
 ## Cpp

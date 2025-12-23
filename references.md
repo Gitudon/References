@@ -4102,6 +4102,8 @@
 
 [Libxml2 ふたたび脆弱性があると認識](https://zenn.dev/hikosakasohtaro/articles/a685c5877e6ddf)
 
+[2014年度Securityめも #Security - Qiita](https://qiita.com/a_yasui/items/39c1831555212723a56d)
+
 
 
 ## Server

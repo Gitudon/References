@@ -1002,6 +1002,8 @@
 
 [ffmpegでサクッとデスクトップキャプチャ（音声も！） #Windows10 - Qiita](https://qiita.com/iroirous/items/4cd9d4bd9f071c25f635)
 
+[scpコマンド #Linux - Qiita](https://qiita.com/chihiro/items/142ebe6980a498b5d4a7)
+
 
 
 ## Cpp

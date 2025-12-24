@@ -678,6 +678,8 @@
 
 [【卒業ブログ】とあるアルバイト生の2年の軌跡 – 株式会社ルーター](https://rooter.jp/rooter/okahara-graduation/)
 
+[なぜ私はAtCoderが全くできないのか #プログラミング - Qiita](https://qiita.com/Shiro_Shihi/items/31b9e50abda41e4c2b71)
+
 
 
 ## Chrome

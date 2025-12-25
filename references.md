@@ -1976,6 +1976,8 @@
 
 [Gitのコミットメッセージを後から変更する方法をわかりやすく書いてみた – 株式会社グランフェアズ](https://www.granfairs.com/blog/entry-3159/)
 
+[Git入門 - Speaker Deck](https://speakerdeck.com/silmin_/gitru-men)
+
 
 
 ## Go

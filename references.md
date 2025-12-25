@@ -5291,3 +5291,5 @@
 
 [2025年版: 開発環境のツールまとめ](https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment)
 
+[新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
+

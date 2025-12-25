@@ -2592,6 +2592,10 @@
 
 [LaTeXコマンド - 文字の書体（フォント・太字・斜体）](https://medemanabu.net/latex/type-font/)
 
+[【LaTeX】数式内にテキストを入れる](https://takataninote.com/tex/text.html)
+
+[【LaTeX】数式内に文字(テキスト)を入れるには | 数学の景色](https://mathlandscape.com/latex-eqtext/)
+
 
 
 ## Lean

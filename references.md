@@ -3502,6 +3502,8 @@
 
 [挿すだけでラズパイのIPアドレスを表示するUSBデバイスを自作 - FabScene（ファブシーン）](https://fabscene.com/new/make/rp2350-usb-raspberry-pi-ip-address-display-diy/)
 
+[PyEnchantを使ってスペルチェックをしてみた](https://zenn.dev/akasan/articles/09c84177fc5884)
+
 
 
 ## React

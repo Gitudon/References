@@ -392,6 +392,8 @@
 
 [Cloudflare のAPIの使い方がわかりづらい.](https://zenn.dev/paoon_night/scraps/53d48fe6c00db5)
 
+[[地獄] OpenAI APIが不正使用された件 #Python - Qiita](https://qiita.com/ShigemoriMasato/items/8d4c09a40235440d8c77)
+
 
 
 ## Asm
@@ -489,6 +491,8 @@
 [S3のフォルダごとの総容量、総サイズを知る方法 #AWS - Qiita](https://qiita.com/tosiooooooo/items/f01ac7fa8b2c74fba216)
 
 [AWSのS3で静的Webサイトを公開する手順まとめ #AWS - Qiita](https://qiita.com/nabettu/items/1605f78977d9909b5182)
+
+[「家族アルバム みてね」を支えるS3ライフサイクル戦略 - Speaker Deck](https://speakerdeck.com/fanglang/jia-zu-arubamu-mitene-wozhi-erus3raihusaikuruzhan-lue)
 
 
 
@@ -764,6 +768,12 @@
 
 [GoF（Gang of Four）デザインパターン #デザインパターン - Qiita](https://qiita.com/gts/items/a5df06c243191a883381)
 
+[ハードタブ VS ソフトタブ - サポンテ 勉強ノート](https://saponote.hatenablog.com/entry/2018/11/15/120000)
+
+[「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
+
+[【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
+
 
 
 ## Commands
@@ -1006,6 +1016,10 @@
 
 [scpコマンド #Linux - Qiita](https://qiita.com/chihiro/items/142ebe6980a498b5d4a7)
 
+[フールプルーフ呪文図鑑 #Linux - Qiita](https://qiita.com/legitwhiz/items/df36f66a1acd0786a0b2)
+
+
+[「アﾞッﾞッﾞ！！」本番サーバーを指先１つでダウンさせた男 〜I am Shock〜 #ポエム - Qiita](https://qiita.com/NCS/items/14de4741899a279e07c9)
 
 
 ## Cpp
@@ -2870,6 +2884,8 @@
 
 [「今日ネットワークめっちゃ重くない？」の真犯人は私だった話 #ポエム - Qiita](https://qiita.com/KoheiKushida/items/2e4d3a0466c3c8a8f744)
 
+[HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
+
 
 
 ## Next.js
@@ -3391,6 +3407,8 @@
 [Pythonで classmethod、staticmethod を使う #Python - Qiita](https://qiita.com/msrks/items/fdc9afd12effc2cba1bc)
 
 [PyEnchant (Python で動くスペルチェッカー) のインストールと試用（Windows 上）](https://www.kkaneko.jp/pro/python/pyenchant.html)
+
+[pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる #Python - Qiita](https://qiita.com/_Kohei_/items/069aa1e7b872f5ca96bf)
 
 
 
@@ -5149,14 +5167,6 @@
 
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 
-[ハードタブ VS ソフトタブ - サポンテ 勉強ノート](https://saponote.hatenablog.com/entry/2018/11/15/120000)
-
-[「リーダブルコード」で得た学び3選](https://zenn.dev/spacemarket/articles/0909d348b5fc73)
-
-[HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
-
-[【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
-
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
@@ -5230,4 +5240,6 @@
 [誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
+
+[2025年版: 開発環境のツールまとめ](https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment)
 

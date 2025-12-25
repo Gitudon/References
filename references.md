@@ -2234,6 +2234,14 @@
 
 [【画像処理】そもそも画像とは(JPG,PNG,GIF,BMP,SVG) #拡張子 - Qiita](https://qiita.com/spc_ehara/items/fe05049f5a6bd67c48f3)
 
+[コマンドラインから画像形式を変換する #ImageMagick - Qiita](https://qiita.com/tadsan/items/e718cf3a90fc29f61107)
+
+[ImageMagickを使ってコマンド一発で文字からアイコンを作る | KEYPOINT – キー・ポイント株式会社 開発日誌](https://www.key-p.com/blog/staff/archives/105579)
+
+[画像に文字を重ね貼りするコマンドライン処理（ImageMagickでテキストイメージ生成＋合成） #画像処理 - Qiita](https://qiita.com/myoshimi/items/1e63a4d7c27c01c1701f)
+
+[ImageMagick 画像中に文字を入れる #ImageMagick - Qiita](https://qiita.com/hsagae/items/1b72fb9f3d6024ba46f0)
+
 
 
 ## iOS
@@ -4231,6 +4239,8 @@
 [ADサーバーが消えた日 #ポエム - Qiita](https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2)
 
 [プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
+
+[うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話](https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au)
 
 
 

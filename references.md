@@ -774,6 +774,8 @@
 
 [【若手プログラマー向け】メンテナンス性の高いコードを書くための心得 #若手育成 - Qiita](https://qiita.com/gohandesuyo/items/4a15086e5f3c705d86aa)
 
+[良いコードとは何か - エンジニア新卒研修 スライド公開｜CyberZ Developer](https://note.com/cyberz_cto/n/n26f535d6c575)
+
 
 
 ## Commands
@@ -1320,6 +1322,10 @@
 
 [客先本番環境のNASデータをすべてrmした事件 ##失敗談 - Qiita](https://qiita.com/iikaiki/items/6882d91b92064cebb352)
 
+[客先のDBを間違えて削除した話 #ポエム - Qiita](https://qiita.com/lif_yumumu/items/eec7a352f32cc59f39ac)
+
+[NoSQLについて勉強する。 #Database - Qiita](https://qiita.com/t_nakayama0714/items/0ff7644666f0122cfba1)
+
 
 
 ## Data Science
@@ -1331,6 +1337,8 @@
 [VSCodeでGoogle Colabを使ってみた #GoogleColaboratory - Qiita](https://qiita.com/miyako6105/items/22dd729fcd857a8ee07c)
 
 [30分で分かる！Pythonテキストマイニング入門 〜環境構築から基本分析まで〜 #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c67f51ed424c9367e30d)
+
+[「ありそうでない言葉」をたくさん作る【RNN】 #Python - Qiita](https://qiita.com/masaka_programming/items/619b3e36fe1b569f701f)
 
 
 
@@ -1598,7 +1606,7 @@
 
 [Raspberry Pi Pico WでTWSNMPシリーズのセンサーを作る練習:アナログの調整と　マルチタスクの回避｜twsnmp](https://note.com/twsnmp/n/n778c1a2c9ce9)
 
-[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+[サーマルプリンタを子育てに活用してみた - m1104m Blog](https://m1104m.hatenablog.com/entry/2025/12/15/132956)
 
 
 
@@ -1653,6 +1661,22 @@
 [Flaskを開発サーバーで起動させてみた #Python - Qiita](https://qiita.com/Nats72/items/793330ae2f1a82102fca)
 
 [Flaskを使って外出先からURL経由でRaspberryPiを操作する - West Gate Laboratory](https://westgate-lab.hatenablog.com/entry/2020/01/12/231253)
+
+[Flaskで立てたサーバーが外部からアクセスできない場合に確認すべきこと #Python - Qiita](https://qiita.com/YukiYamam/items/02d35640331524f119ea)
+
+[PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
+
+[Flaskとは？Pythonにフレームワークについて解説！](https://www.alobridge.com/blog/1669/)
+
+[【Python】Flaskとは？FlaskでWeb開発の基礎を学ぼう！](https://aiacademy.jp/media/?p=57)
+
+[【Python】Stripe+FlaskでWebサイトを作る](https://blog.codecamp.jp/python-stripe-flack)
+
+[Stripe -Payments Flaskアプリに導入-](https://roy29fuku.com/payment/stripe/introduce-to-flask-app/)
+
+[stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
+
+[flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
 
 
@@ -2068,6 +2092,8 @@
 
 [変更履歴が重くなったgoogleスプレッドシートから変更履歴を取り出す – 株式会社ルーター](https://rooter.jp/infra-ops/google-spreadsheet-slow-history/)
 
+[スプレッドシートをダークモードにする方法とならない時の対処法 | ゆけブログ](https://yukeblog.org/blog/spreadsheet80/)
+
 
 
 ## HTML/CSS
@@ -2303,6 +2329,8 @@
 [継承について（オブジェクト指向） #Java - Qiita](https://qiita.com/kaito121855/items/460e50d64a2bdfaad30d)
 
 [ProtobufRecord](https://docs.deephaven.io/javadoc/20221001/io/deephaven/kafka/ingest/protobuf/ProtobufRecord.html)
+
+[プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした #Java - Qiita](https://qiita.com/nfujita55a/items/260750312c565835acaf)
 
 
 
@@ -2886,6 +2914,8 @@
 
 [HTTPステータスコード「302リダイレクト」とは](https://blog.hubspot.jp/marketing/http-302)
 
+[詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌](https://zenn.dev/sohosai/articles/3ac46af14abd96)
+
 
 
 ## Next.js
@@ -2953,6 +2983,8 @@
 [Facebookの「l.php」について: 小粋空間](https://www.koikikukan.com/archives/2012/07/09-015555.php)
 
 [[Android][Kotlin][PHP]カスタムURLスキーム対応 - 株式会社MIX](https://mixltd.jp/blog/android_php_custom_url_scheme/)
+
+[PHPとは？基礎知識、できることを初心者にもわかりやすく解説します](https://www.kagoya.jp/howto/it-glossary/web/php/)
 
 
 
@@ -3366,8 +3398,6 @@
 
 [再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル](https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430)
 
-[すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
-
 [Pythonで2進数、8進数、16進数の数値・文字列を相互に変換 | note.nkmk.me](https://note.nkmk.me/python-bin-oct-hex-int-format/)
 
 [古典TOEIC #Python - Qiita](https://qiita.com/qwer123123/items/083837d2407815f2ce17)
@@ -3410,6 +3440,12 @@
 
 [pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる #Python - Qiita](https://qiita.com/_Kohei_/items/069aa1e7b872f5ca96bf)
 
+[Pythonでリストに複数の要素を効率的に追加する方法 #Python3 - Qiita](https://qiita.com/POKARI0450/items/c99454ada6780f7e7300)
+
+[Ubuntu環境でuvを使ってPythonのパッケージ管理をする](https://zenn.dev/ats030/articles/how-to-use-uv-on-ubuntu)
+
+[すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
+
 
 
 ## RaspberryPi
@@ -3451,6 +3487,8 @@
 [土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
 
 [RaspberryPiにUbuntuサーバーを入れて公開鍵とGoogle Authenticator使ってSSHするまで - どっかの元高専生の技術備忘録](https://datsuka-qwerty.hatenablog.com/entry/linuxtips/rasp-setup-ssh-2fa)
+
+[挿すだけでラズパイのIPアドレスを表示するUSBデバイスを自作 - FabScene（ファブシーン）](https://fabscene.com/new/make/rp2350-usb-raspberry-pi-ip-address-display-diy/)
 
 
 
@@ -4138,6 +4176,10 @@
 
 [2014年度Securityめも #Security - Qiita](https://qiita.com/a_yasui/items/39c1831555212723a56d)
 
+[「脆弱性が見つかると仮想通貨のマイニングに使われる」を、技術的に整理してみる｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nf946b3c26ebb)
+
+[1Password Environmentsで.envファイルを管理できるようになったので試してみた | DevelopersIO](https://dev.classmethod.jp/articles/1password-environments-env-management/)
+
 
 
 ## Server
@@ -4185,6 +4227,12 @@
 [MacでCiscoにSSHしようとしたらエラーが出る #Linux - Qiita](https://qiita.com/Fuuma/items/4eaac6c86f934bd46a03)
 
 [macでssh接続をしたときno matching key exchange method found. Their offer: diffie-hellman-group1-sha1と言われて接続できない - しまむーの備忘録](https://shsm385.hatenablog.com/entry/2018/10/17/161258)
+
+[ADサーバーが消えた日 #ポエム - Qiita](https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2)
+
+[プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
+
+
 
 ## Shellscript
 
@@ -4909,6 +4957,8 @@
 
 [VSCodeのターミナルで補完が効くように！（Visual Studio Code 1.98） #Git - Qiita](https://qiita.com/Nozomuts/items/45a0f2bcf0234d153f09)
 
+[【Python】VSCodeで関数の引数名を表示する神機能 #tips - Qiita](https://qiita.com/eycjur/items/bb67d5927755658786c8#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AEtips)
+
 
 
 ## Vue.js
@@ -4919,33 +4969,13 @@
 
 ## Web
 
-[PythonのWeb開発フレームワーク「Flask」とは？　Django、Bottle、FastAPIの特徴と合わせて解説](https://codezine.jp/article/detail/15432)
-
-[PHPとは？基礎知識、できることを初心者にもわかりやすく解説します](https://www.kagoya.jp/howto/it-glossary/web/php/)
-
-[Flaskとは？Pythonにフレームワークについて解説！](https://www.alobridge.com/blog/1669/)
-
-[【Python】Flaskとは？FlaskでWeb開発の基礎を学ぼう！](https://aiacademy.jp/media/?p=57)
-
-[【Python】Stripe+FlaskでWebサイトを作る](https://blog.codecamp.jp/python-stripe-flack)
-
-[Stripe -Payments Flaskアプリに導入-](https://roy29fuku.com/payment/stripe/introduce-to-flask-app/)
-
-[stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
-
-[flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
-
-[健康食品の「成分ランキング」を作ってみる – 株式会社ルーター](https://rooter.jp/web-data-report/healthfood-ranking/)
-
-[プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
-
 [有効期限切れSSL証明書を使うとWebサイトは閲覧不能に | ネオワーカーズサポートサイト](https://support.neoworks.jp/ssl/update/ssl-disabled/)
 
 [Webサイトへアクセスしたら「このサイトは安全ではありません」と表示されます｜GMOクラウド｜ALTUS サポート](https://helpcenter.gmocloud.com/altus/s/article/ch-2893)
 
-[スプレッドシートをダークモードにする方法とならない時の対処法 | ゆけブログ](https://yukeblog.org/blog/spreadsheet80/)
-
 [Firebase ってなに？【前提知識】](https://zenn.dev/conecone/articles/bad870afd2efe0)
+
+[「Webを支える技術」から学ぶWebの歴史について #Web - Qiita](https://qiita.com/y_iwa/items/735a3f2828ab7f720047)
 
 
 

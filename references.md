@@ -394,6 +394,8 @@
 
 [[地獄] OpenAI APIが不正使用された件 #Python - Qiita](https://qiita.com/ShigemoriMasato/items/8d4c09a40235440d8c77)
 
+[AtCoder Problems を支える技術 (2019年版) - 宇宙ツイッタラーXの憂鬱](https://kenkoooo.hatenablog.com/entry/2019/12/01/011525)
+
 
 
 ## Asm

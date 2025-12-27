@@ -3460,6 +3460,8 @@
 
 [すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
 
+[Pythonデコレータの違い：staticmethodとclassmethod #Python3 - Qiita](https://qiita.com/dyser20/items/29aaafff382df6eb309d)
+
 
 
 ## RaspberryPi

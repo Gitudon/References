@@ -3462,6 +3462,8 @@
 
 [Pythonデコレータの違い：staticmethodとclassmethod #Python3 - Qiita](https://qiita.com/dyser20/items/29aaafff382df6eb309d)
 
+[クラスメソッドとスタティックメソッドのいろいろ #Python - Qiita](https://qiita.com/cardene/items/14d300c1b46371e74a38)
+
 
 
 ## RaspberryPi

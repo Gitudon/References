@@ -1080,6 +1080,8 @@
 
 [Daily AlpacaHackがCTF初心者にとって楽しすぎる話 #Alpacahack - Qiita](https://qiita.com/ka-kii/items/f19d1e7ccd54f3adb845)
 
+[Ghidraの初心者向けガイド｜whale999](https://note.com/whale999_/n/nb6c94e2176df)
+
 
 
 ## D

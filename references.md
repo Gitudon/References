@@ -130,6 +130,8 @@
 
 [全てをなんちゃってソースコードにするクソアプリ #ポエム - Qiita](https://qiita.com/ampersand/items/e3cc3463c1834cda3290)
 
+[新人AI禁止令と、その結果の答え合わせ #生成AI - Qiita](https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5)
+
 
 
 ## Algorithm
@@ -2022,6 +2024,8 @@
 
 [Git入門 - Speaker Deck](https://speakerdeck.com/silmin_/gitru-men)
 
+[2026 年も GitHub で人生を管理したい #タスク管理 - Qiita](https://qiita.com/e99h2121/items/45c62307565458964b94)
+
 
 
 ## Go
@@ -2337,8 +2341,6 @@
 [Java - 「.class」ファイルをJavaファイルにコンパイルする方法（jd-cli decompiler）](https://codechacha.com/ja/java-decompile-class-file/)
 
 [jadxでAPKをデコンパイルし中身を確認する - kwn’s blog](https://kwn1125.hatenablog.com/entry/2021/06/01/210000)
-
-[正規表現の基本 #Java - Qiita](https://qiita.com/arucraft/items/7c8811b5cf37d700adc4)
 
 [継承について（オブジェクト指向） #Java - Qiita](https://qiita.com/kaito121855/items/460e50d64a2bdfaad30d)
 
@@ -3256,8 +3258,6 @@
 
 [Python3の整数int型に最大値はない（上限なし） | note.nkmk.me](https://note.nkmk.me/python-int-max-value/)
 
-[分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
-
 [Pythonで10進数→N進数変換とN進数→10進数変換 #Python3 - Qiita](https://qiita.com/juchilian/items/3bc082c96fcf6524f0ef)
 
 [テンソル積を理解する（numpy.tensordot） #Python - Qiita](https://qiita.com/nyandora/items/0fac6e307edc16c3cb91)
@@ -3560,6 +3560,32 @@
 
 
 
+## Regular Expression
+
+[正規表現](https://www7b.biglobe.ne.jp/~robe/cgi-bin/csearch/regrep.html)
+
+[[Ruby]正規表現](https://zenn.dev/redheadchloe/articles/f3e821459a1f71)
+
+[Ruby 正規表現の使い方 #Rails - Qiita](https://qiita.com/shizuma/items/4279104026964f1efca6)
+
+[スクレイピングの文字列抽出でよく使うRubyの正規表現 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_regular_expression/)
+
+[rubyで正規表現そのものに対する理解を深める – 株式会社ルーター](https://rooter.jp/programming/regexp_with_ruby/)
+
+[ブロックで正規表現を組んでいく「ビジュアル正規表現エディタ」はアリ？　ナシ？ - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2074011.html)
+
+[正規表現](https://www7b.biglobe.ne.jp/~robe/cgi-bin/csearch/regrep.html)
+
+[正規表現の基本 #Java - Qiita](https://qiita.com/arucraft/items/7c8811b5cf37d700adc4)
+
+[rubyで正規表現を使わずにURLの構成要素を取得する – 株式会社ルーター](https://rooter.jp/programming/get_url_component_without_regular_expression/)
+
+[正規表現とmatch,subメソッド #Ruby - Qiita](https://qiita.com/Naaa0/items/49e4eea18fa93db18d68)
+
+[分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
+
+
+
 ## Ruby
 
 [フィボナッチ数列を計算する #Ruby - Qiita](https://qiita.com/jkr_2255/items/762d075cb65cbb87e996)
@@ -3613,10 +3639,6 @@
 [ruby ifを1行で書く方法 まとめ by 初心者 #Ruby - Qiita](https://qiita.com/MrTom_2020/items/7f6005041eeba8bf9150)
 
 [Ruby if文を使った条件分岐 #Rails - Qiita](https://qiita.com/ta--i/items/f0974e7f5e66318d4694)
-
-[[Ruby]正規表現](https://zenn.dev/redheadchloe/articles/f3e821459a1f71)
-
-[Ruby 正規表現の使い方 #Rails - Qiita](https://qiita.com/shizuma/items/4279104026964f1efca6)
 
 [Rubyの文字列は * をつかって掛け算のように書くことで繰り返し生成ができるが、注意が必要 - コード日進月歩](https://shinkufencer.hateblo.jp/entry/2018/11/15/092936)
 
@@ -3928,8 +3950,6 @@
 
 [Chrome DevTools Protocol(CDP)のDispatchMouseEventを使ってGoogleChrome上のマウスを自動操縦する – 株式会社ルーター](https://rooter.jp/web-crawling/chromdevtoolsprotocol_mouse_automation/)
 
-[スクレイピングの文字列抽出でよく使うRubyの正規表現 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_regular_expression/)
-
 [Rubyで最速のxlsx生成プログラムを作ってみた – 株式会社ルーター](https://rooter.jp/data-format/fastest-xlsx-generatior-ruby/)
 
 [JSON形式の文字列をハッシュに変換する - 逆引きRuby](https://scrapbox.io/rubytips/JSON%E5%BD%A2%E5%BC%8F%E3%81%AE%E6%96%87%E5%AD%97%E5%88%97%E3%82%92%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AB%E5%A4%89%E6%8F%9B%E3%81%99%E3%82%8B)
@@ -3957,10 +3977,6 @@
 [ruby の pack template 文字列の表 #Ruby - Qiita](https://qiita.com/Nabetani/items/4bdbe0c22bc1e8781c2a)
 
 [Rubyのfaradayを使ってslackにsnippetを投下する #Slack - Qiita](https://qiita.com/yuji_sakurai/items/caba3bf646f904f71555)
-
-[rubyで正規表現を使わずにURLの構成要素を取得する – 株式会社ルーター](https://rooter.jp/programming/get_url_component_without_regular_expression/)
-
-[正規表現とmatch,subメソッド #Ruby - Qiita](https://qiita.com/Naaa0/items/49e4eea18fa93db18d68)
 
 [rubyの「||=」の仕様を理解と、Railsのpresenceメソッドとは #Ruby - Qiita](https://qiita.com/kaito_program/items/3077bffa592b14928a26)
 
@@ -4075,8 +4091,6 @@
 [Rubyのクラスインスタンス変数とは何か](https://zenn.dev/kanazawa/articles/671a0928a4962c)
 
 [クラス変数とクラスインスタンス変数を理解する #Ruby - Qiita](https://qiita.com/shun_takagi/items/cba48fbe8c4de81b3fac)
-
-[rubyで正規表現そのものに対する理解を深める – 株式会社ルーター](https://rooter.jp/programming/regexp_with_ruby/)
 
 [Windowsユーザーの私がrbenvでrubyのインストール #Ruby - Qiita](https://qiita.com/ktpnobu/items/fa0c198ee14b9875817a)
 
@@ -4207,6 +4221,8 @@
 [1Password Environmentsで.envファイルを管理できるようになったので試してみた | DevelopersIO](https://dev.classmethod.jp/articles/1password-environments-env-management/)
 
 [モバイルアプリ開発時に注意！アクセス制限不備の脆弱性と対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/people/20210625_002645.html)
+
+[sudoをパスワードレス認証で使いたい | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/33282)
 
 
 
@@ -5305,5 +5321,5 @@
 
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
 
-[ブロックで正規表現を組んでいく「ビジュアル正規表現エディタ」はアリ？　ナシ？ - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2074011.html)
+[2025年に使い始めて良かったツール10選 #ClaudeCode - Qiita](https://qiita.com/takumi3488/items/3e398ae230e94144a20e)
 

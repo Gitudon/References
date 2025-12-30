@@ -778,6 +778,10 @@
 
 [良いコードとは何か - エンジニア新卒研修 スライド公開｜CyberZ Developer](https://note.com/cyberz_cto/n/n26f535d6c575)
 
+[構造化プログラミングとは、だいたい段階的詳細化法のことだ。 #オブジェクト指向 - Qiita](https://qiita.com/iHdkz/items/de8a0bf1a3d6c6c24215)
+
+[「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
+
 
 
 ## Commands
@@ -2608,6 +2612,8 @@
 
 [Lean4: 環境の構築セットアップ✍️メモ｜D.](https://note.com/deal/n/n36088577b32d)
 
+[VSCode DevContainerでLean 4の環境構築](https://zenn.dev/chantakan/articles/9166197c6acaf9)
+
 
 
 ## Linux
@@ -4200,6 +4206,8 @@
 
 [1Password Environmentsで.envファイルを管理できるようになったので試してみた | DevelopersIO](https://dev.classmethod.jp/articles/1password-environments-env-management/)
 
+[モバイルアプリ開発時に注意！アクセス制限不備の脆弱性と対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/people/20210625_002645.html)
+
 
 
 ## Server
@@ -4361,6 +4369,12 @@
 [Working with files | Slack Developer Docs](https://docs.slack.dev/messaging/working-with-files/)
 
 [Qiitaの記事がSlackで展開されない理由 #Slack - Qiita](https://qiita.com/harunbu/items/491e7200137dbf9f5710)
+
+
+
+## Sound
+
+[【Audacity】不要な部分をカット･結合する方法④ | Audacityの易しい使い方 – フリー音楽編集ソフト](https://audacity.penpen-dev.com/katto-ketugou-huyou/)
 
 
 
@@ -4832,6 +4846,12 @@
 
 [知らなかったでは済まされない!!よく見かけるexample.comのアドレスとは #初心者 - Qiita](https://qiita.com/suzutsuki0220/items/4ad83ed2e2adbb6507a4)
 
+[アナリティクス(GA4)参照元のl.facebook.comの「I」って？ | 集客コンサルティングのサイト](https://asanoyukinobu.com/google-analytics-ifacebook-com/)
+
+[Instagramの投稿にURLを載せてリンク誘導する方法は？ | 株式会社ガイアックス](https://gaiax-socialmedialab.jp/qa/instagram-post-link/)
+
+[Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
+
 
 
 ## Vim
@@ -5203,8 +5223,6 @@
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
 
-[「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
-
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
@@ -5214,8 +5232,6 @@
 [開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
 
 [テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
-
-[構造化プログラミングとは、だいたい段階的詳細化法のことだ。 #オブジェクト指向 - Qiita](https://qiita.com/iHdkz/items/de8a0bf1a3d6c6c24215)
 
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 
@@ -5233,17 +5249,9 @@
 
 [WebViewとネイティブアプリの違いとメリット・デメリット | 株式会社アイリッジ](https://iridge.jp/blog/202303/33668/)
 
-[モバイルアプリ開発時に注意！アクセス制限不備の脆弱性と対策 | LAC WATCH](https://www.lac.co.jp/lacwatch/people/20210625_002645.html)
-
-[アナリティクス(GA4)参照元のl.facebook.comの「I」って？ | 集客コンサルティングのサイト](https://asanoyukinobu.com/google-analytics-ifacebook-com/)
-
 [アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
-
-[Instagramの投稿にURLを載せてリンク誘導する方法は？ | 株式会社ガイアックス](https://gaiax-socialmedialab.jp/qa/instagram-post-link/)
-
-[Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
 
 [Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
 
@@ -5296,4 +5304,6 @@
 [2025年版: 開発環境のツールまとめ](https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment)
 
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
+
+[ブロックで正規表現を組んでいく「ビジュアル正規表現エディタ」はアリ？　ナシ？ - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2074011.html)
 

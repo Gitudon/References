@@ -1031,6 +1031,9 @@
 
 [「アﾞッﾞッﾞ！！」本番サーバーを指先１つでダウンさせた男 〜I am Shock〜 #ポエム - Qiita](https://qiita.com/NCS/items/14de4741899a279e07c9)
 
+[cat - ファイルを連結して出力する - IBM Documentation](https://www.ibm.com/docs/ja/i/7.4.0?topic=directories-cat)
+
+
 
 ## Cpp
 
@@ -5324,4 +5327,6 @@
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
 
 [2025年に使い始めて良かったツール10選 #ClaudeCode - Qiita](https://qiita.com/takumi3488/items/3e398ae230e94144a20e)
+
+[プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ #ポエム - Qiita](https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327)
 

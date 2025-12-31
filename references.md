@@ -5330,3 +5330,5 @@
 
 [プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ #ポエム - Qiita](https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327)
 
+[「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid](https://ohbarye.hatenablog.jp/entry/2025/12/30/155950)
+

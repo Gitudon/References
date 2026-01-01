@@ -4585,6 +4585,8 @@
 
 [MySQL Explain filtered - ohbarye](https://scrapbox.io/ohbarye/MySQL_Explain_filtered)
 
+[【これだけ覚えてたらOK！】SQL構文まとめ #SQL - Qiita](https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd)
+
 
 
 ## Streamlit

@@ -4585,7 +4585,29 @@
 
 [MySQL Explain filtered - ohbarye](https://scrapbox.io/ohbarye/MySQL_Explain_filtered)
 
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.3 Microsoft Windows に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/windows-installation.html)
+
+[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.4 macOS への MySQL のインストール](https://dev.mysql.com/doc/refman/8.0/ja/macos-installation.html)
+
+[MySQLを始めてパスワード設定まで　for Mac #MacOSX - Qiita](https://qiita.com/maominionbsk54/items/321b5467ea8e2701a704)
+
+[MacでMySQLを導入 #DB - Qiita](https://qiita.com/jkuroyanag/items/ddae18de3ecab2b1fe78)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.5 Linux に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/linux-installation.html)
+
+[MySQL :: A Quick Guide to Using the MySQL APT Repository](https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/)
+
+[UbuntuにMySQLをインストール #Linux - Qiita](https://qiita.com/houtarou/items/a44ce783d09201fc28f5)
+
+[MySQLのroot@localhostのパスワード設定 - Jaybanuan's Blog](https://redj.hatenablog.com/entry/2023/04/09/012242)
+
 [【これだけ覚えてたらOK！】SQL構文まとめ #SQL - Qiita](https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd)
+
+[データベースの基礎知識(SQL, CRUD) #Database - Qiita](https://qiita.com/shiiotaka/items/b82c3be16c795cfd47e4)
+
+[MySQL | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mysql/database/index1.html)
 
 
 

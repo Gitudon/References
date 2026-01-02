@@ -1579,6 +1579,8 @@
 
 [DockerコンテナでLaTeX文書作成 #Docker - Qiita](https://qiita.com/buckling_load/items/3ea9e0d641695aff56b0)
 
+[Docker一括削除コマンドまとめ #Docker - Qiita](https://qiita.com/boiyama/items/9972601ffc240553e1f3)
+
 
 
 ## Edge
@@ -3474,6 +3476,10 @@
 [Pythonデコレータの違い：staticmethodとclassmethod #Python3 - Qiita](https://qiita.com/dyser20/items/29aaafff382df6eb309d)
 
 [クラスメソッドとスタティックメソッドのいろいろ #Python - Qiita](https://qiita.com/cardene/items/14d300c1b46371e74a38)
+
+[pythonでの関数とクラスの呼び出し(関数の引数を関数にすることの有用性やクラスの継承など) #Python3 - Qiita](https://qiita.com/masarin1126/items/1820d5bd02e70d499d4d)
+
+[asyncio --- 非同期 I/O — Python 3.14.2 ドキュメント](https://docs.python.org/ja/3/library/asyncio.html)
 
 
 

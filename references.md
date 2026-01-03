@@ -350,8 +350,6 @@
 
 [Twitter API v2(X API Free)の使い方・移行(2025年)【GAS】 #JavaScript - Qiita](https://qiita.com/neru-dev/items/857cc27fd69411496388)
 
-[X（旧 Twitter）からデータをスクレイピング・取得する方法 #スクレイピングツール - Qiita](https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088)
-
 [Document: querySelector() メソッド - Web API | MDN](https://developer.mozilla.org/ja/docs/Web/API/Document/querySelector)
 
 [GitHub Actionsを活用して擬似APIサーバーを用意する #Python - Qiita](https://qiita.com/Kanahiro/items/e7021b05199ae52e818b)
@@ -700,10 +698,6 @@
 
 [ChromeのデベロッパーツールでJSをデバッグする方法 - ICS MEDIA](https://ics.media/entry/190517/)
 
-[chrome_remoteでframeやiframe内の要素をスクレイピングする方法｜Facebookシェア数の取得手順 – 株式会社ルーター](https://rooter.jp/web-crawling/chrome-remote-frame-iframe-element-access/)
-
-[chrome_remoteを使ってchromeの機能拡張をスクレイピングできるか？ – 株式会社ルーター](https://rooter.jp/web-crawling/line_scraping_via_chrome_extention/)
-
 [chrome_remote を使って、Google Chrome 以外のブラウザも自動操縦してみる – 株式会社ルーター](https://rooter.jp/web-crawling/crawling_various_browser/)
 
 [コマンドラインからChromeを起動する際のオプション指定 – 株式会社ルーター](https://rooter.jp/web-crawling/google_chrome_boot_option/)
@@ -721,8 +715,6 @@
 [chrome remote-debugging-portオプションをつけて実行してもListenされない。](https://teratail.com/questions/3tw4tzuo2k7wq5)
 
 [ubuntuデスクトップ環境 にChromeブラウザをインストールする方法 - SEO対策の賢者](https://wisenetwork.net/archives/2513)
-
-[[走り書き]Selenium + Chrome 136以降で標準プロファイルを読み込めない #スクレイピング - Qiita](https://qiita.com/203mmH/items/7ef4d8c29d4fea159e67)
 
 [Ubuntu、Mac、Windowsでのchromeリモートデスクトップ導入方法 – 株式会社ルーター](https://rooter.jp/infra-ops/chrome-remote-desktop/)
 
@@ -1112,8 +1104,6 @@
 [よく使うプログラミング言語はcurlです – 株式会社ルーター](https://rooter.jp/web-crawling/curl_as_programming_laguage/)
 
 [Chrome DevToolsでリクエストを再現するcURLコマンドを取得 – 株式会社ルーター](https://rooter.jp/web-crawling/fetch-curl-command-with-chrome-devtools/)
-
-[curlを使ったスクレイピング](https://brightdata.jp/blog/%E5%90%84%E7%A8%AE%E3%81%94%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95/how-to-use-curl-for-web-scraping)
 
 [curlコマンドを使ったWEBサイトの各種計測方法について - 株式会社ネディア │ネットワークの明日を創る│群馬](https://www.nedia.ne.jp/blog/2024/06/04/23423)
 
@@ -1767,8 +1757,6 @@
 
 [【新機能】Googleドキュメント タブ機能で出来ること・出来ないこと・GAS対応｜mir](https://note.com/mir4545/n/n8b270736a4b0#e65b54ce-1a04-4b9c-8104-2a004052a47d)
 
-[Google Apps ScriptでCSSセレクタを用いたスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/scrape-with-css-selector-in-gas/)
-
 [外部からJSONをPOSTするだけでGoogleSpreadSheetにデータを書き込む – 株式会社ルーター](https://rooter.jp/programming/edit-spreadsheet-with-gas/)
 
 [【Line Notify】お手軽なGASでLINEへ通知してみよう! – 株式会社ルーター](https://rooter.jp/programming/gas-line-noify/)
@@ -2235,11 +2223,7 @@
 
 [:root{}内に定義したCSS変数をJavaScriptから取得する方法 #scss - Qiita](https://qiita.com/sshuuu/items/a83acc485e1b94643e92)
 
-[スクレイピングに便利なCSSセレクタ記事まとめ【効率よく探すコツも】 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-in-scraping/)
-
 [HTML入門：インラインフレームを作成してみよう！ - プロエンジニア](https://proengineer.internous.co.jp/content/columnfeature/5541)
-
-[スクレイピングで使うCSSセレクタ　基礎編 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-connector/)
 
 
 
@@ -2915,8 +2899,6 @@
 
 [Webhook.siteのインストール方法 #ibmcloud - Qiita](https://qiita.com/testnin2/items/a31bcb1a67370d3eea62)
 
-[403エラーとは？Webスクレイピング実行時のエラー解決方法を解説 #スクレイピング - Qiita](https://qiita.com/Octoparse_Japan/items/1faac7a19091a5964e2d)
-
 [DNSとは？今さら聞けない基礎知識や仕組みを解説 | トークネット・お役立ち情報 | TOHKnet 東北電力グループ 株式会社トークネット](https://www.tohknet.co.jp/useful/article/202411_dns/)
 
 [メッシュWi-Fiとは？初心者にもわかりやすく解説します | バッファロー](https://www.buffalo.jp/topics/select/detail/meshwifi.html)
@@ -2992,8 +2974,6 @@
 
 
 ## PDF
-
-[PDFスクレイピング手法全公開 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_scraping/)
 
 [PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
 
@@ -3177,8 +3157,6 @@
 
 [AtCoderの提出コードをGitHubにアップするツールを作りました](https://zenn.dev/kult/articles/344c3af062f593)
 
-[【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】 #login - Qiita](https://qiita.com/syunyo/items/36af8bcb501baf8c7014)
-
 [Pythonで競技プログラミング -ライブラリ編- #AtCoder - Qiita](https://qiita.com/Kentaro_okumura/items/5b95b767a2e691cd5482)
 
 [Pythonのremove関数の使い方を現役エンジニアが解説【初心者向け】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/24319)
@@ -3272,10 +3250,6 @@
 [[競プロ用]ランレングス圧縮まとめ #Python - Qiita](https://qiita.com/Kept1994/items/e9179d1dd7c6455d6883)
 
 [FizzBuzz問題 #Python - Qiita](https://qiita.com/Pitts7/items/6b03f22d46fe84ee0aa1)
-
-[【徹底解説】スクレイピングとは｜初心者にも分かるスクレイピングに関する解説! #Python - Qiita](https://qiita.com/Octoparse_Japan/items/3a766a5615d82674b873)
-
-[Pythonで手軽に始めるWebスクレイピング #初心者 - Qiita](https://qiita.com/Moh_no/items/a835f77b6b4e3972fbbe)
 
 [PythonのURL結合にはos.path.joinではなくurlparse.urljoinを使う #urllib - Qiita](https://qiita.com/___fff_/items/577b494e1725e5173be5)
 
@@ -3373,8 +3347,6 @@
 
 [Fast API 備忘録🐍 #Python - Qiita](https://qiita.com/LILY-24hour/items/fddbd9c7fc7397f8ccb0)
 
-[[Q&A] shadow-rootで囲まれたテキストボックスのスクレイピング方法について - Qiita](https://qiita.com/shumaiuma/questions/2116f1d0cd86d8d0ae8d)
-
 [bisect --- 配列二分法アルゴリズム — Python 3.14.0 ドキュメント](https://docs.python.org/ja/3/library/bisect.html)
 
 [python 二分探索　bisect.bisect_leftとbisect.bisect_rightを0から実装するのは意外と簡単 #Python - Qiita](https://qiita.com/xu1718191411/items/42f6b32959be58458546)
@@ -3402,8 +3374,6 @@
 [ひので字用に表音+文節切りを自動化しよう #Python - Qiita](https://qiita.com/WS-Wsans/items/17601547dacef44c7360)
 
 [［解決！Python］リスト（配列）の要素を文字列のjoinメソッドで結合するには：解決！Python - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2212/27/news019.html)
-
-[Selenium × Python × HerokuでGoogle ClassroomをスクレイピングするBOTを作った](https://zenn.dev/cyber_hacnosuke/articles/70b8945783e135)
 
 [【Python】Python プロジェクト構成のベストプラクティス徹底ガイド #pydantic - Qiita](https://qiita.com/nozomi2025/items/a06e401384e566cd449a)
 
@@ -3765,10 +3735,6 @@
 
 [Ruby 単体で ActiveRecord を使いたい #Rails - Qiita](https://qiita.com/dnnnn_yu/items/027665ccb88de2fd9b55)
 
-[Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル] | 酒と涙とRubyとRailsと](https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/)
-
-[RubyでWebスクレイピング #2 初めてのNokogiri](https://zenn.dev/arao99/articles/5541a9bd74fd05)
-
 [Ruby on Rails 5.0 でMariaDBを扱う #mariadb - Qiita](https://qiita.com/MariMurotani/items/a34878916fcabfc3c638)
 
 [ActiveRecord にてデータベースへ再接続するには? – 株式会社ルーター](https://rooter.jp/programming/db/activerecord_reconnect/)
@@ -3821,17 +3787,11 @@
 
 [RailsのActiveRecordで、joinsメソッドやwhereメソッドで、ハッシュで条件を指定する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2023/03/05/214427)
 
-[Nokogiriを使った基礎的なWebスクレイピングを学びました #Ruby - Qiita](https://qiita.com/hirokun0204/items/d6e769ec594a4934e8a5)
-
 [Ruby CSVを扱うためのメモ #File - Qiita](https://qiita.com/shizuma/items/7719172eb5e8c29a7d6e)
 
 [Rubyでヘッダ付きのCSVを生成する | 秋山ブログ](https://d.akiroom.com/2013-04/ruby-header-csv/)
 
-[RubyでWebスクレイピング #3 Nokogiriを使いこなす](https://zenn.dev/arao99/articles/a68d8039f85fa8)
-
 [Nokogiriで使えるcssセレクタまとめ #Ruby - Qiita](https://qiita.com/miyamasaru/items/0f0a0ccdd6daf683ecff)
-
-[Nokogiri でスクレイピングしていて レイアウトが変わると困る！ – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_scraping_patch/)
 
 [Rubyのクラスメソッドとインスタンスメソッドの例 #Ruby - Qiita](https://qiita.com/tbpgr/items/56eb65c0ea5882abbb07)
 
@@ -3879,8 +3839,6 @@
 
 [bundle execって必要なの? #Ruby - Qiita](https://qiita.com/d0ne1s/items/fa2dafcee02e963fe997)
 
-[JavaScript描画のhtmlをrubyのgem:mini_racerを使ってスクレイピングする – 株式会社ルーター](https://rooter.jp/web-crawling/scraping_with_mini_racer/)
-
 [chrome_remoteという選択（脱Selenium大作戦） – 株式会社ルーター](https://rooter.jp/web-crawling/chrome_remote/)
 
 [Rails(Ruby)でBase64化された画像を取り回すときのSnippet #Rails - Qiita](https://qiita.com/maruware/items/407fc668f06e7784b198)
@@ -3892,8 +3850,6 @@
 [CapybaraでJSを使ったテストは save_screenshot が便利 #JavaScript - Qiita](https://qiita.com/showwin/items/cf047bfd9a3c08781bf7)
 
 [Webページのスクリーンショットを撮るアプリを作った | oknm.jp](https://oknm.jp/posts/61aa58dcf2dda1f2729c2feff47946f6f0eada96)
-
-[RubyでChromeを自動操縦してスクレイピング](https://zenn.dev/koxya/articles/f5baa8ddb813ad)
 
 [【ActiveRecord】レコード数を取得するにはlengthやcountではなくsizeを使っておけば良さそう - やわらかテック](https://www.okb-shelf.work/entry/activerecord_count_record)
 
@@ -4141,13 +4097,11 @@
 
 [【Ruby】ハッシュとJSONの変換メモ #Ruby - Qiita](https://qiita.com/kure/items/3f81a4e1a24d07104596)
 
-[[入門編] RubyからGoogleスプレッドシートを操作する簡単チュートリアル – 株式会社ルーター](https://rooter.jp/web-crawling/how_to_arrange_spreadsheet_by_ruby/)
-
 [スクレイピングにも便利なHashクラスメソッドを紹介します – 株式会社ルーター](https://rooter.jp/no-category/introduce-hash/)
 
-[Rubyの多次元hashから目的の値がある位置を検索する方法 – 株式会社ルーター](https://rooter.jp/data-format/hash_search/)
+[[入門編] RubyからGoogleスプレッドシートを操作する簡単チュートリアル – 株式会社ルーター](https://rooter.jp/web-crawling/how_to_arrange_spreadsheet_by_ruby/)
 
-[Mechanizeを使ってログインが必要なページをスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/mechanize_beginning/)
+[Rubyの多次元hashから目的の値がある位置を検索する方法 – 株式会社ルーター](https://rooter.jp/data-format/hash_search/)
 
 [Rubyで簡易的なログ出力 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_easy_log/)
 
@@ -4206,6 +4160,62 @@
 [Rustってどんなプログラミング言語？特徴から考える実用性とは](https://hnavi.co.jp/knowledge/blog/rust/)
 
 [あなたのRustすぐにパニックしませんか？ - unwrap of Death - #コーディング規約 - Qiita](https://qiita.com/komasayuki/items/8a70058bb13e394d834d)
+
+
+
+## Scraping
+
+[職業スクレイピングエンジニアが考える、Webクローリング・Webスクレイピングとは？ – 株式会社ルーター](https://rooter.jp/web-crawling/what-is-web-crawling/)
+
+[スクレイピング(RPA)を支える技術-環境構築＆初級編 – 株式会社ルーター](https://rooter.jp/web-crawling/tech-for-scraping-beginner/)
+
+[Mechanizeを使ってログインが必要なページをスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/mechanize_beginning/)
+
+[RubyでChromeを自動操縦してスクレイピング](https://zenn.dev/koxya/articles/f5baa8ddb813ad)
+
+[JavaScript描画のhtmlをrubyのgem:mini_racerを使ってスクレイピングする – 株式会社ルーター](https://rooter.jp/web-crawling/scraping_with_mini_racer/)
+
+[Nokogiri でスクレイピングしていて レイアウトが変わると困る！ – 株式会社ルーター](https://rooter.jp/web-crawling/nokogiri_scraping_patch/)
+
+[RubyでWebスクレイピング #3 Nokogiriを使いこなす](https://zenn.dev/arao99/articles/a68d8039f85fa8)
+
+[Nokogiriを使った基礎的なWebスクレイピングを学びました #Ruby - Qiita](https://qiita.com/hirokun0204/items/d6e769ec594a4934e8a5)
+
+[Nokogiriを使ったRubyスクレイピング [初心者向けチュートリアル] | 酒と涙とRubyとRailsと](https://morizyun.github.io/blog/ruby-nokogiri-scraping-tutorial/)
+
+[RubyでWebスクレイピング #2 初めてのNokogiri](https://zenn.dev/arao99/articles/5541a9bd74fd05)
+
+[【Python】Webスクレイピングの注意点を詳しく解説](https://zenn.dev/nuinui/articles/013bbbd5a7fd2b)
+
+[Selenium × Python × HerokuでGoogle ClassroomをスクレイピングするBOTを作った](https://zenn.dev/cyber_hacnosuke/articles/70b8945783e135)
+
+[[Q&A] shadow-rootで囲まれたテキストボックスのスクレイピング方法について - Qiita](https://qiita.com/shumaiuma/questions/2116f1d0cd86d8d0ae8d)
+
+[【徹底解説】スクレイピングとは｜初心者にも分かるスクレイピングに関する解説! #Python - Qiita](https://qiita.com/Octoparse_Japan/items/3a766a5615d82674b873)
+
+[Pythonで手軽に始めるWebスクレイピング #初心者 - Qiita](https://qiita.com/Moh_no/items/a835f77b6b4e3972fbbe)
+
+[【Python3】ログイン機能付サイトでスクレイピング【requests】【BeautifulSoup】 #login - Qiita](https://qiita.com/syunyo/items/36af8bcb501baf8c7014)
+
+[PDFスクレイピング手法全公開 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_scraping/)
+
+[403エラーとは？Webスクレイピング実行時のエラー解決方法を解説 #スクレイピング - Qiita](https://qiita.com/Octoparse_Japan/items/1faac7a19091a5964e2d)
+
+[スクレイピングで使うCSSセレクタ　基礎編 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-connector/)
+
+[スクレイピングに便利なCSSセレクタ記事まとめ【効率よく探すコツも】 – 株式会社ルーター](https://rooter.jp/web-crawling/css-selector-in-scraping/)
+
+[Google Apps ScriptでCSSセレクタを用いたスクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/scrape-with-css-selector-in-gas/)
+
+[curlを使ったスクレイピング](https://brightdata.jp/blog/%E5%90%84%E7%A8%AE%E3%81%94%E5%88%A9%E7%94%A8%E6%96%B9%E6%B3%95/how-to-use-curl-for-web-scraping)
+
+[[走り書き]Selenium + Chrome 136以降で標準プロファイルを読み込めない #スクレイピング - Qiita](https://qiita.com/203mmH/items/7ef4d8c29d4fea159e67)
+
+[chrome_remoteでframeやiframe内の要素をスクレイピングする方法｜Facebookシェア数の取得手順 – 株式会社ルーター](https://rooter.jp/web-crawling/chrome-remote-frame-iframe-element-access/)
+
+[chrome_remoteを使ってchromeの機能拡張をスクレイピングできるか？ – 株式会社ルーター](https://rooter.jp/web-crawling/line_scraping_via_chrome_extention/)
+
+[X（旧 Twitter）からデータをスクレイピング・取得する方法 #スクレイピングツール - Qiita](https://qiita.com/Octoparse_Japan/items/77d23518a22e0055d088)
 
 
 
@@ -5341,10 +5351,6 @@
 [「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
 
 [ディレクトリ構成図を書くときに便利な記号 #Windows - Qiita](https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6)
-
-[職業スクレイピングエンジニアが考える、Webクローリング・Webスクレイピングとは？ – 株式会社ルーター](https://rooter.jp/web-crawling/what-is-web-crawling/)
-
-[スクレイピング(RPA)を支える技術-環境構築＆初級編 – 株式会社ルーター](https://rooter.jp/web-crawling/tech-for-scraping-beginner/)
 
 [メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
 

@@ -1553,17 +1553,9 @@
 
 [【PostgreSQL】docker-composeで起動と初期データ投入 #Docker - Qiita](https://qiita.com/ke_suke0215/items/90deba2bf484293000fc)
 
-[Docker ComposeとSQLiteでMetabaseを構築してみる #docker-compose - Qiita](https://qiita.com/h_tyokinuhata/items/4f2e72a826b1fd745cce)
-
 [DockerでMySQL環境構築](https://zenn.dev/ryo7/articles/create-mysql-on-docker)
 
 [docker-composeを使って最高の開発環境を手に入れた](https://muunyblue.github.io/7d128c1d4a33165a8676d1650d8ff828.html#_5)
-
-[[01] デフォルト環境 runserver + SQLite3 の構築 #Docker - Qiita](https://qiita.com/robozushi10/items/fc8e40ad7ecc29131ea3)
-
-[Dockerコンテナ上のDebianでSQLite3をビルドしたときのメモ - dullwhaleのメモ帳](https://dullwhale-public.hateblo.jp/entry/2022/03/11/163639)
-
-[Docker で PHP + SQLite3 の開発環境を構築する – Ewig Leere(Lab2)](https://labor.ewigleere.net/2021/05/01/sqlite-docker/)
 
 [【Docker】ボリュームとは #初心者向け - Qiita](https://qiita.com/10sya/items/7df2364e163e5dfea45c)
 
@@ -4627,6 +4619,20 @@
 
 
 
+## Sqlite
+
+[python3でsqlite3の操作。作成や読み出しなどの基礎。 #Python - Qiita](https://qiita.com/saira/items/e08c8849cea6c3b5eb0c)
+
+[Docker ComposeとSQLiteでMetabaseを構築してみる #docker-compose - Qiita](https://qiita.com/h_tyokinuhata/items/4f2e72a826b1fd745cce)
+
+[[01] デフォルト環境 runserver + SQLite3 の構築 #Docker - Qiita](https://qiita.com/robozushi10/items/fc8e40ad7ecc29131ea3)
+
+[Dockerコンテナ上のDebianでSQLite3をビルドしたときのメモ - dullwhaleのメモ帳](https://dullwhale-public.hateblo.jp/entry/2022/03/11/163639)
+
+[Docker で PHP + SQLite3 の開発環境を構築する – Ewig Leere(Lab2)](https://labor.ewigleere.net/2021/05/01/sqlite-docker/)
+
+
+
 ## Streamlit
 
 [【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
@@ -4672,6 +4678,14 @@
 [【StreamlitでWebアプリ作成】<<第9回>>テキスト・数値入力を使う](https://cafe-mickey.com/python/streamlit-9/)
 
 [Streamlit まとめ](https://qiita.com/not13/items/dcd8c12d64982dc0e819)
+
+[[Streamlit] ローカル環境か否かで処理を分岐](https://zenn.dev/shimat/articles/0c00e3c83d8cf0)
+
+[Python Streamlitで任意の書式を設定したい場合にはwrite()関数でunsafe_allow_html引数をTrueとする](https://zenn.dev/teruroom/scraps/15ea006d7b61fc)
+
+[【Streamlit】st.column_config.LinkColumnの基本と使い方 | アマチュア無線局JS2IIU](https://js2iiu.com/2024/11/27/streamlitst-column_config-linkcolumn/)
+
+[streamlitを使ったお手軽Webアプリ開発 #Python - Qiita](https://qiita.com/sypn/items/80962d84126be4092d3c)
 
 
 

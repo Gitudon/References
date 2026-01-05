@@ -5076,6 +5076,22 @@
 
 [【Python】VSCodeで関数の引数名を表示する神機能 #tips - Qiita](https://qiita.com/eycjur/items/bb67d5927755658786c8#%E3%81%9D%E3%81%AE%E4%BB%96%E3%81%AEtips)
 
+[Visual Studio Codeの設定「虎の巻」：配色編：特集：Visual Studio Codeを使いこなせ（1/4 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1709/15/news027.html)
+
+[【VSCode】TODOコメントをツリー表示する方法 #VSCode - Qiita](https://qiita.com/P-man_Brown/items/b42509106fca63e06809)
+
+[VS Code拡張機能の「Todo Tree」で検出されないTODOコメント](https://zenn.dev/sooyama/articles/cad29cfdd177d9)
+
+[VSCodeでTODOをツリー上で表示してくれる拡張機能 (Todo Tree) - いろいろ備忘録日記](https://devlights.hatenablog.com/entry/2025/09/01/073000)
+
+[【VSCode】TODOコメントを一覧表示する方法 #VSCode-Extension - Qiita](https://qiita.com/P-man_Brown/items/8a1ec53610e4c1f2bd5d)
+
+[TODO検索できるVS Code拡張「Todo tree」 忘れないうちにTODOを残そう](https://zenn.dev/posita33/articles/vscode_extension_todo_tree)
+
+[【VScode】コメントを管理しやすくするおすすめの拡張機能と利用方法](https://zenn.dev/harx/articles/41a24bbb552815)
+
+[VSCode に必ず入れておきたい拡張機能 #新人プログラマ応援 - Qiita](https://qiita.com/ucan-lab/items/e85931bf8276da43cc97#todo-tree)
+
 
 
 ## Vue.js

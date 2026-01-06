@@ -546,6 +546,16 @@
 
 
 
+## Blog
+
+[【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
+
+[はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
+
+[[意見交換] Qiita記事の見出しレベルは1と2のどちらから始めるべきか - Qiita](https://qiita.com/yusuke_s_yusuke/questions/f445294afd222fbc4001)
+
+
+
 ## C
 
 [1. FIRフィルタ](https://tmytokai.github.io/open-ed/activity/d-filter/text02/page01.html)
@@ -5356,21 +5366,15 @@
 
 ## Etc
 
-[【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
-
 [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
-
-[はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
 
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
-
-[[意見交換] Qiita記事の見出しレベルは1と2のどちらから始めるべきか - Qiita](https://qiita.com/yusuke_s_yusuke/questions/f445294afd222fbc4001)
 
 [【備忘録】改行コード「CR」「LF」「CRLF」の違い #改行コード - Qiita](https://qiita.com/sbeleg_77/items/833de09f7bca24bc8ab8)
 

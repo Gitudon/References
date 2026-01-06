@@ -864,8 +864,6 @@
 
 [jqコマンドだけでYouTubeの動画の字幕を整形する – 株式会社ルーター](https://rooter.jp/web-crawling/youtube_caption_scraping/)
 
-[【備忘】SSHコマンドで出力されるエラーに色々対応したお話 | ばちブロ](https://gametech.vatchlog.com/2023/06/02/ssh-bibou/)
-
 [【Bash】コマンドをクリップボードにコピー #Linux - Qiita](https://qiita.com/kagami_t/items/84f6ec3142a8b370d908)
 
 [mvコマンドでファイル(ディレクトリ)名の変更、移動 #Linux - Qiita](https://qiita.com/nasuB7373/items/f46fe8dc7ffc7a26b249)
@@ -887,8 +885,6 @@
 [protocの使い方 - Carpe Diem](https://christina04.hatenablog.com/entry/protoc-usage)
 
 [sftpクライアントをバッチで動かしたいならrcloneが便利 – 株式会社ルーター](https://rooter.jp/environment/sftp-connection-with-rclone/)
-
-[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
 
 [Linux ファイルの文字コード確認・変換 #Linuxコマンド - Qiita](https://qiita.com/H_Neco/items/48fa2eaaa0d9af2e45fe)
 
@@ -994,8 +990,6 @@
 
 [PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
 
-[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
-
 [DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
 
 [ubuntuですぐにシャットダウンする方法 #Linux - Qiita](https://qiita.com/akinami/items/ada95b72e43a36eeebc1)
@@ -1024,6 +1018,12 @@
 [「アﾞッﾞッﾞ！！」本番サーバーを指先１つでダウンさせた男 〜I am Shock〜 #ポエム - Qiita](https://qiita.com/NCS/items/14de4741899a279e07c9)
 
 [cat - ファイルを連結して出力する - IBM Documentation](https://www.ibm.com/docs/ja/i/7.4.0?topic=directories-cat)
+
+[SFTPコマンドのチートシート](https://sftptogo.com/blog/jp/sftp-commands-cheat-sheet-jp/)
+
+[sftpコマンドまとめ](https://chaingng.github.io/post/sftp_command/)
+
+[【Linux】sftpコマンドで接続！get, putの使い方を覚えよう！【ssh configを使えば簡単！】｜フェルメール株式会社](https://vermeer.co.jp/archives/191)
 
 
 
@@ -1823,8 +1823,6 @@
 
 [Github Pagesの使い方まとめ #GitHub - Qiita](https://qiita.com/snow_swallow/items/631bbceabbb953da2646)
 
-[GitLabにSSHで接続するまでの手順 #GitLab - Qiita](https://qiita.com/kyamawaki/items/07fb3332cf3c2f47728a)
-
 [【GitHub】今さら聞けないGitHubグループアカウント作成方法（組織） #GitHub - Qiita](https://qiita.com/c_tomioka/items/a1344a8a0b6d2a507631)
 
 [リモートから特定のブランチを指定してcloneする #Git - Qiita](https://qiita.com/icoxfog417/items/5776e0f0f758f0f0e48a)
@@ -1852,8 +1850,6 @@
 [Git を利用した開発環境・テスト環境・本番環境の構成 | ソフトウェア雑記](https://softwarenote.info/p2066/)
 
 [Gitの基本的運用を模索する #Git - Qiita](https://qiita.com/BlueSilverCat/items/b1de46eb8e673f9eeee1)
-
-[【GitHub】sshでID/Passwordの入力を省略するための一番簡単な手順 #SSH - Qiita](https://qiita.com/kome1996/items/a1335733dd95926c1adb)
 
 [大学の研究室におけるGithubのすゝめ #GitHub - Qiita](https://qiita.com/ryoaki374/items/b2808e6d5dc6efe79b76)
 
@@ -1891,10 +1887,6 @@
 
 [GitHub Copilot導入後、初めて使う時。(豊富な使用例付き)](https://qiita.com/masakinihirota/items/0e58a6b921e4420a2882)
 
-[BitbucketにSSH認証鍵を設定する #Git - Qiita](https://qiita.com/0084ken/items/e763c85054a5a1e2cc6c)
-
-[SSH認証鍵をBitbucketに設定 #Git - Qiita](https://qiita.com/ksugawara61/items/a4f34e5e120bea1732d5)
-
 [Github ローカルリポジトリをリモートリポジトリと紐づける #Mac - Qiita](https://qiita.com/miriwo/items/a7be71f6a238b09eda10)
 
 [【Git】コミット履歴の閲覧 #Git - Qiita](https://qiita.com/Qiu/items/6a7521feede117b63c7b)
@@ -1910,8 +1902,6 @@
 [【git】git でコンフリクトさせて解消してみる #Git - Qiita](https://qiita.com/narikkyo/items/50063fe3cf849fa570fc)
 
 [【Git/GitHub/エラー解消法】git pushしたらConflicting filesが発生した時の解消方法 - 気ままに気ままのエンジニアブログ](https://hachimaki37.hatenablog.com/entry/2021/04/14/194312)
-
-[SSHでgit cloneする（gitlab） #Git - Qiita](https://qiita.com/altblanc/items/2ddcfa68ece7a68aff3d)
 
 [【git】ブランチ名の変更方法(ローカル、リモート) #Git - Qiita](https://qiita.com/shungo_m/items/4218e70751375b4bfeec)
 
@@ -2613,8 +2603,6 @@
 
 [Linuxのネットワーク設定備忘録 #CentOS - Qiita](https://qiita.com/Pochichi/items/68983eeada77ea54206f)
 
-[rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
-
 [【Linux初級】WEBサーバー構築手順【Apache】](https://qiita.com/takxxx_infra/items/0b721f05b5f4d2ec5340)
 
 [isi-webnet.co.jp/interdoctor/chotlectur13.htm](http://www.isi-webnet.co.jp/interdoctor/chotlectur13.htm)
@@ -2636,8 +2624,6 @@
 [vmware、UbuntuとLinuxの違い、WSL2について #雑記 - Qiita](https://qiita.com/gen_san/items/12005592cd5050bb3c9a)
 
 [【初心者必見】Linuxをインストールする方法〜導入編〜](https://www.sejuku.net/blog/49403)
-
-[SSH接続に対するエラーを、サーバ全体で行う #Linux - Qiita](https://qiita.com/itohdaigo/items/2f969e2db77f1de6621d)
 
 [Linux　環境変数について #Linux - Qiita](https://qiita.com/kiyomura10/items/cdf3ee9106256d7ab78a)
 
@@ -2833,25 +2819,9 @@
 
 [Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
 
-[どこへ行っても安心！SSHサーバーを踏み台にしてWebアクセスする方法 | LFI](https://linuxfan.info/ssh-dyamic-forward)
-
 [Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
 
-[EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
-
-[ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
-
 [「pingコマンド」のエラー原因と解決法まとめ #初心者 - Qiita](https://qiita.com/EkaTaro3/items/a111d6cb13e848a4fac1)
-
-[SSHできないときのトラブルシューティング #SSH - Qiita](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
-
-[SSHできないときのトラブルシューティング](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
-
-[SSHの接続拒否エラーを解決するには](https://kinsta.com/jp/knowledgebase/ssh-connection-refused/)
-
-[SSHサーバへ接続出来ない・遅い時の原因と対処法](https://orebibou.com/ja/home/201412/20141218_001/)
-
-[SSH接続でのタイムアウト対策](https://zenn.dev/syommy_program/articles/c7bd0d0daa156c)
 
 [グローバルIPアドレスとプライベートIPアドレスの違いとは？【初心者向け・図解付】 | 情シスマン](https://www.gate02.ne.jp/media/it/column_98/)
 
@@ -2860,10 +2830,6 @@
 [Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
 
 [Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
-
-[ssh-keygen - マニュアルページセク ション 1: ユーザーコマンド](https://docs.oracle.com/cd/E56342_01/html/E54074/ssh-keygen-1.html)
-
-[SSH鍵の作成方法と -t -C オプションのすすめ #SSH - Qiita](https://qiita.com/ryemug1/items/bacf6e6583656f3cf0d1)
 
 [Netplanの使い方 - komeの備忘録](https://www.komee.org/entry/2018/06/12/181400#%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
 
@@ -2884,8 +2850,6 @@
 [Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
 
 [【基本情報技術者】IPアドレスのクラス #基本情報技術者試験 - Qiita](https://qiita.com/pieceofmysoul1225/items/b75f5d00ca40de49b8b8)
-
-[SSHのconfigファイルで複数の接続先を管理する #SSH - Qiita](https://qiita.com/muniere/items/edc5dbd9799041071d63)
 
 ["*****"のサーバー IP アドレスが見つかりませんでした（第二回目の投稿)｜ヒロ－シン](https://note.com/yoshida_sin/n/nf46f4d50cee8)
 
@@ -3486,8 +3450,6 @@
 [土日で完成！ 趣味のラズパイ　ラズパイをNTPサーバーにする | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230620_ntp_server.html)
 
 [土日で完成！ 趣味のラズパイ　GPSを導入して正確な時刻を刻む | fabcross](https://fabcross.jp/category/make/hobby_raspberrypi/20230808_gps.html)
-
-[RaspberryPiにUbuntuサーバーを入れて公開鍵とGoogle Authenticator使ってSSHするまで - どっかの元高専生の技術備忘録](https://datsuka-qwerty.hatenablog.com/entry/linuxtips/rasp-setup-ssh-2fa)
 
 [挿すだけでラズパイのIPアドレスを表示するUSBデバイスを自作 - FabScene（ファブシーン）](https://fabscene.com/new/make/rp2350-usb-raspberry-pi-ip-address-display-diy/)
 
@@ -4285,10 +4247,6 @@
 
 [Proxmoxについて知る #proxmox - Qiita](https://qiita.com/C_Kenta/items/273cf6b5db1a6d9b4873)
 
-[MacでCiscoにSSHしようとしたらエラーが出る #Linux - Qiita](https://qiita.com/Fuuma/items/4eaac6c86f934bd46a03)
-
-[macでssh接続をしたときno matching key exchange method found. Their offer: diffie-hellman-group1-sha1と言われて接続できない - しまむーの備忘録](https://shsm385.hatenablog.com/entry/2018/10/17/161258)
-
 [ADサーバーが消えた日 #ポエム - Qiita](https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2)
 
 [プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
@@ -4637,6 +4595,78 @@
 
 
 
+## SSH
+
+[sshd_configで接続元によって認証方法を変更するための設定 #SSH - Qiita](https://qiita.com/ljourm/items/c38d1287be2f5d9eaa35)
+
+[[ssh]sshd_configで使うMatchについて » ADACHIN SERVER LABO](https://blog.adachin.me/archives/2278)
+
+[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
+
+[SSHログインにGoogle Authenticatorを使用する - SIOS SECURITY BLOG](https://security.sios.jp/security/ssh_google_authenticator/)
+
+[Ubuntu 16.04 LTSでGoogle Authenticatorによるワンタイムパスワードを用いたsshログイン時の二要素認証 | 俺的備忘録 〜なんかいろいろ〜](https://orebibou.com/ja/home/201607/20160727_002/)
+
+[どこへ行っても安心！SSHサーバーを踏み台にしてWebアクセスする方法 | LFI](https://linuxfan.info/ssh-dyamic-forward)
+
+[rootユーザーでssh接続する方法 #VSCode - Qiita](https://qiita.com/Syusuke/items/02ad9b230e365a479488)
+
+[【GitHub】sshでID/Passwordの入力を省略するための一番簡単な手順 #SSH - Qiita](https://qiita.com/kome1996/items/a1335733dd95926c1adb)
+
+[自作タブ補完入門~sshコマンドのタブ補完で複数のconfigファイルのホストを表示する~ – 株式会社ルーター](https://rooter.jp/environment/homemade-sshcompletion/)
+
+[【備忘】SSHコマンドで出力されるエラーに色々対応したお話 | ばちブロ](https://gametech.vatchlog.com/2023/06/02/ssh-bibou/)
+
+[EC2へのssh接続がすぐ切れる問題解消](https://zenn.dev/kawasaki8108/articles/20240226-sshtimeout)
+
+[ssh接続の切断－各種原因と対策](https://turgenev.hatenablog.com/entry/2023/12/06/172750)
+
+[SSHできないときのトラブルシューティング #SSH - Qiita](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[SSHできないときのトラブルシューティング](https://qiita.com/ryuichi1208/items/4151110327584c971f11)
+
+[SSHの接続拒否エラーを解決するには](https://kinsta.com/jp/knowledgebase/ssh-connection-refused/)
+
+[SSHサーバへ接続出来ない・遅い時の原因と対処法](https://orebibou.com/ja/home/201412/20141218_001/)
+
+[SSH接続でのタイムアウト対策](https://zenn.dev/syommy_program/articles/c7bd0d0daa156c)
+
+[MacでCiscoにSSHしようとしたらエラーが出る #Linux - Qiita](https://qiita.com/Fuuma/items/4eaac6c86f934bd46a03)
+
+[macでssh接続をしたときno matching key exchange method found. Their offer: diffie-hellman-group1-sha1と言われて接続できない - しまむーの備忘録](https://shsm385.hatenablog.com/entry/2018/10/17/161258)
+
+[RaspberryPiにUbuntuサーバーを入れて公開鍵とGoogle Authenticator使ってSSHするまで - どっかの元高専生の技術備忘録](https://datsuka-qwerty.hatenablog.com/entry/linuxtips/rasp-setup-ssh-2fa)
+
+[SSHのconfigファイルで複数の接続先を管理する #SSH - Qiita](https://qiita.com/muniere/items/edc5dbd9799041071d63)
+
+[ssh-keygen - マニュアルページセク ション 1: ユーザーコマンド](https://docs.oracle.com/cd/E56342_01/html/E54074/ssh-keygen-1.html)
+
+[SSH鍵の作成方法と -t -C オプションのすすめ #SSH - Qiita](https://qiita.com/ryemug1/items/bacf6e6583656f3cf0d1)
+
+[SSH接続に対するエラーを、サーバ全体で行う #Linux - Qiita](https://qiita.com/itohdaigo/items/2f969e2db77f1de6621d)
+
+[SSHでgit cloneする（gitlab） #Git - Qiita](https://qiita.com/altblanc/items/2ddcfa68ece7a68aff3d)
+
+[BitbucketにSSH認証鍵を設定する #Git - Qiita](https://qiita.com/0084ken/items/e763c85054a5a1e2cc6c)
+
+[SSH認証鍵をBitbucketに設定 #Git - Qiita](https://qiita.com/ksugawara61/items/a4f34e5e120bea1732d5)
+
+[GitLabにSSHで接続するまでの手順 #GitLab - Qiita](https://qiita.com/kyamawaki/items/07fb3332cf3c2f47728a)
+
+[Visual Studio CodeでのSSH接続により、EC2サーバーが高負荷になり動かなくなった](https://tech.excite.co.jp/entry/2022/09/27/153341)
+
+[【Tips】VSCode のRemote-SSH が遅い！と思ったら（VMWare Player使用下） #VSCode - Qiita](https://qiita.com/skokado/items/fdef6befcb0d3e164276)
+
+[VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
+
+[「VS Code」の拡張機能「Remote SSH」にてSSH接続中、接続先のCPUを占有する件の対策【rg】](https://narwhale.net/post-584/)
+
+[Google Authenticatorを使ってSSHに二段階認証を組み込んでみる - Luciferous Report](https://luciferous-report.hatenablog.com/entry/2016/11/18/021234)
+
+[【Ubuntu 22.04】【OpenSSH】SHA-1 関連の接続許可(ver 8系) | NE-Lab](https://www.ne-lab.com/platform/linux/2023/11/718/)
+
+
+
 ## Streamlit
 
 [【Python】Streamlitで出てきたエラーと解決策のメモ [ 重複エラーver ] | LOGIWAKA](https://blockchainnft.tech/?p=511)
@@ -4825,8 +4855,6 @@
 
 [お気に入りの Ubuntu キーバインド設定(i,j,k,l) #bashrc - Qiita](https://qiita.com/guchipon/items/a038ae156a670123cd16)
 
-[【Ubuntu 22.04】【OpenSSH】SHA-1 関連の接続許可(ver 8系) | NE-Lab](https://www.ne-lab.com/platform/linux/2023/11/718/)
-
 [Ubuntu14.10でメモリの使用状況を確認する #Linux - Qiita](https://qiita.com/shinyashikis@github/items/7eb33f22cc6ad02f37ea)
 
 [Ubuntuでのdebパッケージのインストール方法 - オープンソースの力を活用する方法～Ubuntuの世界へようこそ～](https://www.linux.digibeatrix.com/software-and-app-management/install-deb-packages-ubuntu/)
@@ -4854,12 +4882,6 @@
 [apt installのトラブルシューティング #Linux - Qiita](https://qiita.com/pyon_kiti_jp/items/78a239fe4ad2ce86a84e)
 
 [【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
-
-[SSHログインにGoogle Authenticatorを使用する - SIOS SECURITY BLOG](https://security.sios.jp/security/ssh_google_authenticator/)
-
-[Google Authenticatorを使ってSSHに二段階認証を組み込んでみる - Luciferous Report](https://luciferous-report.hatenablog.com/entry/2016/11/18/021234)
-
-[Ubuntu 16.04 LTSでGoogle Authenticatorによるワンタイムパスワードを用いたsshログイン時の二要素認証 | 俺的備忘録 〜なんかいろいろ〜](https://orebibou.com/ja/home/201607/20160727_002/)
 
 [第508回　Ubuntuでコマンドラインからワンタイムパスワードを扱う | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
 
@@ -5002,8 +5024,6 @@
 
 [VSCodeの折りたたみについて](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
 
-[Visual Studio CodeでのSSH接続により、EC2サーバーが高負荷になり動かなくなった](https://tech.excite.co.jp/entry/2022/09/27/153341)
-
 [VSCodeの拡張機能「Code Spell Checker」を使う | yokuaru Tech notes](https://yamaccu.github.io/vscode/20230512-vscode-spellcheck)
 
 [VSCodeのDraw.ioのダークテーマを解除する - BioErrorLog Tech Blog](https://www.bioerrorlog.work/entry/vscode-drawio-dark-theme)
@@ -5041,12 +5061,6 @@
 [VSCodeの便利なショートカットキー（検索と置換系）](https://zenn.dev/uniformnext/articles/0edccd0c681474)
 
 [VSCodeの折りたたみについて #VSCode - Qiita](https://qiita.com/UMA9626/items/3013f5c13dd79679d666)
-
-[【Tips】VSCode のRemote-SSH が遅い！と思ったら（VMWare Player使用下） #VSCode - Qiita](https://qiita.com/skokado/items/fdef6befcb0d3e164276)
-
-[VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
-
-[「VS Code」の拡張機能「Remote SSH」にてSSH接続中、接続先のCPUを占有する件の対策【rg】](https://narwhale.net/post-584/)
 
 [Visual Studio Codeに入れるべき拡張機能【2024年最新版】 #VSCode - Qiita](https://qiita.com/qrrq/items/0e116a59743874d18cb1)
 

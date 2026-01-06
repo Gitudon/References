@@ -1359,6 +1359,28 @@
 
 [ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
 
+[Intellij系のIDEと.ideaディレクトリについて - らせんびより](https://naomichi-h.hatenablog.com/entry/2022/11/06/171021)
+
+[ディレクトリ構成図を書くときに便利な記号 #Windows - Qiita](https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6)
+
+[/lost+found,sync,VFS,/proc/filesystems #Linux - Qiita](https://qiita.com/ss12345/items/50152c419206085201ea)
+
+[/bin, /usr/bin, /usr/sbin, /usr/local/bin の違いとは？ #Linux - Qiita](https://qiita.com/valzer0/items/67a4c8bf2b1be0fc825a)
+
+[FHSの「/mnt,/media」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/mnt_fhs)
+
+[Linuxディレクトリ構造 #Ubuntu - Qiita](https://qiita.com/nys9302/items/a8ddeedd3cd9d0deb332)
+
+[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
+
+[Linuxのディレクトリ構造 #Linux - Qiita](https://qiita.com/danieltanaka/items/65a596f874e7a6fcf579)
+
+[FHSの「/run」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/run_fhs)
+
+[FHSの「/srv」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/srv_fhs)
+
+[開発ディレクトリ構成 ベストプラクティス](https://zenn.dev/moneyforward/articles/dev-directory-structure)
+
 
 
 ## Discord
@@ -1986,8 +2008,6 @@
 [Gitのtagを理解する #初心者 - Qiita](https://qiita.com/k-penguin-sato/items/c62b47dd79f144c68dad)
 
 [.gitignoreに記載したのに反映されない件 #Git - Qiita](https://qiita.com/fuwamaki/items/3ed021163e50beab7154)
-
-[開発ディレクトリ構成 ベストプラクティス](https://zenn.dev/moneyforward/articles/dev-directory-structure)
 
 [リポジトリファイルAPI | GitLab](https://gitlab-docs.creationline.com/ee/api/repository_files.html)
 
@@ -2651,25 +2671,9 @@
 
 [パッケージ管理について - Linux技術者認定 LinuC | LPI-Japan](https://linuc.org/study/column/7078/)
 
-[Linuxディレクトリ構造 #Ubuntu - Qiita](https://qiita.com/nys9302/items/a8ddeedd3cd9d0deb332)
-
-[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
-
-[/lost+found,sync,VFS,/proc/filesystems #Linux - Qiita](https://qiita.com/ss12345/items/50152c419206085201ea)
-
-[/bin, /usr/bin, /usr/sbin, /usr/local/bin の違いとは？ #Linux - Qiita](https://qiita.com/valzer0/items/67a4c8bf2b1be0fc825a)
-
-[FHSの「/mnt,/media」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/mnt_fhs)
-
-[FHSの「/run」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/run_fhs)
-
-[FHSの「/srv」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/srv_fhs)
-
 [ターミナルでほのぼの #Linux - Qiita](https://qiita.com/yuukikun666/items/a12bf44ee8c8c0c72ed3)
 
 [Linux入門③:権限とユーザー管理を理解する（chmod／sudo 入門） #Linux - Qiita](https://qiita.com/lumiera78/items/8bd35a2e1b03882c6cf5)
-
-[Linuxのディレクトリ構造 #Linux - Qiita](https://qiita.com/danieltanaka/items/65a596f874e7a6fcf579)
 
 [Linux – apt の自動アップデートと停止方法 | pystyle](https://pystyle.info/linux-apt-auto-update)
 
@@ -5392,8 +5396,6 @@
 
 [git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 
-[Intellij系のIDEと.ideaディレクトリについて - らせんびより](https://naomichi-h.hatenablog.com/entry/2022/11/06/171021)
-
 [「LINEにアクセスできません」とエラーが出た時の対処法まとめ｜株式会社Tenorshare](https://note.com/tenorsharejp/n/n485277e69950)
 
 [【最新】7つの方法で「LINEにアクセスできません」不具合を解決](https://www.imobie.jp/support/line-connection-error.htm)
@@ -5415,8 +5417,6 @@
 [乱雑なコードの整理から学ぶ設計の初歩 - Speaker Deck](https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu)
 
 [「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
-
-[ディレクトリ構成図を書くときに便利な記号 #Windows - Qiita](https://qiita.com/paty-fakename/items/c82ed27b4070feeceff6)
 
 [メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
 

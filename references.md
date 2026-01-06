@@ -776,6 +776,16 @@
 
 
 
+## Codes
+
+[【備忘録】改行コード「CR」「LF」「CRLF」の違い #改行コード - Qiita](https://qiita.com/sbeleg_77/items/833de09f7bca24bc8ab8)
+
+[プログラムにおける終了コードとは？その役割とNode.jsでの活用例 #ShellScript - Qiita](https://qiita.com/tasukuwatanabe/items/da8e71e3427c9febddc4)
+
+[特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
+
+
+
 ## Coding
 
 [【プログラミング初心者向け】メソッドや関数を定義するときの考え方 - give IT a try](https://blog.jnito.com/entry/2022/07/14/092422)
@@ -5383,12 +5393,6 @@
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
-
-[【備忘録】改行コード「CR」「LF」「CRLF」の違い #改行コード - Qiita](https://qiita.com/sbeleg_77/items/833de09f7bca24bc8ab8)
-
-[プログラムにおける終了コードとは？その役割とNode.jsでの活用例 #ShellScript - Qiita](https://qiita.com/tasukuwatanabe/items/da8e71e3427c9febddc4)
-
-[特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
 

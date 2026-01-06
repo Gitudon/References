@@ -2991,6 +2991,14 @@
 
 
 
+## Package Manager
+
+[バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
+
+[ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
+
+
+
 ## PDF
 
 [PDFファイルに生データを添付する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/pdf_attached/)
@@ -5405,10 +5413,6 @@
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
-
-[バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
-
-[ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
 
 [git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
 

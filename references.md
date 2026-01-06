@@ -566,6 +566,8 @@
 
 [LINEの内部ブラウザを知っていますか？LINEの内部Webブラウザで閲覧しているかどうかを確認する方法](https://zenn.dev/aiq_dev/articles/edd2cb1248aef4)
 
+[プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
+
 
 
 ## C
@@ -1382,6 +1384,10 @@
 ## Development Process
 
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
+
+[乱雑なコードの整理から学ぶ設計の初歩 - Speaker Deck](https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu)
+
+[誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
 
 
@@ -4269,6 +4275,8 @@
 
 [sudoをパスワードレス認証で使いたい | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/33282)
 
+[「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
+
 
 
 ## Server
@@ -4432,6 +4440,10 @@
 ## SNS
 
 [Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
+
+[「LINEにアクセスできません」とエラーが出た時の対処法まとめ｜株式会社Tenorshare](https://note.com/tenorsharejp/n/n485277e69950)
+
+[【最新】7つの方法で「LINEにアクセスできません」不具合を解決](https://www.imobie.jp/support/line-connection-error.htm)
 
 
 
@@ -4810,6 +4822,16 @@
 ## Test
 
 [テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
+
+
+
+## Tool
+
+[git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
+
+[2025年に使い始めて良かったツール10選 #ClaudeCode - Qiita](https://qiita.com/takumi3488/items/3e398ae230e94144a20e)
+
+[2025年版: 開発環境のツールまとめ](https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment)
 
 
 
@@ -5414,19 +5436,11 @@
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
 
-[git以外のバージョン管理ツール4選 #まとめ - Qiita](https://qiita.com/CinnamonSea2073/items/9cbe06fb34ec40917075)
-
-[「LINEにアクセスできません」とエラーが出た時の対処法まとめ｜株式会社Tenorshare](https://note.com/tenorsharejp/n/n485277e69950)
-
-[【最新】7つの方法で「LINEにアクセスできません」不具合を解決](https://www.imobie.jp/support/line-connection-error.htm)
-
 [今まで追加した設定（随時更新）](https://zenn.dev/pb/articles/a82d08f3d92805)
 
 [異常精進は異常 #ポエム - Qiita](https://qiita.com/TrueRyoB/items/17dc50f5e51b6d1c32f3)
 
 [プログラミング雑記 2025/10/15 #AI - Qiita](https://qiita.com/ishisaka/items/4d613ba956a94cfea3c6)
-
-[プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
 
 [サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
 
@@ -5434,21 +5448,11 @@
 
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
 
-[乱雑なコードの整理から学ぶ設計の初歩 - Speaker Deck](https://speakerdeck.com/masuda220/luan-za-nakodonozheng-li-karaxue-bushe-ji-nochu-bu)
-
-[「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
-
 [メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
-
-[誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
 
-[2025年版: 開発環境のツールまとめ](https://zenn.dev/micin/articles/2025-12-19_k-ono65_dev_environment)
-
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
-
-[2025年に使い始めて良かったツール10選 #ClaudeCode - Qiita](https://qiita.com/takumi3488/items/3e398ae230e94144a20e)
 
 [プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ #ポエム - Qiita](https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327)
 

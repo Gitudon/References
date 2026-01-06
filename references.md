@@ -4659,8 +4659,6 @@
 
 [【Tips】VSCode のRemote-SSH が遅い！と思ったら（VMWare Player使用下） #VSCode - Qiita](https://qiita.com/skokado/items/fdef6befcb0d3e164276)
 
-[VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
-
 [「VS Code」の拡張機能「Remote SSH」にてSSH接続中、接続先のCPUを占有する件の対策【rg】](https://narwhale.net/post-584/)
 
 [Google Authenticatorを使ってSSHに二段階認証を組み込んでみる - Luciferous Report](https://luciferous-report.hatenablog.com/entry/2016/11/18/021234)
@@ -5111,6 +5109,8 @@
 [【VScode】コメントを管理しやすくするおすすめの拡張機能と利用方法](https://zenn.dev/harx/articles/41a24bbb552815)
 
 [VSCode に必ず入れておきたい拡張機能 #新人プログラマ応援 - Qiita](https://qiita.com/ucan-lab/items/e85931bf8276da43cc97#todo-tree)
+
+[VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
 
 
 

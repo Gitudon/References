@@ -4579,6 +4579,8 @@
 
 [MySQL | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mysql/database/index1.html)
 
+[MySQL で列名付き CSV ファイルを出力する #MySQL - Qiita](https://qiita.com/Umazular/items/b9e5580363d90780c3a8)
+
 
 
 ## Sqlite

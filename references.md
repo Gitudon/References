@@ -4743,6 +4743,12 @@
 
 
 
+## Test
+
+[テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
+
+
+
 ## TypeScript
 
 [ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
@@ -5345,8 +5351,6 @@
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
-
-[テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
 
 [プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 

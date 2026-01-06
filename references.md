@@ -1353,6 +1353,14 @@
 
 
 
+## Directly
+
+[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
+
+[ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
+
+
+
 ## Discord
 
 [discord.pyにおけるログイン時のイベントにおける処理の追加 #Python - Qiita](https://qiita.com/halglobe0108/items/71f40a065012c11e495c)
@@ -5344,13 +5352,9 @@
 
 ## Etc
 
-[【初学者向け】ディレクトリ構成の基本 #ディレクトリ構造 - Qiita](https://qiita.com/coticoticotty/items/a393236317f9002bd227)
-
 [【Qiita】目次が消えたと思ったら仕様変更だった](https://qiita.com/mihooo24/items/c268437d51a1bb59e43f)
 
 [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)
-
-[ディレクトリ名srcとかの謎と作法](https://tenderfeel.xsrv.jp/memo/1229/)
 
 [スマホやパソコンの画面に映る「白」と「黒」](https://note.com/zakka202/n/n120a94972e5b)
 

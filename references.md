@@ -2013,6 +2013,8 @@
 
 [2026 年も GitHub で人生を管理したい #タスク管理 - Qiita](https://qiita.com/e99h2121/items/45c62307565458964b94)
 
+[【git】aliasの設定方法 #初心者 - Qiita](https://qiita.com/chihiro/items/04813c707cc665de67c5)
+
 
 
 ## Go

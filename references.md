@@ -1079,20 +1079,6 @@
 
 
 
-## D
-
-[9x9 数独の答えになる組み合わせは何通りか #dlang - Qiita](https://qiita.com/devmynote/items/81c4bf8ccdc836fa2bd8)
-
-
-
-## Documents
-
-[システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
-
-[開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
-
-
-
 ## cURL
 
 [curl コマンドでブラウザを操作する #Selenium - Qiita](https://qiita.com/noritakaIzumi/items/e46d195b82331ef8caed)
@@ -1166,6 +1152,12 @@
 [cURL を Windows11 にインストールしてみた。 #Windows10 - Qiita](https://qiita.com/IoriGunji/items/db2141884c107b458c89)
 
 [API通信の理解を深めよう！〜Curlを使用してHTTPリクエスト・レスポンスを理解する〜 #Swift - Qiita](https://qiita.com/hinakko/items/9466d3b1076538cf7c81)
+
+
+
+## D
+
+[9x9 数独の答えになる組み合わせは何通りか #dlang - Qiita](https://qiita.com/devmynote/items/81c4bf8ccdc836fa2bd8)
 
 
 
@@ -1352,6 +1344,12 @@
 [30分で分かる！Pythonテキストマイニング入門 〜環境構築から基本分析まで〜 #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c67f51ed424c9367e30d)
 
 [「ありそうでない言葉」をたくさん作る【RNN】 #Python - Qiita](https://qiita.com/masaka_programming/items/619b3e36fe1b569f701f)
+
+
+
+## Development Process
+
+[プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 
 
 
@@ -1572,6 +1570,14 @@
 [DockerコンテナでLaTeX文書作成 #Docker - Qiita](https://qiita.com/buckling_load/items/3ea9e0d641695aff56b0)
 
 [Docker一括削除コマンドまとめ #Docker - Qiita](https://qiita.com/boiyama/items/9972601ffc240553e1f3)
+
+
+
+## Documents
+
+[システム開発に用いるドキュメントとは](https://products.sint.co.jp/ober/blog/documentation-of-system-development)
+
+[開発ドキュメントがごちゃごちゃしてきたので整理する #開発プロセス - Qiita](https://qiita.com/favolabo/items/af2bbde5ef2ba0123dd7)
 
 
 
@@ -5351,8 +5357,6 @@
 [はてなブログにAdventarのAdvent Calendarを埋め込む - kivantium活動日記](https://kivantium.hateblo.jp/entry/2021/12/18/034810)
 
 [OSの役割や機能を具体例付きで7つ紹介！【わかりやすく解説】 | Webpia](https://webpia.jp/operating_system/#index_id9)
-
-[プログラマたる者、人に頼る前にこれぐらいはやっておきたい #ポエム - Qiita](https://qiita.com/DeployCat/items/f9de1c08c47c50620905)
 
 [TrelloのコードブロックにTampermonkeyを利用してコピーボタンを追加する – 株式会社ルーター](https://rooter.jp/programming/js-node/add_copy_button_to_trello_using_tampermonkey/)
 

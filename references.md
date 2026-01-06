@@ -568,6 +568,8 @@
 
 [プライバシーは自力で守れ！👁️‍🗨️ブラウザを閉じるときにすべての履歴を削除する方法 | Nonsubject](https://nonsubject.arinco.org/2024/03/delete-history-when-closing-browser.html)
 
+[なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
+
 
 
 ## C
@@ -2731,6 +2733,18 @@
 
 
 
+## Mail
+
+[メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
+
+[さくらのVPSでメールサーバを構築](https://hachiilcane.hatenablog.com/entry/2020/05/01/225050)
+
+[さくらのVPSでメールサーバー構築](https://www.aiik.net/2020/04/13/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AEvps%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89/)
+
+[SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
+
+
+
 ## Markdown
 
 [Marpのスライドデザインまとめ](https://qiita.com/YoshikiIto/items/74b3d786266b1de3ed93)
@@ -4287,10 +4301,6 @@
 
 [コンソール](https://manual.sakura.ad.jp/vps/server/console.html)
 
-[さくらのVPSでメールサーバを構築](https://hachiilcane.hatenablog.com/entry/2020/05/01/225050)
-
-[さくらのVPSでメールサーバー構築](https://www.aiik.net/2020/04/13/%E3%81%95%E3%81%8F%E3%82%89%E3%81%AEvps%E3%81%A7%E3%83%A1%E3%83%BC%E3%83%AB%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E6%A7%8B%E7%AF%89/)
-
 [VirtualBoxの仮想マシン一覧を確認する #VirtualBox - Qiita](https://qiita.com/reflet/items/63a6ca8fd5dd4708ee94)
 
 [さくらVPSにSSL証明書を導入しHTTPS通信の構築](https://qiita.com/yoshizaki_91/items/e6f39a5bfb99900b44b2)
@@ -4891,8 +4901,6 @@
 
 [【2023年4月版】Ubuntu に node.js と npm を入れたい（バージョン管理も） #Node.js - Qiita](https://qiita.com/nouernet/items/d6ad4d5f4f08857644de)
 
-[SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
-
 [Ubunt20.04/Apacheの無料SSL設定](https://sumire-server.blog.jp/archives/13072494.html)
 
 [さくらのVPS（Ubuntu20.04）にApacheをインストール](https://sumire-server.blog.jp/archives/14443424.html)
@@ -5447,10 +5455,6 @@
 [プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
 
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
-
-[メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)
-
-[なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
 
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
 

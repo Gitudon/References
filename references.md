@@ -556,6 +556,14 @@
 
 
 
+## Browser
+
+[WebViewとネイティブアプリの違いとメリット・デメリット | 株式会社アイリッジ](https://iridge.jp/blog/202303/33668/)
+
+[アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
+
+
+
 ## C
 
 [1. FIRフィルタ](https://tmytokai.github.io/open-ed/activity/d-filter/text02/page01.html)
@@ -5381,10 +5389,6 @@
 [プログラムにおける終了コードとは？その役割とNode.jsでの活用例 #ShellScript - Qiita](https://qiita.com/tasukuwatanabe/items/da8e71e3427c9febddc4)
 
 [特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
-
-[WebViewとネイティブアプリの違いとメリット・デメリット | 株式会社アイリッジ](https://iridge.jp/blog/202303/33668/)
-
-[アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
 

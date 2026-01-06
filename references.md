@@ -562,6 +562,10 @@
 
 [アプリからWebページに飛ぶときに開くブラウザの正体](https://join.biglobe.ne.jp/mobile/sim/gurashi/tips_0294/)
 
+[LIFFブラウザとLINE内ブラウザって何が違うの？ #LINE - Qiita](https://qiita.com/course_k/items/8bdda799832c9207f26e#%E3%81%8A%E3%81%BE%E3%81%91)
+
+[LINEの内部ブラウザを知っていますか？LINEの内部Webブラウザで閲覧しているかどうかを確認する方法](https://zenn.dev/aiq_dev/articles/edd2cb1248aef4)
+
 
 
 ## C
@@ -4417,6 +4421,12 @@
 
 
 
+## SNS
+
+[Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
+
+
+
 ## Sound
 
 [【Audacity】不要な部分をカット･結合する方法④ | Audacityの易しい使い方 – フリー音楽編集ソフト](https://audacity.penpen-dev.com/katto-ketugou-huyou/)
@@ -5395,12 +5405,6 @@
 [僕たちはなぜwebデータアグリゲ―ション事業をやっているのか？その①　text by maeda – 株式会社ルーター](https://rooter.jp/web-data-report/why-dataaggregation/)
 
 [データ構造はどうあるべきか？～「縦持ち」と「横持ち」の使い分け～ | リサーチ・市場調査ならクロス・マーケティング](https://www.cross-m.co.jp/column/data_marketing/dtm20220708)
-
-[Instagram（インスタグラム）をWeb版で見るには？アプリ版との違いも解説します - クラプロ](https://www.cra-pro.jp/column/instagram-webversion/)
-
-[LIFFブラウザとLINE内ブラウザって何が違うの？ #LINE - Qiita](https://qiita.com/course_k/items/8bdda799832c9207f26e#%E3%81%8A%E3%81%BE%E3%81%91)
-
-[LINEの内部ブラウザを知っていますか？LINEの内部Webブラウザで閲覧しているかどうかを確認する方法](https://zenn.dev/aiq_dev/articles/edd2cb1248aef4)
 
 [バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
 

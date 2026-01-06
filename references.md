@@ -1157,6 +1157,8 @@
 
 [cURL を Windows11 にインストールしてみた。 #Windows10 - Qiita](https://qiita.com/IoriGunji/items/db2141884c107b458c89)
 
+[API通信の理解を深めよう！〜Curlを使用してHTTPリクエスト・レスポンスを理解する〜 #Swift - Qiita](https://qiita.com/hinakko/items/9466d3b1076538cf7c81)
+
 
 
 ## DataBase

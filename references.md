@@ -1113,6 +1113,10 @@
 
 [Ghidraの初心者向けガイド｜whale999](https://note.com/whale999_/n/nb6c94e2176df)
 
+[SECCON Beginners CTF 2025 作問者 Writeup #Security - Qiita](https://qiita.com/xryuseix/items/c27924ef5e9e9dfb827e)
+
+[SECCON Beginners CTF 2023 CoughingFox2 作問者Writeup #writeup - Qiita](https://qiita.com/task4233/items/2958820c903e4a25bf4c)
+
 
 
 ## cURL
@@ -3016,6 +3020,14 @@
 [バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
 
 [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
+
+
+
+## PC
+
+[【初心者向け】CPU のベンチマーク【５分で読める】 #Linux - Qiita](https://qiita.com/nouernet/items/61a29bae745afd23d4a6)
+
+[デスクPCのメモリを16GBから48GBにしてみた](https://zenn.dev/fig/articles/2d320c6819b2b5)
 
 
 

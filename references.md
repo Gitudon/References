@@ -596,7 +596,7 @@
 
 [WindowsでもLinuxでも使えるミリ秒タイマー #C - Qiita](https://qiita.com/n31nh/items/8a796954368a864dd4a3)
 
-[経理からエンジニアへの転職 – 株式会社ルーター](https://rooter.jp/rooter/change-from-accounting-to-engineering/)
+[C言語 | ビット演算子](https://www.javadrive.jp/cstart/ope/index6.html)
 
 
 
@@ -711,6 +711,8 @@
 [【卒業ブログ】とあるアルバイト生の2年の軌跡 – 株式会社ルーター](https://rooter.jp/rooter/okahara-graduation/)
 
 [なぜ私はAtCoderが全くできないのか #プログラミング - Qiita](https://qiita.com/Shiro_Shihi/items/31b9e50abda41e4c2b71)
+
+[経理からエンジニアへの転職 – 株式会社ルーター](https://rooter.jp/rooter/change-from-accounting-to-engineering/)
 
 
 

@@ -23,9 +23,12 @@ def aggregate_references_by_topics() -> dict:
 def make_table() -> str:
     contents = aggregate_references_by_topics()
     table = "| トピック | 数 |\n| :--- | ---: |\n"
+    total = 0
     for key, value in contents.items():
         table += f"| {key} | {value} |\n"
-    return table[:-1]
+        total += value
+    table += f"| 合計 | {total} |"
+    return table
 
 
 with open("README.md", "w") as file:

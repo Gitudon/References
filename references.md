@@ -3511,6 +3511,10 @@
 
 [asyncio --- 非同期 I/O — Python 3.14.2 ドキュメント](https://docs.python.org/ja/3/library/asyncio.html)
 
+[Pythonの組み込み関数eval・execのセキュリティリスクについて #Security - Qiita](https://qiita.com/tkmz/items/717d524083b71a4af75f)
+
+[【Python】eval関数の使い方とリスク、第二引数・第三引数を活用した制限方法 #Python3 - Qiita](https://qiita.com/Ryo-0131/items/3c7922c7d811e7eda65f)
+
 
 
 ## RaspberryPi
@@ -4591,8 +4595,6 @@
 
 [auto_incrementの番号を振り直す方法 | Miyachi Labo](https://labo.kon-ruri.co.jp/auto_increment_restart/)
 
-[SQLのテーブル結合（JOIN, UNION, NATURAL）を覚えよう！基本構文と使用例を解説](https://products.sint.co.jp/siob/blog/sql-bootcamp-07)
-
 [jsonを分割してから横持ち→縦持ちに変換するクエリ（備忘録） #SQL - Qiita](https://qiita.com/mczkym/items/80f0f0d8ec67f3477a01)
 
 [SQLで各日付に対して1件ずつデータを取得する方法 | プログラミングのせせらぎ](https://programming.awaisora.com/ca565889-b94d-49ee-a65c-0f6c0dbb5d5b/)
@@ -4702,6 +4704,10 @@
 [Dockerコンテナ上のDebianでSQLite3をビルドしたときのメモ - dullwhaleのメモ帳](https://dullwhale-public.hateblo.jp/entry/2022/03/11/163639)
 
 [Docker で PHP + SQLite3 の開発環境を構築する – Ewig Leere(Lab2)](https://labor.ewigleere.net/2021/05/01/sqlite-docker/)
+
+[SQLiteのテーブル参照方法 #初心者 - Qiita](https://qiita.com/kekosh/items/6829fdad6403e28c693a)
+
+[sqlite3で、sqliteファイルをまたいでテーブルをJOINすることはできますか? #ChatGPT - Qiita](https://qiita.com/sakamossan/items/e4f7a8ae6e3f93805493)
 
 
 

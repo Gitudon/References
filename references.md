@@ -2095,6 +2095,18 @@
 
 [【git】aliasの設定方法 #初心者 - Qiita](https://qiita.com/chihiro/items/04813c707cc665de67c5)
 
+[GitHub Actionsでテストを実行するときはタイムゾーンに気をつける | Uniforce+](https://uniforce.co.jp/media/blog/gqszqfblg/)
+
+[github actionsでtimezoneを設定する方法 #GitHub - Qiita](https://qiita.com/Naturalclar/items/81f5a36e99b2bfee8252)
+
+[GitHub ActionsでTimezoneを設定 - Minerva](https://minerva.mamansoft.net/Notes/GitHub+Actions%E3%81%A7Timezone%E3%82%92%E8%A8%AD%E5%AE%9A)
+
+[GitHub Actions入門～Pythonを自動で実行する～ #初心者 - Qiita](https://qiita.com/rapirapi/items/30fd28026408796f0ace)
+
+[GitHub Actionsでpush時にPythonコードを自動整形&自動コミット](https://zenn.dev/zozotech/articles/36c68c73dc5125)
+
+[トリガーの設定｜【GitHub Actions 入門】GitHub Actions について基礎から徹底解説](https://zenn.dev/farstep/books/learn-github-actions/viewer/trigger-settings)
+
 
 
 ## Go
@@ -3514,6 +3526,8 @@
 [Pythonの組み込み関数eval・execのセキュリティリスクについて #Security - Qiita](https://qiita.com/tkmz/items/717d524083b71a4af75f)
 
 [【Python】eval関数の使い方とリスク、第二引数・第三引数を活用した制限方法 #Python3 - Qiita](https://qiita.com/Ryo-0131/items/3c7922c7d811e7eda65f)
+
+[Pythonでファイルを一行ずつ読み込む #Python - Qiita](https://qiita.com/niikura/items/8c792ba56877dfd5a31a)
 
 
 

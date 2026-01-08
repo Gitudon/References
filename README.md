@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月08日 16:43:26)
+## 集計(2026年01月08日 16:45:58)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -45,7 +45,7 @@
 | Flask | 22 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 121 |
+| Git | 127 |
 | Go | 3 |
 | Google | 32 |
 | HTML/CSS | 61 |
@@ -75,7 +75,7 @@
 | Php | 5 |
 | PostgreSQL | 6 |
 | Protocol | 2 |
-| Python | 216 |
+| Python | 217 |
 | RaspberryPi | 20 |
 | React | 19 |
 | Regular Expression | 11 |

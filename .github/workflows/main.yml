@@ -22,7 +22,9 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: Run Python Script
         run: python aggregate.py
+        env:
+          TZ: 'Asia/Tokyo'
       - name: Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Apply Code Formatter Change
+          commit_message: Aggregated references.md

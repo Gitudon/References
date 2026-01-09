@@ -598,6 +598,12 @@
 
 [C言語 | ビット演算子](https://www.javadrive.jp/cstart/ope/index6.html)
 
+[OpenBLAS （BLAS, CBLAS, LAPACK, LAPACKE）のインストール（ソースコードを用いたインストール）（Build Tools for Visual Studio を利用）（Windows 上）](https://www.kkaneko.jp/tools/win/openblasvc.html)
+
+[行列の積演算で openBLAS cuBLAS を体感する #機械学習 - Qiita](https://qiita.com/t-tkd3a/items/fbd1d97fae51a880ad1f)
+
+[BLAS/CBLASの簡単な使い方](http://azalea.s35.xrea.com/blas/install.html)
+
 
 
 ## Career
@@ -1065,7 +1071,7 @@
 
 
 
-## Cpp
+## C++
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
 
@@ -1088,6 +1094,14 @@
 [emplace_back とは何か (C++)](https://zenn.dev/mafafa/articles/370875167e4a3a)
 
 [[C++] 関数から複数の戻り値を返す #C++11 - Qiita](https://qiita.com/dfukunaga/items/e2375369d5b280e4a939)
+
+[C++の線型代数ライブラリEigenの使い方備忘録　〜基本編〜 - In Silico 創薬](https://www.insilico.jp/blog/2022/05/08/lalibrary_eigen_part1/)
+
+[C++行列計算ライブラリEigen入門 #C++ - Qiita](https://qiita.com/yohm/items/a03006790dc1e54a87be)
+
+[【完全ガイド】Eigenライブラリで実現する高速行列計算入門 〜実践的な実装例15選付き〜 | Dexall公式テックブログ](https://dexall.co.jp/articles/?p=1619)
+
+[ベクトル/行列演算の定番ライブラリEigen #C++ - Qiita](https://qiita.com/vs4sh/items/7e8bc95250db8d88bc41)
 
 
 
@@ -3528,6 +3542,8 @@
 [【Python】eval関数の使い方とリスク、第二引数・第三引数を活用した制限方法 #Python3 - Qiita](https://qiita.com/Ryo-0131/items/3c7922c7d811e7eda65f)
 
 [Pythonでファイルを一行ずつ読み込む #Python - Qiita](https://qiita.com/niikura/items/8c792ba56877dfd5a31a)
+
+[Pythonで大文字と小文字を変換する方法を解説 | エンスタ](https://ensta-blog.com/python/convert/#toc20)
 
 
 

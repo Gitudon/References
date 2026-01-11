@@ -2123,6 +2123,8 @@
 
 [トリガーの設定｜【GitHub Actions 入門】GitHub Actions について基礎から徹底解説](https://zenn.dev/farstep/books/learn-github-actions/viewer/trigger-settings)
 
+[Git リモートブランチをチェックアウトする #初心者 - Qiita](https://qiita.com/miriwo/items/53b319d3d3a3759b30a7)
+
 
 
 ## Go

@@ -3547,6 +3547,8 @@
 
 [Pythonで大文字と小文字を変換する方法を解説 | エンスタ](https://ensta-blog.com/python/convert/#toc20)
 
+[PythonのSageが使いこなせるようになるチュートリアル #AI - Qiita](https://qiita.com/automation2025/items/66ad0fb64983f78a9ec5)
+
 
 
 ## RaspberryPi

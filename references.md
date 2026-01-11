@@ -570,6 +570,8 @@
 
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
 
+[Chrome と Edge でERR_HTTP2_INADEQUATE_TRANSPORT_SECURITYでページエラー - 永遠のプログラマ☆](https://broadshotx.hatenablog.com/entry/2020/09/16/174825)
+
 
 
 ## C
@@ -5273,6 +5275,14 @@
 [VSCode に必ず入れておきたい拡張機能 #新人プログラマ応援 - Qiita](https://qiita.com/ucan-lab/items/e85931bf8276da43cc97#todo-tree)
 
 [VSCodeが重い時の対処法 #SSH - Qiita](https://qiita.com/kondai24/items/d3e856442922a9f18574)
+
+[VSCode の Terminal の補完を無効化する #VSCode - Qiita](https://qiita.com/kamuiroeru/items/e6e2da037712dc5aa68c)
+
+[VSCodeのターミナルの補完を消す](https://zenn.dev/algoartis/articles/disable_vscode_terminal_suggest)
+
+[VSCodeのターミナルのIntelliSense(自動補完)が大幅に改善されました - 地方でリモートワーク](https://blog.tomoyayoshida.com/entry/vscode-intellisense)
+
+[VSCodeのterminalでgitの補完が全く効かない。 - rebuild-kitashirakawa](https://help.kitashirakawa.nna774.net/VSCode%E3%81%AEterminal%E3%81%A7git%E3%81%AE%E8%A3%9C%E5%AE%8C%E3%81%8C%E5%85%A8%E3%81%8F%E5%8A%B9%E3%81%8B%E3%81%AA%E3%81%84%E3%80%82-5efea73afd4c500020dd2c17)
 
 
 

@@ -1105,6 +1105,8 @@
 
 [ベクトル/行列演算の定番ライブラリEigen #C++ - Qiita](https://qiita.com/vs4sh/items/7e8bc95250db8d88bc41)
 
+[sqrt - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/cmath/sqrt.html)
+
 
 
 ## C#

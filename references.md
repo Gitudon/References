@@ -1071,6 +1071,8 @@
 
 [【Linux】sftpコマンドで接続！get, putの使い方を覚えよう！【ssh configを使えば簡単！】｜フェルメール株式会社](https://vermeer.co.jp/archives/191)
 
+[scpコマンドでサーバー上のファイルorディレクトリをローカルに落としてくる #scp - Qiita](https://qiita.com/katsukii/items/225cd3de6d3d06a9abcb)
+
 
 
 ## C++
@@ -2942,6 +2944,8 @@
 [SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
 
 [MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
+
+[VARCHAR(255)にするとなぜ良いの？ #MySQL - Qiita](https://qiita.com/POMEMUU/items/0eb64d5e185b2e394323)
 
 
 
@@ -5547,4 +5551,6 @@
 [プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ #ポエム - Qiita](https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327)
 
 [「こんな複雑なことをしないといけないのはおかしい」というソフトウェアエンジニアの勘 - valid,invalid](https://ohbarye.hatenablog.jp/entry/2025/12/30/155950)
+
+[UUID の基本的なところについてまとめてみる #コンピューターサイエンス - Qiita](https://qiita.com/yamataikoku2001/items/4bb49670d968d14d6caf)
 

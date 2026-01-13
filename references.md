@@ -3201,6 +3201,8 @@
 
 [HTTP レスポンスステータスコード - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Status)
 
+[IT業界の基礎知識：覚えておくべきポート番号（プロトコル） - eyeon -アイオン-](https://www.k-friendly.com/9038)
+
 
 
 ## Python

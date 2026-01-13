@@ -3115,6 +3115,18 @@
 
 [PostgreSQL | FOREIGN KEY制約(外部キー制約を設定する)](https://www.javadrive.jp/postgresql/table/index11.html)
 
+[[PostgreSQL] 知らないと損！コメントに関するtips３つ · DQNEO日記](https://dqn.sakusakutto.jp/2011/12/postgresql-comment.html)
+
+[COMMENT](https://www.postgresql.jp/docs/11/sql-comment.html)
+
+[PostgreSQLにコメントを設定する #PostgreSQL - Qiita](https://qiita.com/WebSysRider/items/d4454e8f66cf9f890c0d)
+
+[PostgreSQLでテーブルやカラムにコメントをつける方法 | cstechブログ](https://cs-techblog.com/db/postgresql-comment-on/)
+
+[PostgreSQLで外部キーを使う際の注意点 #AdventCalendar2022 - Qiita](https://qiita.com/ingtk/items/43c7b7a2ae5cbfc7ae6a)
+
+[PostgreSQL | FOREIGN KEY制約(外部キー制約を設定する)](https://www.javadrive.jp/postgresql/table/index11.html)
+
 
 
 ## Protocol

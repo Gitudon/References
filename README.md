@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月12日 11:41:54)
+## 集計(2026年01月13日 11:43:52)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -63,6 +63,7 @@
 | Matlab | 1 |
 | Microsoft | 8 |
 | Movie | 6 |
+| MySQL | 2 |
 | Naming | 22 |
 | Nano | 3 |
 | Network | 35 |
@@ -73,7 +74,7 @@
 | PC | 2 |
 | PDF | 3 |
 | Php | 5 |
-| PostgreSQL | 6 |
+| PostgreSQL | 7 |
 | Protocol | 2 |
 | Python | 219 |
 | RaspberryPi | 20 |
@@ -88,7 +89,7 @@
 | Slack | 31 |
 | SNS | 3 |
 | Sound | 1 |
-| SQL | 104 |
+| SQL | 99 |
 | Sqlite | 7 |
 | SSH | 33 |
 | Streamlit | 26 |
@@ -101,7 +102,7 @@
 | URL | 23 |
 | Vim | 19 |
 | Vite | 7 |
-| VSCode | 51 |
+| VSCode | 53 |
 | Vue.js | 1 |
 | Web | 4 |
 | Windows | 32 |

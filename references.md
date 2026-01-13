@@ -2875,6 +2875,14 @@
 
 
 
+## MySQL
+
+[MySQL | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mysql/database/index1.html)
+
+[MySQL で列名付き CSV ファイルを出力する #MySQL - Qiita](https://qiita.com/Umazular/items/b9e5580363d90780c3a8)
+
+
+
 ## Naming
 
 [雑にしていない？PHPの命名規則を理解し、効率よく開発を進めよう - 忍者CODEマガジン](https://ninjacode.work/magazine/programming/php17/)
@@ -3104,6 +3112,8 @@
 [PostgreSQLでMySQLのAUTO_INCREMENTを使う #MySQL - Qiita](https://qiita.com/shonansurvivors/items/4522f15c5e9a30860bc5)
 
 [[PostgreSQL] created_at, update_atを自動で入力させる #PostgreSQL - Qiita](https://qiita.com/ruemura3/items/7bdca11243c8f1b49ae2)
+
+[PostgreSQL | FOREIGN KEY制約(外部キー制約を設定する)](https://www.javadrive.jp/postgresql/table/index11.html)
 
 
 
@@ -4547,12 +4557,6 @@
 
 [MySQL | データベースを削除する(DROP DATABASE文)](https://www.javadrive.jp/mysql/database/index5.html)
 
-[VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
-
-[VSCodeから使える超便利なSQLツール “Database Client” – Obenkyolab](https://obenkyolab.com/?p=4818)
-
-[VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
-
 [SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
 
 [MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
@@ -4728,10 +4732,6 @@
 [【これだけ覚えてたらOK！】SQL構文まとめ #SQL - Qiita](https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd)
 
 [データベースの基礎知識(SQL, CRUD) #Database - Qiita](https://qiita.com/shiiotaka/items/b82c3be16c795cfd47e4)
-
-[MySQL | データベースを作成する(CREATE DATABASE文)](https://www.javadrive.jp/mysql/database/index1.html)
-
-[MySQL で列名付き CSV ファイルを出力する #MySQL - Qiita](https://qiita.com/Umazular/items/b9e5580363d90780c3a8)
 
 
 
@@ -5289,6 +5289,10 @@
 [VSCodeのターミナルのIntelliSense(自動補完)が大幅に改善されました - 地方でリモートワーク](https://blog.tomoyayoshida.com/entry/vscode-intellisense)
 
 [VSCodeのterminalでgitの補完が全く効かない。 - rebuild-kitashirakawa](https://help.kitashirakawa.nna774.net/VSCode%E3%81%AEterminal%E3%81%A7git%E3%81%AE%E8%A3%9C%E5%AE%8C%E3%81%8C%E5%85%A8%E3%81%8F%E5%8A%B9%E3%81%8B%E3%81%AA%E3%81%84%E3%80%82-5efea73afd4c500020dd2c17)
+
+[VSCodeでSQLのお勉強｜なかしまぁ先生](https://note.com/_nakashimmer_/n/nded6bc942097)
+
+[VSCodeから使える超便利なSQLツール “Database Client” – Obenkyolab](https://obenkyolab.com/?p=4818)
 
 
 

@@ -2881,6 +2881,68 @@
 
 [MySQL で列名付き CSV ファイルを出力する #MySQL - Qiita](https://qiita.com/Umazular/items/b9e5580363d90780c3a8)
 
+[MySQL : 『DBサイズ』と『Tableサイズ』を確認するコマンドシート #MySQL - Qiita](https://qiita.com/i35_267/items/2a591fa5e7dcae11e72c)
+
+[EXPLAIN実行結果の読み方について解説 - MySQL #DB - Qiita](https://qiita.com/o-yyu-o/items/535058df6b9606f1f5ef)
+
+[MySQL の EXPLAIN を読むときの勘所 #パフォーマンスチューニング - Qiita](https://qiita.com/mamy1326/items/9960061ba9a74cda8d6b)
+
+[explainで確認するポイント（SQL速度改善）](https://zenn.dev/o2z/articles/a744523f34ac40)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 24.3.5 パーティションに関する情報を取得する](https://dev.mysql.com/doc/refman/8.0/ja/partitioning-info.html)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 8.2.1.13 条件フィルタ](https://dev.mysql.com/doc/refman/8.0/ja/condition-filtering.html)
+
+[MySQL Explain filtered - ohbarye](https://scrapbox.io/ohbarye/MySQL_Explain_filtered)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.3 Microsoft Windows に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/windows-installation.html)
+
+[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.4 macOS への MySQL のインストール](https://dev.mysql.com/doc/refman/8.0/ja/macos-installation.html)
+
+[MySQLを始めてパスワード設定まで　for Mac #MacOSX - Qiita](https://qiita.com/maominionbsk54/items/321b5467ea8e2701a704)
+
+[MacでMySQLを導入 #DB - Qiita](https://qiita.com/jkuroyanag/items/ddae18de3ecab2b1fe78)
+
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.5 Linux に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/linux-installation.html)
+
+[MySQL :: A Quick Guide to Using the MySQL APT Repository](https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/)
+
+[UbuntuにMySQLをインストール #Linux - Qiita](https://qiita.com/houtarou/items/a44ce783d09201fc28f5)
+
+[MySQLのroot@localhostのパスワード設定 - Jaybanuan's Blog](https://redj.hatenablog.com/entry/2023/04/09/012242)
+
+[【MySQL】EXPLAINとヒント句でクエリ速度をチューニング – 株式会社ルーター](https://rooter.jp/infra-ops/mysql_index_hints/)
+
+[MySQL上の巨大なデータをストアドプロシージャで削除する – 株式会社ルーター](https://rooter.jp/data-format/delete-large-data-by-stored-procedure/)
+
+[【MySQL】MySQLで使えるJOIN全部試してみた #MySQL - Qiita](https://qiita.com/TomoProg/items/a82ad0ee0cdee8848cd1)
+
+[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
+
+[MySQLで利用可能な整数型について解説！int(11)のカッコに設定された数値って何？ | ポテパンスタイル](https://style.potepan.com/articles/19318.html)
+
+[MySQLでカラムを追加・変更・削除しよう | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-column-operations)
+
+[【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
+
+[MySQLのユーザ一覧を表示する #初心者 - Qiita](https://qiita.com/miriwo/items/5ebd52f9538ce8573788)
+
+[MySQLでテーブル一覧とカラム一覧を同時に取ってくる #MySQL - Qiita](https://qiita.com/furusin_oriver/items/f81351c96efbb40432df)
+
+[MySQLのint型での誤解 #初心者 - Qiita](https://qiita.com/yyqqzz/items/8c57f1d244bd78da3f2d)
+
+[MySQLデータベースに絵文字を保存する #MySQL - Qiita](https://qiita.com/miyamasaru/items/37450598610228aa7fc1)
+
+[MySQLでテーブルを削除する方法【DROP TABLE文】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/5115)
+
+[MySQL | データベースを削除する(DROP DATABASE文)](https://www.javadrive.jp/mysql/database/index5.html)
+
+[SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
+
+[MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
+
 
 
 ## Naming
@@ -4271,6 +4333,8 @@
 
 [【Ruby】文字列の中に式や変数を埋め込みたい #Rails - Qiita](https://qiita.com/tetusan/items/4dcf5734e0b979b2a96c)
 
+[ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
+
 
 
 ## Rust
@@ -4567,12 +4631,6 @@
 
 [SQLのMAX関数（最大値）・MIN（最小値）の使い方を徹底解説 | Z MARKETING](https://z-marketing.net/sql-max-min/)
 
-[MySQL | データベースを削除する(DROP DATABASE文)](https://www.javadrive.jp/mysql/database/index5.html)
-
-[SQL・Databeseを基本からまとめてみた【MySQL / CREATE TABLE・INSERT・UPDATE・DELETE】 #createtable - Qiita](https://qiita.com/kanfutrooper/items/a80f5d00406e21e457c0)
-
-[MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
-
 [SQL Server Tips - 制約やテーブルカラムの追加/削除クエリ #SQLServer - Qiita](https://qiita.com/ymasaoka/items/2f8fc1ceacbd721d7504)
 
 [テーブルへの列の追加 (データベース エンジン) - SQL Server | Microsoft Learn](https://learn.microsoft.com/ja-jp/sql/relational-databases/tables/add-columns-to-a-table-database-engine?view=sql-server-ver16)
@@ -4584,10 +4642,6 @@
 [INSERT文（SQLを基本から学ぶシリーズ）](https://products.sint.co.jp/siob/blog/sql-insert)
 
 [SELECT文で並べ替えを行うには？：SQL実践講座（2） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/0011/15/news002.html)
-
-[MySQLデータベースに絵文字を保存する #MySQL - Qiita](https://qiita.com/miyamasaru/items/37450598610228aa7fc1)
-
-[MySQLでテーブルを削除する方法【DROP TABLE文】 | TechAcademyマガジン](https://magazine.techacademy.jp/magazine/5115)
 
 [【SQL】JOINとUNIONの違いとは？サンプルを用いながら解説！ - DX-Accelerator データ人材常駐支援サービス | UNCOVER TRUTH](https://www.uncovertruth.co.jp/dx-accelerator/blog/articles/sql/053/)
 
@@ -4605,13 +4659,7 @@
 
 [SQL Server SELECT COUNT(*);問題 #SQLServer - Qiita](https://qiita.com/god19/items/643baaf99a51623a7ab4)
 
-[【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
-
-[MySQLのユーザ一覧を表示する #初心者 - Qiita](https://qiita.com/miriwo/items/5ebd52f9538ce8573788)
-
 [【SQL】カラム追加・編集ALTER TABLEを使う #MySQL - Qiita](https://qiita.com/panda-chibi/items/eec4d314a2ff6698d18c)
-
-[MySQLでテーブル一覧とカラム一覧を同時に取ってくる #MySQL - Qiita](https://qiita.com/furusin_oriver/items/f81351c96efbb40432df)
 
 [【SQL入門】CHARとVARCHARの違い #基礎 - Qiita](https://qiita.com/aberyotaro/items/c589430bdb00c6ab4922)
 
@@ -4619,13 +4667,7 @@
 
 [テーブルの作成　CREATE TABLE文 #初心者 - Qiita](https://qiita.com/derasado/items/422406c1fb2a695a93d6)
 
-[MySQLのint型での誤解 #初心者 - Qiita](https://qiita.com/yyqqzz/items/8c57f1d244bd78da3f2d)
-
 [数値データ型](https://www.postgresql.jp/docs/9.2/datatype-numeric.html)
-
-[MySQLで利用可能な整数型について解説！int(11)のカッコに設定された数値って何？ | ポテパンスタイル](https://style.potepan.com/articles/19318.html)
-
-[MySQLでカラムを追加・変更・削除しよう | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://prog-8.com/docs/mysql-column-operations)
 
 [DELETE文（SQLを基本から学ぶシリーズ）](https://products.sint.co.jp/siob/blog/sql-delete)
 
@@ -4639,15 +4681,11 @@
 
 [データチェックに便利なSQL – 株式会社ルーター](https://rooter.jp/web-crawling/sql_for_datacheck/)
 
-[MySQLで全テーブルのレコード数を一覧表示する #MySQL - Qiita](https://qiita.com/isobecky74/items/6efff247484f8e4fccae)
-
 [SQL Serverでレコード件数を調べる方法 #Database - Qiita](https://qiita.com/fuk101/items/90f257ef968097d01d60)
 
 [hanhan's blog - SQL の不等式条件は <> が適切](https://blog.hanhans.net/2021/03/21/sql-inequality-condition/)
 
 [【SQLの基本】比較演算子の使い方について | ポテパンスタイル](https://style.potepan.com/articles/24366.html)
-
-[【MySQL】MySQLで使えるJOIN全部試してみた #MySQL - Qiita](https://qiita.com/TomoProg/items/a82ad0ee0cdee8848cd1)
 
 [【SQL】DISTINCTで重複行を除外する方法を解説 │ TechMania](https://techmania.jp/blog/sql-distinct/)
 
@@ -4697,49 +4735,11 @@
 
 [SQL設計で頭を抱えているあなたへ #初心者 - Qiita](https://qiita.com/sebayashi-tomoya/items/aad50a7a6b642db59888)
 
-[【MySQL】EXPLAINとヒント句でクエリ速度をチューニング – 株式会社ルーター](https://rooter.jp/infra-ops/mysql_index_hints/)
-
-[ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
-
 [SQL記述者全員が理解すべきSELECT文の論理的な処理順序のお話 #Database - Qiita](https://qiita.com/k_0120/items/a27ea1fc3b9bddc77fa1)
-
-[MySQL上の巨大なデータをストアドプロシージャで削除する – 株式会社ルーター](https://rooter.jp/data-format/delete-large-data-by-stored-procedure/)
 
 [次に身につけたい参照系クエリ入門 – 株式会社ルーター](https://rooter.jp/data-format/reader-sql-introduction/)
 
 [SQL の比較演算子 "<>" と "!=" の違いについて #Database - Qiita](https://qiita.com/P-SiZK/items/de8f9eebc2148626f5c3)
-
-[MySQL : 『DBサイズ』と『Tableサイズ』を確認するコマンドシート #MySQL - Qiita](https://qiita.com/i35_267/items/2a591fa5e7dcae11e72c)
-
-[EXPLAIN実行結果の読み方について解説 - MySQL #DB - Qiita](https://qiita.com/o-yyu-o/items/535058df6b9606f1f5ef)
-
-[MySQL の EXPLAIN を読むときの勘所 #パフォーマンスチューニング - Qiita](https://qiita.com/mamy1326/items/9960061ba9a74cda8d6b)
-
-[explainで確認するポイント（SQL速度改善）](https://zenn.dev/o2z/articles/a744523f34ac40)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 24.3.5 パーティションに関する情報を取得する](https://dev.mysql.com/doc/refman/8.0/ja/partitioning-info.html)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 8.2.1.13 条件フィルタ](https://dev.mysql.com/doc/refman/8.0/ja/condition-filtering.html)
-
-[MySQL Explain filtered - ohbarye](https://scrapbox.io/ohbarye/MySQL_Explain_filtered)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.3 Microsoft Windows に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/windows-installation.html)
-
-[WindowsにMySQLをインストールする #環境構築 - Qiita](https://qiita.com/aki_number16/items/bff7aab79fb8c9657b62)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.4 macOS への MySQL のインストール](https://dev.mysql.com/doc/refman/8.0/ja/macos-installation.html)
-
-[MySQLを始めてパスワード設定まで　for Mac #MacOSX - Qiita](https://qiita.com/maominionbsk54/items/321b5467ea8e2701a704)
-
-[MacでMySQLを導入 #DB - Qiita](https://qiita.com/jkuroyanag/items/ddae18de3ecab2b1fe78)
-
-[MySQL :: MySQL 8.0 リファレンスマニュアル :: 2.5 Linux に MySQL をインストールする](https://dev.mysql.com/doc/refman/8.0/ja/linux-installation.html)
-
-[MySQL :: A Quick Guide to Using the MySQL APT Repository](https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/)
-
-[UbuntuにMySQLをインストール #Linux - Qiita](https://qiita.com/houtarou/items/a44ce783d09201fc28f5)
-
-[MySQLのroot@localhostのパスワード設定 - Jaybanuan's Blog](https://redj.hatenablog.com/entry/2023/04/09/012242)
 
 [【これだけ覚えてたらOK！】SQL構文まとめ #SQL - Qiita](https://qiita.com/tatsuya4150/items/69c2c9d318e5b93e6ccd)
 

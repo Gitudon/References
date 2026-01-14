@@ -1109,6 +1109,8 @@
 
 [sqrt - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/cmath/sqrt.html)
 
+[有限体の実装 in C++ · yuki's blog](https://yuki67.github.io/post/finite_field/)
+
 
 
 ## C#

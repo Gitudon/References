@@ -2707,6 +2707,8 @@
 
 [【TeX】行列や表で部分的に罫線を引く・複数のセルを結合する方法【cline・multicolumn・multirow】 | とある数物研究者の覚書](https://mathphysnote.com/tex-partial-line/)
 
+[【LaTeX】定理環境amsthmパッケージの使い方を徹底解説 | 数学の景色](https://mathlandscape.com/latex-amsthm/)
+
 
 
 ## Lean

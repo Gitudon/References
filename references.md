@@ -2789,6 +2789,8 @@
 
 [SAKURAで借りたUbuntu VPS にメールサーバを立てるときのメモ](https://fx-kirin.com/ubuntu/start-mails-server-in-sakura/)
 
+[「メールアドレスを識別子として扱うのをやめよう」翻訳 #ID管理 - Qiita](https://qiita.com/twk/items/60e9522ad6d2a03f3ec5)
+
 
 
 ## Markdown

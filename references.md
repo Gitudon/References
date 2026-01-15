@@ -5318,6 +5318,14 @@
 
 [VSCodeから使える超便利なSQLツール “Database Client” – Obenkyolab](https://obenkyolab.com/?p=4818)
 
+[【VS Code】プロジェクト（ワークスペース）ごとにGitHub Copilotを無効にする方法 #初心者 - Qiita](https://qiita.com/kopo-k/items/73f614fa398cef40320c)
+
+[GitHub Copilot のコード補完をワークスペース単位でオフにする #AI - Qiita](https://qiita.com/otTATto/items/8a736c0978fa551c3b32)
+
+[VSCodeでGitHubCopilotを無効化する方法](https://zenn.dev/peter_norio/articles/f42609ddf5df34)
+
+[github copilotの自動補完をオフにする](https://zenn.dev/setsugan/articles/5d726635187c8d)
+
 
 
 ## Vue.js

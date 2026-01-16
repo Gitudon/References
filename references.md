@@ -5584,3 +5584,5 @@
 
 [UUID の基本的なところについてまとめてみる #コンピューターサイエンス - Qiita](https://qiita.com/yamataikoku2001/items/4bb49670d968d14d6caf)
 
+[全人類SKKとかいうIMEを使った方が良い #OSS - Qiita](https://qiita.com/furyu_penguin/items/d0fe861247e720129e97)
+

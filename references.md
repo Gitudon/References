@@ -1141,6 +1141,12 @@
 
 [SECCON Beginners CTF 2023 CoughingFox2 作問者Writeup #writeup - Qiita](https://qiita.com/task4233/items/2958820c903e4a25bf4c)
 
+[WaniCTF 2024 #CTF - Qiita](https://qiita.com/kusano_k/items/59bba1527a83dcd124d4)
+
+[SECCON Beginners CTF 2021 writeup（crypto） | zerizeriのエンジニア技術ブログ](https://security-blog-it.com/6815/)
+
+[SECCON Beginners CTF 2021 writeup! #seccon - Qiita](https://qiita.com/sa_hm490/items/5b11845d88616886c3e3)
+
 
 
 ## cURL
@@ -3652,6 +3658,12 @@
 [PythonのSageが使いこなせるようになるチュートリアル #AI - Qiita](https://qiita.com/automation2025/items/66ad0fb64983f78a9ec5)
 
 [Pythonの便利なオプション-c, -m](https://www.rhoboro.com/2021/03/07/python-options-c-and-m.html)
+
+[from Crypto.Util.number import getPrime, isPrimeのエラーを解消する - so2akt’s technical diary](https://so2-2009.hatenadiary.org/entry/20240616/1718517436)
+
+[gmpy2をインストールする手順メモ #Python - Qiita](https://qiita.com/nendocode/items/a90af33020d33d9fd386)
+
+[【Python3】gmpy2をインストールする](https://morizatta.com/python3-gmpy2-install/)
 
 
 

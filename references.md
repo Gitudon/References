@@ -3651,6 +3651,8 @@
 
 [PythonのSageが使いこなせるようになるチュートリアル #AI - Qiita](https://qiita.com/automation2025/items/66ad0fb64983f78a9ec5)
 
+[Pythonの便利なオプション-c, -m](https://www.rhoboro.com/2021/03/07/python-options-c-and-m.html)
+
 
 
 ## RaspberryPi

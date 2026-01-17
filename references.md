@@ -2719,6 +2719,10 @@
 
 [【LaTeX】定理環境amsthmパッケージの使い方を徹底解説 | 数学の景色](https://mathlandscape.com/latex-amsthm/)
 
+[【LaTeX】証明環境](https://takataninote.com/tex/proof.html)
+
+[【LaTeX】筆記体,花文字,太字,黒板太字,ドイツ文字など | 数学の景色](https://mathlandscape.com/latex-mathcal/)
+
 
 
 ## Lean

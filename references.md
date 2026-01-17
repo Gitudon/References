@@ -96,6 +96,8 @@
 
 [adbコマンドからwifi on/offする - myaskovsky00’s diary](https://myaskovsky00.hatenablog.com/entry/2018/05/26/080004)
 
+[adbコマンド最小インストール方法 – 株式会社ルーター](https://rooter.jp/environment/how_to_install_adb/)
+
 
 
 ## AI

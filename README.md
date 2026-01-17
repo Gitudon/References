@@ -2,15 +2,15 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月17日 11:55:14)
+## 集計(2026年01月17日 12:16:24)
 
 | トピック | 数 |
 | :--- | ---: |
 | Adb | 48 |
 | AI | 16 |
 | Algorithm | 22 |
-| Android | 34 |
-| API | 70 |
+| Android | 33 |
+| API | 68 |
 | Asm | 1 |
 | Astro.js | 10 |
 | AWS | 33 |
@@ -23,20 +23,20 @@
 | Chrome | 33 |
 | Codes | 3 |
 | Coding | 8 |
-| Commands | 123 |
-| C++ | 17 |
+| Commands | 121 |
+| C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
 | CTF | 10 |
 | cURL | 36 |
 | D | 1 |
-| DataBase | 84 |
+| DataBase | 82 |
 | Data Science | 5 |
 | Development Process | 3 |
-| Directly | 13 |
-| Discord | 20 |
+| Directly | 12 |
+| Discord | 18 |
 | Django | 4 |
-| Docker | 80 |
+| Docker | 78 |
 | Documents | 2 |
 | Edge | 10 |
 | Electrical Engineering | 7 |
@@ -45,26 +45,26 @@
 | Flask | 22 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 128 |
+| Git | 126 |
 | Go | 3 |
 | Google | 34 |
 | HTML/CSS | 61 |
 | Image | 7 |
 | iOS | 8 |
 | Java | 36 |
-| JavaScript | 53 |
+| JavaScript | 51 |
 | Kotlin | 3 |
-| LaTeX | 70 |
+| LaTeX | 68 |
 | Lean | 4 |
-| Linux | 19 |
+| Linux | 18 |
 | Lua | 5 |
 | Mail | 5 |
-| Markdown | 22 |
+| Markdown | 21 |
 | Matlab | 1 |
 | Microsoft | 8 |
 | Movie | 6 |
-| MySQL | 34 |
-| Naming | 22 |
+| MySQL | 32 |
+| Naming | 19 |
 | Nano | 3 |
 | Network | 35 |
 | Next.js | 5 |
@@ -74,34 +74,34 @@
 | PC | 2 |
 | PDF | 3 |
 | Php | 5 |
-| PostgreSQL | 13 |
+| PostgreSQL | 12 |
 | Protocol | 3 |
-| Python | 223 |
+| Python | 220 |
 | RaspberryPi | 20 |
 | React | 19 |
-| Regular Expression | 11 |
-| Ruby | 290 |
+| Regular Expression | 10 |
+| Ruby | 285 |
 | Rust | 5 |
 | Scraping | 27 |
 | Security | 13 |
 | Server | 21 |
 | Shellscript | 19 |
-| Slack | 31 |
+| Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |
-| SQL | 67 |
+| SQL | 66 |
 | Sqlite | 7 |
-| SSH | 33 |
+| SSH | 32 |
 | Streamlit | 26 |
 | Swift | 4 |
 | Test | 1 |
 | Tool | 3 |
 | TypeScript | 8 |
 | Typst | 8 |
-| Ubuntu | 63 |
-| URL | 23 |
+| Ubuntu | 59 |
+| URL | 22 |
 | Vim | 19 |
-| Vite | 7 |
+| Vite | 6 |
 | VSCode | 57 |
 | Vue.js | 1 |
 | Web | 4 |
@@ -109,5 +109,5 @@
 | Words | 37 |
 | WSL | 17 |
 | Xml | 1 |
-| Etc | 17 |
-| 合計 | 2591 |
+| Etc | 16 |
+| 合計 | 2544 |

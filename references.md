@@ -5358,6 +5358,8 @@
 
 [PowerShellで独自のエイリアスやショートカットを設定したい #PowerShell - Qiita](https://qiita.com/bonny_d/items/a2f3a3ac59304609e42a)
 
+[Windowsのbat（コマンドプロンプト）でタスクマネージャーのスタートアップ設定タブを開く #Windows - Qiita](https://qiita.com/waokitsune/items/bdac1b297b4614672431)
+
 
 
 ## Words

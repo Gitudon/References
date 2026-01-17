@@ -2,12 +2,12 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月17日 12:19:42)
+## 集計(2026年01月17日 16:48:58)
 
 | トピック | 数 |
 | :--- | ---: |
 | Adb | 48 |
-| AI | 16 |
+| AI | 17 |
 | Algorithm | 22 |
 | Android | 33 |
 | API | 68 |
@@ -27,7 +27,7 @@
 | C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
-| CTF | 10 |
+| CTF | 12 |
 | cURL | 36 |
 | D | 1 |
 | DataBase | 82 |
@@ -76,14 +76,14 @@
 | Php | 5 |
 | PostgreSQL | 12 |
 | Protocol | 3 |
-| Python | 220 |
+| Python | 223 |
 | RaspberryPi | 20 |
 | React | 19 |
 | Regular Expression | 10 |
 | Ruby | 285 |
 | Rust | 5 |
 | Scraping | 27 |
-| Security | 13 |
+| Security | 15 |
 | Server | 21 |
 | Shellscript | 19 |
 | Slack | 29 |
@@ -110,4 +110,4 @@
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 16 |
-| 合計 | 2544 |
+| 合計 | 2552 |

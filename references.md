@@ -132,7 +132,7 @@
 
 [新人AI禁止令と、その結果の答え合わせ #生成AI - Qiita](https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5)
 
-
+[AIエンジニア必見：Cloudflare AI GatewayでAPIエラー・トークン・コストの悩みを解決する！ – 株式会社ルーター](https://rooter.jp/ml/cloudflare-ai-gateway-api-error-token-management/)
 
 ## Algorithm
 
@@ -1133,6 +1133,10 @@
 [SECCON Beginners CTF 2021 writeup（crypto） | zerizeriのエンジニア技術ブログ](https://security-blog-it.com/6815/)
 
 [SECCON Beginners CTF 2021 writeup! #seccon - Qiita](https://qiita.com/sa_hm490/items/5b11845d88616886c3e3)
+
+[SECCON beginners ctf 2023でFormat String Bug(FSB) #Python - Qiita](https://qiita.com/BlickWinkel/items/ff6053039353dbf53d8f)
+
+[seccon2022 easylfi](https://zenn.dev/tmemo/articles/c4f72ed7520a81)
 
 
 
@@ -3612,6 +3616,12 @@
 
 [【Python3】gmpy2をインストールする](https://morizatta.com/python3-gmpy2-install/)
 
+[19.6. base64 --- Base16, Base32, Base64, Base85 データの符号化 — Python 3.6.15 ドキュメント](https://docs.python.org/ja/3.6/library/base64.html)
+
+[subprocessでのコマンド実行 #Python - Qiita](https://qiita.com/kirinboy96/items/10a129973b9502b9fe01)
+
+[Python subprocessモジュールで脆弱性を作り込む - わたしのめいし](https://watashi-no-meishi.net/python%E3%81%AEsubprocess%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A7%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%92%E4%BD%9C%E3%82%8A%E8%BE%BC%E3%82%80/)
+
 
 
 ## RaspberryPi
@@ -4397,6 +4407,10 @@
 [sudoをパスワードレス認証で使いたい | IIJ Engineers Blog](https://eng-blog.iij.ad.jp/archives/33282)
 
 [「6桁のワンタイムパスワードは同じ数字が並ぶことが多い」という直感は正しいか？](https://zenn.dev/ukitaka/articles/468d418a5dd8fa)
+
+[Base32 エンコーダおよびデコーダ実装時のセキュリティ上の注意点 #Base32 - Qiita](https://qiita.com/kerupani129/items/838e088336c3ae879a1f)
+
+[Base64以外のBase〇〇系紹介 #base64 - Qiita](https://qiita.com/shiozaki/items/1b272a4602c20ca8a2c9)
 
 
 

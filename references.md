@@ -2215,6 +2215,8 @@
 
 [スプレッドシートをダークモードにする方法とならない時の対処法 | ゆけブログ](https://yukeblog.org/blog/spreadsheet80/)
 
+[COUNT - Google ドキュメント エディタ ヘルプ](https://support.google.com/docs/answer/3093620?hl=ja)
+
 
 
 ## HTML/CSS

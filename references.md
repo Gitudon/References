@@ -2217,6 +2217,8 @@
 
 [COUNT - Google ドキュメント エディタ ヘルプ](https://support.google.com/docs/answer/3093620?hl=ja)
 
+[スプレッドシートのCOUNTA関数は空白以外のセルを数える｜僕らの適正技術](https://ourinttech.com/spreadsheet/counta/)
+
 
 
 ## HTML/CSS

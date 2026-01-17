@@ -2196,6 +2196,8 @@
 
 [スプレッドシートのCOUNTA関数は空白以外のセルを数える｜僕らの適正技術](https://ourinttech.com/spreadsheet/counta/)
 
+[【10秒で完了】スプレッドシートの関数を置換する方法 | ゆけブログ](https://yukeblog.org/blog/spreadsheets1/)
+
 
 
 ## HTML/CSS

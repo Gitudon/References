@@ -2112,6 +2112,8 @@
 
 [Git リモートブランチをチェックアウトする #初心者 - Qiita](https://qiita.com/miriwo/items/53b319d3d3a3759b30a7)
 
+[【Git】push時に毎回パスワードを求められる #GitHub - Qiita](https://qiita.com/suzu12/items/9b77f0302dcb98e71234)
+
 
 
 ## Go

@@ -2694,6 +2694,12 @@
 
 [【LaTeX】筆記体,花文字,太字,黒板太字,ドイツ文字など | 数学の景色](https://mathlandscape.com/latex-mathcal/)
 
+[LaTeXとOfficeの数式コマンドの比較 - （旧）反面教師あり学習](https://eqseqs.hatenablog.com/entry/2020/05/26/195602)
+
+[【LaTeX】図・画像の挿入](https://takataninote.com/tex/figure.html)
+
+[Latexで画像を挿入するときのサイズを比率で指定する - print(knowledge)](https://kabik.hatenablog.com/entry/2018/11/24/005102)
+
 
 
 ## Lean
@@ -2845,6 +2851,8 @@
 [Excelで文字列型から異なる型へ変換する方法 – 株式会社ルーター](https://rooter.jp/data-format/convert-data-types-in-excel/)
 
 [いまさら聞けないIT用語：「マクロ」とは？ VBAとの違い、できること、Excelマクロの初歩など基本を解説 | データで越境者に寄り添うメディア データのじかん](https://data.wingarc.com/about-macro-25915)
+
+[PowerPoint数式 (UnicodeMath) 備忘録 - suisen のブログ](https://suisen-kyopro.hatenablog.com/entry/2023/07/05/191314)
 
 
 

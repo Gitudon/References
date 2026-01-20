@@ -1064,6 +1064,12 @@
 
 [scpコマンドでサーバー上のファイルorディレクトリをローカルに落としてくる #scp - Qiita](https://qiita.com/katsukii/items/225cd3de6d3d06a9abcb)
 
+[Linux：lsコマンドでファイル名だけを縦に並べるオプション | WWWクリエイターズ](https://www-creators.com/archives/6439)
+
+[Linux: LSコマンドでファイルのみ・ディレクトリのみを表示する方法 #Bash - Qiita](https://qiita.com/frozencatpisces/items/9e09f55ede49ef0c64dd)
+
+[【Linux】lsコマンドでファイルのみを表示する方法 #Linuxコマンド - Qiita](https://qiita.com/P-man_Brown/items/6ec2719c3a1fa6bc04cf)
+
 
 
 ## C++
@@ -1441,6 +1447,8 @@
 [FHSの「/srv」ディレクトリの概要 - KoANアカデミー](https://koanacademy.jp/srv_fhs)
 
 [開発ディレクトリ構成 ベストプラクティス](https://zenn.dev/moneyforward/articles/dev-directory-structure)
+
+[/dev/nullとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11733.html)
 
 
 

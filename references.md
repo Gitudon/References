@@ -1070,6 +1070,12 @@
 
 [【Linux】lsコマンドでファイルのみを表示する方法 #Linuxコマンド - Qiita](https://qiita.com/P-man_Brown/items/6ec2719c3a1fa6bc04cf)
 
+[lsコマンドで更新日時を秒まで表示する - suer TIL](https://atsum.in/linux/ls-seconds/)
+
+[Linuxでファイルが作成された日時を詳細に表示する #Linuxコマンド - Qiita](https://qiita.com/reoring/items/275ae83dfaa65bac568c)
+
+[【備忘録】SFTPコマンドについて #Linux - Qiita](https://qiita.com/squid_lo39/items/0c8d21e3d7aa8d37bd5e)
+
 
 
 ## C++

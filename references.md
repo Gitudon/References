@@ -5372,6 +5372,14 @@
 
 [Windowsのbat（コマンドプロンプト）でタスクマネージャーのスタートアップ設定タブを開く #Windows - Qiita](https://qiita.com/waokitsune/items/bdac1b297b4614672431)
 
+[Windows11をMicrosoftアカウントなしでセットアップする方法 | FP2SE](https://fp2se.com/windows11-no-microsoft-account/)
+
+[Windows 11 初期セットアップ手順＜Microsoft アカウントをお持ちの場合＞｜サポート｜dynabook(ダイナブック公式)](https://dynabook.com/assistpc/faq/pcdata3/018924.htm)
+
+[【特集】俺はローカルアカウントで使いたいんだよ！Windows 11のセットアップでMicrosoftアカウントを回避する方法最新版 - PC Watch](https://pc.watch.impress.co.jp/docs/topic/feature/2036750.html)
+
+[Windows11）セットアップでMicrosoftアカウントをスキップし、ローカルアカウントで使う。 - 晴歩雨描](https://2ndart.hatenablog.com/entry/2025/01/20/222401)
+
 
 
 ## Words
@@ -5529,4 +5537,6 @@
 [UUID の基本的なところについてまとめてみる #コンピューターサイエンス - Qiita](https://qiita.com/yamataikoku2001/items/4bb49670d968d14d6caf)
 
 [全人類SKKとかいうIMEを使った方が良い #OSS - Qiita](https://qiita.com/furyu_penguin/items/d0fe861247e720129e97)
+
+[DELLのノートパソコンでファンクションキーが使えない時の対処法 ｜ PC上手](https://www.pc-jozu.com/trouble/function-key-change/)
 

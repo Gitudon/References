@@ -840,8 +840,6 @@
 
 [nslookupコマンドとは。名前解決の方法や、digとの違いを解説 | Winserverのススメ](https://www.winserver.ne.jp/column/about_nslookup/)
 
-[apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
-
 [本当は怖いワイルドカード（「*」）: NECセキュリティブログ | NEC](https://jpn.nec.com/cybersecurity/blog/210903/index.html)
 
 [バイナリレベルでの調査に使用するLinuxコマンドメモ #Linux - Qiita](https://qiita.com/rsooo/items/bb91071685f447ce29db)
@@ -900,8 +898,6 @@
 
 [JSONファイルを扱うCUIツール「jq」を使ってみる - 土日の勉強ノート](https://daisuke20240310.hatenablog.com/entry/jq)
 
-[【初心者向け】シェルスクリプトの作り方 #ShellScript - Qiita](https://qiita.com/Lambda34/items/7d24ebe6f7bde5bedddc)
-
 [ファイルの圧縮についてまとめ #解凍 - Qiita](https://qiita.com/shotets/items/b210e19b0b05513513da)
 
 [jqコマンドだけでYouTubeの動画の字幕を整形する – 株式会社ルーター](https://rooter.jp/web-crawling/youtube_caption_scraping/)
@@ -948,29 +944,7 @@
 
 [tracerouteの使用方法とオプションについて | セキュリティ専門企業発、ネットワーク・ログ監視の技術情報 - KnowledgeStare（ナレッジステア）](https://www.secuavail.com/kb/windows-linux/traceroute-option/)
 
-[ムービーダウンロードツールyt-dlpのインストールと使い方](https://zenn.dev/vs7k1/articles/80d7525a08bde0)
-
-[yt-dlp を Windows 10/11で実行する #YouTube - Qiita](https://qiita.com/Bacalhau/items/ca02c5c35c714a40bb4d)
-
-[【WSL】Windows上のUbuntuでyt-dlpを動かす #Bash - Qiita](https://qiita.com/MATO/items/7030ac7db6f0f05a7b56)
-
-[FFmpegによる動画ファイル分析入門 |](https://weblabo.oscasierra.net/ffmpeg-video-analizing/)
-
-[それFFmpegで出来るよ！ #ffmpeg - Qiita](https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8)
-
-[MP4動画のバイナリファイルをコマンドラインでいじる方法のメモ #mp4box - Qiita](https://qiita.com/kunichiko/items/6fc1ec29989da28e6287)
-
-[MP4Boxの設定 #mp4box - Qiita](https://qiita.com/szk_2024/items/d9c4dbb5e4fa881662d8)
-
 [【Linuxコマンド】diffでファイルの差分を出力する方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/51012)
-
-[ffprobeで動画を解析する #ffmpeg - Qiita](https://qiita.com/hapoon/items/0e7d2f941e5da8cec8d1)
-
-[yt-dlpでYouTube動画をダウンロード中にエラーが発生した場合の対処法 | エラー解決ガイド | プログラミングのせせらぎ](https://programming.awaisora.com/c5ee0b83-0af2-4044-b437-dd538914f02a/)
-
-[オンライン動画をダウンロードするyt-dlpをバッチファイルから起動する｜mamoo](https://note.com/mamoo965/n/n2ad01afc9e03)
-
-[yt-dlpでよく使うオプション【メモ】｜hato](https://note.com/hato1198/n/n32ddfcf7a70e)
 
 [nc(netcat)コマンドの説明と使い方について #netcat - Qiita](https://qiita.com/boccham/items/536bf9201eec81c617d5)
 
@@ -984,49 +958,17 @@
 
 [【Linuxコマンド】shutdownでOSをシャットダウンする方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/51060)
 
-[ImageMagickのインストール(WSL環境) | Optical Learning Blog](http://optical-learning-blog.realop.co.jp/?eid=4)
-
-[imagickを使うためにImageMagickの最新版をインストールする話 #PHP - Qiita](https://qiita.com/SHIN_DEVELOP/items/c60eb9cd592f4a6a0f00)
-
-[ImageMagick『montage』コマンドで複数画像をグリッド上に並べて結合する方法 Windows, Mac［RMagick］ - ポヨログ](https://poyoon.com/imagemagick-montage-windows-mac-rmagick/)
-
-[ImageMagickで複数画像を1枚に合成 CodingFirst](http://iyukki.blog56.fc2.com/blog-entry-135.html)
-
-[ImageMagick コマンドまとめ #ImageMagick - Qiita](https://qiita.com/kuboyoo/items/d0123d1f043e63fc6d4c)
-
-[Imagemagickで画像を合成する1 (画像を重ね合わせる) | Imagemagickの使い方日本語マニュアル](https://imagemagick.biz/archives/672)
-
 [【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
-
-[ffmpegだけを使って、動画or複数の画像を1枚に合成する方法 #Linux - Qiita](https://qiita.com/tatsubey/items/f39011ba08ef9a6e0ddc)
 
 [Debian での Ngrok のアンインストール:](https://www.tempmail.us.com/ja/ngrok/debian-%E3%81%A7%E3%81%AE-ngrok-%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97-%E3%82%AC%E3%82%A4%E3%83%89)
 
-[ffmpeg でよく利用するコマンド群](https://zenn.dev/pinto0309/scraps/94f2cbaa8d150a)
-
-[【ffmpeg】超便利なコマンド18選・解説付き](https://zenn.dev/glisan/articles/ab080968556908)
-
-[FFmpeg の使い方 (基本) #ffmpeg - Qiita](https://qiita.com/yh1224/items/38d4ef1cf768aa3368d6)
-
-[ffmpegでMP4ファイルを結合する #ffmpeg - Qiita](https://qiita.com/niusounds/items/c386e02ab8e67030bdc0)
-
-[[FFmpeg] 複数の動画を結合する »キリンスキ](https://kirinsuki.net/2024/03/19/)
-
-[壊れた動画ファイル（moov atom not found）の修復例 - いっしきまさひこBLOG](https://blog.masahiko.info/entry/2020/10/15/211720)
-
 [ディレクトリ内のファイル数をカウントする #Linux - Qiita](https://qiita.com/stc1988/items/e3a1d7dccafe4ab573fa)
-
-[【Linux】yt-dlp を使ってYouTubeなどの動画をダウンロードする #yt-dlp - Qiita](https://qiita.com/elphaba/items/12af5c06a765eade4cb2)
-
-[yt-dlpのインストール方法について #Python - Qiita](https://qiita.com/KKKKK12345/items/6d3901e4ee5d38014389)
 
 [wgetでファイル名を指定してダウンロード | ex1-lab](https://ex1.m-yabe.com/archives/2817)
 
 [【Linux】uptimeコマンド #初心者 - Qiita](https://qiita.com/Taira0222/items/533b40d35be53fc1d610)
 
 [【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技15選 #Linux - Qiita](https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960)
-
-[PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
 
 [DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
 
@@ -1039,14 +981,6 @@
 [topコマンド、psコマンドでサーバ上の高負荷なプロセスを探してkillする – Linux編 – 株式会社ルーター](https://rooter.jp/infra-ops/linux-top-ps-kill/)
 
 [【Linux】wcコマンドとは？ #Linuxコマンド - Qiita](https://qiita.com/h___nkm5/items/4f354864eadd6044682b)
-
-[apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
-
-[Windowsで映像入力デバイスからの映像をffmpegでエンコードする #Windows - Qiita](https://qiita.com/niusounds/items/726fbee7d05cc3669d42)
-
-[WindowsにFFmpegをインストールする方法 #ffmpeg - Qiita](https://qiita.com/Tadataka_Takahashi/items/9dcb0cf308db6f5dc31b)
-
-[ffmpegでサクッとデスクトップキャプチャ（音声も！） #Windows10 - Qiita](https://qiita.com/iroirous/items/4cd9d4bd9f071c25f635)
 
 [scpコマンド #Linux - Qiita](https://qiita.com/chihiro/items/142ebe6980a498b5d4a7)
 
@@ -1075,10 +1009,6 @@
 [Linuxでファイルが作成された日時を詳細に表示する #Linuxコマンド - Qiita](https://qiita.com/reoring/items/275ae83dfaa65bac568c)
 
 [【備忘録】SFTPコマンドについて #Linux - Qiita](https://qiita.com/squid_lo39/items/0c8d21e3d7aa8d37bd5e)
-
-[【yt-dlp】YouTubeの動画ダウンローダー yt-dlpが良い](https://zenn.dev/kiku09020/articles/yt-dlp---kkp)
-
-[Ubuntuにyt-dlpをインストール | tah5.com](https://tah5.com/guides/ubuntu/youtube/yt-dlp/)
 
 
 
@@ -2368,6 +2298,18 @@
 
 [ImageMagick 画像中に文字を入れる #ImageMagick - Qiita](https://qiita.com/hsagae/items/1b72fb9f3d6024ba46f0)
 
+[ImageMagickのインストール(WSL環境) | Optical Learning Blog](http://optical-learning-blog.realop.co.jp/?eid=4)
+
+[imagickを使うためにImageMagickの最新版をインストールする話 #PHP - Qiita](https://qiita.com/SHIN_DEVELOP/items/c60eb9cd592f4a6a0f00)
+
+[ImageMagick『montage』コマンドで複数画像をグリッド上に並べて結合する方法 Windows, Mac［RMagick］ - ポヨログ](https://poyoon.com/imagemagick-montage-windows-mac-rmagick/)
+
+[ImageMagickで複数画像を1枚に合成 CodingFirst](http://iyukki.blog56.fc2.com/blog-entry-135.html)
+
+[ImageMagick コマンドまとめ #ImageMagick - Qiita](https://qiita.com/kuboyoo/items/d0123d1f043e63fc6d4c)
+
+[Imagemagickで画像を合成する1 (画像を重ね合わせる) | Imagemagickの使い方日本語マニュアル](https://imagemagick.biz/archives/672)
+
 
 
 ## iOS
@@ -2896,6 +2838,56 @@
 
 [MP4のデータ構造 #mp4 - Qiita](https://qiita.com/daisukeoda/items/87f6b5e9427c3feeaabf)
 
+[ムービーダウンロードツールyt-dlpのインストールと使い方](https://zenn.dev/vs7k1/articles/80d7525a08bde0)
+
+[yt-dlp を Windows 10/11で実行する #YouTube - Qiita](https://qiita.com/Bacalhau/items/ca02c5c35c714a40bb4d)
+
+[【WSL】Windows上のUbuntuでyt-dlpを動かす #Bash - Qiita](https://qiita.com/MATO/items/7030ac7db6f0f05a7b56)
+
+[FFmpegによる動画ファイル分析入門 |](https://weblabo.oscasierra.net/ffmpeg-video-analizing/)
+
+[それFFmpegで出来るよ！ #ffmpeg - Qiita](https://qiita.com/cha84rakanal/items/e84fe4eb6fbe2ae13fd8)
+
+[MP4動画のバイナリファイルをコマンドラインでいじる方法のメモ #mp4box - Qiita](https://qiita.com/kunichiko/items/6fc1ec29989da28e6287)
+
+[MP4Boxの設定 #mp4box - Qiita](https://qiita.com/szk_2024/items/d9c4dbb5e4fa881662d8)
+
+[ffprobeで動画を解析する #ffmpeg - Qiita](https://qiita.com/hapoon/items/0e7d2f941e5da8cec8d1)
+
+[yt-dlpでYouTube動画をダウンロード中にエラーが発生した場合の対処法 | エラー解決ガイド | プログラミングのせせらぎ](https://programming.awaisora.com/c5ee0b83-0af2-4044-b437-dd538914f02a/)
+
+[オンライン動画をダウンロードするyt-dlpをバッチファイルから起動する｜mamoo](https://note.com/mamoo965/n/n2ad01afc9e03)
+
+[yt-dlpでよく使うオプション【メモ】｜hato](https://note.com/hato1198/n/n32ddfcf7a70e)
+
+[ffmpegだけを使って、動画or複数の画像を1枚に合成する方法 #Linux - Qiita](https://qiita.com/tatsubey/items/f39011ba08ef9a6e0ddc)
+
+[ffmpeg でよく利用するコマンド群](https://zenn.dev/pinto0309/scraps/94f2cbaa8d150a)
+
+[【ffmpeg】超便利なコマンド18選・解説付き](https://zenn.dev/glisan/articles/ab080968556908)
+
+[FFmpeg の使い方 (基本) #ffmpeg - Qiita](https://qiita.com/yh1224/items/38d4ef1cf768aa3368d6)
+
+[ffmpegでMP4ファイルを結合する #ffmpeg - Qiita](https://qiita.com/niusounds/items/c386e02ab8e67030bdc0)
+
+[[FFmpeg] 複数の動画を結合する »キリンスキ](https://kirinsuki.net/2024/03/19/)
+
+[壊れた動画ファイル（moov atom not found）の修復例 - いっしきまさひこBLOG](https://blog.masahiko.info/entry/2020/10/15/211720)
+
+[【Linux】yt-dlp を使ってYouTubeなどの動画をダウンロードする #yt-dlp - Qiita](https://qiita.com/elphaba/items/12af5c06a765eade4cb2)
+
+[yt-dlpのインストール方法について #Python - Qiita](https://qiita.com/KKKKK12345/items/6d3901e4ee5d38014389)
+
+[Windowsで映像入力デバイスからの映像をffmpegでエンコードする #Windows - Qiita](https://qiita.com/niusounds/items/726fbee7d05cc3669d42)
+
+[WindowsにFFmpegをインストールする方法 #ffmpeg - Qiita](https://qiita.com/Tadataka_Takahashi/items/9dcb0cf308db6f5dc31b)
+
+[ffmpegでサクッとデスクトップキャプチャ（音声も！） #Windows10 - Qiita](https://qiita.com/iroirous/items/4cd9d4bd9f071c25f635)
+
+[【yt-dlp】YouTubeの動画ダウンローダー yt-dlpが良い](https://zenn.dev/kiku09020/articles/yt-dlp---kkp)
+
+[Ubuntuにyt-dlpをインストール | tah5.com](https://tah5.com/guides/ubuntu/youtube/yt-dlp/)
+
 
 
 ## MySQL
@@ -3134,6 +3126,8 @@
 
 [フロントエンド開発の３ステップ（npmことはじめ） #Node.js - Qiita](https://qiita.com/hashrock/items/15f4a4961183cfbb2658)
 
+[apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
+
 
 
 ## Package Manager
@@ -3141,6 +3135,8 @@
 [バージョン管理ツール、パッケージ管理ツールの種類をまとめました #バージョン管理 - Qiita](https://qiita.com/akkey2475/items/5b2813e62303a9c75813)
 
 [ベテランエンジニアも意外と知らない「パッケージ管理システムの仕組み」 #パッケージマネージャー - Qiita](https://qiita.com/s_taki/items/1d94e5e9544ebbf32778)
+
+[apt と apt-get のどちらを使えばいいのか？ #Docker - Qiita](https://qiita.com/aratasss/items/1f5b588c1f37efaf75ec)
 
 
 
@@ -3159,6 +3155,8 @@
 [PDFをデータベース化するコツ – 株式会社ルーター](https://rooter.jp/web-crawling/pdfdatabase/)
 
 [決算書のPDF内部の表をAIに読み取らせてみた – 株式会社ルーター](https://rooter.jp/web-crawling/ai-reading-pdf/)
+
+[PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
 
 
 
@@ -4541,6 +4539,8 @@
 [シェルスクリプト オプション解析 徹底解説 (getopt / getopts) #Bash - Qiita](https://qiita.com/ko1nksm/items/cea7e7cfdc9e25432bab)
 
 [シェルスクリプトにオプションを追加したい｜hassy](https://note.com/hassy627hassy/n/n4847fbcde413)
+
+[【初心者向け】シェルスクリプトの作り方 #ShellScript - Qiita](https://qiita.com/Lambda34/items/7d24ebe6f7bde5bedddc)
 
 
 

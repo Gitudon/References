@@ -1090,6 +1090,8 @@
 
 [CTFに使ったツールとメモ](https://zenn.dev/tetsurou/articles/2390c15a25220b)
 
+[Animal Viewer](https://www.notion.so/kakur41-wrteup/Animal-Viewer-2efda8520c02808880fdfaa79ee2ca81)
+
 
 
 ## cURL

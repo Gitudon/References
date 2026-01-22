@@ -2696,6 +2696,12 @@
 
 [【LaTeX】行頭の字下げ](https://takataninote.com/tex/indent.html)
 
+[日本語と英語の共存するbibtexのスタイルファイルを作る #TeX - Qiita](https://qiita.com/ossyaritoori/items/7574ab2f3f9b9e8e1836)
+
+[BibLaTeXで日本語文献と英語文献の混在を扱う #biblatex - Qiita](https://qiita.com/sbtseiji/items/8ea24a39cd7810740e24)
+
+[文献に英語と日本語が混在する論文などをTeXで書くための一つのやり方 #Python - Qiita](https://qiita.com/mayfair/items/08ef0533cefe3f900d36)
+
 
 
 ## Lean

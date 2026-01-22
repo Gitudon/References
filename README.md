@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月22日 12:12:28)
+## 集計(2026年01月22日 13:46:17)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,7 +23,7 @@
 | Chrome | 33 |
 | Codes | 3 |
 | Coding | 8 |
-| Commands | 129 |
+| Commands | 94 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
@@ -49,7 +49,7 @@
 | Go | 3 |
 | Google | 35 |
 | HTML/CSS | 61 |
-| Image | 7 |
+| Image | 13 |
 | iOS | 8 |
 | Java | 36 |
 | JavaScript | 51 |
@@ -62,17 +62,17 @@
 | Markdown | 21 |
 | Matlab | 1 |
 | Microsoft | 9 |
-| Movie | 6 |
+| Movie | 31 |
 | MySQL | 32 |
 | Naming | 19 |
 | Nano | 3 |
 | Network | 35 |
 | Next.js | 5 |
 | Nginx | 4 |
-| Node.js | 7 |
-| Package Manager | 2 |
+| Node.js | 8 |
+| Package Manager | 3 |
 | PC | 2 |
-| PDF | 3 |
+| PDF | 4 |
 | Php | 5 |
 | PostgreSQL | 12 |
 | Protocol | 3 |
@@ -85,7 +85,7 @@
 | Scraping | 27 |
 | Security | 16 |
 | Server | 21 |
-| Shellscript | 19 |
+| Shellscript | 20 |
 | Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |

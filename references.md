@@ -1156,6 +1156,10 @@
 
 [seccon2022 easylfi](https://zenn.dev/tmemo/articles/c4f72ed7520a81)
 
+[CTF ネットワーク問題　Find the key Write up #Security - Qiita](https://qiita.com/Inlet-back/items/eece4f0f9e7dfbfb53a5)
+
+[CTFに使ったツールとメモ](https://zenn.dev/tetsurou/articles/2390c15a25220b)
+
 
 
 ## cURL

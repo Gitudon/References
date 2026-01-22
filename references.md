@@ -2668,6 +2668,36 @@
 
 [Latexで画像を挿入するときのサイズを比率で指定する - print(knowledge)](https://kabik.hatenablog.com/entry/2018/11/24/005102)
 
+[texのフォーマッター編 #LaTeX - Qiita](https://qiita.com/Kumasan00/items/4a91b3bafbd2c9790553)
+
+[LaTeXのトラブルいろいろ｜Sy1ph!de](https://note.com/hot_moose9002/n/n2f20b4c3bd08)
+
+[chktexによるダッシュに関する警告を黙らせる方法 #Vim - Qiita](https://qiita.com/kaityo256/items/e6af33b985f27864c97d)
+
+[vscodeのLaTeX Workshopで「chkTeX」による日本語エラーが頻出する #VSCode - Qiita](https://qiita.com/ganyariya/items/c8f02f10f4546900bb68)
+
+[LaTeX で表を作る際に \hline とすると warning が出る | teratail](https://teratail.com/questions/eca35sa4d73cp4)
+
+[Texで書く論文の引用にはbibtexがオススメな４つの理由 #TeX - Qiita](https://qiita.com/cheerfularge/items/2674d6180eed4af199da)
+
+[【LaTeX】外部ファイルの読み込み【\input】](https://takataninote.com/tex/input.html)
+
+[参考文献の記述 - ★はじめてのLaTeX - Cute.Guides at 九州大学 Kyushu University](https://guides.lib.kyushu-u.ac.jp/LaTeX-LectureNote/references)
+
+[TikZ 備忘録 | Chanomic Blog](https://bombrary.github.io/blog/posts/tikz-note01/)
+
+[LaTeX+BibLaTeX+VSCodeでスッキリ環境構築 (Mac) (2024) #biblatex - Qiita](https://qiita.com/Muon/items/f4d4b93fb1f9cbec51d0)
+
+[VSCodeでBiBTeXを使う - くたくたじゅうよん](https://scrapbox.io/takker/VSCode%E3%81%A7BiBTeX%E3%82%92%E4%BD%BF%E3%81%86)
+
+[【LaTeX】参考文献のかき方をわかりやすく | 数学の景色](https://mathlandscape.com/latex-cite/)
+
+[【LaTeX】BibTeXにおけるbibファイルのかき方 | 数学の景色](https://mathlandscape.com/latex-bib/)
+
+[【LaTeX】行頭の字下げ](https://takataninote.com/tex/indent.html)
+
+[【LaTeX】定理環境amsthmパッケージの使い方を徹底解説 | 数学の景色](https://mathlandscape.com/latex-amsthm/)
+
 
 
 ## Lean

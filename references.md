@@ -1076,6 +1076,10 @@
 
 [【備忘録】SFTPコマンドについて #Linux - Qiita](https://qiita.com/squid_lo39/items/0c8d21e3d7aa8d37bd5e)
 
+[【yt-dlp】YouTubeの動画ダウンローダー yt-dlpが良い](https://zenn.dev/kiku09020/articles/yt-dlp---kkp)
+
+[Ubuntuにyt-dlpをインストール | tah5.com](https://tah5.com/guides/ubuntu/youtube/yt-dlp/)
+
 
 
 ## C++
@@ -1667,6 +1671,10 @@
 [DockerコンテナでLaTeX文書作成 #Docker - Qiita](https://qiita.com/buckling_load/items/3ea9e0d641695aff56b0)
 
 [Docker一括削除コマンドまとめ #Docker - Qiita](https://qiita.com/boiyama/items/9972601ffc240553e1f3)
+
+[docker stack | Docker ドキュメント](https://matsuand.github.io/docs.docker.jp.onthefly/engine/reference/commandline/stack/)
+
+[docker stack — Docker-docs-ja 24.0 ドキュメント](https://docs.docker.jp/engine/reference/commandline/stack.html)
 
 
 
@@ -4439,6 +4447,8 @@
 [Base32 エンコーダおよびデコーダ実装時のセキュリティ上の注意点 #Base32 - Qiita](https://qiita.com/kerupani129/items/838e088336c3ae879a1f)
 
 [Base64以外のBase〇〇系紹介 #base64 - Qiita](https://qiita.com/shiozaki/items/1b272a4602c20ca8a2c9)
+
+[ChaCha20-Poly1305の解説と実装 | 晴耕雨読](https://tex2e.github.io/blog/crypto/chacha20poly1305)
 
 
 

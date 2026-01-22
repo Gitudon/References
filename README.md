@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月20日 19:04:31)
+## 集計(2026年01月22日 11:46:14)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,7 +23,7 @@
 | Chrome | 33 |
 | Codes | 3 |
 | Coding | 8 |
-| Commands | 127 |
+| Commands | 129 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
@@ -36,7 +36,7 @@
 | Directly | 13 |
 | Discord | 18 |
 | Django | 4 |
-| Docker | 78 |
+| Docker | 80 |
 | Documents | 2 |
 | Edge | 10 |
 | Electrical Engineering | 7 |
@@ -83,7 +83,7 @@
 | Ruby | 285 |
 | Rust | 5 |
 | Scraping | 27 |
-| Security | 15 |
+| Security | 16 |
 | Server | 21 |
 | Shellscript | 19 |
 | Slack | 29 |
@@ -110,4 +110,4 @@
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 17 |
-| 合計 | 2571 |
+| 合計 | 2576 |

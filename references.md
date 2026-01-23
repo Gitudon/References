@@ -2762,6 +2762,12 @@
 
 [Linux – apt の自動アップデートと停止方法 | pystyle](https://pystyle.info/linux-apt-auto-update)
 
+[`/usr/bin/bash` と `/bin/bash` の違い](https://zenn.dev/takeo/articles/532898d753b6fc)
+
+[/bin/sh と /bin/bash の違い - 双六工場日誌](https://sechiro.hatenablog.com/entry/20120806/1344267619)
+
+[個人的な備忘録：シェルスクリプト実行時に記述する『#!/bin/bash』について自分なりに深掘りしてみた #Linux - Qiita](https://qiita.com/free-honda/items/4bfa241ac489590cde8d)
+
 
 
 ## Lua
@@ -4588,6 +4594,8 @@
 
 [【初心者向け】シェルスクリプトの作り方 #ShellScript - Qiita](https://qiita.com/Lambda34/items/7d24ebe6f7bde5bedddc)
 
+[シェルスクリプトの1行目に書くおまじないで使える便利オプション集 #Bash - Qiita](https://qiita.com/yn-misaki/items/6fcfab082dd664f10d4e)
+
 
 
 ## Slack
@@ -5531,6 +5539,8 @@
 [URIとURLの違いはソーセージとウィンナーの違いと覚えろ！！ #初心者 - Qiita](https://qiita.com/nakanishi03/items/7c80dfe2fe02e8df7b10)
 
 [マクロとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word11242.html)
+
+[/bin/bashとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word14414.html)
 
 
 

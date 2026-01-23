@@ -2702,6 +2702,8 @@
 
 [文献に英語と日本語が混在する論文などをTeXで書くための一つのやり方 #Python - Qiita](https://qiita.com/mayfair/items/08ef0533cefe3f900d36)
 
+[【LaTeX】ディラックのブラケット記法のかき方まとめ | 数学の景色](https://mathlandscape.com/latex-braket/)
+
 
 
 ## Lean

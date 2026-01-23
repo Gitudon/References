@@ -818,6 +818,8 @@
 
 [「スパゲッティコード」を書かないために意識すること #SoftwareDesign - Qiita](https://qiita.com/haruharuharuby/items/4bd2d73d8ccd7e3f7f40)
 
+[新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
+
 
 
 ## Commands
@@ -5599,8 +5601,6 @@
 [プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
 
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
-
-[新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
 
 [プログラミングを独学しているのですが、全然楽しくありません。向いてないのでしょうか？ #ポエム - Qiita](https://qiita.com/t7u-ito/items/6e61a95da4a9ded69327)
 

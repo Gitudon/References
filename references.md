@@ -2704,6 +2704,10 @@
 
 [【LaTeX】ディラックのブラケット記法のかき方まとめ | 数学の景色](https://mathlandscape.com/latex-braket/)
 
+[数式:align 環境: LaTeX](http://xyoshiki.web.fc2.com/tex/form019.html)
+
+[数式:式の上下の空きを詰める。 TeX](http://xyoshiki.web.fc2.com/tex/form030.html)
+
 
 
 ## Lean

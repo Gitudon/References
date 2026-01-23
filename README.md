@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月23日 21:56:35)
+## 集計(2026年01月23日 22:21:55)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -56,7 +56,7 @@
 | Kotlin | 3 |
 | LaTeX | 90 |
 | Lean | 4 |
-| Linux | 18 |
+| Linux | 21 |
 | Lua | 5 |
 | Mail | 5 |
 | Markdown | 21 |
@@ -85,7 +85,7 @@
 | Scraping | 27 |
 | Security | 18 |
 | Server | 21 |
-| Shellscript | 20 |
+| Shellscript | 21 |
 | Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |
@@ -106,8 +106,8 @@
 | Vue.js | 1 |
 | Web | 4 |
 | Windows | 37 |
-| Words | 37 |
+| Words | 38 |
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 16 |
-| 合計 | 2600 |
+| 合計 | 2605 |

@@ -5622,3 +5622,5 @@
 
 [DELLのノートパソコンでファンクションキーが使えない時の対処法 ｜ PC上手](https://www.pc-jozu.com/trouble/function-key-change/)
 
+[プログラミング言語ごとのコメントアウトの記法まとめたら便利じゃね？って話 #Python - Qiita](https://qiita.com/power3812/items/d8fc76f551970085e189)
+

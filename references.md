@@ -4492,6 +4492,10 @@
 
 [ChaCha20-Poly1305の解説と実装 | 晴耕雨読](https://tex2e.github.io/blog/crypto/chacha20poly1305)
 
+[ChaCha20を理解したい（実装編）](https://zenn.dev/mahiro33/articles/40d0efb0b5b32a)
+
+[ChaCha20 & Poly1305 #crypto - Qiita](https://qiita.com/tnakagawa/items/a7892a87f8c71b3fc803)
+
 
 
 ## Server

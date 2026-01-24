@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年01月24日 16:26:13)
+## 集計(2026年01月25日 08:46:02)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,7 +23,7 @@
 | Chrome | 33 |
 | Codes | 3 |
 | Coding | 9 |
-| Commands | 94 |
+| Commands | 93 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
@@ -36,7 +36,7 @@
 | Directly | 13 |
 | Discord | 18 |
 | Django | 4 |
-| Docker | 80 |
+| Docker | 79 |
 | Documents | 2 |
 | Edge | 10 |
 | Electrical Engineering | 7 |
@@ -49,7 +49,7 @@
 | Go | 3 |
 | Google | 36 |
 | HTML/CSS | 61 |
-| Image | 13 |
+| Image | 20 |
 | iOS | 8 |
 | Java | 36 |
 | JavaScript | 51 |
@@ -76,7 +76,7 @@
 | Php | 5 |
 | PostgreSQL | 12 |
 | Protocol | 3 |
-| Python | 223 |
+| Python | 208 |
 | RaspberryPi | 20 |
 | React | 19 |
 | Regular Expression | 10 |
@@ -100,6 +100,7 @@
 | Typst | 8 |
 | Ubuntu | 59 |
 | URL | 22 |
+| uv | 11 |
 | Vim | 19 |
 | Vite | 6 |
 | VSCode | 57 |
@@ -110,4 +111,4 @@
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 19 |
-| 合計 | 2613 |
+| 合計 | 2614 |

@@ -4598,6 +4598,8 @@
 
 [シェルスクリプトの1行目に書くおまじないで使える便利オプション集 #Bash - Qiita](https://qiita.com/yn-misaki/items/6fcfab082dd664f10d4e)
 
+[#!/bin/sh は ただのコメントじゃないよ！ Shebangだよ！ #UNIX - Qiita](https://qiita.com/mohira/items/566ca75d704072bcb26f)
+
 
 
 ## Slack

@@ -966,8 +966,6 @@
 
 [【Linuxコマンド】shutdownでOSをシャットダウンする方法 | 侍エンジニアブログ](https://www.sejuku.net/blog/51060)
 
-[【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
-
 [Debian での Ngrok のアンインストール:](https://www.tempmail.us.com/ja/ngrok/debian-%E3%81%A7%E3%81%AE-ngrok-%E3%81%AE%E3%82%A2%E3%83%B3%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB-%E3%82%B9%E3%83%86%E3%83%83%E3%83%97%E3%83%90%E3%82%A4%E3%82%B9%E3%83%86%E3%83%83%E3%83%97-%E3%82%AC%E3%82%A4%E3%83%89)
 
 [ディレクトリ内のファイル数をカウントする #Linux - Qiita](https://qiita.com/stc1988/items/e3a1d7dccafe4ab573fa)
@@ -1595,8 +1593,6 @@
 [Dockerで none なイメージを一括で削除するワンライナー #Docker - Qiita](https://qiita.com/DQNEO/items/e3a03a14beb616630032)
 
 [Django + Docker でImageFieldを反映させる方法(pillow) #Python - Qiita](https://qiita.com/cardene/items/579dd53e2b245722f2ab)
-
-[Python, OpenCV, Pillow(PIL)で画像サイズ（幅、高さ）を取得 | note.nkmk.me](https://note.nkmk.me/python-opencv-pillow-image-size/)
 
 [pythonでMySQLに接続しようとしたときに「Mysql.connector.errors.InternalError: Unread result found.」のエラー - ともだちはすくないです](https://trade-and-develop.hatenablog.com/entry/2017/02/23/021119)
 
@@ -2321,6 +2317,20 @@
 [ImageMagick コマンドまとめ #ImageMagick - Qiita](https://qiita.com/kuboyoo/items/d0123d1f043e63fc6d4c)
 
 [Imagemagickで画像を合成する1 (画像を重ね合わせる) | Imagemagickの使い方日本語マニュアル](https://imagemagick.biz/archives/672)
+
+[【画像処理】サルでもわかる画像処理講座　はじめに #Python - Qiita](https://qiita.com/spc_ehara/items/e425b6dcc0398299c40d)
+
+[【Linux】コマンドラインで画像を生成する #ImageMagick - Qiita](https://qiita.com/CRaLFa/items/fed50a2bd8cd6a64fd51)
+
+[Python, OpenCV, Pillow(PIL)で画像サイズ（幅、高さ）を取得 | note.nkmk.me](https://note.nkmk.me/python-opencv-pillow-image-size/)
+
+[【画像処理】硬貨(コイン)を検出してみよう #Python - Qiita](https://qiita.com/spc_ehara/items/e627f5633d0e9d98a39a)
+
+[【画像処理】画像処理のための環境構築(Python) #OpenCV - Qiita](https://qiita.com/spc_ehara/items/c71aed04881d8b0acbc9)
+
+[【画像処理】PythonでOpenCVを使った色空間の変換 #Python - Qiita](https://qiita.com/spc_ehara/items/5c35d3c9900ad5e18e5c)
+
+[Webページから画像を取得し、リサイズを行う #Python - Qiita](https://qiita.com/yamaAtsu/items/020eec010973d48d1cc7)
 
 
 
@@ -3308,12 +3318,6 @@
 
 [pip: Python環境構築ガイド - python.jp](https://www.python.jp/install/ubuntu/pip.html)
 
-[Pythonのパッケージマネージャ「uv」を試してみたら爆速だった #pip - Qiita](https://qiita.com/mottyzzz/items/c7451c5ce2ca954fde52)
-
-[uvを使ってPython実行環境を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/i-like-uv/)
-
-[さらなる進化を遂げた「uv」の新機能 | gihyo.jp](https://gihyo.jp/article/2024/09/monthly-python-2409)
-
 [Pythonで7種のソートを実装して、性能を比較してみた](https://qiita.com/zaki858/items/c34537ec71e7c03a38e1)
 
 [【Python3】os.environで取得した環境変数の文字列型(str)の値を数値方(int)に変更するやり方【キャスト方法】 | Blogenist – ブロゲニスト](https://blogenist.jp/2019/01/14/7471/)
@@ -3337,8 +3341,6 @@
 [PythonでcURL #Python3 - Qiita](https://qiita.com/danishi/items/07dd1b2f2a28255f7a85)
 
 [【Python】n進数→10進数、10進数→n進数【AtCoder】 #N進数 - Qiita](https://qiita.com/ether2420/items/061c19a000c52adf7f3e)
-
-[Ubuntu 22.04.4LTS に uv を入れて Python のパッケージを管理する - Sig9 Memo v4.0](https://sig9.org/blog/2024/04/18/)
 
 [[Python] asyncioに入門してみたメモ #非同期処理 - Qiita](https://qiita.com/everylittle/items/57da997d9e0507050085)
 
@@ -3424,8 +3426,6 @@
 
 [CodeRunnerでpython: command not foundが出る場合 #Python3 - Qiita](https://qiita.com/kurohige113/items/e1b2e66e92c7fa607bff)
 
-[【画像処理】硬貨(コイン)を検出してみよう #Python - Qiita](https://qiita.com/spc_ehara/items/e627f5633d0e9d98a39a)
-
 [未経験者含む高校生で校内のWebアプリを作ろうとしたら失敗した話。 #Python - Qiita](https://qiita.com/harryp0tterK/items/e8de3e1eed654308cd0d)
 
 [matplotlibでグラフを描く #Python - Qiita](https://qiita.com/kira4845/items/9d340d68a0336f954506)
@@ -3476,11 +3476,7 @@
 
 [Pythonとpipパッケージのバージョン確認＆一括アップデート方法](https://zenn.dev/haretokidoki/articles/8836fecf6b4cfc)
 
-[【画像処理】画像処理のための環境構築(Python) #OpenCV - Qiita](https://qiita.com/spc_ehara/items/c71aed04881d8b0acbc9)
-
 [pythonのインストールパッケージの依存関係ミスマッチを解消しよう #Python - Qiita](https://qiita.com/tat_mae084/items/4fcccc539afcfdc71573)
-
-[【画像処理】PythonでOpenCVを使った色空間の変換 #Python - Qiita](https://qiita.com/spc_ehara/items/5c35d3c9900ad5e18e5c)
 
 [PythonでJSON 読み込み #Python3 - Qiita](https://qiita.com/soiSource/items/53990fca06fb9ba1d8a7)
 
@@ -3515,8 +3511,6 @@
 [Pillow(PIL; Python Imaging Library)の概要とData Augmentationの実装 #DeepLearning - Qiita](https://qiita.com/Chi_corp_123/items/54af1900c1101a8ce7e1)
 
 [pythonでcase文を書く #Python - Qiita](https://qiita.com/yushikmr/items/f83ea32ec597a3b1a827)
-
-[Webページから画像を取得し、リサイズを行う #Python - Qiita](https://qiita.com/yamaAtsu/items/020eec010973d48d1cc7)
 
 [Pythonで文字列を検索（〜を含むか判定、位置取得） | note.nkmk.me](https://note.nkmk.me/python-str-search/)
 
@@ -3596,16 +3590,6 @@
 
 [Python Windows環境 VirtualEnv で tcl ライブラリが見つからないエラーの対処 | Glob](https://www.typea.info/blog/index.php/2015/07/26/python_windows_virtualenv_tcl/)
 
-[uv （pythonパッケージマネージャー）の使い方　簡易版 #Python - Qiita](https://qiita.com/futakuchi0117/items/9ec8bd84797fed180647)
-
-[【画像処理】サルでもわかる画像処理講座　はじめに #Python - Qiita](https://qiita.com/spc_ehara/items/e425b6dcc0398299c40d)
-
-[uvを使ってPython環境を構築する #Git - Qiita](https://qiita.com/DR623G/items/50e6136f7f9f365d7c6a)
-
-[WSL2 + Ubuntu 22.04 + ROS2 Humble + uv 環境構築メモ #Python - Qiita](https://qiita.com/Hdan/items/ffbcdc1b85a65516ece6)
-
-[🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
-
 [Python3 : 簡易 WEB サーバーを立ち上げる | R-Y-O の IT 備忘録 Ver.2.0](https://raspi.ryo.sc/python3-simple-webserver/)
 
 [【完全理解】Python zip()関数についてあれこれ #初心者 - Qiita](https://qiita.com/kubochiro/items/5daedd51654a8155bc06)
@@ -3633,8 +3617,6 @@
 [Pythonの「仮想環境」を完全に理解しよう - Speaker Deck](https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou)
 
 [【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
-
-[再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル](https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430)
 
 [Pythonで2進数、8進数、16進数の数値・文字列を相互に変換 | note.nkmk.me](https://note.nkmk.me/python-bin-oct-hex-int-format/)
 
@@ -3679,8 +3661,6 @@
 [pythonは_(アンダースコア)の使い方を理解するだけでプロフェッショナルになれる #Python - Qiita](https://qiita.com/_Kohei_/items/069aa1e7b872f5ca96bf)
 
 [Pythonでリストに複数の要素を効率的に追加する方法 #Python3 - Qiita](https://qiita.com/POKARI0450/items/c99454ada6780f7e7300)
-
-[Ubuntu環境でuvを使ってPythonのパッケージ管理をする](https://zenn.dev/ats030/articles/how-to-use-uv-on-ubuntu)
 
 [すべてのPythonistaに知ってほしいimport順序をプロジェクト内で統一させる方法 #Pycharm - Qiita](https://qiita.com/tez/items/5c9a42b075d75d4a5aac)
 
@@ -5199,6 +5179,32 @@
 [Instagramの投稿にURLを載せてリンク誘導する方法は？ | 株式会社ガイアックス](https://gaiax-socialmedialab.jp/qa/instagram-post-link/)
 
 [Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
+
+
+
+## uv
+
+[uv の細かい使い方 (pip互換, sync と run, --group など)](https://zenn.dev/k_ts_ngo/articles/d73e7cc18af975)
+
+[再現性の高い Python 開発環境を作る - Python ライブラリは uv / その他ツールは Nix で固定する | ドクセル](https://www.docswell.com/s/ryu_trifolium/KJQPPM-2025-11-15-004430)
+
+[uv （pythonパッケージマネージャー）の使い方　簡易版 #Python - Qiita](https://qiita.com/futakuchi0117/items/9ec8bd84797fed180647)
+
+[Ubuntu 22.04.4LTS に uv を入れて Python のパッケージを管理する - Sig9 Memo v4.0](https://sig9.org/blog/2024/04/18/)
+
+[Pythonのパッケージマネージャ「uv」を試してみたら爆速だった #pip - Qiita](https://qiita.com/mottyzzz/items/c7451c5ce2ca954fde52)
+
+[uvを使ってPython実行環境を整理してみた | DevelopersIO](https://dev.classmethod.jp/articles/i-like-uv/)
+
+[さらなる進化を遂げた「uv」の新機能 | gihyo.jp](https://gihyo.jp/article/2024/09/monthly-python-2409)
+
+[uvを使ってPython環境を構築する #Git - Qiita](https://qiita.com/DR623G/items/50e6136f7f9f365d7c6a)
+
+[WSL2 + Ubuntu 22.04 + ROS2 Humble + uv 環境構築メモ #Python - Qiita](https://qiita.com/Hdan/items/ffbcdc1b85a65516ece6)
+
+[🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
+
+[Ubuntu環境でuvを使ってPythonのパッケージ管理をする](https://zenn.dev/ats030/articles/how-to-use-uv-on-ubuntu)
 
 
 

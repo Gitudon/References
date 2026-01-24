@@ -2158,6 +2158,8 @@
 
 [【10秒で完了】スプレッドシートの関数を置換する方法 | ゆけブログ](https://yukeblog.org/blog/spreadsheets1/)
 
+[【Google検索】 邪魔な「AIによる概要」をオフ（非表示）にする方法 | 情シスの自由帳](https://jo-sys.net/google-ai-overview-off/)
+
 
 
 ## HTML/CSS

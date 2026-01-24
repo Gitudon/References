@@ -5636,3 +5636,5 @@
 
 [コメントへの恐怖に立ち向かう 〜少しずつ使ってもらうために〜 #Confluence - Qiita](https://qiita.com/akiko-pusu/items/06d99c7ec336481efe54)
 
+[マサカリの起源について #ポエム - Qiita](https://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d)
+

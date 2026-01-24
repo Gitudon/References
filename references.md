@@ -550,6 +550,12 @@
 
 [[意見交換] Qiita記事の見出しレベルは1と2のどちらから始めるべきか - Qiita](https://qiita.com/yusuke_s_yusuke/questions/f445294afd222fbc4001)
 
+[Qiitaの記事には絶対コメントを書いてはいけない (わけがない) #ポエム - Qiita](https://qiita.com/YumaInaura/items/5532cb4eea013b2f4a4b)
+
+[【SEの独り言】Qiitaいっぱいこわい【つよつよエンジニアさんいつもありがとう】※追記あり｜よわよわSEヌル](https://note.com/etc_nonoji/n/n2d32ed5a39ea)
+
+[Qiitaで話題になったエンジニア晒し上げに触れる - yasudacloudの日記](https://yasuda.cloud/entry/2022/03/23/235835)
+
 
 
 ## Browser
@@ -5627,4 +5633,6 @@
 [DELLのノートパソコンでファンクションキーが使えない時の対処法 ｜ PC上手](https://www.pc-jozu.com/trouble/function-key-change/)
 
 [プログラミング言語ごとのコメントアウトの記法まとめたら便利じゃね？って話 #Python - Qiita](https://qiita.com/power3812/items/d8fc76f551970085e189)
+
+[コメントへの恐怖に立ち向かう 〜少しずつ使ってもらうために〜 #Confluence - Qiita](https://qiita.com/akiko-pusu/items/06d99c7ec336481efe54)
 

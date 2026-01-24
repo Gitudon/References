@@ -2076,6 +2076,8 @@
 
 [【Git】push時に毎回パスワードを求められる #GitHub - Qiita](https://qiita.com/suzu12/items/9b77f0302dcb98e71234)
 
+[変更されたファイル一覧を取得する #Git - Qiita](https://qiita.com/neko_the_shadow/items/2135ec80c2b73f84808f)
+
 
 
 ## Go
@@ -5205,6 +5207,8 @@
 [🚀 Python開発を劇的に速くする新ツール「uv」入門 #pyproject.toml - Qiita](https://qiita.com/s_tsuchida/items/8849d3a47119d1a8c4cd)
 
 [Ubuntu環境でuvを使ってPythonのパッケージ管理をする](https://zenn.dev/ats030/articles/how-to-use-uv-on-ubuntu)
+
+[既存のPythonプロジェクトをuv管理に変更する手順 #初心者 - Qiita](https://qiita.com/nacanaca/items/553cefca0d72ce2a99c5)
 
 
 

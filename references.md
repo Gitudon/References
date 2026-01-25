@@ -392,6 +392,8 @@
 
 [AtCoder Problems を支える技術 (2019年版) - 宇宙ツイッタラーXの憂鬱](https://kenkoooo.hatenablog.com/entry/2019/12/01/011525)
 
+[YouTube Data API v3 コマンドとエンドポイントまとめ｜やかん](https://note.com/novel_donkey2172/n/n332ecd997e83)
+
 
 
 ## Asm
@@ -2078,6 +2080,8 @@
 
 [変更されたファイル一覧を取得する #Git - Qiita](https://qiita.com/neko_the_shadow/items/2135ec80c2b73f84808f)
 
+[[Git] mergeコマンドの復習 #gitコマンド - Qiita](https://qiita.com/yam_dev/items/47bd70e7582b14154541)
+
 
 
 ## Go
@@ -3277,6 +3281,8 @@
 [HTTP レスポンスステータスコード - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/Reference/Status)
 
 [IT業界の基礎知識：覚えておくべきポート番号（プロトコル） - eyeon -アイオン-](https://www.k-friendly.com/9038)
+
+[HTTPリクエスト、HTTPレスポンスとは #HTTP - Qiita](https://qiita.com/minateru/items/8693538bbd0768855266)
 
 
 

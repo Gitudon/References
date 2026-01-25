@@ -3698,6 +3698,8 @@
 
 [Python subprocessモジュールで脆弱性を作り込む - わたしのめいし](https://watashi-no-meishi.net/python%E3%81%AEsubprocess%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB%E3%81%A7%E8%84%86%E5%BC%B1%E6%80%A7%E3%82%92%E4%BD%9C%E3%82%8A%E8%BE%BC%E3%82%80/)
 
+[Ubuntu に python の opencv をインストール #Python - Qiita](https://qiita.com/mugimugi/items/64b710c0c506fc13d19d)
+
 
 
 ## RaspberryPi
@@ -5209,6 +5211,12 @@
 [Ubuntu環境でuvを使ってPythonのパッケージ管理をする](https://zenn.dev/ats030/articles/how-to-use-uv-on-ubuntu)
 
 [既存のPythonプロジェクトをuv管理に変更する手順 #初心者 - Qiita](https://qiita.com/nacanaca/items/553cefca0d72ce2a99c5)
+
+[uv （pythonパッケージマネージャー）の使い方　簡易版 #Python - Qiita](https://qiita.com/futakuchi0117/items/9ec8bd84797fed180647)
+
+[uv on Docker をやっている](https://zenn.dev/shundeveloper/articles/5602a8a0131bd9)
+
+[uv × DockerでのPython開発環境構築方法](https://zenn.dev/mkj/articles/3aaa36d6f35c08)
 
 
 

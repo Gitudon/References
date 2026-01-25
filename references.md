@@ -1616,8 +1616,6 @@
 
 [docker stack — Docker-docs-ja 24.0 ドキュメント](https://docs.docker.jp/engine/reference/commandline/stack.html)
 
-[【Python】DockerでOpenCVをインストールする時の設定 #Python3 - Qiita](https://qiita.com/landmaster135/items/9c337926ad0fc3dc164b)
-
 
 
 ## Documents

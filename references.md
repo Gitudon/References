@@ -5212,8 +5212,6 @@
 
 [既存のPythonプロジェクトをuv管理に変更する手順 #初心者 - Qiita](https://qiita.com/nacanaca/items/553cefca0d72ce2a99c5)
 
-[uv （pythonパッケージマネージャー）の使い方　簡易版 #Python - Qiita](https://qiita.com/futakuchi0117/items/9ec8bd84797fed180647)
-
 [uv on Docker をやっている](https://zenn.dev/shundeveloper/articles/5602a8a0131bd9)
 
 [uv × DockerでのPython開発環境構築方法](https://zenn.dev/mkj/articles/3aaa36d6f35c08)

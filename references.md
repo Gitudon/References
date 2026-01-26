@@ -2084,8 +2084,6 @@
 
 [[Git] mergeコマンドの復習 #gitコマンド - Qiita](https://qiita.com/yam_dev/items/47bd70e7582b14154541)
 
-[Gitのリモートブランチを削除するまとめ #GitHub - Qiita](https://qiita.com/yuu_ta/items/519ea47ac2c1ded032d9)
-
 
 
 ## Go

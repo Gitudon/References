@@ -2084,8 +2084,6 @@
 
 [[Git] mergeコマンドの復習 #gitコマンド - Qiita](https://qiita.com/yam_dev/items/47bd70e7582b14154541)
 
-[リモートのブランチをローカルに反映する #Git - Qiita](https://qiita.com/takashimelon/items/c1fda14ba09ada9100a6)
-
 
 
 ## Go

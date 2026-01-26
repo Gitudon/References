@@ -1018,6 +1018,8 @@
 
 [【備忘録】SFTPコマンドについて #Linux - Qiita](https://qiita.com/squid_lo39/items/0c8d21e3d7aa8d37bd5e)
 
+[Ubuntuで空き容量を確認する #Ubuntu - Qiita](https://qiita.com/_m_a_s_a_/items/caa10fe1ecaf233b3d41)
+
 
 
 ## C++
@@ -3027,6 +3029,8 @@
 [MySQLでカラムの順番を変更する #MySQL - Qiita](https://qiita.com/sayama0402/items/2fedb2f4ce8ab5da1438)
 
 [VARCHAR(255)にするとなぜ良いの？ #MySQL - Qiita](https://qiita.com/POMEMUU/items/0eb64d5e185b2e394323)
+
+[InnoDBのテーブル統計情報について - marqs blog](https://marqs.hatenablog.com/entry/20111205/1323116218)
 
 
 

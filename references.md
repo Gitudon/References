@@ -3032,6 +3032,10 @@
 
 [InnoDBのテーブル統計情報について - marqs blog](https://marqs.hatenablog.com/entry/20111205/1323116218)
 
+[MySQL :: MySQL 8.0 リファレンスマニュアル :: 15.8.10.1 永続的オプティマイザ統計のパラメータの構成](https://dev.mysql.com/doc/refman/8.0/ja/innodb-persistent-stats.html)
+
+[第250回　MySQLの統計情報更新 | gihyo.jp](https://gihyo.jp/article/2025/07/mysql-rcn0250)
+
 
 
 ## Naming
@@ -4599,6 +4603,8 @@
 [シェルスクリプトの1行目に書くおまじないで使える便利オプション集 #Bash - Qiita](https://qiita.com/yn-misaki/items/6fcfab082dd664f10d4e)
 
 [#!/bin/sh は ただのコメントじゃないよ！ Shebangだよ！ #UNIX - Qiita](https://qiita.com/mohira/items/566ca75d704072bcb26f)
+
+[インスタンス内の全てのテーブルの統計情報を更新するshell #Linux - Qiita](https://qiita.com/hit/items/49b3e5de7da2e91986eb)
 
 
 

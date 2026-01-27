@@ -3194,8 +3194,6 @@
 
 [Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
 
-[CharlesでAndroidの通信を確認するための証明書インストール手順 #TVer - Qiita](https://qiita.com/yabk/items/cbd8cff0f5117dc5c591)
-
 [mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
 
 [mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
@@ -3217,7 +3215,6 @@
 [FTV4KMAXに自己署名証明書（CAではない）をインストールする : r/fireTV](https://www.reddit.com/r/fireTV/comments/w22uoa/install_selfsigned_cert_not_ca_on_ftv4kmax/?tl=ja)
 
 [ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
-
 
 
 

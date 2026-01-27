@@ -100,6 +100,8 @@
 
 [adbコマンドでブラウザを立ち上げてURLを開く #Android - Qiita](https://qiita.com/niusounds/items/795b63bac37c81dd1680)
 
+[ADBとは何か？AndroidデバイスでADBを使うには？ – AirDroid](https://www.airdroid.com/ja/mdm/what-is-adb-in-android/)
+
 
 
 ## AI
@@ -255,6 +257,14 @@
 [Magisk Moduleの作成方法｜limzei89](https://note.com/limzei89/n/n74b1f5bba972)
 
 [Magiskの機能とインストールについて!?: 気ままにデジタル生活](https://digital-life.seesaa.net/article/503441753.html)
+
+[Android の /system を書込可能にする - ふなWiki](https://blue-red.ddo.jp/~ao/wiki/wiki.cgi?page=Android+%A4%CE+%2Fsystem+%A4%F2%BD%F1%B9%FE%B2%C4%C7%BD%A4%CB%A4%B9%A4%EB)
+
+[AVD(Android 11)でOWASP ZAPの証明書をインストールする](https://zenn.dev/tamagoyaki/articles/146846c7cd8bcb)
+
+[CharlesでAndroidの通信を確認するための証明書インストール手順 #TVer - Qiita](https://qiita.com/yabk/items/cbd8cff0f5117dc5c591)
+
+[Android端末(7.0以上)のセットアップ | Middleman](https://www.middleman.market/setup_android.html)
 
 
 
@@ -3199,6 +3209,15 @@
 [プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
 
 [ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
+
+[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
+
+[Fire TVデバイスをインターネットのWi-Fiに接続できない場合の解決方法 - Amazonカスタマーサービス](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GYMDPRQTTLXQD7PL)
+
+[FTV4KMAXに自己署名証明書（CAではない）をインストールする : r/fireTV](https://www.reddit.com/r/fireTV/comments/w22uoa/install_selfsigned_cert_not_ca_on_ftv4kmax/?tl=ja)
+
+[ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
+
 
 
 

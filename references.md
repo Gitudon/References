@@ -4464,6 +4464,8 @@
 
 [CSV.foreach (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/CSV/s/foreach.html)
 
+[【Ruby】CSV クラスの扱い](https://zenn.dev/ebina_shohei/articles/84127a09dcae5a)
+
 
 
 ## Rust

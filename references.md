@@ -3294,6 +3294,8 @@
 
 [HTTPリクエスト、HTTPレスポンスとは #HTTP - Qiita](https://qiita.com/minateru/items/8693538bbd0768855266)
 
+[TCP/UDPポート番号一覧](https://www.infraexpert.com/study/tea5.htm)
+
 
 
 ## Python

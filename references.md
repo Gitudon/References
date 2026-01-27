@@ -3182,6 +3182,26 @@
 
 [モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
 
+[Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
+
+[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
+
+[CharlesでAndroidの通信を確認するための証明書インストール手順 #TVer - Qiita](https://qiita.com/yabk/items/cbd8cff0f5117dc5c591)
+
+[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
+
+[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
+
+[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
+
+[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
+
+[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
+
+[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
+
+[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
+
 
 
 ## Next.js
@@ -5535,6 +5555,8 @@
 [【特集】俺はローカルアカウントで使いたいんだよ！Windows 11のセットアップでMicrosoftアカウントを回避する方法最新版 - PC Watch](https://pc.watch.impress.co.jp/docs/topic/feature/2036750.html)
 
 [Windows11）セットアップでMicrosoftアカウントをスキップし、ローカルアカウントで使う。 - 晴歩雨描](https://2ndart.hatenablog.com/entry/2025/01/20/222401)
+
+[Windows でプロキシ サーバーを使用する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-03096c53-0554-4ffe-b6ab-8b1deee8dae1)
 
 
 

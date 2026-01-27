@@ -1020,6 +1020,8 @@
 
 [Ubuntuで空き容量を確認する #Ubuntu - Qiita](https://qiita.com/_m_a_s_a_/items/caa10fe1ecaf233b3d41)
 
+[Linuxでls -lしたときのファイル変更日時を見易い形で、ソートして表示する #Linuxコマンド - Qiita](https://qiita.com/shy_azusa/items/3c842a6ebe2056f1ca99)
+
 
 
 ## C++

@@ -4402,6 +4402,16 @@
 
 [ActiveRecordを用いてinsertを行う方法を徹底比較【トランザクション・bulk_insert】 – 株式会社ルーター](https://rooter.jp/infra-ops/comparison-of-insertion-methods/)
 
+[Ruby でフックできるイベント一覧 #Ruby - Qiita](https://qiita.com/siman/items/b6895d0826d5e83fd9cb)
+
+[Ruby でメソッド呼び出しのフック処理を実行する | Kōhei Yamamoto](https://kymmt.com/blog/posts/hook-by-alias-chaining-in-ruby)
+
+[Ruby: メタプログラミングに役立つフック系メソッド（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2018_05_17/56496)
+
+[RubyでメソッドをフックしてBefore/Afterにログを付けたりする #Ruby - Qiita](https://qiita.com/gimKondo/items/56d6d98f8aed3f21a5c7)
+
+[CSV.foreach (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/CSV/s/foreach.html)
+
 
 
 ## Rust

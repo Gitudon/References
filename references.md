@@ -96,6 +96,8 @@
 
 [adbコマンドからwifi on/offする - myaskovsky00’s diary](https://myaskovsky00.hatenablog.com/entry/2018/05/26/080004)
 
+[Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
+
 
 
 ## AI

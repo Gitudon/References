@@ -3182,8 +3182,6 @@
 
 [モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
 
-[Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
-
 [Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
 
 [CharlesでAndroidの通信を確認するための証明書インストール手順 #TVer - Qiita](https://qiita.com/yabk/items/cbd8cff0f5117dc5c591)

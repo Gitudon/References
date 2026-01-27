@@ -3170,6 +3170,14 @@
 
 [詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌](https://zenn.dev/sohosai/articles/3ac46af14abd96)
 
+[mitmproxyを使ってアプリの通信内容を確認する](https://rcmdnk.com/blog/2021/03/02/computer-windows-mac-network/)
+
+[Windows WSL2に外部から直接アクセスするための設定](https://rcmdnk.com/blog/2021/03/01/computer-windows-network/)
+
+[【Charles】アプリの通信をキャプチャする #iOS - Qiita](https://qiita.com/KokiEnomoto/items/7f386352176ce049dffc)
+
+[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
+
 
 
 ## Next.js

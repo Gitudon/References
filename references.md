@@ -1022,6 +1022,12 @@
 
 [Linuxでls -lしたときのファイル変更日時を見易い形で、ソートして表示する #Linuxコマンド - Qiita](https://qiita.com/shy_azusa/items/3c842a6ebe2056f1ca99)
 
+[ファイルの作成時間(タイムスタンプ)を書き換えたい #ShellScript - Qiita](https://qiita.com/yuu_1st/items/b516a72c00f08fc0bfb8)
+
+[2015-05-23 linux > ファイル時刻を秒まで表示 > ls --full-time test.txt #Linux - Qiita](https://qiita.com/7of9/items/3399c9c88d548abe7889)
+
+[【Linux】ファイルのタイムスタンプ表示を変更する【ls】 | ミーミルの泥泉](https://mimirswell.ggnet.co.jp/blog-460)
+
 
 
 ## C++

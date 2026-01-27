@@ -98,6 +98,8 @@
 
 [Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
 
+[adbコマンドでブラウザを立ち上げてURLを開く #Android - Qiita](https://qiita.com/niusounds/items/795b63bac37c81dd1680)
+
 
 
 ## AI

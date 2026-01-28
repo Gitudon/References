@@ -1764,6 +1764,12 @@
 
 
 
+## Flutter
+
+[個人開発「ひたすら数学」作ってリリースしてみた iOS/Android #Flutter - Qiita](https://qiita.com/keitaMax/items/eba4cc53538a37121ede)
+
+
+
 ## Frida
 
 [frida hookツールの使用 - raye~](https://rayepeng.net/frida-hook-gong-ju-shi-yong?locale=ja)

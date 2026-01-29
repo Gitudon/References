@@ -2758,6 +2758,10 @@
 
 [数式:式の上下の空きを詰める。 TeX](http://xyoshiki.web.fc2.com/tex/form030.html)
 
+[【LaTeX】定理環境](https://takataninote.com/tex/newtheorem.html)
+
+[【LaTeX】文字サイズの変更方法まとめ | 数学の景色](https://mathlandscape.com/latex-size/)
+
 
 
 ## Lean

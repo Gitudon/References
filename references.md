@@ -2768,6 +2768,12 @@
 
 [【LaTeX】文字サイズの変更方法まとめ | 数学の景色](https://mathlandscape.com/latex-size/)
 
+[latexにて番号を振らない章(section)の追加・謝辞の追加 - めも](https://paper.hatenadiary.jp/entry/2018/01/03/033414)
+
+[学位論文のためのTeXサンプル #TeX - Qiita](https://qiita.com/kumamupooh/items/d1a85862195cf888d90c)
+
+[[LaTeX]章番号のない章タイトルを目次に表示させる方法](https://blog.ashija.net/2017/10/24/post-2774/)
+
 
 
 ## Lean

@@ -2198,6 +2198,8 @@
 
 [【Google検索】 邪魔な「AIによる概要」をオフ（非表示）にする方法 | 情シスの自由帳](https://jo-sys.net/google-ai-overview-off/)
 
+[GASを使って自動でGoogle ドキュメントを作る](https://zenn.dev/atomic/articles/8408dffad6bc1f)
+
 
 
 ## HTML/CSS

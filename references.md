@@ -3788,6 +3788,8 @@
 
 [Ubuntu に python の opencv をインストール #Python - Qiita](https://qiita.com/mugimugi/items/64b710c0c506fc13d19d)
 
+[2点間距離の計算速度（pythonコード比較）（3次元空間のみ） #Python - Qiita](https://qiita.com/TheJuniorTheSenior/items/b76fed3832c149907b82)
+
 
 
 ## RaspberryPi

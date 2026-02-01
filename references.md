@@ -408,6 +408,14 @@
 
 [YouTube Data API v3 コマンドとエンドポイントまとめ｜やかん](https://note.com/novel_donkey2172/n/n332ecd997e83)
 
+[【2025年最新】X API v2完全攻略！無料プランから始める自動ツイート収集Python実装ガイド｜ユニコ🦄 AIエージェント開発の人](https://unikoukokun.jp/n/nb1fc514cec3a)
+
+[Twitter APIの新料金体系の概要と制限（Rate-limits）のまとめ(2023年3月30日)](https://zenn.dev/ptna/articles/e10881e74dfc27)
+
+[X (Twitter) API を使って Qiita 投稿ポスト（ツイート）を収集する #Python - Qiita](https://qiita.com/Isaka-code/items/8872740c13e8fc4156dc)
+
+[【最新】X(Twitter)のAPI制限とは？現在の状況から制限を回避する方法まで解説 ｜キャンつく](https://camtsuku.com/guide/2503)
+
 
 
 ## Asm

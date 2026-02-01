@@ -5516,6 +5516,12 @@
 
 [github copilotの自動補完をオフにする](https://zenn.dev/setsugan/articles/5d726635187c8d)
 
+[Visual Studio Code でエディタとターミナルを移動するショートカットキーの作成 #VSCode - Qiita](https://qiita.com/Shun141/items/fbed88abd4518f6d4039)
+
+[VSCodeでエディタ画面とターミナル間のフォーカスを楽して移動したい #VSCode - Qiita](https://qiita.com/hassaku_63/items/4d14d949c3ce9edd9909)
+
+[【VSCode】エディタ⇔コンソール間でカーソルを移動させるショートカットの設定](https://zenn.dev/makio/articles/c9f6bd909b9ab2)
+
 
 
 ## Vue.js

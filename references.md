@@ -3362,6 +3362,20 @@
 
 
 
+## PowerShell
+
+[PowerShellで日本語の文字化けを直したい。 #PowerShell - Qiita](https://qiita.com/tiro_sx/items/c98d4ca620562ebd9f5a)
+
+[Powershellの文字化けを直す方法 - おれさまラボ](https://www.oresamalabo.net/entry/2021/09/15/003143)
+
+[PowerShellで環境変数を再読込する #PowerShell - Qiita](https://qiita.com/yuta0801/items/adb58591c3d9432bd868)
+
+[PowerShellで独自のエイリアスやショートカットを設定したい #PowerShell - Qiita](https://qiita.com/bonny_d/items/a2f3a3ac59304609e42a)
+
+[[PowerShell]PowerShellでファイルをコピーする方法[Copy-Item] #PowerShell - Qiita](https://qiita.com/moriokatakashir/items/3c7f4519db9132fdb7f3)
+
+
+
 ## Protocol
 
 [HTTPステータスコード一覧とリクエストとレスポンスの意味を解説 | ITコラム｜アイティーエム株式会社](https://www.itmanage.co.jp/column/http-www-request-response-statuscode/)
@@ -5548,10 +5562,6 @@
 
 [Frida traceを使ったWindowsアプリの動的解析・改ざん方法 | DNPハイパーテック](https://www.hypertech.co.jp/column/developer/2023/08/dynamicanalysis_windows_applications/)
 
-[PowerShellで日本語の文字化けを直したい。 #PowerShell - Qiita](https://qiita.com/tiro_sx/items/c98d4ca620562ebd9f5a)
-
-[Powershellの文字化けを直す方法 - おれさまラボ](https://www.oresamalabo.net/entry/2021/09/15/003143)
-
 [コマンドでのProxy設定 #Windows - Qiita](https://qiita.com/inframemo/items/a524c987bea9ccb26a66)
 
 [コマンド プロンプトを使用したプロキシ設定のリセット](https://help.webex.com/ja-jp/article/WBX84804/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88)
@@ -5565,8 +5575,6 @@
 [Windows 11 - ユーザーフォルダー名を変更する方法 - PC設定のカルマ](https://pc-karuma.net/change-windows-11-user-folder-name/)
 
 [Windows11でデュアルディスプレイなのに壁紙別個にできないんですけど！！](https://zenn.dev/usuyuki/articles/93c9192b1f10df)
-
-[PowerShellで環境変数を再読込する #PowerShell - Qiita](https://qiita.com/yuta0801/items/adb58591c3d9432bd868)
 
 [ゼロから理解する! Windows の環境変数 Path と設定方法 | CHAM](https://cham.space/setpath/)
 
@@ -5585,8 +5593,6 @@
 [Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
 
 [Winキー + Spaceキー(入力言語の切り替え)を無効にする - ネットショッピングのすすめ](https://blog.kaimonojyoz.jp/win%E3%82%AD%E3%83%BC-space%E3%82%AD%E3%83%BC%E5%85%A5%E5%8A%9B%E8%A8%80%E8%AA%9E%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B.html)
-
-[PowerShellで独自のエイリアスやショートカットを設定したい #PowerShell - Qiita](https://qiita.com/bonny_d/items/a2f3a3ac59304609e42a)
 
 [Windowsのbat（コマンドプロンプト）でタスクマネージャーのスタートアップ設定タブを開く #Windows - Qiita](https://qiita.com/waokitsune/items/bdac1b297b4614672431)
 

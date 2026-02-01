@@ -3648,8 +3648,6 @@
 
 [【Python】自由自在にソートしよう！ #初心者 - Qiita](https://qiita.com/_ken_/items/b8a1bd37750781227bb7)
 
-[X (Twitter) API を使って Qiita 投稿ポスト（ツイート）を収集する #Python - Qiita](https://qiita.com/Isaka-code/items/8872740c13e8fc4156dc)
-
 [[競プロ python] ふんわりと理解！SortedListの仕組み](https://zenn.dev/pokeshun/articles/f5362825e512cf)
 
 [【簡単】QRコードの作成と読み取り in Python #OpenCV - Qiita](https://qiita.com/PoodleMaster/items/0afbce4be7e442e75be6)

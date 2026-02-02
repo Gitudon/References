@@ -3810,6 +3810,8 @@
 
 [2点間距離の計算速度（pythonコード比較）（3次元空間のみ） #Python - Qiita](https://qiita.com/TheJuniorTheSenior/items/b76fed3832c149907b82)
 
+[Pythonでランダムな小数・整数を生成するrandom, randrange, randintなど | note.nkmk.me](https://note.nkmk.me/python-random-randrange-randint/#randomrandint)
+
 
 
 ## RaspberryPi

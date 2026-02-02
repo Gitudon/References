@@ -1050,6 +1050,8 @@
 
 [【Linux】ファイルのタイムスタンプ表示を変更する【ls】 | ミーミルの泥泉](https://mimirswell.ggnet.co.jp/blog-460)
 
+[chmodの意味 #Linux - Qiita](https://qiita.com/HHajimeW/items/dd463daa6ba1ba88e461)
+
 
 
 ## C++

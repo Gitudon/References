@@ -5526,6 +5526,8 @@
 
 [【VSCode】エディタ⇔コンソール間でカーソルを移動させるショートカットの設定](https://zenn.dev/makio/articles/c9f6bd909b9ab2)
 
+[【2024/06/24】LaTeXのPDFプレビューに日本語が表示されない不具合の解決策 #VSCode - Qiita](https://qiita.com/NAVYSHUNTA/items/afc8f9498719fe8e5f0a)
+
 
 
 ## Vue.js

@@ -3832,6 +3832,10 @@
 
 [Pythonで文字列を分割（区切り文字、改行、正規表現、文字数） | note.nkmk.me](https://note.nkmk.me/python-split-rsplit-splitlines-re/)
 
+[Python で自作ライブラリの import を極めたいメモ #Import - Qiita](https://qiita.com/syoyo/items/64025a4954d6d3545238)
+
+[Python, importの使い方（from, as, PEP8の推奨スタイル, 注意点など） | note.nkmk.me](https://note.nkmk.me/python-import-usage/)
+
 
 
 ## RaspberryPi

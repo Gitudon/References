@@ -3826,6 +3826,12 @@
 
 [Pythonでランダムな小数・整数を生成するrandom, randrange, randintなど | note.nkmk.me](https://note.nkmk.me/python-random-randrange-randint/#randomrandint)
 
+[Pythonで改行を含む文字列の出力、連結、分割、削除、置換 | note.nkmk.me](https://note.nkmk.me/python-string-line-break/)
+
+[Python BeautifulSoupのfind_allで複数条件指定する方法｜python-manブログ](https://python-man.club/python-beautifulsoupfind_all/)
+
+[Pythonで文字列を分割（区切り文字、改行、正規表現、文字数） | note.nkmk.me](https://note.nkmk.me/python-split-rsplit-splitlines-re/)
+
 
 
 ## RaspberryPi

@@ -416,6 +416,10 @@
 
 [【最新】X(Twitter)のAPI制限とは？現在の状況から制限を回避する方法まで解説 ｜キャンつく](https://camtsuku.com/guide/2503)
 
+[【2026年版】X API（Twitter API） 無料プランの登録方法：申請からAPI Keyの発行までを分かりやすく解説](https://wporz.com/twitter-api-regist/)
+
+[【2026年1月最新版】X APIでPOST投稿する方法｜新規アカウントは$5課金が必須](https://zenn.dev/acntechjp/articles/4de3d142aaa05e)
+
 
 
 ## Asm

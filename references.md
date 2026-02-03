@@ -2126,6 +2126,10 @@
 
 [[Git] mergeコマンドの復習 #gitコマンド - Qiita](https://qiita.com/yam_dev/items/47bd70e7582b14154541)
 
+[git-show – Git コマンドリファレンス（日本語版）](https://tracpath.com/docs/git-show/)
+
+[commitしたファイルや変更箇所は"git show"で確認できる #Git - Qiita](https://qiita.com/shuhei_m/items/a80385d8d42df795a06b)
+
 
 
 ## Go

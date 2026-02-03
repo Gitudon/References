@@ -1138,6 +1138,8 @@
 
 [Animal Viewer](https://www.notion.so/kakur41-wrteup/Animal-Viewer-2efda8520c02808880fdfaa79ee2ca81)
 
+[SECCON Beginners CTF 2021 解けなかった問題を勉強した記録2 #Git - Qiita](https://qiita.com/housu_jp/items/494bdf4b92a5f2e55ced#misc-01-git-leak)
+
 
 
 ## cURL

@@ -450,6 +450,8 @@
 
 [SEOに強い！Astro.jsで実現する高速・軽量・柔軟・安全なWeb制作 | ブログ | 東京青山のWebサイト制作会社・ホームページ制作会社 | 株式会社デパート](https://depart-inc.com/blog/astro-website-guide/)
 
+[Astroのアップグレード | Docs](https://docs.astro.build/ja/upgrade-astro/)
+
 
 
 ## AWS

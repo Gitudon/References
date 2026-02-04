@@ -3836,6 +3836,14 @@
 
 [Python, importの使い方（from, as, PEP8の推奨スタイル, 注意点など） | note.nkmk.me](https://note.nkmk.me/python-import-usage/)
 
+[自作Pythonライブラリをインストールするまで #Python3 - Qiita](https://qiita.com/senrust/items/83c1d63c7fb2d959061b)
+
+[[Python] 別ファイルをimportする方法 | 晴耕雨読](https://tex2e.github.io/blog/python/import-files)
+
+[Python 3でのファイルのimportのしかたまとめ #Python3 - Qiita](https://qiita.com/karadaharu/items/37403e6e82ae4417d1b3)
+
+[Pythonインポート周り徹底理解への道 #Python3 - Qiita](https://qiita.com/papi_tokei/items/bc34d798dc7a6d49df30)
+
 
 
 ## RaspberryPi

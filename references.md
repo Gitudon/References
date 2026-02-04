@@ -5558,6 +5558,8 @@
 
 [【2024/06/24】LaTeXのPDFプレビューに日本語が表示されない不具合の解決策 #VSCode - Qiita](https://qiita.com/NAVYSHUNTA/items/afc8f9498719fe8e5f0a)
 
+[VSCodeで、ワークスペース内のファイルを検索する方法 | 超初心者ホームページ作成ナビ](https://creating-homepage.com/archives/9664)
+
 
 
 ## Vue.js

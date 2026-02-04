@@ -3844,6 +3844,10 @@
 
 [Pythonインポート周り徹底理解への道 #Python3 - Qiita](https://qiita.com/papi_tokei/items/bc34d798dc7a6d49df30)
 
+[Python3でurllibを使う #Python3 - Qiita](https://qiita.com/rmanzoku/items/3bf4eb2b8b499ecb3dcf)
+
+[Pythonの型ヒント(型アノテーション)を活用しよう #初心者向け - Qiita](https://qiita.com/shun_sakamoto/items/65edc36e7f5a6f9d52b8)
+
 
 
 ## RaspberryPi

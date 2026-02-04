@@ -3850,8 +3850,6 @@
 
 [Pythonの三項演算子（条件演算子）でif文を一行で書く | note.nkmk.me](https://note.nkmk.me/python-if-conditional-expressions/)
 
-[Pythonとpipパッケージのバージョン確認＆一括アップデート方法](https://zenn.dev/haretokidoki/articles/8836fecf6b4cfc)
-
 
 
 ## RaspberryPi
@@ -5568,7 +5566,7 @@
 
 [VSCodeで、ワークスペース内のファイルを検索する方法 | 超初心者ホームページ作成ナビ](https://creating-homepage.com/archives/9664)
 
-[【時短！】VSCodeでインデントを一瞬で自動整形する方法をわかりやすく解説します！｜エンジニアブログ](https://programming-engineer.com/vscode-indentation/)
+
 
 ## Vue.js
 

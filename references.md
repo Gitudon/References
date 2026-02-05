@@ -5566,7 +5566,13 @@
 
 [VSCodeで、ワークスペース内のファイルを検索する方法 | 超初心者ホームページ作成ナビ](https://creating-homepage.com/archives/9664)
 
+[Visual Studio Code で同期設定をしてもキーバインドが同期されないメモ - Flicker's Style++](https://waysaku.hatenablog.com/entry/2025/03/02/154240)
 
+[Visual Studio Code公式の設定同期「Settings Sync」を利用する #VSCode - Qiita](https://qiita.com/Nuits/items/6204a6b0576b7a4e37ea)
+
+[Visual Studio Code の設定を、他のPCと同期する](https://zenn.dev/longbridge/articles/0811abc01d10cc)
+
+g
 
 ## Vue.js
 

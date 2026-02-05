@@ -2798,8 +2798,6 @@
 
 [[LaTeX]章番号のない章タイトルを目次に表示させる方法](https://blog.ashija.net/2017/10/24/post-2774/)
 
-[LaTeX 枠付き文章](http://www.yamamo10.jp/yamamoto/comp/latex/make_doc/box/box.php)
-
 
 
 ## Lean

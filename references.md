@@ -1486,6 +1486,10 @@
 
 [Pythonで始める録音機能付きDiscord Bot: (2) 便利機能(Bot拡張,Cog,Embed) #初心者 - Qiita](https://qiita.com/Shirataki2/items/9bdc62548e7b24d3c803)
 
+[【Discord】全ロール権限の説明書｜merunno](https://note.com/meru92/n/n8ae0ceaed13b)
+
+[Discordのロールと権限 – Discord](https://support.discord.com/hc/ja/articles/214836687-Discord%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%A8%E6%A8%A9%E9%99%90)
+
 
 
 ## Django

@@ -4758,6 +4758,8 @@
 
 [インスタンス内の全てのテーブルの統計情報を更新するshell #Linux - Qiita](https://qiita.com/hit/items/49b3e5de7da2e91986eb)
 
+[シェルスクリプトの三項演算子で注意するべきこと #ShellScript - Qiita](https://qiita.com/kokorinosoba/items/2f95ffd897b8ba2fe0de)
+
 
 
 ## Slack

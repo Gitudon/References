@@ -5668,6 +5668,8 @@
 
 [Windows でプロキシ サーバーを使用する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-03096c53-0554-4ffe-b6ab-8b1deee8dae1)
 
+[Windows Server 2016 IIS10でHTTPSのサイトを表示 → Chrome/FireFoxで 「ERR_SPDY_INADEQUATE_TRANSPORT_SECURITY」が発生しサイトを表示できない|希釈還元](https://kishaku-kangen.blogspot.com/2018/07/windows-server-2016-iis10https.html)
+
 
 
 ## Words

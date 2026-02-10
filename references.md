@@ -4556,6 +4556,8 @@
 
 [Time#strftime (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Time/i/strftime.html)
 
+[Enumerator#with_index (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerator/i/with_index.html)
+
 
 
 ## Rust

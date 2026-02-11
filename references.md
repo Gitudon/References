@@ -2806,6 +2806,12 @@
 
 [[LaTeX]章番号のない章タイトルを目次に表示させる方法](https://blog.ashija.net/2017/10/24/post-2774/)
 
+[箇条書き(enumerate, itemize)の行間を狭くする - シリコンの谷のゾンビ](https://sleepy-yoshi.hatenablog.com/entry/20080115/p2)
+
+[【TeX】箇条書きで行間を整える - Bus errorとSegmentation faultに困ったら見るブログ](https://coffee-guhaw.hateblo.jp/entry/2024/06/26/063000)
+
+[TeXでの行間の調整方法 #AdventCalendar - Qiita](https://qiita.com/ayakix/items/93f90482907d4585ce4c)
+
 
 
 ## Lean

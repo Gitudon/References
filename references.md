@@ -102,6 +102,10 @@
 
 [ADBとは何か？AndroidデバイスでADBを使うには？ – AirDroid](https://www.airdroid.com/ja/mdm/what-is-adb-in-android/)
 
+[[adb] Oculus Questのバッテリー状態をリモートで取得する #Android - Qiita](https://qiita.com/kleus_balut/items/bfe28f4746fd3e698cfd)
+
+[ADB経由でバッテリーの状態（実際の容量、充電回数）を読み取る : r/GooglePixel](https://www.reddit.com/r/GooglePixel/comments/gge9cd/reading_battery_health_statistics_actual_capacity/?tl=ja)
+
 
 
 ## AI

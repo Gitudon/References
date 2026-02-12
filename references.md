@@ -110,6 +110,22 @@
 
 [PixelなどAndroidスマホでバッテリー状態や充電サイクルを確認する方法 | きなこぱん](https://kinakopan.com/blog/2024/04/10/pixel-android-battery-infomation-check/)
 
+[ADB dumpsysを使ってバッテリーの状態を正確にチェックする方法 : r/GalaxyS9](https://www.reddit.com/r/GalaxyS9/comments/kvcjmn/checking_the_battery_health_accurately_using_adb/?tl=ja)
+
+[バッテリーの状態と容量を正確にチェックする方法【完全ガイド】 : r/oneui](https://www.reddit.com/r/oneui/comments/1imq9pq/checking_battery_health_and_capacity_accurately/?tl=ja)
+
+[バッテリーがどのくらい劣化してるか知りたい - Google Pixel コミュニティ](https://support.google.com/pixelphone/thread/375382469/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%8C%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84%E5%8A%A3%E5%8C%96%E3%81%97%E3%81%A6%E3%82%8B%E3%81%8B%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84?hl=ja)
+
+[Androidアプリ開発者なら知っておくべきdumpsysコマンド | 社内の様子](https://www.wantedly.com/companies/moneyforward/post_articles/35664)
+
+[Yukiの枝折: Android:バッテリー温度の確認方法](https://yuki312.blogspot.com/2020/04/android.html)
+
+[バッテリーの寿命もしくは劣化の程度を知りたいです - Google Pixel コミュニティ](https://support.google.com/pixelphone/thread/383021416/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E5%AF%BF%E5%91%BD%E3%82%82%E3%81%97%E3%81%8F%E3%81%AF%E5%8A%A3%E5%8C%96%E3%81%AE%E7%A8%8B%E5%BA%A6%E3%82%92%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84%E3%81%A7%E3%81%99?hl=ja)
+
+[公式ドキュメントからadbコマンドの仕組みを読み解く #Android - Qiita](https://qiita.com/mi_iroha/items/4c292d4cb6ad7a96369e)
+
+[Android 5.0 Lolipop で電池残量をエミュレートする #Android - Qiita](https://qiita.com/tetsukay/items/0e3a3e5297a8be3d8d59)
+
 
 
 ## AI
@@ -277,6 +293,16 @@
 [One UI: バッテリーの状態をチェックして最適化する方法](https://ja.androidguias.com/One-UI%3A-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E7%8A%B6%E6%85%8B%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
 
 [デバイスの消費電力を測定する  |  Android Open Source Project](https://source.android.com/docs/core/power/device?hl=ja)
+
+[継続的インテグレーションでのベンチマーク  |  App quality  |  Android Developers](https://developer.android.com/topic/performance/benchmarking/benchmarking-in-ci?hl=ja)
+
+[電池残量と充電状態を監視する  |  App quality  |  Android Developers](https://developer.android.com/training/monitoring-device-state/battery-monitoring?hl=ja)
+
+[Androidスマホで「バッテリー容量」「サイクル回数」を確認する方法 | エンジニアの備忘録](https://engrmemo.jp/android/phone-battery-health/)
+
+[Androidスマホのバッテリーの劣化状況を確認するには？ | 【スマホ修理王】はiPhone・スマホ即日修理](https://flash-agt.com/tips/tips-detail-55725/)
+
+[dumpsys  |  Android Studio  |  Android Developers](https://developer.android.com/tools/dumpsys?hl=ja#battery)
 
 
 
@@ -2882,6 +2908,8 @@
 
 [個人的な備忘録：シェルスクリプト実行時に記述する『#!/bin/bash』について自分なりに深掘りしてみた #Linux - Qiita](https://qiita.com/free-honda/items/4bfa241ac489590cde8d)
 
+[バッテリー状況確認(Debian) #Linux - Qiita](https://qiita.com/tacmasi/items/9229731c25de99e05c45)
+
 
 
 ## Lua
@@ -4577,6 +4605,10 @@
 [Enumerator#with_index (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerator/i/with_index.html)
 
 [Ruby | 配列から要素が「nil」のものを取り除く(compact)](https://www.javadrive.jp/ruby/array_class/index9.html)
+
+[digメソッドとは #dig - Qiita](https://qiita.com/mmaumtjgj/items/3790d9f00780cbe66b62)
+
+[RubyでURLの結合をするときは`File.join`使うと幸せになった #Ruby - Qiita](https://qiita.com/ryonext/items/0bfd2592d713211bbc2f)
 
 
 

@@ -4564,6 +4564,8 @@
 
 [Enumerator#with_index (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerator/i/with_index.html)
 
+[Ruby | 配列から要素が「nil」のものを取り除く(compact)](https://www.javadrive.jp/ruby/array_class/index9.html)
+
 
 
 ## Rust

@@ -106,6 +106,10 @@
 
 [ADB経由でバッテリーの状態（実際の容量、充電回数）を読み取る : r/GooglePixel](https://www.reddit.com/r/GooglePixel/comments/gge9cd/reading_battery_health_statistics_actual_capacity/?tl=ja)
 
+[バッテリーの状態と容量を正確にチェックする方法【完全ガイド】 : r/oneui](https://www.reddit.com/r/oneui/comments/1imq9pq/checking_battery_health_and_capacity_accurately/?tl=ja)
+
+[PixelなどAndroidスマホでバッテリー状態や充電サイクルを確認する方法 | きなこぱん](https://kinakopan.com/blog/2024/04/10/pixel-android-battery-infomation-check/)
+
 
 
 ## AI
@@ -269,6 +273,10 @@
 [CharlesでAndroidの通信を確認するための証明書インストール手順 #TVer - Qiita](https://qiita.com/yabk/items/cbd8cff0f5117dc5c591)
 
 [Android端末(7.0以上)のセットアップ | Middleman](https://www.middleman.market/setup_android.html)
+
+[One UI: バッテリーの状態をチェックして最適化する方法](https://ja.androidguias.com/One-UI%3A-%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E7%8A%B6%E6%85%8B%E3%82%92%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E6%9C%80%E9%81%A9%E5%8C%96%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95/)
+
+[デバイスの消費電力を測定する  |  Android Open Source Project](https://source.android.com/docs/core/power/device?hl=ja)
 
 
 

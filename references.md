@@ -112,11 +112,7 @@
 
 [ADB dumpsysを使ってバッテリーの状態を正確にチェックする方法 : r/GalaxyS9](https://www.reddit.com/r/GalaxyS9/comments/kvcjmn/checking_the_battery_health_accurately_using_adb/?tl=ja)
 
-[バッテリーの状態と容量を正確にチェックする方法【完全ガイド】 : r/oneui](https://www.reddit.com/r/oneui/comments/1imq9pq/checking_battery_health_and_capacity_accurately/?tl=ja)
-
 [バッテリーがどのくらい劣化してるか知りたい - Google Pixel コミュニティ](https://support.google.com/pixelphone/thread/375382469/%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%8C%E3%81%A9%E3%81%AE%E3%81%8F%E3%82%89%E3%81%84%E5%8A%A3%E5%8C%96%E3%81%97%E3%81%A6%E3%82%8B%E3%81%8B%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84?hl=ja)
-
-[Androidアプリ開発者なら知っておくべきdumpsysコマンド | 社内の様子](https://www.wantedly.com/companies/moneyforward/post_articles/35664)
 
 [Yukiの枝折: Android:バッテリー温度の確認方法](https://yuki312.blogspot.com/2020/04/android.html)
 
@@ -4605,10 +4601,6 @@
 [Enumerator#with_index (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerator/i/with_index.html)
 
 [Ruby | 配列から要素が「nil」のものを取り除く(compact)](https://www.javadrive.jp/ruby/array_class/index9.html)
-
-[digメソッドとは #dig - Qiita](https://qiita.com/mmaumtjgj/items/3790d9f00780cbe66b62)
-
-[RubyでURLの結合をするときは`File.join`使うと幸せになった #Ruby - Qiita](https://qiita.com/ryonext/items/0bfd2592d713211bbc2f)
 
 
 

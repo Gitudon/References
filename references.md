@@ -1524,6 +1524,8 @@
 
 [Discordのロールと権限 – Discord](https://support.discord.com/hc/ja/articles/214836687-Discord%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%AB%E3%81%A8%E6%A8%A9%E9%99%90)
 
+[【超わかりやすい】チャンネルとスレッドでの@everyoneメンションの違いとサイレント通知 - Discord｜きゃぬの記憶](https://note.com/nuyaki/n/nd0332cdaf8ce)
+
 
 
 ## Django

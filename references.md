@@ -2644,6 +2644,8 @@
 
 [seleniumクローラー開発にJavaScriptを活用しよう – 株式会社ルーター](https://rooter.jp/web-crawling/selenium_execute_script/)
 
+[Local Storageを使ってみる #JavaScript - Qiita](https://qiita.com/masuda-sankosc/items/cff6131efd6e1b5138e6)
+
 
 
 ## Kotlin

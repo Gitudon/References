@@ -2176,6 +2176,12 @@
 
 [Gitの便利な使い方 13個+1 - @mizumotokのブログ](https://mizumotok.hatenablog.jp/entry/2021/09/09/132348)
 
+[【Git】過去のコミットから特定のファイルを削除したい。GitHubからも #Git - Qiita](https://qiita.com/waniwaninowani/items/73b0b5e3f8223b27bbab)
+
+[GithubとGitの履歴から特定のファイルを完全に削除する](https://zenn.dev/morayl/articles/017fe57e5e4bfe)
+
+[GitHub リポジトリのコミット履歴をクリアする手順 #Windows - Qiita](https://qiita.com/studio_meowtoon/items/9ba34ef567a089fb484e)
+
 
 
 ## Go
@@ -2845,6 +2851,8 @@
 [【TeX】箇条書きで行間を整える - Bus errorとSegmentation faultに困ったら見るブログ](https://coffee-guhaw.hateblo.jp/entry/2024/06/26/063000)
 
 [TeXでの行間の調整方法 #AdventCalendar - Qiita](https://qiita.com/ayakix/items/93f90482907d4585ce4c)
+
+[mintedでLaTeXドキュメントにソースコードを載せる #latextools - Qiita](https://qiita.com/f1047/items/2884a4d80a54ffa89a34)
 
 
 
@@ -3899,6 +3907,22 @@
 [Pythonの型ヒント(型アノテーション)を活用しよう #初心者向け - Qiita](https://qiita.com/shun_sakamoto/items/65edc36e7f5a6f9d52b8)
 
 [Pythonの三項演算子（条件演算子）でif文を一行で書く | note.nkmk.me](https://note.nkmk.me/python-if-conditional-expressions/)
+
+[PyRoomAcousticsを使ってDOAする #Python - Qiita](https://qiita.com/hatt_takumi/items/15b0b312d0e9ab8689f8)
+
+[Python + matplotlib によるヒートマップ #Python - Qiita](https://qiita.com/ynakayama/items/7dc01f45caf6d87a981b)
+
+[Matplotlibのヒートマップ — Pythonグラフ入門](https://pygraph.helve-blog.com/matplotlib/heatmap)
+
+[matplotlib の legend(凡例) の 位置を調整する #Python - Qiita](https://qiita.com/matsui-k20xx/items/291400ed56a39ed63462)
+
+[Pythonで複数ピークを自動検出する方法と原理（find_peaksの仕組み・plateau対策・内部実装） #scipy - Qiita](https://qiita.com/yamadasuzaku/items/73fcadeddb3417778b7c)
+
+[matplotlibで日本語 #Python - Qiita](https://qiita.com/yniji/items/3fac25c2ffa316990d0c)
+
+[pip install して import するだけで matplotlib を日本語表示対応させる #Python - Qiita](https://qiita.com/uehara1414/items/6286590d2e1ffbf68f6c)
+
+[matplotlibでフォント指定:日本語文字化け対策](https://zenn.dev/giana12th/articles/9e84a2647ac419)
 
 
 
@@ -5889,4 +5913,6 @@
 [コメントへの恐怖に立ち向かう 〜少しずつ使ってもらうために〜 #Confluence - Qiita](https://qiita.com/akiko-pusu/items/06d99c7ec336481efe54)
 
 [マサカリの起源について #ポエム - Qiita](https://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d)
+
+[SVD（特異値分解）解説 #数学 - Qiita](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
 

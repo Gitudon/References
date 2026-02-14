@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年02月12日 18:05:18)
+## 集計(2026年02月14日 16:13:37)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -46,7 +46,7 @@
 | Flutter | 1 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 133 |
+| Git | 136 |
 | Go | 3 |
 | Google | 37 |
 | HTML/CSS | 61 |
@@ -55,7 +55,7 @@
 | Java | 36 |
 | JavaScript | 51 |
 | Kotlin | 3 |
-| LaTeX | 98 |
+| LaTeX | 99 |
 | Lean | 4 |
 | Linux | 22 |
 | Lua | 5 |
@@ -78,7 +78,7 @@
 | PostgreSQL | 12 |
 | PowerShell | 5 |
 | Protocol | 5 |
-| Python | 222 |
+| Python | 230 |
 | RaspberryPi | 20 |
 | React | 19 |
 | Regular Expression | 10 |
@@ -112,5 +112,5 @@
 | Words | 39 |
 | WSL | 17 |
 | Xml | 1 |
-| Etc | 19 |
-| 合計 | 2733 |
+| Etc | 20 |
+| 合計 | 2746 |

@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年02月15日 07:57:51)
+## 集計(2026年02月15日 13:00:23)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -36,7 +36,7 @@
 | Directly | 13 |
 | Discord | 21 |
 | Django | 4 |
-| Docker | 79 |
+| Docker | 86 |
 | Documents | 2 |
 | Edge | 10 |
 | Electrical Engineering | 7 |
@@ -78,7 +78,7 @@
 | PostgreSQL | 12 |
 | PowerShell | 5 |
 | Protocol | 5 |
-| Python | 230 |
+| Python | 233 |
 | RaspberryPi | 20 |
 | React | 19 |
 | Regular Expression | 10 |
@@ -113,4 +113,4 @@
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 20 |
-| 合計 | 2748 |
+| 合計 | 2758 |

@@ -1092,6 +1092,8 @@
 
 [chmodの意味 #Linux - Qiita](https://qiita.com/HHajimeW/items/dd463daa6ba1ba88e461)
 
+[nc(netcat)コマンドの説明と使い方について #netcat - Qiita](https://qiita.com/boccham/items/536bf9201eec81c617d5)
+
 
 
 ## C++
@@ -5943,4 +5945,6 @@
 [マサカリの起源について #ポエム - Qiita](https://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d)
 
 [SVD（特異値分解）解説 #数学 - Qiita](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
+
+[【都道府県別】特殊な住所・住居表示 - estie inside blog](https://www.estie.jp/blog/entry/2026/02/09/102120)
 

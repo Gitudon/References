@@ -1092,8 +1092,6 @@
 
 [chmodの意味 #Linux - Qiita](https://qiita.com/HHajimeW/items/dd463daa6ba1ba88e461)
 
-[nc(netcat)コマンドの説明と使い方について #netcat - Qiita](https://qiita.com/boccham/items/536bf9201eec81c617d5)
-
 
 
 ## C++

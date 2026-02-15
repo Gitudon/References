@@ -3992,8 +3992,6 @@
 
 [PyEnchantを使ってスペルチェックをしてみた](https://zenn.dev/akasan/articles/09c84177fc5884)
 
-[ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
-
 [NetworkManagerを使ってRaspberry PiをWi-Fi接続する #RaspberryPi - Qiita](https://qiita.com/hayat00/items/34d550de4ad38e455529)
 
 

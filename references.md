@@ -1700,6 +1700,20 @@
 
 [docker stack — Docker-docs-ja 24.0 ドキュメント](https://docs.docker.jp/engine/reference/commandline/stack.html)
 
+[しつこい docker ビルドのキャッシュをクリアする方法 #Docker - Qiita](https://qiita.com/TomohiroSakai/items/ccd1eb5da1a6c0d58d6f)
+
+[docker rmi | Docker ドキュメント](https://matsuand.github.io/docs.docker.jp.onthefly/engine/reference/commandline/rmi/)
+
+[同一の IMAGE ID を持つ docker イメージの削除 (タグを消す) - AR ホームベーカリー](https://donbulinux.hatenablog.jp/entry/2022/07/18/102716)
+
+[docker compose up コマンドで絶対キャッシュ使われてハマった](https://zenn.dev/takashiaihara/articles/a30f5c7a1111b7)
+
+[Dockerに関するキャッシュたち](https://zenn.dev/masibw/articles/57a47a7381b9b3)
+
+[Docker イメージ、コンテナ、キャッシュの削除まとめ #Docker - Qiita](https://qiita.com/sc_tsuchiya/items/d68436f374fcd3531cf6)
+
+[既存のDockerコンテナにモジュールを追加したいときのメモ｜Docker requirements.txtの更新を反映する - Tech Ecology@六菱忍軍](https://tech.firenium.com/docker-requirements-up/)
+
 
 
 ## Documents
@@ -3927,6 +3941,12 @@
 [pip install して import するだけで matplotlib を日本語表示対応させる #Python - Qiita](https://qiita.com/uehara1414/items/6286590d2e1ffbf68f6c)
 
 [matplotlibでフォント指定:日本語文字化け対策](https://zenn.dev/giana12th/articles/9e84a2647ac419)
+
+[Pythonのrequirements.txtをなるべくちゃんとする #仮想環境 - Qiita](https://qiita.com/NUNOGAWA/items/2711f5b731f461295388)
+
+[requirements.txtのバージョン固定について #Python - Qiita](https://qiita.com/Aloha2691/items/98a76a094b6bfc841394)
+
+[Pythonで文字列を置換（replace, translate, re.sub, re.subn） | note.nkmk.me](https://note.nkmk.me/python-str-replace-translate-re-sub/)
 
 
 

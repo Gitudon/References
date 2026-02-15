@@ -3992,6 +3992,10 @@
 
 [PyEnchantを使ってスペルチェックをしてみた](https://zenn.dev/akasan/articles/09c84177fc5884)
 
+[ラズベリーパイで固定IPアドレスを設定する - ムギークのブログ](https://mugeek.hatenablog.com/entry/2019/05/27/230256)
+
+[NetworkManagerを使ってRaspberry PiをWi-Fi接続する #RaspberryPi - Qiita](https://qiita.com/hayat00/items/34d550de4ad38e455529)
+
 
 
 ## React
@@ -5405,6 +5409,8 @@
 [unattended-upgradeでUbuntuのパッケージを自動更新する #ubuntu20.04 - Qiita](https://qiita.com/ymbk990/items/cabfc383e1c5e35eb4f9)
 
 [ubuntuにおける環境変数の設定 #Linux - Qiita](https://qiita.com/halglobe0108/items/735433531e7b17a20b54)
+
+[Wi-Fi環境でのUbuntu PCのIPアドレス手動設定 #Ubuntu - Qiita](https://qiita.com/kawano-y/items/e0936e68b276a09591d5)
 
 
 

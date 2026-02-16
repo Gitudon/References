@@ -3948,6 +3948,8 @@
 
 [Pythonで文字列を置換（replace, translate, re.sub, re.subn） | note.nkmk.me](https://note.nkmk.me/python-str-replace-translate-re-sub/)
 
+[PythonでEXCEL出力メモ #batch - Qiita](https://qiita.com/RIKIgigasu/items/c02ba2f66a3d8bbded4e)
+
 
 
 ## RaspberryPi

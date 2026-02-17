@@ -122,6 +122,7 @@
 
 [Android 5.0 Lolipop で電池残量をエミュレートする #Android - Qiita](https://qiita.com/tetsukay/items/0e3a3e5297a8be3d8d59)
 
+[dumpsys  |  Android Studio  |  Android Developers](https://developer.android.com/tools/dumpsys?hl=ja)
 
 
 ## AI
@@ -4653,6 +4654,8 @@
 [Enumerator#with_index (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Enumerator/i/with_index.html)
 
 [Ruby | 配列から要素が「nil」のものを取り除く(compact)](https://www.javadrive.jp/ruby/array_class/index9.html)
+
+[Rubyで文字列からTime型または DateTime型に変換する - @Konboi memo](https://konboi.hatenablog.com/entry/2013/11/22/182151)
 
 
 

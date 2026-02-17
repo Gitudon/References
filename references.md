@@ -4694,8 +4694,6 @@
 
 [Railsのコーディング規約を作る際に参考にしたもの #Ruby - Qiita](https://qiita.com/na-777/items/b33e965e079b1f3c62b3)
 
-[Rubyコーディング規約](https://shugo.net/ruby-codeconv/codeconv.html)
-
 
 
 ## Rust

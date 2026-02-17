@@ -326,6 +326,10 @@
 
 [OEM USB ドライバをインストールする  |  Android Studio  |  Android Developers](https://developer.android.com/studio/run/oem-usb?hl=ja)
 
+[Android版「AnTuTu Benchmark」使い方まとめ、スマートフォンの総合的な性能を測定可能でバッテリーやCPU温度のリアルタイム監視も可能 - GIGAZINE](https://gigazine.net/news/20251109-antutu-benchmark-for-android/)
+
+[Android端末でAnTuTuベンチマークテストを行う超簡単な方法（2025年時点） - TikGadget | ティックガジェットは最新ガジェットレビューサイト、割引・セール情報も紹介](https://www.tikgadget.jp/android-antutu-benchmark-test/)
+
 
 
 ## API
@@ -4688,6 +4692,8 @@
 
 [NokogiriライブラリとXPathの基本 - 日常で使うRubyプログラミング](https://ysy-ruby.hatenablog.com/entry/2024/03/16/020145)
 
+[Railsのコーディング規約を作る際に参考にしたもの #Ruby - Qiita](https://qiita.com/na-777/items/b33e965e079b1f3c62b3)
+
 
 
 ## Rust
@@ -5981,4 +5987,8 @@
 [SVD（特異値分解）解説 #数学 - Qiita](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
 
 [【都道府県別】特殊な住所・住居表示 - estie inside blog](https://www.estie.jp/blog/entry/2026/02/09/102120)
+
+[【2026最新】スマホベンチマークランキング【AnTuTu/PCMark/原神】｜ちびめがねアンテナ](https://chibimegane.jp/category/gadget/smartphone/)
+
+[3DMarkの使い方は？スコアの目安は？ダウンロード方法まで徹底解説 | モバイル比較レビュー.jp](https://mobile1.yamanex.co.jp/3dmark-usage/)
 

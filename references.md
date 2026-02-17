@@ -2226,6 +2226,10 @@
 
 [GitHub リポジトリのコミット履歴をクリアする手順 #Windows - Qiita](https://qiita.com/studio_meowtoon/items/9ba34ef567a089fb484e)
 
+[削除されたremoteブランチがローカルのRepoに残っていて、それを削除する方法 #Git - Qiita](https://qiita.com/kony/items/f0fb18b04bd5337132e3)
+
+[GitHub上のいらないブランチを削除する手順](https://zenn.dev/kaishigaki/articles/1c888ef3b2c933)
+
 
 
 ## Go
@@ -4683,6 +4687,10 @@
 [Ruby | 配列から要素が「nil」のものを取り除く(compact)](https://www.javadrive.jp/ruby/array_class/index9.html)
 
 [Rubyで文字列からTime型または DateTime型に変換する - @Konboi memo](https://konboi.hatenablog.com/entry/2013/11/22/182151)
+
+[nokogiriの使い方メモ（XPathを使った場合） #Ruby - Qiita](https://qiita.com/nakamurau1@github/items/e5b91117877ba366fa6b)
+
+[NokogiriライブラリとXPathの基本 - 日常で使うRubyプログラミング](https://ysy-ruby.hatenablog.com/entry/2024/03/16/020145)
 
 
 

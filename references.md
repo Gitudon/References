@@ -2224,8 +2224,6 @@
 
 [GitHub リポジトリのコミット履歴をクリアする手順 #Windows - Qiita](https://qiita.com/studio_meowtoon/items/9ba34ef567a089fb484e)
 
-[削除されたremoteブランチがローカルのRepoに残っていて、それを削除する方法 #Git - Qiita](https://qiita.com/kony/items/f0fb18b04bd5337132e3)
-
 [GitHub上のいらないブランチを削除する手順](https://zenn.dev/kaishigaki/articles/1c888ef3b2c933)
 
 

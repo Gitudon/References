@@ -5992,3 +5992,5 @@
 
 [3DMarkの使い方は？スコアの目安は？ダウンロード方法まで徹底解説 | モバイル比較レビュー.jp](https://mobile1.yamanex.co.jp/3dmark-usage/)
 
+[スマホの実機AnTuTuベンチマークスコアまとめ - ガルマックス](https://garumax.com/antutu-benchmark-score)
+

@@ -124,8 +124,6 @@
 
 [dumpsys  |  Android Studio  |  Android Developers](https://developer.android.com/tools/dumpsys?hl=ja)
 
-[Android Debug Bridge(adb)をWSL上で使いたい – 株式会社ルーター](https://rooter.jp/environment/adb-with-wsl/)
-
 [Windows 10/11でADB/Fastbootコマンドを簡単に導入する方法+よくあるQ＆A – SMART ASW](https://smartasw.com/archives/298)
 
 [Fastbootはデバイスを検出していますが、ブートは「waiting for any device」と言っています。 : r/LineageOS](https://www.reddit.com/r/LineageOS/comments/11vor3i/fastboot_detecting_device_but_booting_says/?tl=ja)

@@ -5500,6 +5500,10 @@
 
 [Instagram URL Schemes #Instagram - Qiita](https://qiita.com/ahandsel/items/9d668441152e00ba31ff)
 
+[【モバイル対応】URLでアプリを開く #iOS - Qiita](https://qiita.com/RINYU_DRVO/items/e1c5b64dd3af19c9d905)
+
+[Instagram URL Schemes - DEV Community](https://dev.to/ahandsel/instagram-url-schemes-1k6n)
+
 
 
 ## uv

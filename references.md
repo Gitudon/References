@@ -124,6 +124,20 @@
 
 [dumpsys  |  Android Studio  |  Android Developers](https://developer.android.com/tools/dumpsys?hl=ja)
 
+[Android Debug Bridge(adb)をWSL上で使いたい – 株式会社ルーター](https://rooter.jp/environment/adb-with-wsl/)
+
+[Windows 10/11でADB/Fastbootコマンドを簡単に導入する方法+よくあるQ＆A – SMART ASW](https://smartasw.com/archives/298)
+
+[Fastbootはデバイスを検出していますが、ブートは「waiting for any device」と言っています。 : r/LineageOS](https://www.reddit.com/r/LineageOS/comments/11vor3i/fastboot_detecting_device_but_booting_says/?tl=ja)
+
+[【winget】サルでもできる超簡単にADB/Fastboot環境をセットアップする方法 - ROM焼き試験場](https://mitanyan98.hatenablog.com/entry/adbfastbootsetup)
+
+[Windows11対応 ADB/fastboot環境の構築方法 Waiting for any deviceの解決 - ROM焼き試験場](https://mitanyan98.hatenablog.com/entry/2022/02/09/055859)
+
+[覚えておくと損はないadb/fastbootコマンド、コマンドプロンプトの便利な使い方 - ROM焼き試験場](https://mitanyan98.hatenablog.com/entry/2021/09/22/173858)
+
+[fastboot flash boot boot.img がうまくいかない : r/LineageOS](https://www.reddit.com/r/LineageOS/comments/1f7iggi/fastboot_flash_boot_bootimg_doesnt_work/?tl=ja)
+
 
 
 ## AI
@@ -301,6 +315,18 @@
 [Androidスマホのバッテリーの劣化状況を確認するには？ | 【スマホ修理王】はiPhone・スマホ即日修理](https://flash-agt.com/tips/tips-detail-55725/)
 
 [dumpsys  |  Android Studio  |  Android Developers](https://developer.android.com/tools/dumpsys?hl=ja#battery)
+
+[android端末にカスタムROMを焼く · ByzantinePosts](https://mijinc0.github.io/blog/post/20190503_how_install_custom_rom/)
+
+[Android で特定のイメージだけを書き込む方法 | Renesas Customer Hub](https://ja-support.renesas.com/knowledgeBase/20082393)
+
+[fastboot を使用してフラッシュする  |  Android Open Source Project](https://source.android.com/docs/setup/test/running?hl=ja)
+
+[fastboot キーの組み合わせ  |  Android Open Source Project](https://source.android.com/docs/setup/reference/fastboot-keys?hl=ja)
+
+[Google USB ドライバを入手する  |  Android Studio  |  Android Developers](https://developer.android.com/studio/run/win-usb?hl=ja)
+
+[OEM USB ドライバをインストールする  |  Android Studio  |  Android Developers](https://developer.android.com/studio/run/oem-usb?hl=ja)
 
 
 

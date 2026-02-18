@@ -5818,6 +5818,8 @@
 
 [Windows Server 2016 IIS10でHTTPSのサイトを表示 → Chrome/FireFoxで 「ERR_SPDY_INADEQUATE_TRANSPORT_SECURITY」が発生しサイトを表示できない|希釈還元](https://kishaku-kangen.blogspot.com/2018/07/windows-server-2016-iis10https.html)
 
+[Windows 11の更新プログラム「KB5074109」でFPSが大幅低下。NVIDIAスタッフも「更新プログラムのアンインストール」を解決策として言及 | フォートナイト 攻略情報サイト | FNJPNews](https://fnjpnews.com/News/58325)
+
 
 
 ## Words

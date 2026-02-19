@@ -174,6 +174,14 @@
 
 [AIエンジニア必見：Cloudflare AI GatewayでAPIエラー・トークン・コストの悩みを解決する！ – 株式会社ルーター](https://rooter.jp/ml/cloudflare-ai-gateway-api-error-token-management/)
 
+[Gemini-CLIがエラーで動かなくなった時の解決策 | hiroblue’s LIFE LOG - 楽天ブログ](https://plaza.rakuten.co.jp/hiroblue/diary/202507030003/)
+
+[【Gemini CLI】WSL2でGemini CLIを試す（ひと手間あり） #初心者 - Qiita](https://qiita.com/ryu-ki/items/bb1a0619e05431c05447)
+
+[Gemini CLIとは？機能や使い方、料金など初心者にもわかる完全ガイド | クラウドエース株式会社](https://cloud-ace.jp/column/detail520/)
+
+[Gemini CLI をさっそく試してみた！ #Google - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
+
 
 
 ## Algorithm

@@ -5734,6 +5734,8 @@
 
 [Visual Studio Code の設定を、他のPCと同期する](https://zenn.dev/longbridge/articles/0811abc01d10cc)
 
+[VSCode拡張機能に深刻な脆弱性、1億2800万DLに潜む攻撃の入り口｜情報の灯台](https://note.com/joho_no_todai/n/nd45dc26066ae)
+
 
 
 ## Vue.js
@@ -5827,6 +5829,8 @@
 [Windows Server 2016 IIS10でHTTPSのサイトを表示 → Chrome/FireFoxで 「ERR_SPDY_INADEQUATE_TRANSPORT_SECURITY」が発生しサイトを表示できない|希釈還元](https://kishaku-kangen.blogspot.com/2018/07/windows-server-2016-iis10https.html)
 
 [Windows 11の更新プログラム「KB5074109」でFPSが大幅低下。NVIDIAスタッフも「更新プログラムのアンインストール」を解決策として言及 | フォートナイト 攻略情報サイト | FNJPNews](https://fnjpnews.com/News/58325)
+
+[ASCII.jp：Windows 11の2月アップデートで深刻な不具合、起動不能や通信障害の報告相次ぐ](https://ascii.jp/elem/000/004/374/4374866/)
 
 
 

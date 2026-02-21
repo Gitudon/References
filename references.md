@@ -4922,6 +4922,8 @@
 
 [シェルスクリプトの三項演算子で注意するべきこと #ShellScript - Qiita](https://qiita.com/kokorinosoba/items/2f95ffd897b8ba2fe0de)
 
+[Como otimizar o comando cd para voltar várias pastas de uma só vez](https://terminalroot.com.br/2026/02/como-otimizar-o-comando-cd-para-voltar-varias-pastas-de-uma-so-vez.html)
+
 
 
 ## Slack

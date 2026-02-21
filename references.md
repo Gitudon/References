@@ -182,6 +182,10 @@
 
 [Gemini CLI をさっそく試してみた！ #Google - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
 
+[「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】](https://zenn.dev/helloworld/articles/5c69b2981d5199)
+
+[CLINEに全部賭けろ](https://zenn.dev/mizchi/articles/all-in-on-cline)
+
 
 
 ## Algorithm
@@ -825,6 +829,8 @@
 [なぜ私はAtCoderが全くできないのか #プログラミング - Qiita](https://qiita.com/Shiro_Shihi/items/31b9e50abda41e4c2b71)
 
 [経理からエンジニアへの転職 – 株式会社ルーター](https://rooter.jp/rooter/change-from-accounting-to-engineering/)
+
+[プログラミングが「全くできない人」の頭の中を解剖してみた](https://zenn.dev/rabee/articles/2d9ab1789b707d)
 
 
 
@@ -3418,6 +3424,8 @@
 
 [apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
 
+[ずっと放置していたnpmパッケージのアップデートに取り組んでみた | Webフロントエンドの備忘録｜hasii](https://841-biboroku.info/entry/updating-npm-packages/)
+
 
 
 ## Package Manager
@@ -6009,4 +6017,6 @@
 [3DMarkの使い方は？スコアの目安は？ダウンロード方法まで徹底解説 | モバイル比較レビュー.jp](https://mobile1.yamanex.co.jp/3dmark-usage/)
 
 [スマホの実機AnTuTuベンチマークスコアまとめ - ガルマックス](https://garumax.com/antutu-benchmark-score)
+
+[システムをメンテナンスしてますか？](https://zenn.dev/levtech/articles/fc8992fa45f020)
 

@@ -3998,6 +3998,8 @@
 
 [PythonでEXCEL出力メモ #batch - Qiita](https://qiita.com/RIKIgigasu/items/c02ba2f66a3d8bbded4e)
 
+[Pythonで文字列・数値をゼロ埋め（ゼロパディング） | note.nkmk.me](https://note.nkmk.me/python-zero-padding/)
+
 
 
 ## RaspberryPi

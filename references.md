@@ -2244,6 +2244,10 @@
 
 [GitHub上のいらないブランチを削除する手順](https://zenn.dev/kaishigaki/articles/1c888ef3b2c933)
 
+[ブランチ名に脳死で「/」使ってたらコけた。実は「/」には意味があった話 #初心者 - Qiita](https://qiita.com/shimauma0322/items/e521afd330271bb41f0f)
+
+[gitを使用したブランチ作成からpushまでの簡単な流れ #Rails - Qiita](https://qiita.com/infratoweb/items/5021a36f69f26dc7f0b9)
+
 
 
 ## Go

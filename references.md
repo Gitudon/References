@@ -4004,6 +4004,10 @@
 
 [Pythonで文字列・数値をゼロ埋め（ゼロパディング） | note.nkmk.me](https://note.nkmk.me/python-zero-padding/)
 
+[8. エラーと例外 — Python 3.14.3 ドキュメント](https://docs.python.org/ja/3/tutorial/errors.html)
+
+[pythonの自作Exceptionで変数を含むエラー内容を出力する #Python - Qiita](https://qiita.com/s_szk/items/e6b932816667e7974f0e)
+
 
 
 ## RaspberryPi

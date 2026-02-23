@@ -832,6 +832,8 @@
 
 [プログラミングが「全くできない人」の頭の中を解剖してみた](https://zenn.dev/rabee/articles/2d9ab1789b707d)
 
+[残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】 #AWS - Qiita](https://qiita.com/handson-lab/items/95d9e92894bc99a34606)
+
 
 
 ## Chrome

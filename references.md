@@ -342,6 +342,8 @@
 
 [Android端末でAnTuTuベンチマークテストを行う超簡単な方法（2025年時点） - TikGadget | ティックガジェットは最新ガジェットレビューサイト、割引・セール情報も紹介](https://www.tikgadget.jp/android-antutu-benchmark-test/)
 
+[Android版PCMark - スマートフォンおよびタブレット向けのより良いベンチマーク](https://benchmarks.ul.com/jp/pcmark-android)
+
 
 
 ## API
@@ -6037,4 +6039,8 @@
 [システムをメンテナンスしてますか？](https://zenn.dev/levtech/articles/fc8992fa45f020)
 
 [Twitchの「広告が多すぎる」と感じるときの対処法と原因について解説｜バズマーケター【SNSコンサルタント】｜coconalaブログ](https://coconala.com/blogs/4719550/488128?srsltid=AfmBOopMaMGhCdfIGBiRBTgj9NO_a8uduY9Bmvke-9LDpRBRhS5UXDQB)
+
+[PCMark 10における良いスコアとは](https://benchmarks.ul.com/jp/resources/what-is-a-good-pcmark-10-score)
+
+[PCMark 10 - 現代のオフィスのための完全なベンチマーク](https://benchmarks.ul.com/jp/pcmark10)
 

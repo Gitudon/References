@@ -2338,6 +2338,8 @@
 
 [GASを使って自動でGoogle ドキュメントを作る](https://zenn.dev/atomic/articles/8408dffad6bc1f)
 
+[マイドライブの画像をIMAGE関数で表示させる方法(Gスプレッドシート) | Googleスプレッドシート 完全攻略](https://technical.verybestcbp.com/dspimagemydrive/)
+
 
 
 ## HTML/CSS

@@ -6036,3 +6036,5 @@
 
 [システムをメンテナンスしてますか？](https://zenn.dev/levtech/articles/fc8992fa45f020)
 
+[Twitchの「広告が多すぎる」と感じるときの対処法と原因について解説｜バズマーケター【SNSコンサルタント】｜coconalaブログ](https://coconala.com/blogs/4719550/488128?srsltid=AfmBOopMaMGhCdfIGBiRBTgj9NO_a8uduY9Bmvke-9LDpRBRhS5UXDQB)
+

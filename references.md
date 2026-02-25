@@ -1224,6 +1224,10 @@
 
 [SECCON Beginners CTF 2021 解けなかった問題を勉強した記録2 #Git - Qiita](https://qiita.com/housu_jp/items/494bdf4b92a5f2e55ced#misc-01-git-leak)
 
+[SECCON Beginners CTF 2021 Writeup | by Kensuke Takahashi | MICIN Developers | Medium](https://medium.com/micin-developers/seccon-beginners-ctf-2021-writeup-b3cc614f4d99)
+
+[Tsukushi CTF 2022 Writeup - かえるのひみつきち](https://kashiwaba-yuki.com/ctf-tsukushi-2022)
+
 
 
 ## cURL
@@ -4127,6 +4131,10 @@
 [分かりやすいpythonの正規表現の例 #Python - Qiita](https://qiita.com/luohao0404/items/7135b2b96f9b0b196bf3)
 
 [正規表現サンプル集](https://www.megasoft.co.jp/mifes/seiki/meta.html)
+
+[正規表現でのメールアドレスチェックは見直すべき – ReDoS – yohgaki's blog](https://blog.ohgaki.net/4936)
+
+[Blog｜その正規表現の書き方で大丈夫？ ReDoS 攻撃の怖さと対策方法 | yamory | 脆弱性管理クラウド | SBOM対応](https://yamory.io/blog/about-redos-attack)
 
 
 

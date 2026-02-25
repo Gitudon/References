@@ -1578,6 +1578,10 @@
 
 [【超わかりやすい】チャンネルとスレッドでの@everyoneメンションの違いとサイレント通知 - Discord｜きゃぬの記憶](https://note.com/nuyaki/n/nd0332cdaf8ce)
 
+[Opcodes and Status Codes - Documentation - Discord](https://docs.discord.com/developers/topics/opcodes-and-status-codes)
+
+[100MBまでの動画をdiscordに送信できるBOTを作ろう！ #discord.py - Qiita](https://qiita.com/yonuma28/items/3a49659774c408367e58)
+
 
 
 ## Django

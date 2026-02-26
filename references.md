@@ -4740,6 +4740,8 @@
 
 [Railsのコーディング規約を作る際に参考にしたもの #Ruby - Qiita](https://qiita.com/na-777/items/b33e965e079b1f3c62b3)
 
+[Rubyの破壊的メソッドについて #Rails - Qiita](https://qiita.com/tentom/items/0164b68dff94702e3880)
+
 
 
 ## Rust

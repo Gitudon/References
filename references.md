@@ -2724,6 +2724,8 @@
 
 [Local Storageを使ってみる #JavaScript - Qiita](https://qiita.com/masuda-sankosc/items/cff6131efd6e1b5138e6)
 
+[発火とは? #JavaScript - Qiita](https://qiita.com/airesaies/items/85faa8e18be5089e0e1a)
+
 
 
 ## Kotlin

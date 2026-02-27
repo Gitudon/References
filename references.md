@@ -4024,6 +4024,8 @@
 
 [pythonの自作Exceptionで変数を含むエラー内容を出力する #Python - Qiita](https://qiita.com/s_szk/items/e6b932816667e7974f0e)
 
+[【日本の祝日】Pythonで日本の祝日を判定するライブラリを作ってみた #Python3.9 - Qiita](https://qiita.com/flarebrow/items/c2e54db73130630d2c01)
+
 
 
 ## RaspberryPi

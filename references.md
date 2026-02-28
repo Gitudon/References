@@ -3240,6 +3240,8 @@
 
 [第250回　MySQLの統計情報更新 | gihyo.jp](https://gihyo.jp/article/2025/07/mysql-rcn0250)
 
+[【MySQL】AUTO_INCREMENTの設定、追加、変更方法などまとめ | ポテパンスタイル](https://style.potepan.com/articles/19154.html)
+
 
 
 ## Naming
@@ -5781,6 +5783,14 @@
 [Visual Studio Code の設定を、他のPCと同期する](https://zenn.dev/longbridge/articles/0811abc01d10cc)
 
 [VSCode拡張機能に深刻な脆弱性、1億2800万DLに潜む攻撃の入り口｜情報の灯台](https://note.com/joho_no_todai/n/nd45dc26066ae)
+
+[【VSCode】初心者〜中級者向け、知っておくと便利な11の機能 #tips - Qiita](https://qiita.com/nolanlover0527/items/83cd7f0977bcdc031c5b)
+
+[VS Code 内蔵ターミナル補完設定（terminal.integrated.suggest）をちゃんと理解する](https://zenn.dev/taruroma/articles/1bd39f7729ebde#terminal.integrated.suggest.quicksuggestions)
+
+[VSCode が勝手に Python の仮装環境を起動する #venv - Qiita](https://qiita.com/propella/items/52c9b0e57f0a3ca5862a)
+
+[Visual Studio Code キーボード ショートカット #VSCode - Qiita](https://qiita.com/oruponu/items/ae9c720d4522c1606daf)
 
 
 

@@ -5790,8 +5790,6 @@
 
 [VSCode が勝手に Python の仮装環境を起動する #venv - Qiita](https://qiita.com/propella/items/52c9b0e57f0a3ca5862a)
 
-[Visual Studio Code キーボード ショートカット #VSCode - Qiita](https://qiita.com/oruponu/items/ae9c720d4522c1606daf)
-
 
 
 ## Vue.js

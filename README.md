@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年02月28日 21:48:00)
+## 集計(2026年03月01日 00:14:16)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -64,7 +64,7 @@
 | Matlab | 1 |
 | Microsoft | 9 |
 | Movie | 31 |
-| MySQL | 36 |
+| MySQL | 37 |
 | Naming | 19 |
 | Nano | 3 |
 | Network | 51 |
@@ -78,7 +78,7 @@
 | PostgreSQL | 12 |
 | PowerShell | 5 |
 | Protocol | 5 |
-| Python | 238 |
+| Python | 239 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
@@ -113,4 +113,4 @@
 | WSL | 17 |
 | Xml | 1 |
 | Etc | 28 |
-| 合計 | 2824 |
+| 合計 | 2826 |

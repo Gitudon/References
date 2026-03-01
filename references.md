@@ -1772,6 +1772,8 @@
 
 [既存のDockerコンテナにモジュールを追加したいときのメモ｜Docker requirements.txtの更新を反映する - Tech Ecology@六菱忍軍](https://tech.firenium.com/docker-requirements-up/)
 
+[Dockerで未使用オブジェクトを消す「prune」オプションの整理 #Docker - Qiita](https://qiita.com/zembutsu/items/f577ea8dad6dc64d70b6)
+
 
 
 ## Documents
@@ -2261,6 +2263,8 @@
 [ブランチ名に脳死で「/」使ってたらコけた。実は「/」には意味があった話 #初心者 - Qiita](https://qiita.com/shimauma0322/items/e521afd330271bb41f0f)
 
 [gitを使用したブランチ作成からpushまでの簡単な流れ #Rails - Qiita](https://qiita.com/infratoweb/items/5021a36f69f26dc7f0b9)
+
+[gitのremote urlを変更する(レポジトリ移行時) #GitHub - Qiita](https://qiita.com/minoringo/items/917e325892733e0d606e)
 
 
 

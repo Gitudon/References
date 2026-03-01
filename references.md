@@ -716,6 +716,8 @@
 
 [BLAS/CBLASの簡単な使い方](http://azalea.s35.xrea.com/blas/install.html)
 
+[C言語のマクロ オブジェクト形式マクロとは](https://macro.gjpw.net/c%E8%A8%80%E8%AA%9E%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AE%E5%9F%BA%E6%9C%AC/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%BD%A2%E5%BC%8F%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%A8%E3%81%AF)
+
 
 
 ## Career

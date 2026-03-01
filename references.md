@@ -4870,6 +4870,8 @@
 
 [ChaCha20 & Poly1305 #crypto - Qiita](https://qiita.com/tnakagawa/items/a7892a87f8c71b3fc803)
 
+[【セキュリティ】SQLインジェクション対策の基本：プレースホルダーを正しく使う #初心者 - Qiita](https://qiita.com/ktdatascience/items/9ba24275d0f59e1f0b43)
+
 
 
 ## Server

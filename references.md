@@ -1774,6 +1774,10 @@
 
 [Dockerで未使用オブジェクトを消す「prune」オプションの整理 #Docker - Qiita](https://qiita.com/zembutsu/items/f577ea8dad6dc64d70b6)
 
+[[Docker]COPYとADDについて #初心者 - Qiita](https://qiita.com/mkato1013/items/14749e381786c001edc4)
+
+[docker cp コマンドのコピー元ディレクトリは常に /. (スラッシュ と ドット)で終われ #Docker - Qiita](https://qiita.com/jogojogo/items/4d30a7ebdd11ff51c89a)
+
 
 
 ## Documents

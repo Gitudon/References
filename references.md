@@ -1230,6 +1230,8 @@
 
 [Tsukushi CTF 2022 Writeup - かえるのひみつきち](https://kashiwaba-yuki.com/ctf-tsukushi-2022)
 
+[CTF的 Flaskに対する攻撃まとめ #Python - Qiita](https://qiita.com/koki-sato/items/6ff94197cf96d50b5d8f)
+
 
 
 ## cURL

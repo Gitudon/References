@@ -4044,6 +4044,8 @@
 
 [Pythonで祝日を調べる方法](https://zenn.dev/shiro_toy_box/articles/724a601b208398)
 
+[pythonのimportの順番](https://zenn.dev/nyankonya/articles/ec615627379cb5)
+
 
 
 ## RaspberryPi

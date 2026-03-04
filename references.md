@@ -6094,3 +6094,5 @@
 
 [PCMark 10 - 現代のオフィスのための完全なベンチマーク](https://benchmarks.ul.com/jp/pcmark10)
 
+[iPhoneの『メモ』アプリにWindowsからアクセスする方法 iCloudやGmailで共有可能｜KDDI トビラ](https://time-space.kddi.com/mobile/20210326/3091.html)
+

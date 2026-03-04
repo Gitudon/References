@@ -3180,6 +3180,10 @@
 
 [Ubuntuにyt-dlpをインストール | tah5.com](https://tah5.com/guides/ubuntu/youtube/yt-dlp/)
 
+[AviUtl2フェードの使い方が全部わかる｜基本＋応用テクまとめ](https://vip-jikkyo.net/aviutl2-fade)
+
+[【AviUtl】動画をフェードアウト・フェードインさせる方法を解説！ - AKETAMA OFFICIAL BLOG](https://aketama.work/aviutl-fadeout_in)
+
 
 
 ## MySQL

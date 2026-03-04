@@ -1482,6 +1482,8 @@
 
 [NoSQLについて勉強する。 #Database - Qiita](https://qiita.com/t_nakayama0714/items/0ff7644666f0122cfba1)
 
+[分かりやすく正規化について理解しよう (データベース) #SQL - Qiita](https://qiita.com/comorevi21/items/9440ff96f74d2db666df)
+
 
 
 ## Data Science

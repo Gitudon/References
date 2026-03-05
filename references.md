@@ -1144,6 +1144,8 @@
 
 [chmodの意味 #Linux - Qiita](https://qiita.com/HHajimeW/items/dd463daa6ba1ba88e461)
 
+[Msieveを使った高速素因数分解 #Linux - Qiita](https://qiita.com/motimotipurinn/items/087dedae95a770345132)
+
 
 
 ## C++

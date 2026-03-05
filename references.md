@@ -5916,6 +5916,8 @@
 
 [ASCII.jp：Windows 11の2月アップデートで深刻な不具合、起動不能や通信障害の報告相次ぐ](https://ascii.jp/elem/000/004/374/4374866/)
 
+[解決済み：GPEDIT.MSCが見つかりません【Windows 11/10】](https://jp.easeus.com/data-recovery-solution/windows-cannot-find-gpeditmsc.html)
+
 
 
 ## Words
@@ -6035,6 +6037,8 @@
 [ISBN13とは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word18793.html)
 
 [windows環境でクローラーを開発・運用するための環境構築方法 – 株式会社ルーター](https://rooter.jp/web-crawling/windows_ubuntu_crawl/)
+
+[WSL2環境へWindowsからファイルコピー時、Zone.Identifierファイルを生成しないようにする](https://zenn.dev/sion_pn/articles/650480a23eed79)
 
 
 

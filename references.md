@@ -600,6 +600,8 @@
 
 [「家族アルバム みてね」を支えるS3ライフサイクル戦略 - Speaker Deck](https://speakerdeck.com/fanglang/jia-zu-arubamu-mitene-wozhi-erus3raihusaikuruzhan-lue)
 
+[AWSのS3パケットをローカル(自分のPC)に一括コピーしてくる方法](https://zenn.dev/mako5656/articles/169b9e671c6a00)
+
 
 
 ## Bat
@@ -4051,6 +4053,8 @@
 [Pythonで祝日を調べる方法](https://zenn.dev/shiro_toy_box/articles/724a601b208398)
 
 [pythonのimportの順番](https://zenn.dev/nyankonya/articles/ec615627379cb5)
+
+[pythonコマンドでpython3を実行したい #Python - Qiita](https://qiita.com/houtarou/items/c7fa8006eef9e30ffad5)
 
 
 

@@ -2278,6 +2278,8 @@
 
 [gitのremote urlを変更する(レポジトリ移行時) #GitHub - Qiita](https://qiita.com/minoringo/items/917e325892733e0d606e)
 
+[AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください #Security - Qiita](https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96)
+
 
 
 ## Go

@@ -4064,8 +4064,6 @@
 
 [pythonコマンドでpython3を実行したい #Python - Qiita](https://qiita.com/houtarou/items/c7fa8006eef9e30ffad5)
 
-[Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
-
 
 
 ## RaspberryPi

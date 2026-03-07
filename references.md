@@ -2958,6 +2958,8 @@
 
 [mintedでLaTeXドキュメントにソースコードを載せる #latextools - Qiita](https://qiita.com/f1047/items/2884a4d80a54ffa89a34)
 
+[【LaTeX】下線・波線・打ち消し線・上線などの引き方 | 数学の景色](https://mathlandscape.com/latex-underline/)
+
 
 
 ## Lean
@@ -4893,6 +4895,8 @@
 [ChaCha20 & Poly1305 #crypto - Qiita](https://qiita.com/tnakagawa/items/a7892a87f8c71b3fc803)
 
 [【セキュリティ】SQLインジェクション対策の基本：プレースホルダーを正しく使う #初心者 - Qiita](https://qiita.com/ktdatascience/items/9ba24275d0f59e1f0b43)
+
+[YahooでID凍結(F002)から復活した記録｜2025年6月～7月｜jabasunu](https://note.com/jabasunu/n/n2fddbb0d4cd8)
 
 
 

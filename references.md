@@ -234,6 +234,8 @@
 
 [AtCoder で伸び悩んでいる人々を見て思うところ (2025/12) - えびちゃんの日記](https://rsk0315.hatenablog.com/entry/2025/12/21/190805)
 
+[累積和を何も考えずに書けるようにする！ #AtCoder - Qiita](https://qiita.com/drken/items/56a6b68edef8fc605821)
+
 
 
 ## Android
@@ -4061,6 +4063,8 @@
 [pythonのimportの順番](https://zenn.dev/nyankonya/articles/ec615627379cb5)
 
 [pythonコマンドでpython3を実行したい #Python - Qiita](https://qiita.com/houtarou/items/c7fa8006eef9e30ffad5)
+
+[Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
 
 
 

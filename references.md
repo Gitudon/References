@@ -3096,6 +3096,8 @@
 
 [コードブロックについてまとめて理解したい #Markdown - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/6ab5122acb2c8be83946)
 
+[Markdown 打ち消し線を使う #初心者 - Qiita](https://qiita.com/miriwo/items/3ac6c90f1e6111d8e994)
+
 
 
 ## Matlab

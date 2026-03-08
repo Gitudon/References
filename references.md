@@ -4064,6 +4064,8 @@
 
 [pythonコマンドでpython3を実行したい #Python - Qiita](https://qiita.com/houtarou/items/c7fa8006eef9e30ffad5)
 
+[カッコつけないPythonプログラミング 〜()[]{}禁止Python〜 #ネタ - Qiita](https://qiita.com/nakario/items/2d8a163206c06785307c)
+
 
 
 ## RaspberryPi

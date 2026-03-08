@@ -5598,6 +5598,8 @@
 
 [Instagram URL Schemes - DEV Community](https://dev.to/ahandsel/instagram-url-schemes-1k6n)
 
+[YouTubeで時間･秒数指定URLを共有するやり方は? PC･スマホアプリ別に解説 | マイナビニュース](https://news.mynavi.jp/article/20230714-2705846/)
+
 
 
 ## uv

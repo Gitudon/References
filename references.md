@@ -5678,6 +5678,8 @@
 
 [Vim – 選択範囲の指定でコピー/カット・ペーストするコマンドの使い方 | Howpon[ハウポン]](https://howpon.com/18021)
 
+[Vimを開いて閉じられず、半泣きでPCを再起動したあの日の私へ捧ぐ #初心者 - Qiita](https://qiita.com/fe1ix/items/f46a3253211a51966baa)
+
 
 
 ## Vite

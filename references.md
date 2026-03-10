@@ -912,6 +912,8 @@
 
 [「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所](https://note.com/tanabata_lab/n/nfb68295ce7d7)
 
+[macOSでChromeがアップデートできなくなったので対処した #Chrome - Qiita](https://qiita.com/fits/items/ded128e52fd4fc5c41d4)
+
 
 
 ## Codes
@@ -1147,6 +1149,8 @@
 [chmodの意味 #Linux - Qiita](https://qiita.com/HHajimeW/items/dd463daa6ba1ba88e461)
 
 [Msieveを使った高速素因数分解 #Linux - Qiita](https://qiita.com/motimotipurinn/items/087dedae95a770345132)
+
+[Linuxコマンド入門：psコマンドの基本をまとめ、現在実行中のプロセスを表示してみた #初学者向け - Qiita](https://qiita.com/free-honda/items/6c3d4d5f3d6019e3f575)
 
 
 

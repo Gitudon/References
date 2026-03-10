@@ -3278,6 +3278,8 @@
 
 [【MySQL】SHOW TABLEでテーブル名とコメントを一緒に取得する方法 | 大阪のシステム開発なら 株式会社ウィズテクノロジー](https://www.whizz-tech.co.jp/5472/)
 
+[mysqlでJSONテキストから配列、オブジェクトなどの型名を取り出す – 株式会社ルーター](https://rooter.jp/programming/db/mysql_json_type/)
+
 
 
 ## Naming

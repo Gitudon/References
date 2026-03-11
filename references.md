@@ -4078,6 +4078,8 @@
 
 [【Python初心者】secretsで安全なパスワードとトークンを生成する #Python3 - Qiita](https://qiita.com/gaku-devlog/items/849f1755110adff6f07f)
 
+[Pythonのitertools.count, cycle, repeatによる無限イテレータ | note.nkmk.me](https://note.nkmk.me/python-itertools-count-cycle-repeat/#itertoolscycle)
+
 
 
 ## RaspberryPi

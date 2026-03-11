@@ -4076,6 +4076,8 @@
 
 [カッコつけないPythonプログラミング 〜()[]{}禁止Python〜 #ネタ - Qiita](https://qiita.com/nakario/items/2d8a163206c06785307c)
 
+[【Python初心者】secretsで安全なパスワードとトークンを生成する #Python3 - Qiita](https://qiita.com/gaku-devlog/items/849f1755110adff6f07f)
+
 
 
 ## RaspberryPi

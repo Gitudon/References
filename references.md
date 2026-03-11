@@ -3026,6 +3026,8 @@
 
 [バッテリー状況確認(Debian) #Linux - Qiita](https://qiita.com/tacmasi/items/9229731c25de99e05c45)
 
+[tmux、これだけ知っておけばおｋ（用語・準備編） #Linux - Qiita](https://qiita.com/koin3z/items/5d923b1cd7a3ce6ca32b)
+
 
 
 ## Lua

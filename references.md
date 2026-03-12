@@ -1154,6 +1154,8 @@
 
 [duコマンドでディレクトリごとの容量を一発で出力する - grep Tips *](https://www.greptips.com/posts/756/)
 
+[Ubuntuのディスク容量を確認する](https://zenn.dev/glansheep/articles/a3f40bb090bb75)
+
 
 
 ## C++

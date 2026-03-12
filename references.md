@@ -5234,6 +5234,8 @@
 
 [データベースの基礎知識(SQL, CRUD) #Database - Qiita](https://qiita.com/shiiotaka/items/b82c3be16c795cfd47e4)
 
+[【SQL】NULL値を制御/SQLマスターへの道「COALESCE」 #初心者 - Qiita](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
+
 
 
 ## Sqlite

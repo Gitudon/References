@@ -1152,6 +1152,8 @@
 
 [Linuxコマンド入門：psコマンドの基本をまとめ、現在実行中のプロセスを表示してみた #初学者向け - Qiita](https://qiita.com/free-honda/items/6c3d4d5f3d6019e3f575)
 
+[duコマンドでディレクトリごとの容量を一発で出力する - grep Tips *](https://www.greptips.com/posts/756/)
+
 
 
 ## C++
@@ -5015,6 +5017,8 @@
 [シェルスクリプトの三項演算子で注意するべきこと #ShellScript - Qiita](https://qiita.com/kokorinosoba/items/2f95ffd897b8ba2fe0de)
 
 [Como otimizar o comando cd para voltar várias pastas de uma só vez](https://terminalroot.com.br/2026/02/como-otimizar-o-comando-cd-para-voltar-varias-pastas-de-uma-so-vez.html)
+
+[ゾンビプロセスの自動キル方法 #Linux - Qiita](https://qiita.com/sgash708/items/acc850ee45d9190874bd)
 
 
 

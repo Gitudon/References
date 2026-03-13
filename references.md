@@ -4918,6 +4918,8 @@
 
 [YahooでID凍結(F002)から復活した記録｜2025年6月～7月｜jabasunu](https://note.com/jabasunu/n/n2fddbb0d4cd8)
 
+[Webのしないといけないセキュリティ対策 #Python - Qiita](https://qiita.com/murasaki1994/items/81fabafaaa1fc0e8fade)
+
 
 
 ## Server

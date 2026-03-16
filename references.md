@@ -5962,6 +5962,8 @@
 
 [解決済み：GPEDIT.MSCが見つかりません【Windows 11/10】](https://jp.easeus.com/data-recovery-solution/windows-cannot-find-gpeditmsc.html)
 
+[ログイン時の処理をpowershellで書きたい（Windows） #PowerShell - Qiita](https://qiita.com/liveinvalley/items/89a296270cb59a336527)
+
 
 
 ## Words

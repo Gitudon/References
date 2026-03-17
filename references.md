@@ -1246,6 +1246,8 @@
 
 [CTF的 Flaskに対する攻撃まとめ #Python - Qiita](https://qiita.com/koki-sato/items/6ff94197cf96d50b5d8f)
 
+[Writeup: Daily AlpacaHack - The Future Path: Mersenne Twisterの出力予測](https://zenn.dev/nozokare/articles/alpaca-daily-20260316-the-future-path)
+
 
 
 ## cURL
@@ -4091,6 +4093,8 @@
 [【Python初心者】secretsで安全なパスワードとトークンを生成する #Python3 - Qiita](https://qiita.com/gaku-devlog/items/849f1755110adff6f07f)
 
 [Pythonのitertools.count, cycle, repeatによる無限イテレータ | note.nkmk.me](https://note.nkmk.me/python-itertools-count-cycle-repeat/#itertoolscycle)
+
+[Pythonのrandom.random()を完全に予測してみた](https://zenn.dev/t3tra/articles/f3f9040788c790)
 
 
 

@@ -5244,8 +5244,6 @@
 
 [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」 #初心者 - Qiita](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
 
-[[SQL] UPDATE文の基本構文 #SQL - Qiita](https://qiita.com/minhee/items/8de52f4bffb886c68b99)
-
 
 
 ## Sqlite

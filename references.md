@@ -2290,6 +2290,16 @@
 
 [AI時代にすべてをGitHubで管理するあなたへ — HTTPS接続、今すぐやめてください #Security - Qiita](https://qiita.com/kenimo49/items/27e2a11e80fe3b835f96)
 
+[Gitの初期設定とssh接続の設定｜かつお](https://note.com/noabou/n/n3ba65990e2b1)
+
+[SSH接続設定｜サル先生のGit入門【プロジェクト管理ツールBacklog】](https://backlog.com/ja/git-tutorial/reference/ssh/)
+
+[GitHubとのSSH接続](https://zenn.dev/c_hero/scraps/e03cd83e646927)
+
+[Gitのリモートリポジトリをローカル環境に作成，後からpush先をSSH先(Github, Devops等)に変更 #GitHub - Qiita](https://qiita.com/XIAOMI_hungaa/items/e59e2b206462e357663c)
+
+[Git 初期設定 #Git - Qiita](https://qiita.com/ucan-lab/items/aadbedcacbc2ac86a2b3)
+
 
 
 ## Go

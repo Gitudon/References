@@ -1324,6 +1324,10 @@
 
 [API通信の理解を深めよう！〜Curlを使用してHTTPリクエスト・レスポンスを理解する〜 #Swift - Qiita](https://qiita.com/hinakko/items/9466d3b1076538cf7c81)
 
+[cookie の取得方法と curl で cookie を送信する方法 #初心者 - Qiita](https://qiita.com/fmyuk/items/dec3992caa4fd4f574fd)
+
+[curlでCookieを保存、送信する #curl - Qiita](https://qiita.com/beckyJPN/items/e85d40459e7e535dae73)
+
 
 
 ## D
@@ -2767,6 +2771,12 @@
 [Local Storageを使ってみる #JavaScript - Qiita](https://qiita.com/masuda-sankosc/items/cff6131efd6e1b5138e6)
 
 [発火とは? #JavaScript - Qiita](https://qiita.com/airesaies/items/85faa8e18be5089e0e1a)
+
+[【JavaScript】 JSONをオブジェクトに変換　parseメソッド #初心者 - Qiita](https://qiita.com/t_t238/items/591cd44d89560b72154a)
+
+
+
+## JSON
 
 
 

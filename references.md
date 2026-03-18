@@ -1326,8 +1326,6 @@
 
 [cookie の取得方法と curl で cookie を送信する方法 #初心者 - Qiita](https://qiita.com/fmyuk/items/dec3992caa4fd4f574fd)
 
-[curlでCookieを保存、送信する #curl - Qiita](https://qiita.com/beckyJPN/items/e85d40459e7e535dae73)
-
 
 
 ## D

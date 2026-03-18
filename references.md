@@ -1192,6 +1192,10 @@
 
 [有限体の実装 in C++ · yuki's blog](https://yuki67.github.io/post/finite_field/)
 
+[C++のグローバル変数の扱い方](https://zenn.dev/hatsusato/articles/1e246a9444ef04)
+
+[C++のグローバル変数完全ガイド：正しい使い方と5つの代替手段 | Dexall公式テックブログ](https://dexall.co.jp/articles/?p=2201)
+
 
 
 ## C#

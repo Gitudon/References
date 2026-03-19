@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年03月18日 21:48:31)
+## 集計(2026年03月19日 09:59:35)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,12 +23,12 @@
 | Chrome | 34 |
 | Codes | 3 |
 | Coding | 9 |
-| Commands | 103 |
-| C++ | 18 |
+| Commands | 104 |
+| C++ | 16 |
 | C# | 1 |
 | CSV | 1 |
-| CTF | 20 |
-| cURL | 37 |
+| CTF | 19 |
+| cURL | 36 |
 | D | 1 |
 | DataBase | 83 |
 | Data Science | 5 |
@@ -46,15 +46,14 @@
 | Flutter | 1 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 146 |
+| Git | 141 |
 | Go | 3 |
 | Google | 38 |
 | HTML/CSS | 61 |
 | Image | 20 |
 | iOS | 8 |
 | Java | 36 |
-| JavaScript | 54 |
-| JSON | 0 |
+| JavaScript | 53 |
 | Kotlin | 3 |
 | LaTeX | 100 |
 | Lean | 4 |
@@ -71,7 +70,7 @@
 | Network | 51 |
 | Next.js | 5 |
 | Nginx | 4 |
-| Node.js | 11 |
+| Node.js | 9 |
 | Package Manager | 3 |
 | PC | 2 |
 | PDF | 4 |
@@ -79,14 +78,14 @@
 | PostgreSQL | 12 |
 | PowerShell | 5 |
 | Protocol | 5 |
-| Python | 245 |
+| Python | 244 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
 | Ruby | 299 |
 | Rust | 5 |
 | Scraping | 27 |
-| Security | 21 |
+| Security | 20 |
 | Server | 24 |
 | Shellscript | 26 |
 | Slack | 29 |
@@ -109,9 +108,9 @@
 | VSCode | 69 |
 | Vue.js | 1 |
 | Web | 4 |
-| Windows | 39 |
+| Windows | 38 |
 | Words | 39 |
 | WSL | 18 |
 | Xml | 1 |
 | Etc | 29 |
-| 合計 | 2878 |
+| 合計 | 2864 |

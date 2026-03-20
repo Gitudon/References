@@ -2382,6 +2382,12 @@
 
 [マイドライブの画像をIMAGE関数で表示させる方法(Gスプレッドシート) | Googleスプレッドシート 完全攻略](https://technical.verybestcbp.com/dspimagemydrive/)
 
+[GoogleDriveのファイルをドメインが異なるオーナー権限の変更について #Chrome - Qiita](https://qiita.com/kioroshi/items/6dc4fd20837767c45022)
+
+[【無料→ドメインアカウントへ】Googleドライブのオーナー権限についてのはなし｜白膠木かもめ](https://note.com/mowestrasse/n/nf2c413e760f9)
+
+[ファイルのオーナーを他のユーザーにする - パソコン - Google ドライブ ヘルプ](https://support.google.com/drive/answer/2494892?hl=ja&co=GENIE.Platform%3DDesktop)
+
 
 
 ## HTML/CSS

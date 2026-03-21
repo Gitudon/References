@@ -236,7 +236,7 @@
 
 [累積和を何も考えずに書けるようにする！ #AtCoder - Qiita](https://qiita.com/drken/items/56a6b68edef8fc605821)
 
-[動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集 #競技プログラミング - Qiita](https://qiita.com/drken/items/dc53c683d6de8aeacf5a#e-%E5%95%8F%E9%A1%8C---knapsack-2)
+[動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集 #競技プログラミング - Qiita](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
 
 
 

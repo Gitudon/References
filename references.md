@@ -5970,6 +5970,8 @@
 
 [解決済み：GPEDIT.MSCが見つかりません【Windows 11/10】](https://jp.easeus.com/data-recovery-solution/windows-cannot-find-gpeditmsc.html)
 
+[Windowsで全角スペース入力を半角スペースにする設定 #初心者 - Qiita](https://qiita.com/Miyakovsky/items/d22619fc7d0274699a3d)
+
 
 
 ## Words

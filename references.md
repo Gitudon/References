@@ -4096,8 +4096,6 @@
 
 [Pythonのデータが「deque」の使い方 #Python - Qiita](https://qiita.com/ryosuke0825/items/bbc5c0673e6c6c958d66)
 
-[Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
-
 
 
 ## RaspberryPi

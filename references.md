@@ -4092,6 +4092,12 @@
 
 [Pythonのitertools.count, cycle, repeatによる無限イテレータ | note.nkmk.me](https://note.nkmk.me/python-itertools-count-cycle-repeat/#itertoolscycle)
 
+[Pythonのdequeでキュー、スタック、デック（両端キュー）を扱う | note.nkmk.me](https://note.nkmk.me/python-collections-deque/#_1)
+
+[Pythonのデータが「deque」の使い方 #Python - Qiita](https://qiita.com/ryosuke0825/items/bbc5c0673e6c6c958d66)
+
+[Pythonのキューは3種類ある #queue - Qiita](https://qiita.com/84zume/items/f448070dd95e904ce61c)
+
 
 
 ## RaspberryPi

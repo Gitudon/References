@@ -4098,6 +4098,10 @@
 
 [Pythonのデータが「deque」の使い方 #Python - Qiita](https://qiita.com/ryosuke0825/items/bbc5c0673e6c6c958d66)
 
+[PyPyとPythonの違いをわかりやすく解説 – trends](https://trends.codecamp.jp/blogs/media/difference-word160)
+
+[AtCoderでPythonとPyPyの速度を比較してみた #Python3 - Qiita](https://qiita.com/nabata/items/661c2553075638d90bb8)
+
 
 
 ## RaspberryPi

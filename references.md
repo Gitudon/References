@@ -4824,6 +4824,8 @@
 
 [Rubyの破壊的メソッドについて #Rails - Qiita](https://qiita.com/tentom/items/0164b68dff94702e3880)
 
+[Ruby ファイルを読み込む(Dir.globなど)順番について #Linux - Qiita](https://qiita.com/devzooiiooz/items/43da78f1c3c5c0552710)
+
 
 
 ## Rust

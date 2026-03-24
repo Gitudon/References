@@ -348,6 +348,8 @@
 
 [Android版PCMark - スマートフォンおよびタブレット向けのより良いベンチマーク](https://benchmarks.ul.com/jp/pcmark-android)
 
+[Macrodroidで「画面内のテキストから特定の文字列を検索してクリック」するにはどちらの方法がいいのか比較 : はりぼてマクロタウン](https://haribote-macro-town.blog.jp/archives/22069089.html)
+
 
 
 ## API

@@ -3470,6 +3470,8 @@
 
 [【個人開発】お店の混雑度を取得しようとしたら挫折した話 #JavaScript - Qiita](https://qiita.com/ngtnysk/items/77cfb94e9b0eda5bb846)
 
+[Next.jsの管理画面秘匿URL実装で発見した重大な実装ミスと修正方法](https://zenn.dev/ho_ri/articles/659abb432093b3)
+
 
 
 ## Nginx

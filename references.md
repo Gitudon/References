@@ -6064,6 +6064,8 @@
 
 [フックとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12296.html)
 
+[OSSライセンスとは？種類や違反事例、確認方法を解説 | OSSサポートのOpenStandia™【NRI】](https://openstandia.jp/tech/column/license/)
+
 
 
 ## WSL

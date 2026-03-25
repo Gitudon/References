@@ -6180,3 +6180,5 @@
 
 [iPhoneの『メモ』アプリにWindowsからアクセスする方法 iCloudやGmailで共有可能｜KDDI トビラ](https://time-space.kddi.com/mobile/20210326/3091.html)
 
+[10秒で衝突するUUIDの作り方 - Speaker Deck](https://speakerdeck.com/tanakahisateru/10miao-dechong-tu-suruuuidfalsezuo-rifang)
+

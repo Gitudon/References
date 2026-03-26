@@ -608,6 +608,8 @@
 
 [AWSのS3パケットをローカル(自分のPC)に一括コピーしてくる方法](https://zenn.dev/mako5656/articles/169b9e671c6a00)
 
+[【AWS S3コマンド】S3から複数ファイルを同時にダウンロード/アップロードする方法。 #AWS - Qiita](https://qiita.com/pokari_dz/items/9f6bc8df8ee4ae65040f)
+
 
 
 ## Bat
@@ -917,6 +919,8 @@
 [「チンパンジーが配属されてきたら」問題は、なぜ「誤読」ではないのか──HRTechが踏まえるべき国際的な倫理ライン｜株式会社 七夕研究所](https://note.com/tanabata_lab/n/nfb68295ce7d7)
 
 [macOSでChromeがアップデートできなくなったので対処した #Chrome - Qiita](https://qiita.com/fits/items/ded128e52fd4fc5c41d4)
+
+[Google ChromeでUserAgentを変更する #userAgent - Qiita](https://qiita.com/pepo/items/565f0a8b9bd277cfb4ec)
 
 
 

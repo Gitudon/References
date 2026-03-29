@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年03月29日 23:35:11)
+## 集計(2026年03月29日 23:49:20)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -36,7 +36,7 @@
 | Directly | 13 |
 | Discord | 23 |
 | Django | 4 |
-| Docker | 89 |
+| Docker | 88 |
 | Documents | 2 |
 | Edge | 10 |
 | Electrical Engineering | 7 |
@@ -46,7 +46,7 @@
 | Flutter | 1 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 142 |
+| Git | 144 |
 | Go | 3 |
 | Google | 41 |
 | HTML/CSS | 61 |
@@ -65,7 +65,7 @@
 | Microsoft | 9 |
 | Movie | 33 |
 | MySQL | 38 |
-| Naming | 19 |
+| Naming | 20 |
 | Nano | 3 |
 | Network | 51 |
 | Next.js | 6 |
@@ -100,7 +100,7 @@
 | Tool | 3 |
 | TypeScript | 8 |
 | Typst | 8 |
-| Ubuntu | 64 |
+| Ubuntu | 63 |
 | URL | 24 |
 | uv | 14 |
 | Vim | 20 |
@@ -112,5 +112,6 @@
 | Words | 40 |
 | WSL | 18 |
 | Xml | 1 |
+| Yaml | 5 |
 | Etc | 30 |
-| 合計 | 2885 |
+| 合計 | 2891 |

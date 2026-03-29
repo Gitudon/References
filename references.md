@@ -5606,6 +5606,14 @@
 
 [Wi-Fi環境でのUbuntu PCのIPアドレス手動設定 #Ubuntu - Qiita](https://qiita.com/kawano-y/items/e0936e68b276a09591d5)
 
+[UbuntuのWifi設定にありえないレベルでハマった件 | Program and Music](https://mulogical.com/?p=1219)
+
+[Ubuntuがネットワーク接続できなくなった（解決済み） - ちょっとした公開めも](https://hayariapp.hatenablog.com/entry/ubuntu/netplan)
+
+[Ubuntuでネットワークが繋がらなくなったトラブルを解決した際のメモ #Linux - Qiita](https://qiita.com/h53/items/c7676e75ec6ee6828d43)
+
+[【Ubuntu】 /etc/netplan/50-cloud-init.yamlを編集するの止めろ #Ubuntu - Qiita](https://qiita.com/yas-nyan/items/9033fb1d1037dcf9dba5)
+
 
 
 ## URL

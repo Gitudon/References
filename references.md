@@ -3348,6 +3348,8 @@
 
 [そうする意味がないのであれば、名前を変えない/増やさない](https://zenn.dev/bigwheel/articles/af01d7df1651aa)
 
+[YAMLの型に着目した命名規則 #YAML - Qiita](https://qiita.com/taroppu/items/a4b58b990595ef3ff26b)
+
 
 
 ## Nano
@@ -6143,8 +6145,6 @@
 [docker-compose.ymlの書き方について解説してみた #Docker - Qiita](https://qiita.com/yuta-ushijima/items/d3d98177e1b28f736f04)
 
 [YAML基本文法まとめ #YAML - Qiita](https://qiita.com/aminosan000/items/168e735d26fffdbaef52)
-
-[YAMLの型に着目した命名規則 #YAML - Qiita](https://qiita.com/taroppu/items/a4b58b990595ef3ff26b)
 
 
 

@@ -2306,6 +2306,8 @@
 
 [Github Actionsの使い方メモ #GitHub - Qiita](https://qiita.com/HeRo/items/935d5e268208d411ab5a)
 
+[GitHub Actions の無料枠を使いきった場合 #GitHubActions - Qiita](https://qiita.com/technote-space/items/7b2694786f577c823fc1)
+
 
 
 ## Go

@@ -2304,6 +2304,8 @@
 
 [【初心者向け】【入門】GitHub Actionsとは？書き方、デバッグ設定、runs-onやcheckoutなどの仕組みや構造も含めて徹底解説 #Linux - Qiita](https://qiita.com/shun198/items/14cdba2d8e58ab96cf95)
 
+[Github Actionsの使い方メモ #GitHub - Qiita](https://qiita.com/HeRo/items/935d5e268208d411ab5a)
+
 
 
 ## Go

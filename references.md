@@ -1168,6 +1168,10 @@
 
 [history コマンドに日時を付与する #Bash - Qiita](https://qiita.com/bezeklik/items/56a597acc2eb568860d7)
 
+[【Linuxコマンド】 touch コマンド オプション 一覧 【初学者必見】 #備忘録 - Qiita](https://qiita.com/web-hackers/items/0e44fe3fc5c894790975)
+
+[【シェルコマンド】touchで空のファイルを作成する + 最終更新日を更新する - Bus errorとSegmentation faultに困ったら見るブログ](https://coffee-guhaw.hateblo.jp/entry/2024/07/25/000000)
+
 
 
 ## C++

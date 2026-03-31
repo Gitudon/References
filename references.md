@@ -6010,6 +6010,10 @@
 
 [Windowsで全角スペース入力を半角スペースにする設定 #初心者 - Qiita](https://qiita.com/Miyakovsky/items/d22619fc7d0274699a3d)
 
+[Windows でドライブの空き領域を増やす - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E3%81%AE%E7%A9%BA%E3%81%8D%E9%A0%98%E5%9F%9F%E3%82%92%E5%A2%97%E3%82%84%E3%81%99-85529ccb-c365-490d-b548-831022bc9b32)
+
+[Storage Sense を使用してドライブ領域を管理する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/storage-sense-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%A0%98%E5%9F%9F%E3%82%92%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B-654f6ada-7bfc-45e5-966b-e24aded96ad5)
+
 
 
 ## Words

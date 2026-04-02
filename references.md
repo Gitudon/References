@@ -6102,6 +6102,8 @@
 
 [OSSライセンスとは？種類や違反事例、確認方法を解説 | OSSサポートのOpenStandia™【NRI】](https://openstandia.jp/tech/column/license/)
 
+[FAQとは？Q&Aとの違いや導入効果、作り方の手順とポイント - CXジャーナル](https://aisaas.pkshatech.com/cx-journal/article/what-is-faq)
+
 
 
 ## WSL

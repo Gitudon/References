@@ -6104,6 +6104,8 @@
 
 [FAQとは？Q&Aとの違いや導入効果、作り方の手順とポイント - CXジャーナル](https://aisaas.pkshatech.com/cx-journal/article/what-is-faq)
 
+[WEPとは？Wi-Fi暗号化の仕組みや脆弱性、改良の歴史を解説 | iTSCOM for Business](https://www.itscom.co.jp/forbiz/column/office-environment/10329/)
+
 
 
 ## WSL

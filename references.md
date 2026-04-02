@@ -1930,6 +1930,10 @@
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
 
+[Flask のセッション Cookie の値の参照と設定 #Python - Qiita](https://qiita.com/juno_rmks/items/a707228a0682f529298d)
+
+[【Flask】Sessionについて #Python - Qiita](https://qiita.com/eee-lin/items/4e9a2a308ca52b58fd1e)
+
 
 
 ## Flutter

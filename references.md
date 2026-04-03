@@ -924,6 +924,8 @@
 
 [Google ChromeでUserAgentを変更する #userAgent - Qiita](https://qiita.com/pepo/items/565f0a8b9bd277cfb4ec)
 
+[Chrome拡張機能を自動リロードするVite Pluginを自作してみた - iimon TECH BLOG](https://tech.iimon.co.jp/entry/2025/12/08)
+
 
 
 ## Codes

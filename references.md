@@ -4132,6 +4132,8 @@
 
 [AtCoderでPythonとPyPyの速度を比較してみた #Python3 - Qiita](https://qiita.com/nabata/items/661c2553075638d90bb8)
 
+[secrets.randbelowをrandintのように使いたい #Python - Qiita](https://qiita.com/recuraki/items/4a1042edd8a6d93ed4e8)
+
 
 
 ## RaspberryPi

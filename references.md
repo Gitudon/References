@@ -4978,6 +4978,8 @@
 
 [YahooでID凍結(F002)から復活した記録｜2025年6月～7月｜jabasunu](https://note.com/jabasunu/n/n2fddbb0d4cd8)
 
+[暗号解説シリーズ　「ゼロ知識証明」について解説！！ #暗号理論 - Qiita](https://qiita.com/kenmaro/items/d968375793fe754575fe)
+
 
 
 ## Server

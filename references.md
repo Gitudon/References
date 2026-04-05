@@ -3176,6 +3176,8 @@
 
 [PowerPoint数式 (UnicodeMath) 備忘録 - suisen のブログ](https://suisen-kyopro.hatenablog.com/entry/2023/07/05/191314)
 
+[旧アカウントから新アカウントへのOneDriveデータ移行手順（webブラウザ版） | すべてのサービス | 広島大学情報メディア教育研究センター](https://www.media.hiroshima-u.ac.jp/services/microsoft365/onedrive/onedrive-move-files/)
+
 
 
 ## Movie

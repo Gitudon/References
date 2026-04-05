@@ -2422,6 +2422,8 @@
 
 [ファイルのオーナーを他のユーザーにする - パソコン - Google ドライブ ヘルプ](https://support.google.com/drive/answer/2494892?hl=ja&co=GENIE.Platform%3DDesktop)
 
+[Googleスプレッドシートの「並べ替え」ワザ3選。フィルタ、複数列、SORT関数を使い分ける！ | できるネット](https://dekiru.net/article/23081/)
+
 
 
 ## HTML/CSS

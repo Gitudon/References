@@ -4150,6 +4150,8 @@
 
 [secrets.randbelowをrandintのように使いたい #Python - Qiita](https://qiita.com/recuraki/items/4a1042edd8a6d93ed4e8)
 
+[pipでいれたパッケージを一括アップデート - DISTRICT 37](https://dragstar.hatenablog.com/entry/2016/09/02/113243)
+
 
 
 ## RaspberryPi

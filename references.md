@@ -3178,6 +3178,12 @@
 
 [旧アカウントから新アカウントへのOneDriveデータ移行手順（webブラウザ版） | すべてのサービス | 広島大学情報メディア教育研究センター](https://www.media.hiroshima-u.ac.jp/services/microsoft365/onedrive/onedrive-move-files/)
 
+[Windowsに接続済みと表示される選択を削除する方法 | ～IT Note～](https://jin-kuro.com/azureadregistered-wam/)
+
+[ご利用中の Office 製品を確認するには - 楽しもう Office](https://www.microsoft.com/ja-jp/office/homeuse/confirmation-office)
+
+[Onedrive データの移行及び同期解除方法 | すべてのサービス | 広島大学情報メディア教育研究センター](https://www.media.hiroshima-u.ac.jp/services/microsoft365/onedrive/onedrive-save-desync/)
+
 
 
 ## Movie

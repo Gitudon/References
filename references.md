@@ -3184,6 +3184,8 @@
 
 [Onedrive データの移行及び同期解除方法 | すべてのサービス | 広島大学情報メディア教育研究センター](https://www.media.hiroshima-u.ac.jp/services/microsoft365/onedrive/onedrive-save-desync/)
 
+[OneDrive 全く同じものが2つ表示される 不具合　更新あり | AMK 情報館](https://amksystem.com/tech/onedrive-two-display/)
+
 
 
 ## Movie

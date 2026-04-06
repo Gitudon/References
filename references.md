@@ -6134,6 +6134,8 @@
 
 [WEPとは？Wi-Fi暗号化の仕組みや脆弱性、改良の歴史を解説 | iTSCOM for Business](https://www.itscom.co.jp/forbiz/column/office-environment/10329/)
 
+[DATファイルとは - IT用語辞典 e-Words](https://e-words.jp/w/DAT%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.html)
+
 
 
 ## WSL

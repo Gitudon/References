@@ -3500,6 +3500,8 @@
 
 [ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
 
+[403 Forbiddenを回避する7のコツ](https://zenn.dev/maaaaru/articles/b6149925ad3414)
+
 
 
 ## Next.js

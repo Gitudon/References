@@ -1222,6 +1222,8 @@
 
 [CSVのファイルフォーマットの推奨形式と注意点 – 株式会社ルーター](https://rooter.jp/data-format/recommended-csv-format/)
 
+[電気通信大学を卒業したので、成績を可視化してみた - そぬばこ](https://nersonu.hatenablog.com/entry/2019/04/01/142246)
+
 
 
 ## CTF
@@ -4149,6 +4151,10 @@
 [AtCoderでPythonとPyPyの速度を比較してみた #Python3 - Qiita](https://qiita.com/nabata/items/661c2553075638d90bb8)
 
 [secrets.randbelowをrandintのように使いたい #Python - Qiita](https://qiita.com/recuraki/items/4a1042edd8a6d93ed4e8)
+
+[素数ライブラリ(sieve)の使い方 （＋1億以下の素数の和計算パフォーマンス） #Python - Qiita](https://qiita.com/zaq9/items/c5031649f4cd5fa247cb)
+
+[Pythonで素数列挙と素数判定 #Python3 - Qiita](https://qiita.com/neko_the_shadow/items/4ebad619564a48f5a97f)
 
 
 

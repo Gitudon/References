@@ -186,6 +186,8 @@
 
 [CLINEに全部賭けろ](https://zenn.dev/mizchi/articles/all-in-on-cline)
 
+[AIに個人情報を入れまくってたら人生が終わりかけた話](https://anond.hatelabo.jp/20260407065857)
+
 
 
 ## Algorithm

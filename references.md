@@ -3572,6 +3572,8 @@
 
 [デスクPCのメモリを16GBから48GBにしてみた](https://zenn.dev/fig/articles/2d320c6819b2b5)
 
+[LinuxがインストールされたノートPCでバッテリーのヘタリ具合を調べる - しょぼんメモリ （´・ω・｀）](https://shobon.hatenablog.com/entry/2025/04/04/Linux%E3%81%8C%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%95%E3%82%8C%E3%81%9F%E3%83%8E%E3%83%BC%E3%83%88PC%E3%81%A7%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%98)
+
 
 
 ## PDF

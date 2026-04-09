@@ -5954,6 +5954,8 @@
 
 [VS Codeのターミナル（PowerShell）で日本語が文字化けしてしまった件 #Git - Qiita](https://qiita.com/shoji9x9/items/44822f83bf2d0242884c)
 
+[VScodeでソース管理アイコンがない？！｜かーでぃ / KAMADA Makoto](https://note.com/kerdy/n/n6468a06cc2c1)
+
 
 
 ## Vue.js

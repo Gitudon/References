@@ -352,6 +352,12 @@
 
 [Macrodroidで「画面内のテキストから特定の文字列を検索してクリック」するにはどちらの方法がいいのか比較 : はりぼてマクロタウン](https://haribote-macro-town.blog.jp/archives/22069089.html)
 
+[通知｜MacroDroid アクション辞典 - かものみち](https://kamonomichi.com/macrodroid-notification-action/)
+
+[【マクロランチャー例】 特定のアプリ起動中にだけ出せる、任意に使えるマクロ開始ボタンがほしい →通知バーボタンにABCXボタンを作りました : はりぼてマクロタウン](https://haribote-macro-town.blog.jp/archives/46239766.html)
+
+[【Macrodroidで作る通知】 指スワイプで消せない通知（消しても消しても復活する通知）を作る方法 : はりぼてマクロタウン](https://haribote-macro-town.blog.jp/archives/30889973.html)
+
 
 
 ## API

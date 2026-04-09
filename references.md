@@ -5956,6 +5956,8 @@
 
 [VScodeでソース管理アイコンがない？！｜かーでぃ / KAMADA Makoto](https://note.com/kerdy/n/n6468a06cc2c1)
 
+[VSCodeサイドバーの「ソース管理」が2つに分かれてしまったときの直し方 #GitLens - Qiita](https://qiita.com/gakushi23/items/d9f3058a52bf1262207a)
+
 
 
 ## Vue.js

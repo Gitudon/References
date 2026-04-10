@@ -5672,6 +5672,8 @@
 
 [Ubuntuでネットワークが繋がらなくなったトラブルを解決した際のメモ #Linux - Qiita](https://qiita.com/h53/items/c7676e75ec6ee6828d43)
 
+[Ubuntuで特定のアプリケーションを起動時に自動実行する方法 | mebee](https://mebee.info/2024/09/25/post-94067/)
+
 
 
 ## URL

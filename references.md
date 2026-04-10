@@ -5674,6 +5674,8 @@
 
 [Ubuntuで特定のアプリケーションを起動時に自動実行する方法 | mebee](https://mebee.info/2024/09/25/post-94067/)
 
+[ポータブルなXubuntu環境を作ってみる 〜インストール編 〜 #ubuntu18.04 - Qiita](https://qiita.com/osugizmo/items/7c3e0a368aa42a746514)
+
 
 
 ## URL

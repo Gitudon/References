@@ -3346,6 +3346,16 @@
 
 [mysqlでJSONテキストから配列、オブジェクトなどの型名を取り出す – 株式会社ルーター](https://rooter.jp/programming/db/mysql_json_type/)
 
+[MySQLのバックアップの自動化 #cron - Qiita](https://qiita.com/ausssxi/items/cb771bd4ac2f16983237)
+
+[mysql の定期的なバックアップ #MySQL - Qiita](https://qiita.com/crimson_21/items/6171a95f8ddb2861e2e6)
+
+
+
+## n8n
+
+[【入門】n8nとは？クラウド版とセルフホストの違い・始め方をわかりやすく解説 #Docker - Qiita](https://qiita.com/kaz_saito803/items/f3a4acd1e3960ad7d5ae)
+
 
 
 ## Naming

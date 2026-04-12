@@ -240,6 +240,8 @@
 
 [動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集 #競技プログラミング - Qiita](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
 
+[AtCoder ABC 193 C - Unexpressed (3Q, 灰色, 300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2021/03/02/140000)
+
 
 
 ## Android

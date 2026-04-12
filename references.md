@@ -4180,6 +4180,8 @@
 
 [Pythonで素数列挙と素数判定 #Python3 - Qiita](https://qiita.com/neko_the_shadow/items/4ebad619564a48f5a97f)
 
+[Pythonで符号に応じて1, -1, 0を返すsign関数を実装 | note.nkmk.me](https://note.nkmk.me/python-sign-copysign/)
+
 
 
 ## RaspberryPi

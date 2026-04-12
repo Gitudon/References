@@ -6172,6 +6172,8 @@
 
 [DATファイルとは - IT用語辞典 e-Words](https://e-words.jp/w/DAT%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.html)
 
+[スキミングとは？クレジットカードを守る対処法や防止策を解説｜クレジットカードなら、三菱ＵＦＪカード](https://www.cr.mufg.jp/mycard/relief/24051/index.html)
+
 
 
 ## WSL

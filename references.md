@@ -6178,6 +6178,8 @@
 
 [スキミングとは？クレジットカードを守る対処法や防止策を解説｜クレジットカードなら、三菱ＵＦＪカード](https://www.cr.mufg.jp/mycard/relief/24051/index.html)
 
+[ハニーポットとは？用途やメリット・デメリットを解説 - wiz LANSCOPE ブログ](https://www.lanscope.jp/blogs/cyber_attack_pfs_blog/20250228_25182/)
+
 
 
 ## WSL

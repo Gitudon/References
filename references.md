@@ -2604,6 +2604,12 @@
 
 [Webページから画像を取得し、リサイズを行う #Python - Qiita](https://qiita.com/yamaAtsu/items/020eec010973d48d1cc7)
 
+[4.6. 拡大・縮小](https://docs.gimp.org/2.8/ja/gimp-tool-scale.html)
+
+[GIMPで画像サイズを変更する方法 | Naokix.net](https://naokixtechnology.net/gimp/872)
+
+[4.8. 画像を裏返したり反転させる](https://docs.gimp.org/2.10/ja/gimp-tutorial-quickie-flip.html)
+
 
 
 ## iOS

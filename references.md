@@ -3666,6 +3666,8 @@
 
 [[PowerShell]PowerShellでファイルをコピーする方法[Copy-Item] #PowerShell - Qiita](https://qiita.com/moriokatakashir/items/3c7f4519db9132fdb7f3)
 
+[空のファイルやフォルダを新規作成する方法[PowerShell] : バヤシタ](https://bayashita.com/p/entry/show/37)
+
 
 
 ## Protocol

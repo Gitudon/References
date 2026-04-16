@@ -2820,6 +2820,12 @@
 
 
 
+## Json
+
+[フロントエンドエンジニアが「自分はJSON色付け係」と自虐する理由を考察した - パンダのプログラミングブログ](https://panda-program.com/posts/why-frontend-engineers-have-self-deprecation)
+
+
+
 ## Kotlin
 
 [[Android]自動スクロールで手を動かすことなく実機確認を行う #Java - Qiita](https://qiita.com/yamachita0109/items/81c2c3d24f873597325a)

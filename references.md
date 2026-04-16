@@ -188,6 +188,8 @@
 
 [AIに個人情報を入れまくってたら人生が終わりかけた話](https://anond.hatelabo.jp/20260407065857)
 
+[【15分で追いつく！】今のClaude Codeができることをざっくり解説 #生成AI - Qiita](https://qiita.com/kyuko/items/77e9e022860b57e4bd4d)
+
 
 
 ## Algorithm

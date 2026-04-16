@@ -948,6 +948,8 @@
 
 [特別な意味を持つ終了コード](https://tldp.org/LDP/abs/html/exitcodes.html)
 
+[utf8とutf8mb4の違いについて #UTF-8 - Qiita](https://qiita.com/hedgehog-genki/items/efcc4edbd3e8e52d9979)
+
 
 
 ## Coding
@@ -3367,6 +3369,8 @@
 [MySQLのバックアップの自動化 #cron - Qiita](https://qiita.com/ausssxi/items/cb771bd4ac2f16983237)
 
 [mysql の定期的なバックアップ #MySQL - Qiita](https://qiita.com/crimson_21/items/6171a95f8ddb2861e2e6)
+
+[MySQL 8.0の照合順序で標準になった「utf8mb4_0900_ai_ci」とは #MySQL - Qiita](https://qiita.com/seltzer/items/8b5d8a61591e72715d5b)
 
 
 

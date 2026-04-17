@@ -6004,6 +6004,8 @@
 
 [VSCodeサイドバーの「ソース管理」が2つに分かれてしまったときの直し方 #GitLens - Qiita](https://qiita.com/gakushi23/items/d9f3058a52bf1262207a)
 
+[知識0の状態からたった2時間でVSCodeの拡張機能を作った話 #Python - Qiita](https://qiita.com/_ken_/items/06161e8d4bac5e0bd209)
+
 
 
 ## Vue.js

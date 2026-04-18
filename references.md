@@ -1638,6 +1638,10 @@
 
 [100MBまでの動画をdiscordに送信できるBOTを作ろう！ #discord.py - Qiita](https://qiita.com/yonuma28/items/3a49659774c408367e58)
 
+[【Discord】MEE6の使い方｜導入や設定｜Discord情報発信局！](https://note.com/mss_discord/n/n553fc7bf1b24)
+
+[もうBotはいらない。Discord新機能「リンク別ロール自動付与」完全攻略ガイド｜ゆううゆ｜Discord](https://note.com/yuuuyugbp/n/n750312f79f27)
+
 
 
 ## Django
@@ -6003,8 +6007,6 @@
 [VScodeでソース管理アイコンがない？！｜かーでぃ / KAMADA Makoto](https://note.com/kerdy/n/n6468a06cc2c1)
 
 [VSCodeサイドバーの「ソース管理」が2つに分かれてしまったときの直し方 #GitLens - Qiita](https://qiita.com/gakushi23/items/d9f3058a52bf1262207a)
-
-[知識0の状態からたった2時間でVSCodeの拡張機能を作った話 #Python - Qiita](https://qiita.com/_ken_/items/06161e8d4bac5e0bd209)
 
 
 

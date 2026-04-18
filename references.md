@@ -2346,6 +2346,12 @@
 
 [初めてのプライベートリポジトリへの GitHub Actions 導入 #GitHubActions - Qiita](https://qiita.com/kosuke-takagi/items/e465ecc1122dd395c7da)
 
+[<苦戦してる人必見>簡単にGithub Educationの審査に通過し、無料でGithub Copilotを使う方法 #GitHub - Qiita](https://qiita.com/kou7306/items/20a86e7a8d79509e02c3)
+
+[学生なのに無料のGithub Copilot Proが使えなくなった](https://zenn.dev/yama_yama/articles/e6fa647bb92372)
+
+[GitHub Educationの資格を延長した – /var/log/ir1s.log](https://ir1s.com/renew_github_education/)
+
 
 
 ## Go

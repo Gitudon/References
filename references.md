@@ -358,6 +358,8 @@
 
 [Androidスマホで「リンク」と「アプリ」の関連付けを設定する方法 | エンジニアの備忘録](https://engrmemo.jp/android/pixel-default-apk-link/)
 
+[AndroidでTaskerを使ってみる（基本） #Android - Qiita](https://qiita.com/archem/items/e930b3edc4b6f4e37338)
+
 
 
 ## API

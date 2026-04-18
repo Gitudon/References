@@ -135,3 +135,57 @@
 [覚えておくと損はないadb/fastbootコマンド、コマンドプロンプトの便利な使い方 - ROM焼き試験場](https://mitanyan98.hatenablog.com/entry/2021/09/22/173858)
 
 [fastboot flash boot boot.img がうまくいかない : r/LineageOS](https://www.reddit.com/r/LineageOS/comments/1f7iggi/fastboot_flash_boot_bootimg_doesnt_work/?tl=ja)
+
+
+
+## AI
+
+[AIを“使いこなす”人と“使われる”人の決定的な違い #ChatGPT - Qiita](https://qiita.com/nolanlover0527/items/472379133127f1b08a07)
+
+[画像認識で「綾鷹を選ばせる」AIを作る #Python - Qiita](https://qiita.com/tomo_20180402/items/e8c55bdca648f4877188)
+
+[「AIがあるんだからもっと安く早く作れるでしょ？」と非エンジニアに言われた時に読む（読んでもらう）記事 #ビジネス - Qiita](https://qiita.com/ku_suke/items/577bdb839b411fe75e44)
+
+[精霊の守り人 上橋 菜穂子 からプログラマが学ぶとよい７つの視点 with ChatGPT #上橋菜穂子 - Qiita](https://qiita.com/kaizen_nagoya/items/e42386135874c7256c44)
+
+[【警鐘】AI資本主義の終着点：それは“企業のロゴ”を掲げた共産主義だった #ポエム - Qiita](https://qiita.com/futayubi5656/items/9efaa420d26231b3de75)
+
+[ぽこぽこ界隈のブランドを集計をしてみた – 株式会社ルーター](https://rooter.jp/web-crawling/pocopoco_brands/)
+
+[今AIで話題のMCPサーバーとは？？ #初心者 - Qiita](https://qiita.com/kinopy513/items/75f9db4893b5048eb99f)
+
+[ChatGPT APIを使ってYouTube動画を要約する – 株式会社ルーター](https://rooter.jp/ml/chatgpt-youtube/)
+
+[MCPの基礎 #Python - Qiita](https://qiita.com/tatsuya11bbs/items/47d78d50b73273dbd3b3)
+
+[ジュニアエンジニアがClaude Codeでバイブコーディングした結果、上司に迷惑をかけた話 #ClaudeCode - Qiita](https://qiita.com/MIDO-ruby7/items/177f4341af8b19984b80)
+
+[YouTubeの限定公開動画広告をBERTで分類する – 株式会社ルーター](https://rooter.jp/web-crawling/classify-youtube-ad-by-bert/)
+
+[アドベントカレンダーをLLMで書くくらいなら何も書かない方がいい。](https://zenn.dev/watany/articles/ad14f8a352d62f)
+
+[AI初心者が最初に知っておくべき「AIハルシネーション」とは？ | ジェンスパーク開発奮闘記](https://genspark-dev-blog.pages.dev/post/10-ai_hallucination_basics)
+
+[AIを禁止して気づいた エンジニアの基礎体力 #新人プログラマ応援 - Qiita](https://qiita.com/nakaharayuto/items/cc169738fe1124a7c859?utm_campaign=popular_items&utm_medium=twitter&utm_source=dlvr.it)
+
+[全てをなんちゃってソースコードにするクソアプリ #ポエム - Qiita](https://qiita.com/ampersand/items/e3cc3463c1834cda3290)
+
+[新人AI禁止令と、その結果の答え合わせ #生成AI - Qiita](https://qiita.com/WdknWdkn/items/9b7dea889fec59194df5)
+
+[AIエンジニア必見：Cloudflare AI GatewayでAPIエラー・トークン・コストの悩みを解決する！ – 株式会社ルーター](https://rooter.jp/ml/cloudflare-ai-gateway-api-error-token-management/)
+
+[Gemini-CLIがエラーで動かなくなった時の解決策 | hiroblue’s LIFE LOG - 楽天ブログ](https://plaza.rakuten.co.jp/hiroblue/diary/202507030003/)
+
+[【Gemini CLI】WSL2でGemini CLIを試す（ひと手間あり） #初心者 - Qiita](https://qiita.com/ryu-ki/items/bb1a0619e05431c05447)
+
+[Gemini CLIとは？機能や使い方、料金など初心者にもわかる完全ガイド | クラウドエース株式会社](https://cloud-ace.jp/column/detail520/)
+
+[Gemini CLI をさっそく試してみた！ #Google - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
+
+[「1行もコードを書いてない」——3日後、150万APIキー漏洩。身に覚えがあった【前編】](https://zenn.dev/helloworld/articles/5c69b2981d5199)
+
+[CLINEに全部賭けろ](https://zenn.dev/mizchi/articles/all-in-on-cline)
+
+[AIに個人情報を入れまくってたら人生が終わりかけた話](https://anond.hatelabo.jp/20260407065857)
+
+[【15分で追いつく！】今のClaude Codeができることをざっくり解説 #生成AI - Qiita](https://qiita.com/kyuko/items/77e9e022860b57e4bd4d)

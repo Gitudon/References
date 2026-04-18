@@ -190,6 +190,8 @@
 
 [【15分で追いつく！】今のClaude Codeができることをざっくり解説 #生成AI - Qiita](https://qiita.com/kyuko/items/77e9e022860b57e4bd4d)
 
+
+
 ## Algorithm
 
 [いもす法 - いもす研 (imos laboratory)](https://imoz.jp/algorithms/imos_method.html)
@@ -241,6 +243,7 @@
 [動的計画法超入門！ Educational DP Contest の A ～ E 問題の解説と類題集 #競技プログラミング - Qiita](https://qiita.com/drken/items/dc53c683d6de8aeacf5a)
 
 [AtCoder ABC 193 C - Unexpressed (3Q, 灰色, 300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2021/03/02/140000)
+
 
 
 ## Android
@@ -354,6 +357,8 @@
 [Android アプリのリンクの追加  |  Android Studio  |  Android Developers](https://developer.android.com/studio/write/app-link-indexing?hl=ja)
 
 [Androidスマホで「リンク」と「アプリ」の関連付けを設定する方法 | エンジニアの備忘録](https://engrmemo.jp/android/pixel-default-apk-link/)
+
+
 
 ## API
 
@@ -6318,3 +6323,4 @@
 [iPhoneの『メモ』アプリにWindowsからアクセスする方法 iCloudやGmailで共有可能｜KDDI トビラ](https://time-space.kddi.com/mobile/20210326/3091.html)
 
 [10秒で衝突するUUIDの作り方 - Speaker Deck](https://speakerdeck.com/tanakahisateru/10miao-dechong-tu-suruuuidfalsezuo-rifang)
+

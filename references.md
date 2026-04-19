@@ -4220,6 +4220,8 @@
 
 [Pythonで符号に応じて1, -1, 0を返すsign関数を実装 | note.nkmk.me](https://note.nkmk.me/python-sign-copysign/)
 
+[socket.socket()の仕様を理解する #Python - Qiita](https://qiita.com/tsal3290s/items/8429422959aecb60c733)
+
 
 
 ## RaspberryPi

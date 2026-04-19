@@ -1192,6 +1192,8 @@
 
 [Linux(Ubuntu)でタイムゾーンを変更する方法 #timezone - Qiita](https://qiita.com/yousan/items/5df43b3e6c210b4bbd3b)
 
+[ディスク容量確認コマンドについて #Linux - Qiita](https://qiita.com/gama1234/items/ab574e396f2faee4fd27)
+
 
 
 ## C++

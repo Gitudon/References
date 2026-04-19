@@ -1186,6 +1186,12 @@
 
 [【シェルコマンド】touchで空のファイルを作成する + 最終更新日を更新する - Bus errorとSegmentation faultに困ったら見るブログ](https://coffee-guhaw.hateblo.jp/entry/2024/07/25/000000)
 
+[Linuxでhistory（コマンド履歴）を削除する方法 #Bash - Qiita](https://qiita.com/yutami/items/ae8f56c0b18fce1fb2e7)
+
+[Linux上でのファイルサイズの取得 #Linux - Qiita](https://qiita.com/c011918543/items/8e7592829fb7bea4b121)
+
+[Linux(Ubuntu)でタイムゾーンを変更する方法 #timezone - Qiita](https://qiita.com/yousan/items/5df43b3e6c210b4bbd3b)
+
 
 
 ## C++
@@ -3110,6 +3116,7 @@
 
 [バッテリー状況確認(Debian) #Linux - Qiita](https://qiita.com/tacmasi/items/9229731c25de99e05c45)
 
+[crontab についての備忘録（linux） #Linux - Qiita](https://qiita.com/bakepotate/items/d8e497c310a88ed86323)
 
 
 ## Lua

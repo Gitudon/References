@@ -5732,6 +5732,8 @@
 
 [ポータブルなXubuntu環境を作ってみる 〜インストール編 〜 #ubuntu18.04 - Qiita](https://qiita.com/osugizmo/items/7c3e0a368aa42a746514)
 
+[Ubuntuにおける最適なTwitterクライアントアプリを求めて 後編](https://arimasou16.com/blog/2017/06/11/00224/)
+
 
 
 ## URL

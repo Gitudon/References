@@ -1194,6 +1194,10 @@
 
 [ディスク容量確認コマンドについて #Linux - Qiita](https://qiita.com/gama1234/items/ab574e396f2faee4fd27)
 
+[Linuxで、グループ内のユーザを確認するコマンド | WWWクリエイターズ](https://www-creators.com/archives/417)
+
+[Linuxコマンド - ユーザ・グループの確認/追加/削除 #ユーザー管理 - Qiita](https://qiita.com/shin4488/items/eb5cd6db669380fae774)
+
 
 
 ## C++

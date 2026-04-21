@@ -2364,6 +2364,8 @@
 
 [GitHub Educationの資格を延長した – /var/log/ir1s.log](https://ir1s.com/renew_github_education/)
 
+[git stashした内容を見たり削除したりする #Git - Qiita](https://qiita.com/y_minowa/items/66b303375039877802e3)
+
 
 
 ## Go

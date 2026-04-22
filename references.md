@@ -190,6 +190,8 @@
 
 [【15分で追いつく！】今のClaude Codeができることをざっくり解説 #生成AI - Qiita](https://qiita.com/kyuko/items/77e9e022860b57e4bd4d)
 
+[今日気になったテック3本 — Copilot Pro新規停止、claude-context、MS AIエージェント入門 - and I think...](https://andithink.hatenablog.com/entry/2026/04/22/080825)
+
 
 
 ## Algorithm
@@ -2367,6 +2369,26 @@
 [GitHub Educationの資格を延長した – /var/log/ir1s.log](https://ir1s.com/renew_github_education/)
 
 [git stashした内容を見たり削除したりする #Git - Qiita](https://qiita.com/y_minowa/items/66b303375039877802e3)
+
+[GitHub Copilot制限へ、2026年1月以降の週次運用コストがほぼ倍増したことを受けて課金方式をトークンベースへと段階的に移行か - GIGAZINE](https://gigazine.net/news/20260421-github-copilot-plans-changes/)
+
+[GitHub Copilotが急に使えなくなった…？ 2026年4月20日公式発表「新規申込停止＋制限強化」を徹底解説【X・Reddit反応まとめ】｜zephel01](https://note.com/zephel01/n/n73abfc2277dd)
+
+[個人向け「GitHub Copilot」新規登録一時停止、使用量制限を強化　ProプランはOpusモデル使用不可に - Hinakira AI News](https://hinakira.com/ai-news/articles/1211/)
+
+[学生なら絶対使うべき！GitHub Student Developer Pack 完全ガイド【2026年版】 #初心者 - Qiita](https://qiita.com/shahin0809/items/25b397e206d07bf24f29)
+
+[2025年版 GitHub Education 申請手順 | CraftStadium](https://www.craftstadium.com/blog/github-education-applicant)
+
+[GitHub Educationで無料のGitHub Proを享受する](https://zenn.dev/yoneyone/articles/komenikki-2025-08-30)
+
+[【GitHub Education】Copilot Proが使えないあなたへ](https://zenn.dev/setsugan/articles/57c9687700b016)
+
+[学生無料のCopilot を使うために GitHub education に登録 #copilot - Qiita](https://qiita.com/melonsode/items/3602ea6441ca82e43c5a)
+
+[Github Educationの審査が通らないあなたへ（ファイル付き） | 牛かつ's Blog](https://blog.forestberrypi.com/tools-services/github-education-shinsa/)
+
+[GitHub Copilot Free から Pro 版へアップグレードして VS Code に適用する手順](https://zenn.dev/s_t_taka/articles/3266c46cdf8192)
 
 
 

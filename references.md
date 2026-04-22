@@ -1652,6 +1652,8 @@
 
 [もうBotはいらない。Discord新機能「リンク別ロール自動付与」完全攻略ガイド｜ゆううゆ｜Discord](https://note.com/yuuuyugbp/n/n750312f79f27)
 
+[discord Bot開発 Permission(権限)を確認する方法 #Python - Qiita](https://qiita.com/sakaki_developer/items/47ba1252335136c2152a)
+
 
 
 ## Django

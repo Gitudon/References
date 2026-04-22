@@ -192,6 +192,14 @@
 
 [今日気になったテック3本 — Copilot Pro新規停止、claude-context、MS AIエージェント入門 - and I think...](https://andithink.hatenablog.com/entry/2026/04/22/080825)
 
+[無料で使えるコード生成AI「Codeium」をVSCodeで使う方法｜Aru's テクログ（Aruaru0）](https://tech.aru-zakki.com/codeium-vscode/)
+
+[【Codeium】完全無料のコード提案AIをVSCodeで使ってみた #VSCode - Qiita](https://qiita.com/SNQ-2001/items/705eb634980ff7fdda99)
+
+[codeium使ってみた #AI - Qiita](https://qiita.com/dd7223dd/items/98d956184aea119ea41f)
+
+[VSCodeの拡張機能Continueを使ったAIコーディング環境 #生成AI - Qiita](https://qiita.com/ctc-j-ikai/items/43e318750d41e2ffb05f)
+
 
 
 ## Algorithm

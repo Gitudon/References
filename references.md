@@ -6302,6 +6302,8 @@
 
 [WSL2環境へWindowsからファイルコピー時、Zone.Identifierファイルを生成しないようにする](https://zenn.dev/sion_pn/articles/650480a23eed79)
 
+[WSLとWindowsでファイル参照](https://zenn.dev/takai404/articles/fd29f9f4a4f5ca)
+
 
 
 ## Xml

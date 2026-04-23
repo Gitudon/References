@@ -4984,6 +4984,8 @@
 
 [Ruby ファイルを読み込む(Dir.globなど)順番について #Linux - Qiita](https://qiita.com/devzooiiooz/items/43da78f1c3c5c0552710)
 
+[【Ruby】コードから学ぶ Dir.glob の使い方 #初心者 - Qiita](https://qiita.com/Taira0222/items/09227b2434e9ead87ff5)
+
 
 
 ## Rust

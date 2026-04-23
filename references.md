@@ -5150,12 +5150,6 @@
 
 [うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話](https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au)
 
-[サーバでSSHの通信断してもバッチを動かし続けるため、tmux を使うと便利。nohup より](https://tech.torico-corp.com/blog/tmux-useful-script-for-ssh-session/)
-
-[tmuxについて #tmux - Qiita](https://qiita.com/ynott/items/ed325fed5c359dd8e979)
-
-[tmux、これだけ知っておけばおｋ（用語・準備編） #Linux - Qiita](https://qiita.com/koin3z/items/5d923b1cd7a3ce6ca32b)
-
 
 
 ## Shellscript
@@ -5587,6 +5581,18 @@
 ## Test
 
 [テスト（システム開発）って何をするの？ #初心者 - Qiita](https://qiita.com/Yuki_Ishikawa/items/493aa45449794caa335c)
+
+
+
+## Tmux
+
+[とほほのtmux入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/tmux.html#customize)
+
+[サーバでSSHの通信断してもバッチを動かし続けるため、tmux を使うと便利。nohup より](https://tech.torico-corp.com/blog/tmux-useful-script-for-ssh-session/)
+
+[tmuxについて #tmux - Qiita](https://qiita.com/ynott/items/ed325fed5c359dd8e979)
+
+[tmux、これだけ知っておけばおｋ（用語・準備編） #Linux - Qiita](https://qiita.com/koin3z/items/5d923b1cd7a3ce6ca32b)
 
 
 

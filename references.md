@@ -4262,6 +4262,8 @@
 
 [socket.socket()の仕様を理解する #Python - Qiita](https://qiita.com/tsal3290s/items/8429422959aecb60c733)
 
+[pythonでテキストファイルに書き込みするならwrite使うよりprint使う方が簡単だよ。 #Python - Qiita](https://qiita.com/ponnhide/items/a16f25f207d339c3e3d4)
+
 
 
 ## RaspberryPi

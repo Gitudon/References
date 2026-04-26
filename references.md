@@ -1208,6 +1208,12 @@
 
 [Linuxコマンド - ユーザ・グループの確認/追加/削除 #ユーザー管理 - Qiita](https://qiita.com/shin4488/items/eb5cd6db669380fae774)
 
+[digコマンド Tips #dns - Qiita](https://qiita.com/shungok/items/ebaeefa55b7a0dc68b5d)
+
+[digコマンドを使用してゾーン情報を確認する方法 #Linux - Qiita](https://qiita.com/r1999/items/5014a5aba54d44944050)
+
+[DNSのレコードを確認するコマンド dig nslookupの使い方 | .LOG](https://log.dot-co.co.jp/nslookup-dig-dns/)
+
 
 
 ## C++

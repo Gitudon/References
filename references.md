@@ -6176,6 +6176,8 @@
 
 [Storage Sense を使用してドライブ領域を管理する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/storage-sense-%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%A6%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96%E9%A0%98%E5%9F%9F%E3%82%92%E7%AE%A1%E7%90%86%E3%81%99%E3%82%8B-654f6ada-7bfc-45e5-966b-e24aded96ad5)
 
+[【Windows】hostsファイルの場所・設定方法・反映方法まとめ](https://zenn.dev/goyle0/articles/windows-hosts-file-guide)
+
 
 
 ## Words

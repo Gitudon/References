@@ -526,6 +526,8 @@
 
 [X API の無料枠がなくなって従量課金（クレジット）制になりました](https://zenn.dev/flali/articles/eed784075f9e7e)
 
+[X APIが3月31日から本格的に従量課金開始！→無料クレジットの使用期限延長！｜くまこ](https://note.com/kumakokoko/n/n46e54e61b437)
+
 
 
 ## Asm

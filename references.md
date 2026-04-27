@@ -524,6 +524,8 @@
 
 [【2026年1月最新版】X APIでPOST投稿する方法｜新規アカウントは$5課金が必須](https://zenn.dev/acntechjp/articles/4de3d142aaa05e)
 
+[X API の無料枠がなくなって従量課金（クレジット）制になりました](https://zenn.dev/flali/articles/eed784075f9e7e)
+
 
 
 ## Asm

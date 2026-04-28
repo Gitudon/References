@@ -3762,6 +3762,8 @@
 
 [TCP/UDPポート番号一覧](https://www.infraexpert.com/study/tea5.htm)
 
+[HTTP リクエストの Host ヘッダフィールドを知ろう #rfc - Qiita](https://qiita.com/aximov/items/229ce3ec04412f30b333)
+
 
 
 ## Python

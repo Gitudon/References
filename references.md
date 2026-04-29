@@ -1218,6 +1218,8 @@
 
 [DNSのレコードを確認するコマンド dig nslookupの使い方 | .LOG](https://log.dot-co.co.jp/nslookup-dig-dns/)
 
+[Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
+
 
 
 ## C++

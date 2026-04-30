@@ -3610,6 +3610,10 @@
 
 [403 Forbiddenを回避する7のコツ](https://zenn.dev/maaaaru/articles/b6149925ad3414)
 
+[Raspberry Pi 上に mitmproxy を構築したメモ | Stuck inside](https://blog.msysh.me/posts/2020/09/mitmproxy_on_raspberry_pi.html)
+
+[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
+
 
 
 ## Next.js

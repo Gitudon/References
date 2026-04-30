@@ -5796,6 +5796,8 @@
 
 [Ubuntuにおける最適なTwitterクライアントアプリを求めて 後編](https://arimasou16.com/blog/2017/06/11/00224/)
 
+[バッテリーの残量を確認する方法 #Ubuntu - Qiita](https://qiita.com/ka_/items/6670d437055f2e9cc537)
+
 
 
 ## URL

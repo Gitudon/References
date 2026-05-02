@@ -3786,6 +3786,16 @@
 
 [プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
 
+[無料プロキシツール「mitmproxy」を使ってみよう - セットアップ方法とセキュリティエンジニアおすすめの設定 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/mitmproxy)
+
+[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
+
+[mitmproxyを使う #proxy - Qiita](https://qiita.com/FiNGAHOLiC/items/9727e23327c6696b2ab8)
+
+[WSL2にmitmproxyをインストールする - tomohxxの日記](https://tomohxx.hatenablog.com/entry/2020/11/20/121500)
+
+[【2019年12月版】mitmproxyでアプリの通信内容を確認したい #iOS - Qiita](https://qiita.com/_matuzaki/items/cceaead10a0a567e5bf9)
+
 
 
 ## Python
@@ -6341,6 +6351,8 @@
 [WSL2環境へWindowsからファイルコピー時、Zone.Identifierファイルを生成しないようにする](https://zenn.dev/sion_pn/articles/650480a23eed79)
 
 [WSLとWindowsでファイル参照](https://zenn.dev/takai404/articles/fd29f9f4a4f5ca)
+
+[WSL2/UbuntuのIPアドレスを取得したい #WSL2 - Qiita](https://qiita.com/neko_the_shadow/items/25b797cb436078b9e832)
 
 
 

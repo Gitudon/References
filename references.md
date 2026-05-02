@@ -3788,8 +3788,6 @@
 
 [無料プロキシツール「mitmproxy」を使ってみよう - セットアップ方法とセキュリティエンジニアおすすめの設定 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/mitmproxy)
 
-[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
-
 [mitmproxyを使う #proxy - Qiita](https://qiita.com/FiNGAHOLiC/items/9727e23327c6696b2ab8)
 
 [WSL2にmitmproxyをインストールする - tomohxxの日記](https://tomohxx.hatenablog.com/entry/2020/11/20/121500)

@@ -96,8 +96,6 @@
 
 [adbコマンドからwifi on/offする - myaskovsky00’s diary](https://myaskovsky00.hatenablog.com/entry/2018/05/26/080004)
 
-[Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
-
 [adbコマンドでブラウザを立ち上げてURLを開く #Android - Qiita](https://qiita.com/niusounds/items/795b63bac37c81dd1680)
 
 [ADBとは何か？AndroidデバイスでADBを使うには？ – AirDroid](https://www.airdroid.com/ja/mdm/what-is-adb-in-android/)
@@ -3506,10 +3504,6 @@
 
 ## Network
 
-[Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
-
-[Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
-
 [「pingコマンド」のエラー原因と解決法まとめ #初心者 - Qiita](https://qiita.com/EkaTaro3/items/a111d6cb13e848a4fac1)
 
 [グローバルIPアドレスとプライベートIPアドレスの違いとは？【初心者向け・図解付】 | 情シスマン](https://www.gate02.ne.jp/media/it/column_98/)
@@ -3560,8 +3554,6 @@
 
 [インターネット疎通の無いサーバーで四苦八苦（curl、 yum、ntpなど） – 株式会社ルーター](https://rooter.jp/infra-ops/operation-of-server-without-internet-connection/)
 
-[Chromeにプロキシを設定して、アクセス元IPアドレスを変更する方法ーselenium、curlのプロキシ設定含むー – 株式会社ルーター](https://rooter.jp/web-crawling/change-chrome-proxy/)
-
 [CharlesでネイティブアプリのHTTP通信を覗く – 株式会社ルーター](https://rooter.jp/web-crawling/charles_http_native_app/)
 
 [Cookieの破棄されるタイミングについて #cookie - Qiita](https://qiita.com/kandalog/items/80d7574e6bd00afd5150)
@@ -3576,41 +3568,15 @@
 
 [詳解 筑波大学学園祭を支えた本番ネットワークインフラ全貌](https://zenn.dev/sohosai/articles/3ac46af14abd96)
 
-[mitmproxyを使ってアプリの通信内容を確認する](https://rcmdnk.com/blog/2021/03/02/computer-windows-mac-network/)
-
 [Windows WSL2に外部から直接アクセスするための設定](https://rcmdnk.com/blog/2021/03/01/computer-windows-network/)
 
 [【Charles】アプリの通信をキャプチャする #iOS - Qiita](https://qiita.com/KokiEnomoto/items/7f386352176ce049dffc)
-
-[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
-
-[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
-
-[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
-
-[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
-
-[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
-
-[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
-
-[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
-
-[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
-
-[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
-
-[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
 
 [Fire TVデバイスをインターネットのWi-Fiに接続できない場合の解決方法 - Amazonカスタマーサービス](https://www.amazon.co.jp/gp/help/customer/display.html?nodeId=GYMDPRQTTLXQD7PL)
 
 [FTV4KMAXに自己署名証明書（CAではない）をインストールする : r/fireTV](https://www.reddit.com/r/fireTV/comments/w22uoa/install_selfsigned_cert_not_ca_on_ftv4kmax/?tl=ja)
 
-[ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
-
 [403 Forbiddenを回避する7のコツ](https://zenn.dev/maaaaru/articles/b6149925ad3414)
-
-[Raspberry Pi 上に mitmproxy を構築したメモ | Stuck inside](https://blog.msysh.me/posts/2020/09/mitmproxy_on_raspberry_pi.html)
 
 
 
@@ -3767,6 +3733,104 @@
 [TCP/UDPポート番号一覧](https://www.infraexpert.com/study/tea5.htm)
 
 [HTTP リクエストの Host ヘッダフィールドを知ろう #rfc - Qiita](https://qiita.com/aximov/items/229ce3ec04412f30b333)
+
+
+
+## Proxy
+
+[ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
+
+[Raspberry Pi 上に mitmproxy を構築したメモ | Stuck inside](https://blog.msysh.me/posts/2020/09/mitmproxy_on_raspberry_pi.html)
+
+[Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
+
+[コマンドでのProxy設定 #Windows - Qiita](https://qiita.com/inframemo/items/a524c987bea9ccb26a66)
+
+[コマンド プロンプトを使用したプロキシ設定のリセット](https://help.webex.com/ja-jp/article/WBX84804/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88)
+
+[Visual Studio Code に Proxy を設定する方法 #VSCode - Qiita](https://qiita.com/cointoss1973/items/b3c84daeed90fd183501)
+
+[Windows10で Socks プロキシを「設定」アプリで指定する方法がわからなかった #proxy - Qiita](https://qiita.com/snaka/items/31394db18b27a93847af)
+
+[Chromeで特定サイトのみプロキシ経由でアクセスする拡張機能Proxy SwitchyOmega #proxy - Qiita](https://qiita.com/zakisanf05/items/acaf0b27bdf614a8cf44)
+
+[Android端末のProxy設定（未解決） #Android - Qiita](https://qiita.com/ZON009/items/ef020154c624af99da0a)
+
+[Chromeにプロキシを設定して、アクセス元IPアドレスを変更する方法ーselenium、curlのプロキシ設定含むー – 株式会社ルーター](https://rooter.jp/web-crawling/change-chrome-proxy/)
+
+[mitmproxyを使ってアプリの通信内容を確認する](https://rcmdnk.com/blog/2021/03/02/computer-windows-mac-network/)
+
+[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
+
+[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
+
+[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
+
+[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
+
+[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
+
+[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
+
+[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
+
+[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
+
+[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
+
+[mitmproxyを使ってアプリの通信内容を確認する](https://rcmdnk.com/blog/2021/03/02/computer-windows-mac-network/)
+
+[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
+
+[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
+
+[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
+
+[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
+
+[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
+
+[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
+
+[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
+
+[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
+
+[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
+
+[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
+
+[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
+
+[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
+
+[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
+
+[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
+
+[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
+
+[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
+
+[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
+
+[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
+
+[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
+
+[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
+
+[ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
+
+[Raspberry Pi 上に mitmproxy を構築したメモ | Stuck inside](https://blog.msysh.me/posts/2020/09/mitmproxy_on_raspberry_pi.html)
+
+[【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
+
+[Windows でプロキシ サーバーを使用する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-03096c53-0554-4ffe-b6ab-8b1deee8dae1)
+
+[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
+
+[プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
 
 
 
@@ -5166,8 +5230,6 @@
 
 [ADサーバーが消えた日 #ポエム - Qiita](https://qiita.com/katohiro_fi/items/fd4277347f5b0aa767a2)
 
-[プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
-
 [うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話](https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au)
 
 
@@ -5664,6 +5726,8 @@
 
 [Typst 便利パッケージと使用例の紹介 #Typst - Qiita](https://qiita.com/key_271/items/8629980c4c1ff0e55f41)
 
+[Ubuntuでパッケージのインストール履歴を確認する方法 | mebee](https://mebee.info/2024/08/23/post-93890/)
+
 
 
 ## Ubuntu
@@ -5763,8 +5827,6 @@
 [apt installが失敗したので、少しapt updateに関して調べてみた - 酒と開発の日々](https://guldra-cranch.hatenablog.com/entry/2020/11/07/172749)
 
 [apt installのトラブルシューティング #Linux - Qiita](https://qiita.com/pyon_kiti_jp/items/78a239fe4ad2ce86a84e)
-
-[【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
 
 [第508回　Ubuntuでコマンドラインからワンタイムパスワードを扱う | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0508)
 
@@ -5974,8 +6036,6 @@
 
 [VS Code の便利なショートカットキー #VSCode - Qiita](https://qiita.com/12345/items/64f4372fbca041e949d0)
 
-[Visual Studio Code に Proxy を設定する方法 #VSCode - Qiita](https://qiita.com/cointoss1973/items/b3c84daeed90fd183501)
-
 [VSCodeのオススメ拡張機能 24 選 (とTipsをいくつか) #Git - Qiita](https://qiita.com/sensuikan1973/items/74cf5383c02dbcd82234)
 
 [VisualStudioCode ターミナルタブを切り替えるショートカットを設定する #初心者 - Qiita](https://qiita.com/miriwo/items/876daee1eda5465f4f37)
@@ -6140,10 +6200,6 @@
 
 [Frida traceを使ったWindowsアプリの動的解析・改ざん方法 | DNPハイパーテック](https://www.hypertech.co.jp/column/developer/2023/08/dynamicanalysis_windows_applications/)
 
-[コマンドでのProxy設定 #Windows - Qiita](https://qiita.com/inframemo/items/a524c987bea9ccb26a66)
-
-[コマンド プロンプトを使用したプロキシ設定のリセット](https://help.webex.com/ja-jp/article/WBX84804/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89-%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%97%E3%81%9F%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7%E8%A8%AD%E5%AE%9A%E3%81%AE%E3%83%AA%E3%82%BB%E3%83%83%E3%83%88)
-
 [【Windows10】対処法：フォルダサイズが表示されません - MiniTool](https://jp.minitool.com/data-recovery/show-folder-size-windows-10.html)
 
 [❗️Windows 11で「クイックアクセスメニュー」が表示されない？原因と解決策を徹底解説！❗️ - エラー大全集](https://error-daizenn.hatenablog.com/entry/2025/01/10/152939)
@@ -6168,8 +6224,6 @@
 
 [「厄介なdbファイル（Thumbs.db）を消す方法＝dbファイルを育てる」！？ #Windows - Qiita](https://qiita.com/scrashim9R/items/d06d9224a57738ebc804)
 
-[Windowsの3つのプロキシ設定について #proxy - Qiita](https://qiita.com/ohtsuka-shota/items/e8c104eaf6c883c86f29)
-
 [Winキー + Spaceキー(入力言語の切り替え)を無効にする - ネットショッピングのすすめ](https://blog.kaimonojyoz.jp/win%E3%82%AD%E3%83%BC-space%E3%82%AD%E3%83%BC%E5%85%A5%E5%8A%9B%E8%A8%80%E8%AA%9E%E3%81%AE%E5%88%87%E3%82%8A%E6%9B%BF%E3%81%88%E3%82%92%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B.html)
 
 [Windowsのbat（コマンドプロンプト）でタスクマネージャーのスタートアップ設定タブを開く #Windows - Qiita](https://qiita.com/waokitsune/items/bdac1b297b4614672431)
@@ -6181,8 +6235,6 @@
 [【特集】俺はローカルアカウントで使いたいんだよ！Windows 11のセットアップでMicrosoftアカウントを回避する方法最新版 - PC Watch](https://pc.watch.impress.co.jp/docs/topic/feature/2036750.html)
 
 [Windows11）セットアップでMicrosoftアカウントをスキップし、ローカルアカウントで使う。 - 晴歩雨描](https://2ndart.hatenablog.com/entry/2025/01/20/222401)
-
-[Windows でプロキシ サーバーを使用する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-03096c53-0554-4ffe-b6ab-8b1deee8dae1)
 
 [Windows Server 2016 IIS10でHTTPSのサイトを表示 → Chrome/FireFoxで 「ERR_SPDY_INADEQUATE_TRANSPORT_SECURITY」が発生しサイトを表示できない|希釈還元](https://kishaku-kangen.blogspot.com/2018/07/windows-server-2016-iis10https.html)
 

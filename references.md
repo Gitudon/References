@@ -3778,57 +3778,11 @@
 
 [ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
 
-[mitmproxyを使ってアプリの通信内容を確認する](https://rcmdnk.com/blog/2021/03/02/computer-windows-mac-network/)
-
-[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
-
-[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
-
-[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
-
-[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
-
-[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
-
-[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
-
-[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
-
-[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
-
-[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
-
 [VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
-
-[Android 6.0 グローバルプロキシ設定 : r/AndroidQuestions](https://www.reddit.com/r/AndroidQuestions/comments/8apzw9/android_60_global_proxy_settings/?tl=ja#:~:text=adb%20shell%20settings%20put%20global%20http_proxy%20:.)
-
-[mitmproxyでかなりハマった話 | ぴくすメモ](https://picscels.site/mitmproxy-certificate-trap/)
-
-[モバイルアプリ開発者のための mitmproxy 入門 #iOS - Qiita](https://qiita.com/hkurokawa/items/9034274cc1b9e1405c68)
-
-[mitmproxyの環境構築（実機）](https://zenn.dev/ankou/scraps/215091c72e6bb6)
-
-[ls -al](https://5hyn3.github.io/posts/use-mitm-proxy-with-android-emulator/)
-
-[AndroidアプリのWebソケットクライアントで送受信するメッセージを、プロキシーで改ざん＆遅延させてみる](https://zenn.dev/sun_asterisk/articles/delay-websocket-message-to-android)
-
-[mitmproxy で通信を見る｜tanjoin](https://note.com/tanjoin/n/n6dd5f9322a6c#piEw8)
-
-[プロキシツールmitmproxy・mitmdumpで、httprequest・httpresponseの内容をチェックする #iOS - Qiita](https://qiita.com/satoru_pripara/items/9049819ae86dc5785575)
-
-[ローカルプロキシで認証プロキシの煩わしさを解消！ | フューチャー技術ブログ](https://future-architect.github.io/articles/20240227a/)
-
-[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
-
-[ネットワークプロキシ | Amazon Fire TV](https://developer.amazon.com/ja/docs/fire-tv/network-proxy.html)
-
-[Raspberry Pi 上に mitmproxy を構築したメモ | Stuck inside](https://blog.msysh.me/posts/2020/09/mitmproxy_on_raspberry_pi.html)
 
 [【Linux】認証プロキシ+認証局のCA証明書の設定 #Linux - Qiita](https://qiita.com/Torahugu/items/6db2715753ade438170b)
 
 [Windows でプロキシ サーバーを使用する - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/windows-%E3%81%A7%E3%83%97%E3%83%AD%E3%82%AD%E3%82%B7-%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B-03096c53-0554-4ffe-b6ab-8b1deee8dae1)
-
-[VRヘッドセットからの通信をプロキシツールで確認する方法 - Sterra Security Tech Blog](https://tech-blog.sterrasec.com/entry/2023/03/27/100000)
 
 [プロキシサーバーとは？仕組みを図解 | Chrome・IE・Safariの設定方法 | BOXIL Magazine](https://boxil.jp/mag/a3028/)
 

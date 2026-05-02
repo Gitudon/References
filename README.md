@@ -2,11 +2,11 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年05月02日 15:30:41)
+## 集計(2026年05月03日 00:56:13)
 
 | トピック | 数 |
 | :--- | ---: |
-| Adb | 68 |
+| Adb | 67 |
 | AI | 30 |
 | Algorithm | 25 |
 | Android | 56 |
@@ -69,7 +69,7 @@
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
-| Network | 53 |
+| Network | 37 |
 | Next.js | 6 |
 | Nginx | 4 |
 | Node.js | 9 |
@@ -80,6 +80,7 @@
 | PostgreSQL | 12 |
 | PowerShell | 6 |
 | Protocol | 6 |
+| Proxy | 24 |
 | Python | 255 |
 | RaspberryPi | 21 |
 | React | 19 |
@@ -88,7 +89,7 @@
 | Rust | 5 |
 | Scraping | 27 |
 | Security | 21 |
-| Server | 21 |
+| Server | 20 |
 | Shellscript | 26 |
 | Slack | 29 |
 | SNS | 3 |
@@ -102,19 +103,19 @@
 | Tmux | 4 |
 | Tool | 3 |
 | TypeScript | 8 |
-| Typst | 8 |
-| Ubuntu | 67 |
+| Typst | 9 |
+| Ubuntu | 66 |
 | URL | 24 |
 | uv | 14 |
 | Vim | 20 |
 | Vite | 6 |
-| VSCode | 72 |
+| VSCode | 71 |
 | Vue.js | 1 |
 | Web | 4 |
-| Windows | 42 |
+| Windows | 38 |
 | Words | 45 |
 | WSL | 19 |
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 30 |
-| 合計 | 2989 |
+| 合計 | 2990 |

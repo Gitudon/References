@@ -558,6 +558,10 @@
 
 [Astroのアップグレード | Docs](https://docs.astro.build/ja/upgrade-astro/)
 
+[Astro.js インストールガイド #astro - Qiita](https://qiita.com/takeshi_du/items/f2aa06459802edf37f5e)
+
+[Astroをインストール | Docs](https://docs.astro.build/ja/install-and-setup/)
+
 
 
 ## AWS
@@ -3627,6 +3631,10 @@
 [apt でどうやっても 「unbale to locate package」だった話 #Windows10 - Qiita](https://qiita.com/masudam/items/7611d00d8073f515eb8f)
 
 [ずっと放置していたnpmパッケージのアップデートに取り組んでみた | Webフロントエンドの備忘録｜hasii](https://841-biboroku.info/entry/updating-npm-packages/)
+
+[Node.js / npmをインストールする（for Windows） #Node.js - Qiita](https://qiita.com/taiponrock/items/9001ae194571feb63a5e)
+
+[Node.jsとnpmをWindowsにインストールする方法 #Windows10 - Qiita](https://qiita.com/yasushi-jp/items/fd885d38f11d95e81328)
 
 
 

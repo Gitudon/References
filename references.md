@@ -1222,8 +1222,6 @@
 
 [Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
 
-[scpコマンド #Linux - Qiita](https://qiita.com/chihiro/items/142ebe6980a498b5d4a7)
-
 
 
 ## C++
@@ -4323,10 +4321,6 @@
 [pythonでテキストファイルに書き込みするならwrite使うよりprint使う方が簡単だよ。 #Python - Qiita](https://qiita.com/ponnhide/items/a16f25f207d339c3e3d4)
 
 [Pythonのf-stringsについてしっかり調べてみた #Python3 - Qiita](https://qiita.com/simonritchie/items/74f544944ee11a226613)
-
-[Pythonで祝日を調べる方法](https://zenn.dev/shiro_toy_box/articles/724a601b208398)
-
-[【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
 
 [【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
 

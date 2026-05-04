@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年05月03日 17:05:30)
+## 集計(2026年05月04日 17:59:45)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -46,7 +46,7 @@
 | Flutter | 1 |
 | Frida | 7 |
 | GAS | 30 |
-| Git | 162 |
+| Git | 163 |
 | Go | 3 |
 | Google | 41 |
 | HTML/CSS | 61 |
@@ -69,7 +69,7 @@
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
-| Network | 37 |
+| Network | 39 |
 | Next.js | 6 |
 | Nginx | 4 |
 | Node.js | 11 |
@@ -81,7 +81,7 @@
 | PowerShell | 6 |
 | Protocol | 6 |
 | Proxy | 28 |
-| Python | 255 |
+| Python | 256 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
@@ -94,7 +94,7 @@
 | Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |
-| SQL | 67 |
+| SQL | 68 |
 | Sqlite | 7 |
 | SSH | 32 |
 | Streamlit | 26 |
@@ -118,4 +118,4 @@
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 30 |
-| 合計 | 2999 |
+| 合計 | 3004 |

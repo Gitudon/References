@@ -1222,6 +1222,8 @@
 
 [Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
 
+[scpコマンド #Linux - Qiita](https://qiita.com/chihiro/items/142ebe6980a498b5d4a7)
+
 
 
 ## C++
@@ -2412,6 +2414,8 @@
 
 [GitHub Copilot Free から Pro 版へアップグレードして VS Code に適用する手順](https://zenn.dev/s_t_taka/articles/3266c46cdf8192)
 
+[リモートで削除済みのブランチをローカルからも削除する #Git - Qiita](https://qiita.com/rotomx/items/2c8693c11a070c00def1)
+
 
 
 ## Go
@@ -3582,6 +3586,10 @@
 
 [403 Forbiddenを回避する7のコツ](https://zenn.dev/maaaaru/articles/b6149925ad3414)
 
+[WireGuardを使った、スマートフォンのOSに依存しないパケット操作の方法](https://io.cyberdefense.jp/entry/wireguard%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AEos%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E6%93%8D%E4%BD%9C%E3%81%AE%E6%96%B9%E6%B3%95/)
+
+[WireGuard VPNサーバーを5分で構築する最小構成 #Linux - Qiita](https://qiita.com/junchi8/items/2f2e0100d8e0d252a282)
+
 
 
 ## Next.js
@@ -4315,6 +4323,12 @@
 [pythonでテキストファイルに書き込みするならwrite使うよりprint使う方が簡単だよ。 #Python - Qiita](https://qiita.com/ponnhide/items/a16f25f207d339c3e3d4)
 
 [Pythonのf-stringsについてしっかり調べてみた #Python3 - Qiita](https://qiita.com/simonritchie/items/74f544944ee11a226613)
+
+[Pythonで祝日を調べる方法](https://zenn.dev/shiro_toy_box/articles/724a601b208398)
+
+[【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
+
+[【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
 
 
 
@@ -5473,6 +5487,8 @@
 [データベースの基礎知識(SQL, CRUD) #Database - Qiita](https://qiita.com/shiiotaka/items/b82c3be16c795cfd47e4)
 
 [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」 #初心者 - Qiita](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
+
+[dayofweek 関数 - Azure Databricks - Databricks SQL | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/databricks/sql/language-manual/functions/dayofweek)
 
 
 

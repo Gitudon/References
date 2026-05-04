@@ -6232,6 +6232,12 @@
 
 [【Windows】hostsファイルの場所・設定方法・反映方法まとめ](https://zenn.dev/goyle0/articles/windows-hosts-file-guide)
 
+[FMV Q&A - [メディアプレーヤー] 音楽CDの曲をパソコンに取り込む方法を教えてください。 - FMVサポート](https://www.fmworld.net/cs/azbyclub/qanavi/jsp/qacontents.jsp?PID=0411-3496)
+
+[CD の取り込みと書き込み - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/cd-%E3%81%AE%E5%8F%96%E3%82%8A%E8%BE%BC%E3%81%BF%E3%81%A8%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF-235021d5-e1c7-8616-4efd-4f4965fe6b91)
+
+[Windowsのエクスプローラーでフォルダサイズを表示する方法 - GIGAZINE](https://gigazine.net/news/20260210-explorer-folder-size/)
+
 
 
 ## Words

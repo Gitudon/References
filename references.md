@@ -526,6 +526,8 @@
 
 [X APIが3月31日から本格的に従量課金開始！→無料クレジットの使用期限延長！｜くまこ](https://note.com/kumakokoko/n/n46e54e61b437)
 
+[Youtube Data APIで動画の情報を収集 #Python - Qiita](https://qiita.com/nbayashi/items/bde26cd04f08de21d552)
+
 
 
 ## Asm
@@ -3444,6 +3446,8 @@
 
 [MySQL 8.0の照合順序で標準になった「utf8mb4_0900_ai_ci」とは #MySQL - Qiita](https://qiita.com/seltzer/items/8b5d8a61591e72715d5b)
 
+[MySQL 外部キー制約について #MySQL - Qiita](https://qiita.com/asagohan2301/items/256453617b72a0c7874e)
+
 
 
 ## n8n
@@ -3747,6 +3751,8 @@
 [TCP/UDPポート番号一覧](https://www.infraexpert.com/study/tea5.htm)
 
 [HTTP リクエストの Host ヘッダフィールドを知ろう #rfc - Qiita](https://qiita.com/aximov/items/229ce3ec04412f30b333)
+
+[HTTPステータスコード一覧 #HTTP - Qiita](https://qiita.com/takuo_maeda/items/9cff0b03e74f8f600eee)
 
 
 

@@ -526,8 +526,6 @@
 
 [X APIが3月31日から本格的に従量課金開始！→無料クレジットの使用期限延長！｜くまこ](https://note.com/kumakokoko/n/n46e54e61b437)
 
-[Youtube Data APIで動画の情報を収集 #Python - Qiita](https://qiita.com/nbayashi/items/bde26cd04f08de21d552)
-
 [個人的備忘録：エンドポイントって何？クラウド時代に欠かせない基礎知識としてまとめてみた #API - Qiita](https://qiita.com/free-honda/items/8fdd059053693e2abe0c)
 
 

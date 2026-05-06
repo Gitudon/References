@@ -526,6 +526,10 @@
 
 [X APIが3月31日から本格的に従量課金開始！→無料クレジットの使用期限延長！｜くまこ](https://note.com/kumakokoko/n/n46e54e61b437)
 
+[Youtube Data APIで動画の情報を収集 #Python - Qiita](https://qiita.com/nbayashi/items/bde26cd04f08de21d552)
+
+[個人的備忘録：エンドポイントって何？クラウド時代に欠かせない基礎知識としてまとめてみた #API - Qiita](https://qiita.com/free-honda/items/8fdd059053693e2abe0c)
+
 
 
 ## Asm
@@ -1871,6 +1875,12 @@
 [docker cp コマンドのコピー元ディレクトリは常に /. (スラッシュ と ドット)で終われ #Docker - Qiita](https://qiita.com/jogojogo/items/4d30a7ebdd11ff51c89a)
 
 [DockerコンテナにLAN内のIPアドレスを割り当て、ホストからもアクセス可能にする #Network - Qiita](https://qiita.com/pochy9n/items/8c175db18da4a44ae2d2)
+
+[dockerのコンテナの中に入る #Docker - Qiita](https://qiita.com/Keitaroooo/items/a30bf4eb9310d7b3f7cd)
+
+[【Docker】WORKDIRとCOPYとについて　no.8 #Docker - Qiita](https://qiita.com/Mayumi_Pythonista/items/483173ee900035a9f59b)
+
+[Dockerfileを，理解して書きたいよ～](https://zenn.dev/ama_c/articles/d40305757fea98)
 
 
 

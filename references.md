@@ -1234,6 +1234,8 @@
 
 [Linuxのディスク使用率/ファイル容量の確認方法とは？？](https://zenn.dev/supersatton/articles/a2a3e1fb994e69)
 
+[現在動作しているプログラムを調べるには](https://atmarkit.itmedia.co.jp/flinux/rensai/linuxtips/027psax.html)
+
 
 
 ## C++
@@ -3191,6 +3193,8 @@
 [バッテリー状況確認(Debian) #Linux - Qiita](https://qiita.com/tacmasi/items/9229731c25de99e05c45)
 
 [crontab についての備忘録（linux） #Linux - Qiita](https://qiita.com/bakepotate/items/d8e497c310a88ed86323)
+
+[現在動作しているプログラムを調べるには](https://atmarkit.itmedia.co.jp/flinux/rensai/linuxtips/027psax.html)
 
 
 

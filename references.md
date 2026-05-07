@@ -3194,8 +3194,6 @@
 
 [crontab についての備忘録（linux） #Linux - Qiita](https://qiita.com/bakepotate/items/d8e497c310a88ed86323)
 
-[現在動作しているプログラムを調べるには](https://atmarkit.itmedia.co.jp/flinux/rensai/linuxtips/027psax.html)
-
 
 
 ## Lua

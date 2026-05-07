@@ -368,6 +368,10 @@
 
 [AndroidでTaskerを使ってみる（基本） #Android - Qiita](https://qiita.com/archem/items/e930b3edc4b6f4e37338)
 
+[Android スマホが Wi-Fi につながらないのはなぜ？ スマホ側やルーター側での原因と対処方法](https://www.android.com/intl/ja_jp/articles/423/)
+
+[【Android】Wi-Fiが勝手に切れる時の原因と対処法 | iMobie Inc.のプレスリリース](https://prtimes.jp/main/html/rd/p/000000285.000011895.html)
+
 
 
 ## API

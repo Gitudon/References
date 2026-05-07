@@ -640,6 +640,8 @@
 
 [AWS CLIのすすめ #aws-cli - Qiita](https://qiita.com/dai_chi/items/2107744fb534e391cb09)
 
+[AWS CLIでS3からフォルダごとダウンロードする](https://zenn.dev/collabostyle/articles/060733b534cb32)
+
 
 
 ## Bat

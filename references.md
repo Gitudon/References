@@ -1226,6 +1226,10 @@
 
 [Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
 
+[【Linux】ディレクトリ内のファイル容量を確認する #Linuxコマンド - Qiita](https://qiita.com/P-man_Brown/items/9882c176402cec773d04)
+
+[Linuxのディスク使用率/ファイル容量の確認方法とは？？](https://zenn.dev/supersatton/articles/a2a3e1fb994e69)
+
 
 
 ## C++
@@ -6253,6 +6257,8 @@
 [CD の取り込みと書き込み - Microsoft サポート](https://support.microsoft.com/ja-jp/windows/cd-%E3%81%AE%E5%8F%96%E3%82%8A%E8%BE%BC%E3%81%BF%E3%81%A8%E6%9B%B8%E3%81%8D%E8%BE%BC%E3%81%BF-235021d5-e1c7-8616-4efd-4f4965fe6b91)
 
 [Windowsのエクスプローラーでフォルダサイズを表示する方法 - GIGAZINE](https://gigazine.net/news/20260210-explorer-folder-size/)
+
+[【Windows11】セットアップでMicrosoftアカウントを作らない方法 | エンジニア婦人ノート](https://engineer-lady.com/blog/2026/01/windows11-local-account-setup.html)
 
 
 

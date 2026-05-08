@@ -1236,6 +1236,8 @@
 
 [現在動作しているプログラムを調べるには](https://atmarkit.itmedia.co.jp/flinux/rensai/linuxtips/027psax.html)
 
+[scpでディレクトリを転送するには - ふくろうのブログ。](https://fclout.hateblo.jp/entry/2023/05/05/scp%E3%81%A7%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E8%BB%A2%E9%80%81%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
+
 
 
 ## C++

@@ -2434,6 +2434,8 @@
 
 [リモートで削除済みのブランチをローカルからも削除する #Git - Qiita](https://qiita.com/rotomx/items/2c8693c11a070c00def1)
 
+[所属するOrganizationのリポジトリにプッシュできない問題を解決 #GitHub - Qiita](https://qiita.com/ko_ko/items/9557b99a87d8567211ad)
+
 
 
 ## Go

@@ -6272,6 +6272,8 @@
 
 [【Windows11】セットアップでMicrosoftアカウントを作らない方法 | エンジニア婦人ノート](https://engineer-lady.com/blog/2026/01/windows11-local-account-setup.html)
 
+[Windows 11 で固定IPアドレスを設定する4つの方法 #初心者向け - Qiita](https://qiita.com/mmake/items/8bdf04699ec651902b8b)
+
 
 
 ## Words
@@ -6491,4 +6493,6 @@
 [iPhoneの『メモ』アプリにWindowsからアクセスする方法 iCloudやGmailで共有可能｜KDDI トビラ](https://time-space.kddi.com/mobile/20210326/3091.html)
 
 [10秒で衝突するUUIDの作り方 - Speaker Deck](https://speakerdeck.com/tanakahisateru/10miao-dechong-tu-suruuuidfalsezuo-rifang)
+
+[業務システムのログメッセージの書き方](https://zenn.dev/jkugiya/articles/actionable-logging)
 

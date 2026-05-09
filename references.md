@@ -3472,6 +3472,10 @@
 
 [MySQL 外部キー制約について #MySQL - Qiita](https://qiita.com/asagohan2301/items/256453617b72a0c7874e)
 
+[MySQLでインデックスの追加・確認・削除を行う方法 - プロエンジニア](https://proengineer.internous.co.jp/content/columnfeature/6818)
+
+[DBのインデックスを理解しよう #MySQL - Qiita](https://qiita.com/masayasviel/items/b4f2fe76235f30270b07)
+
 
 
 ## n8n
@@ -3616,6 +3620,8 @@
 
 [WireGuard VPNサーバーを5分で構築する最小構成 #Linux - Qiita](https://qiita.com/junchi8/items/2f2e0100d8e0d252a282)
 
+[TailScaleと社内死活監視環境をサクッと構築](https://zenn.dev/ramatsu/articles/f0bd0e38177721)
+
 
 
 ## Next.js
@@ -3743,6 +3749,8 @@
 [PostgreSQLでテーブルやカラムにコメントをつける方法 | cstechブログ](https://cs-techblog.com/db/postgresql-comment-on/)
 
 [PostgreSQLで外部キーを使う際の注意点 #AdventCalendar2022 - Qiita](https://qiita.com/ingtk/items/43c7b7a2ae5cbfc7ae6a)
+
+[CREATE INDEX](https://www.postgresql.jp/docs/16/sql-createindex.html)
 
 
 

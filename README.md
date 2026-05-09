@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年05月09日 22:31:28)
+## 集計(2026年05月09日 22:40:43)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -65,11 +65,11 @@
 | Matlab | 1 |
 | Microsoft | 14 |
 | Movie | 33 |
-| MySQL | 42 |
+| MySQL | 44 |
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
-| Network | 39 |
+| Network | 40 |
 | Next.js | 6 |
 | Nginx | 4 |
 | Node.js | 11 |
@@ -77,7 +77,7 @@
 | PC | 3 |
 | PDF | 4 |
 | Php | 5 |
-| PostgreSQL | 12 |
+| PostgreSQL | 13 |
 | PowerShell | 6 |
 | Protocol | 7 |
 | Proxy | 28 |
@@ -118,4 +118,4 @@
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 31 |
-| 合計 | 3026 |
+| 合計 | 3030 |

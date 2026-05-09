@@ -2730,6 +2730,8 @@
 
 [iPhoneで自動タップができない原因と解決方法を解説 - 自宅を警備する人のiPhone雑学ブログ](https://jitakukeibi-iphone.com/auto-tap-cannot-do-it/)
 
+[iPhoneのIPアドレスをDHCPから静的にする（固定する）方法 | バッファロー](https://www.buffalo.jp/support/faq/detail/15993.html)
+
 
 
 ## Java

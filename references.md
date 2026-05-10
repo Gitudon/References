@@ -2442,8 +2442,6 @@
 
 [所属するOrganizationのリポジトリにプッシュできない問題を解決 #GitHub - Qiita](https://qiita.com/ko_ko/items/9557b99a87d8567211ad)
 
-[変更されたファイル一覧を取得する #Git - Qiita](https://qiita.com/neko_the_shadow/items/2135ec80c2b73f84808f)
-
 
 
 ## Go
@@ -4371,8 +4369,6 @@
 [Pythonのf-stringsについてしっかり調べてみた #Python3 - Qiita](https://qiita.com/simonritchie/items/74f544944ee11a226613)
 
 [【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
-
-[Pythonの型ヒント(型アノテーション)を活用しよう #初心者向け - Qiita](https://qiita.com/shun_sakamoto/items/65edc36e7f5a6f9d52b8)
 
 [Python3からMySQL繋ぐ時は、いろいろあるけどとりあえずPyMySQLにしとこうや #Python3 - Qiita](https://qiita.com/mitch0807/items/f9f6efd4e65a022a8ab9)
 

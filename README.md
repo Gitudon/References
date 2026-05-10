@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年05月09日 22:40:43)
+## 集計(2026年05月11日 01:20:53)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,12 +23,12 @@
 | Chrome | 36 |
 | Codes | 4 |
 | Coding | 9 |
-| Commands | 120 |
+| Commands | 121 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 2 |
 | CTF | 19 |
-| cURL | 37 |
+| cURL | 38 |
 | D | 1 |
 | DataBase | 83 |
 | Data Science | 5 |
@@ -69,7 +69,7 @@
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
-| Network | 40 |
+| Network | 42 |
 | Next.js | 6 |
 | Nginx | 4 |
 | Node.js | 11 |
@@ -81,7 +81,7 @@
 | PowerShell | 6 |
 | Protocol | 7 |
 | Proxy | 28 |
-| Python | 256 |
+| Python | 257 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
@@ -112,10 +112,10 @@
 | VSCode | 72 |
 | Vue.js | 1 |
 | Web | 4 |
-| Windows | 43 |
+| Windows | 44 |
 | Words | 45 |
 | WSL | 20 |
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 31 |
-| 合計 | 3030 |
+| 合計 | 3036 |

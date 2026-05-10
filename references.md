@@ -1238,6 +1238,8 @@
 
 [scpでディレクトリを転送するには - ふくろうのブログ。](https://fclout.hateblo.jp/entry/2023/05/05/scp%E3%81%A7%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E3%82%92%E8%BB%A2%E9%80%81%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF)
 
+[ルーティングテーブルの確認をする方法 | 初心者SEのとりあえずメモ日記](https://memo.morelents.com/route-print/)
+
 
 
 ## C++
@@ -1407,6 +1409,8 @@
 [API通信の理解を深めよう！〜Curlを使用してHTTPリクエスト・レスポンスを理解する〜 #Swift - Qiita](https://qiita.com/hinakko/items/9466d3b1076538cf7c81)
 
 [curlコマンドでデータを送るときに、ファイルに保存されたデータを使う #Linuxコマンド - Qiita](https://qiita.com/aki3061/items/b4f4bc5f4ef3fa015c5f)
+
+[curlコマンドでSSL警告を無視する方法 #Linuxコマンド - Qiita](https://qiita.com/mrk461/items/3659d3c7777cb97545f3)
 
 
 
@@ -2437,6 +2441,8 @@
 [リモートで削除済みのブランチをローカルからも削除する #Git - Qiita](https://qiita.com/rotomx/items/2c8693c11a070c00def1)
 
 [所属するOrganizationのリポジトリにプッシュできない問題を解決 #GitHub - Qiita](https://qiita.com/ko_ko/items/9557b99a87d8567211ad)
+
+[変更されたファイル一覧を取得する #Git - Qiita](https://qiita.com/neko_the_shadow/items/2135ec80c2b73f84808f)
 
 
 
@@ -3622,6 +3628,10 @@
 
 [TailScaleと社内死活監視環境をサクッと構築](https://zenn.dev/ramatsu/articles/f0bd0e38177721)
 
+[UFWの設定方法 #Ubuntu - Qiita](https://qiita.com/010Ri/items/f37f7f5fb35265823c7c)
+
+[pingが通らなかった話 #Ubuntu - Qiita](https://qiita.com/noradogg/items/a5a5dd68ed4bc0e4a9bc)
+
 
 
 ## Next.js
@@ -4361,6 +4371,10 @@
 [Pythonのf-stringsについてしっかり調べてみた #Python3 - Qiita](https://qiita.com/simonritchie/items/74f544944ee11a226613)
 
 [【Python】曜日を取得する（英語＆日本語） #日付 - Qiita](https://qiita.com/_masa_u/items/e104d42bd6f200d3b959)
+
+[Pythonの型ヒント(型アノテーション)を活用しよう #初心者向け - Qiita](https://qiita.com/shun_sakamoto/items/65edc36e7f5a6f9d52b8)
+
+[Python3からMySQL繋ぐ時は、いろいろあるけどとりあえずPyMySQLにしとこうや #Python3 - Qiita](https://qiita.com/mitch0807/items/f9f6efd4e65a022a8ab9)
 
 
 
@@ -6281,6 +6295,8 @@
 [【Windows11】セットアップでMicrosoftアカウントを作らない方法 | エンジニア婦人ノート](https://engineer-lady.com/blog/2026/01/windows11-local-account-setup.html)
 
 [Windows 11 で固定IPアドレスを設定する4つの方法 #初心者向け - Qiita](https://qiita.com/mmake/items/8bdf04699ec651902b8b)
+
+[【Windows】pingが片方しか通らない時の対処法 | 流科サービス](https://www.ryuka-service.co.jp/%E3%80%90windows%E3%80%91ping%E3%81%8C%E7%89%87%E6%96%B9%E3%81%97%E3%81%8B%E9%80%9A%E3%82%89%E3%81%AA%E3%81%84%E6%99%82%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95/)
 
 
 

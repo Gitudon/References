@@ -4372,6 +4372,14 @@
 
 [Python3からMySQL繋ぐ時は、いろいろあるけどとりあえずPyMySQLにしとこうや #Python3 - Qiita](https://qiita.com/mitch0807/items/f9f6efd4e65a022a8ab9)
 
+[[Python] 変数の一覧を取得してファイルに書き出す](https://zenn.dev/srgr0/scraps/126d7e656faf12)
+
+[[python] インスタンス変数の一覧を取得する #Python - Qiita](https://qiita.com/osorezugoing/items/97f33564cd3ae795267f)
+
+[メソッド、変数、引数一覧を取得する #Python - Qiita](https://qiita.com/yulily/items/bb239e74189084909250)
+
+[python 組み込み関数を全て(69個)紹介する #Python - Qiita](https://qiita.com/anieca/items/5afa1787aa0c7cd3ab49#68-zip)
+
 
 
 ## RaspberryPi

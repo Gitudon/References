@@ -134,6 +134,8 @@
 
 [fastboot flash boot boot.img がうまくいかない : r/LineageOS](https://www.reddit.com/r/LineageOS/comments/1f7iggi/fastboot_flash_boot_bootimg_doesnt_work/?tl=ja)
 
+[adbコマンドを利用したandroid制御まとめ #Android - Qiita](https://qiita.com/yuki-nakamura/items/be14dcd9e47ca7cd0233)
+
 
 
 ## AI

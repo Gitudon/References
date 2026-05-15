@@ -2444,6 +2444,10 @@
 
 [所属するOrganizationのリポジトリにプッシュできない問題を解決 #GitHub - Qiita](https://qiita.com/ko_ko/items/9557b99a87d8567211ad)
 
+[Git でデフォルトのリモートを変更する方法](https://gotohayato.com/content/114/)
+
+[リモートリポジトリの登録とデフォルトリモートブランチの設定 #Git - Qiita](https://qiita.com/shyamahira/items/cf8f36e4b2500f82b2bf)
+
 
 
 ## Go

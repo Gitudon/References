@@ -6530,3 +6530,5 @@
 
 [業務システムのログメッセージの書き方](https://zenn.dev/jkugiya/articles/actionable-logging)
 
+[大きさNの文字列の部分文字列はいくつあるか？ #数学 - Qiita](https://qiita.com/afrock0192/items/5f5c74492a86025caff1)
+

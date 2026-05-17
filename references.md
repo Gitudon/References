@@ -1414,6 +1414,8 @@
 
 [curlコマンドでSSL警告を無視する方法 #Linuxコマンド - Qiita](https://qiita.com/mrk461/items/3659d3c7777cb97545f3)
 
+[curlでUser-Agentを指定する方法 | クロジカ](https://tech.kurojica.com/archives/25378/)
+
 
 
 ## D
@@ -1931,6 +1933,8 @@
 [Microsoft Edge DevTools プロトコル - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-edge/devtools/protocol/)
 
 [Windows デバイスをリモートでデバッグする - Microsoft Edge Developer documentation | Microsoft Learn](https://learn.microsoft.com/ja-jp/microsoft-edge/devtools/remote-debugging/windows)
+
+[Microsoft Edge でユーザーエージェントを変更してWebページにアクセスする - Windows Tips | iPentec](https://www.ipentec.com/document/windows/windows-microsoft-edge-change-user-agent)
 
 
 

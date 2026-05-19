@@ -254,6 +254,8 @@
 
 [AtCoder ABC 193 C - Unexpressed (3Q, 灰色, 300 点) - けんちょんの競プロ精進記録](https://drken1215.hatenablog.com/entry/2021/03/02/140000)
 
+[TimSort ~JavaやPythonに標準実装されている洗練されたソート法~ について勉強してみた（その１） #ソートアルゴリズム - Qiita](https://qiita.com/tomocat/items/7905ec4370c852f8d19d)
+
 
 
 ## Android

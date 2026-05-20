@@ -888,6 +888,10 @@
 
 [残業60時間でも年間200時間の学習を確保する技術【エンジニアの時間戦略】 #AWS - Qiita](https://qiita.com/handson-lab/items/95d9e92894bc99a34606)
 
+[まだエンジニアポートフォリオに消耗してるの？｜string name; cin >> name;](https://note.com/masa_dev/n/nf3608f6288a2)
+
+[エンジニアはどんなポートフォリオを作れば良い？記載内容や作り方を紹介](https://freelance.levtech.jp/guide/detail/121882/)
+
 
 
 ## Chrome

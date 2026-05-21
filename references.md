@@ -1226,12 +1226,6 @@
 
 [Linuxコマンド - ユーザ・グループの確認/追加/削除 #ユーザー管理 - Qiita](https://qiita.com/shin4488/items/eb5cd6db669380fae774)
 
-[digコマンド Tips #dns - Qiita](https://qiita.com/shungok/items/ebaeefa55b7a0dc68b5d)
-
-[DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
-
-[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
-
 [digコマンドを使用してゾーン情報を確認する方法 #Linux - Qiita](https://qiita.com/r1999/items/5014a5aba54d44944050)
 
 [Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
@@ -1722,7 +1716,33 @@
 
 ## DNS
 
+[digコマンド Tips #dns - Qiita](https://qiita.com/shungok/items/ebaeefa55b7a0dc68b5d)
 
+[DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
+
+[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
+
+[DNSのレコードを確認するコマンド dig nslookupの使い方 | .LOG](https://log.dot-co.co.jp/nslookup-dig-dns/)
+
+[バッファロー製ルータとIPv6の組合せでLINEが使えなくなった件 #dns - Qiita](https://qiita.com/amidoazuki/items/39b6a318ba86b5e05a31)
+
+[unbound | 基本設定 | メモ](https://al-batross.net/2020/08/29/unbound-basic-settings/)
+
+[unbound-control(8) | 日本Unboundユーザー会](https://unbound.jp/unbound/unbound-control/)
+
+[Unbound on CentOS7でローカルDNSサーバを構築してみる - ニートのMEMO](https://katoko.hatenablog.com/entry/2018/05/12/121428)
+
+[DNSキャッシュサーバ(unbound)が動作しない](https://teratail.com/questions/129307)
+
+[第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
+
+[DNSキャッシュサーバーの構築 – nkmtの日記](https://nkmt.info/infra/dns-server#6)
+
+[俺様サーバー構築記 - LAN内DNSサーバー Unbound @デスクトップパソコン(BIOS) #dns - Qiita](https://qiita.com/katz_engineer/items/b171b84504091c4d734d)
+
+[Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
+
+[DNSとは？今さら聞けない基礎知識や仕組みを解説 | トークネット・お役立ち情報 | TOHKnet 東北電力グループ 株式会社トークネット](https://www.tohknet.co.jp/useful/article/202411_dns/)
 
 ## Docker
 
@@ -3572,33 +3592,13 @@
 
 [Netplanの使い方 - komeの備忘録](https://www.komee.org/entry/2018/06/12/181400#%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
 
-[第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
-
-[unbound | 基本設定 | メモ](https://al-batross.net/2020/08/29/unbound-basic-settings/)
-
-[DNSキャッシュサーバ(unbound)が動作しない](https://teratail.com/questions/129307)
-
-[unbound-control(8) | 日本Unboundユーザー会](https://unbound.jp/unbound/unbound-control/)
-
-[Unbound on CentOS7でローカルDNSサーバを構築してみる - ニートのMEMO](https://katoko.hatenablog.com/entry/2018/05/12/121428)
-
-[DNSキャッシュサーバーの構築 – nkmtの日記](https://nkmt.info/infra/dns-server#6)
-
-[俺様サーバー構築記 - LAN内DNSサーバー Unbound @デスクトップパソコン(BIOS) #dns - Qiita](https://qiita.com/katz_engineer/items/b171b84504091c4d734d)
-
-[Unboundで内向きDNSを建てる | なうびるどいんぐ](https://jyn.jp/unbound-internal-dns/#DNS-2)
+[Webhook.siteのインストール方法 #ibmcloud - Qiita](https://qiita.com/testnin2/items/a31bcb1a67370d3eea62)
 
 [【基本情報技術者】IPアドレスのクラス #基本情報技術者試験 - Qiita](https://qiita.com/pieceofmysoul1225/items/b75f5d00ca40de49b8b8)
 
 ["*****"のサーバー IP アドレスが見つかりませんでした（第二回目の投稿)｜ヒロ－シン](https://note.com/yoshida_sin/n/nf46f4d50cee8)
 
 [サーバーのIPアドレスが見つかりませんでした…エラーの対処方法※4つの原因と解決策を紹介 | サイト引越し屋さん](https://site-hikkoshi.com/10215/)
-
-[バッファロー製ルータとIPv6の組合せでLINEが使えなくなった件 #dns - Qiita](https://qiita.com/amidoazuki/items/39b6a318ba86b5e05a31)
-
-[Webhook.siteのインストール方法 #ibmcloud - Qiita](https://qiita.com/testnin2/items/a31bcb1a67370d3eea62)
-
-[DNSとは？今さら聞けない基礎知識や仕組みを解説 | トークネット・お役立ち情報 | TOHKnet 東北電力グループ 株式会社トークネット](https://www.tohknet.co.jp/useful/article/202411_dns/)
 
 [メッシュWi-Fiとは？初心者にもわかりやすく解説します | バッファロー](https://www.buffalo.jp/topics/select/detail/meshwifi.html)
 

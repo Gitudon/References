@@ -2578,6 +2578,8 @@
 
 [ファイルのオーナーを他のユーザーにする - パソコン - Google ドライブ ヘルプ](https://support.google.com/drive/answer/2494892?hl=ja&co=GENIE.Platform%3DDesktop)
 
+[「AIによる概要」の消し方｜Google検索結果をスッキリさせる方法 – Strategy Code（ストラテジーコード）](https://strategy-code.com/marketing-colum/seo/hide-ai-overview/)
+
 
 
 ## HTML/CSS

@@ -5332,6 +5332,8 @@
 
 [ゾンビプロセスの自動キル方法 #Linux - Qiita](https://qiita.com/sgash708/items/acc850ee45d9190874bd)
 
+[【Bash】$RANDOMを使って任意の範囲までの乱数 / ランダムな浮動小数点数を生成 #ShellScript - Qiita](https://qiita.com/Ryo-0131/items/dc766dc2baac6f617945)
+
 
 
 ## Slack

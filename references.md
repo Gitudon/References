@@ -1590,6 +1590,8 @@
 
 [分かりやすく正規化について理解しよう (データベース) #SQL - Qiita](https://qiita.com/comorevi21/items/9440ff96f74d2db666df)
 
+[分かりやすく正規化について理解しよう (データベース) #SQL - Qiita](https://qiita.com/comorevi21/items/9440ff96f74d2db666df)
+
 
 
 ## Data Science

@@ -1006,8 +1006,6 @@
 
 ## Commands
 
-[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
-
 [Linuxで独自コマンドを定義する方法 - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/linux/linux-original-command/)
 
 [Linuxでコマンドラインからマシンスペックを確認する方法 #Ubuntu - Qiita](https://qiita.com/DaisukeMiyamoto/items/98ef077ddf44b5727c29)
@@ -1152,8 +1150,6 @@
 
 [【脱・初心者】ログ調査が10倍速くなる！現場の先輩が使っているgrep神技15選 #Linux - Qiita](https://qiita.com/TonitolCalsis/items/e71715c578c09c2ac960)
 
-[DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
-
 [ubuntuですぐにシャットダウンする方法 #Linux - Qiita](https://qiita.com/akinami/items/ada95b72e43a36eeebc1)
 
 [【Ubuntu】ユーザのパスワードを変更する方法 | VPS Life](https://vpslife.server-memo.net/ubuntu_passwd/)
@@ -1232,9 +1228,11 @@
 
 [digコマンド Tips #dns - Qiita](https://qiita.com/shungok/items/ebaeefa55b7a0dc68b5d)
 
-[digコマンドを使用してゾーン情報を確認する方法 #Linux - Qiita](https://qiita.com/r1999/items/5014a5aba54d44944050)
+[DNSキャッシュとnslookupの使い方：DNSサーバーの変更方法と名前解決の基本を解説 #dns - Qiita](https://qiita.com/free-honda/items/c806d24f127128db760b)
 
-[DNSのレコードを確認するコマンド dig nslookupの使い方 | .LOG](https://log.dot-co.co.jp/nslookup-dig-dns/)
+[奥が深いDNSサーバーとdigコマンド #dns - Qiita](https://qiita.com/hypermkt/items/610b5042d290348a9dfa)
+
+[digコマンドを使用してゾーン情報を確認する方法 #Linux - Qiita](https://qiita.com/r1999/items/5014a5aba54d44944050)
 
 [Linuxコマンド入門：touchコマンドの基本とタイムスタンプの変更・ファイル作成の方法について #初学者向け - Qiita](https://qiita.com/free-honda/items/e451215a1b5774e6501a)
 
@@ -1719,6 +1717,10 @@
 [Python×Djangoプロジェクトの環境構築 #Git - Qiita](https://qiita.com/minezaki-mutsuki/items/c639eb864273f3ecee5a)
 
 [Templates - テンプレートフォルダを作成｜Django Online Guide Book](https://zenn.dev/mom/books/4c7430e6a7b321/viewer/80b204)
+
+
+
+## DNS
 
 
 
@@ -3568,10 +3570,6 @@
 
 [504（Gateway Timeout）エラー発生時のチェック項目と対処法！ | SEMLabo.](https://www.oro.com/semlabo/198/)
 
-[Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
-
-[Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
-
 [Netplanの使い方 - komeの備忘録](https://www.komee.org/entry/2018/06/12/181400#%E7%84%A1%E7%B7%9A%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)
 
 [第834回　Unboundでお手軽に家庭内DNSサーバーを作ろう［Ubuntu 24.04 LTS対応版］ | gihyo.jp](https://gihyo.jp/admin/serial/01/ubuntu-recipe/0834)
@@ -3604,10 +3602,6 @@
 
 [メッシュWi-Fiとは？初心者にもわかりやすく解説します | バッファロー](https://www.buffalo.jp/topics/select/detail/meshwifi.html)
 
-[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
-
-[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
-
 [IPv4の次はなぜIPv5じゃないの？ | 日経クロステック（xTECH）](https://xtech.nikkei.com/it/article/COLUMN/20081215/321389/)
 
 [インターネット疎通の無いサーバーで四苦八苦（curl、 yum、ntpなど） – 株式会社ルーター](https://rooter.jp/infra-ops/operation-of-server-without-internet-connection/)
@@ -3638,15 +3632,9 @@
 
 [WireGuardを使った、スマートフォンのOSに依存しないパケット操作の方法](https://io.cyberdefense.jp/entry/wireguard%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%B3%E3%81%AEos%E3%81%AB%E4%BE%9D%E5%AD%98%E3%81%97%E3%81%AA%E3%81%84%E3%83%91%E3%82%B1%E3%83%83%E3%83%88%E6%93%8D%E4%BD%9C%E3%81%AE%E6%96%B9%E6%B3%95/)
 
-[WireGuard VPNサーバーを5分で構築する最小構成 #Linux - Qiita](https://qiita.com/junchi8/items/2f2e0100d8e0d252a282)
-
-[TailScaleと社内死活監視環境をサクッと構築](https://zenn.dev/ramatsu/articles/f0bd0e38177721)
-
 [UFWの設定方法 #Ubuntu - Qiita](https://qiita.com/010Ri/items/f37f7f5fb35265823c7c)
 
 [pingが通らなかった話 #Ubuntu - Qiita](https://qiita.com/noradogg/items/a5a5dd68ed4bc0e4a9bc)
-
-[Tailscale VPN を使ってみたので感想 | つくみ島だより](https://blog.tsukumijima.net/article/tailscale-vpn/#toc13)
 
 
 
@@ -6061,6 +6049,24 @@
 [Vite+ReactのプロジェクトをGitHub Pagesにデプロイする #vite - Qiita](https://qiita.com/YuDachi/items/3307c0d3139037f67583)
 
 [Viteを利用したReact/TypeScriptプロジェクトの作成とGitHubへの公開手順](https://zenn.dev/kkoisland/articles/9df5a22092c796)
+
+
+
+## VPN
+
+[Tailscale VPN を使ってみたので感想 | つくみ島だより](https://blog.tsukumijima.net/article/tailscale-vpn/#toc13)
+
+[WireGuard VPNサーバーを5分で構築する最小構成 #Linux - Qiita](https://qiita.com/junchi8/items/2f2e0100d8e0d252a282)
+
+[Tailscaleのインストール #tailscale - Qiita](https://qiita.com/broccoli07/items/cbc730eb06beb89ae1fb)
+
+[Tailscaleで無料で簡単、VPNを構築するぞ](https://zenn.dev/0_0/articles/16975274aa3ba7)
+
+[今さら聞けないVPNサーバーの基本｜自宅で構築する方法も紹介 - CMC Japan](https://cmc-japan.co.jp/blog/vpn-server/)
+
+[OpenVPNのインストールとセットアップからインターネット接続までのガイドブック #Ubuntu - Qiita](https://qiita.com/noraworld/items/2fe6be489e1d93c748b8)
+
+[TailScaleと社内死活監視環境をサクッと構築](https://zenn.dev/ramatsu/articles/f0bd0e38177721)
 
 
 

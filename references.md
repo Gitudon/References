@@ -3646,6 +3646,8 @@
 
 [pingが通らなかった話 #Ubuntu - Qiita](https://qiita.com/noradogg/items/a5a5dd68ed4bc0e4a9bc)
 
+[Tailscale VPN を使ってみたので感想 | つくみ島だより](https://blog.tsukumijima.net/article/tailscale-vpn/#toc13)
+
 
 
 ## Next.js

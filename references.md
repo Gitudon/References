@@ -4392,6 +4392,8 @@
 
 [python 組み込み関数を全て(69個)紹介する #Python - Qiita](https://qiita.com/anieca/items/5afa1787aa0c7cd3ab49#68-zip)
 
+[文字列を１文字ずつのリストにする #Python - Qiita](https://qiita.com/cress_cc/items/5600be0416a0be72ecfb)
+
 
 
 ## RaspberryPi

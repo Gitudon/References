@@ -1590,6 +1590,8 @@
 
 [分かりやすく正規化について理解しよう (データベース) #SQL - Qiita](https://qiita.com/comorevi21/items/9440ff96f74d2db666df)
 
+[DBのUniqe制約を後から入れる場合の考慮事項(既存データの取り扱い)について📝](https://zenn.dev/manase/scraps/11cfaf942188a6)
+
 
 
 ## Data Science

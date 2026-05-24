@@ -1240,6 +1240,8 @@
 
 [ルーティングテーブルの確認をする方法 | 初心者SEのとりあえずメモ日記](https://memo.morelents.com/route-print/)
 
+[Linuxで複数のファイルを結合して1つにする方法 #Linuxコマンド - Qiita](https://qiita.com/nobuhiro-kobayashi/items/7491f8af7ba06b1f9a96)
+
 
 
 ## C++
@@ -1331,6 +1333,10 @@
 [Tsukushi CTF 2022 Writeup - かえるのひみつきち](https://kashiwaba-yuki.com/ctf-tsukushi-2022)
 
 [CTF的 Flaskに対する攻撃まとめ #Python - Qiita](https://qiita.com/koki-sato/items/6ff94197cf96d50b5d8f)
+
+[CTF初参戦4完！〜SECCON Beginners CTF 2023 Writeup〜 #writeup - Qiita](https://qiita.com/ToastUz/items/55344af1706a3682b838)
+
+[CTFのWebセキュリティにおけるPath Traversal, LFI/RFI (File Upload, ZipSlip) - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2021/12/08/220449)
 
 
 
@@ -5239,6 +5245,8 @@
 [YahooでID凍結(F002)から復活した記録｜2025年6月～7月｜jabasunu](https://note.com/jabasunu/n/n2fddbb0d4cd8)
 
 [暗号解説シリーズ　「ゼロ知識証明」について解説！！ #暗号理論 - Qiita](https://qiita.com/kenmaro/items/d968375793fe754575fe)
+
+[見落としがちなURL正規化によるパストラバーサル | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ](https://gmo-cybersecurity.com/blog/url-path-traversal/)
 
 
 

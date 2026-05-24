@@ -3188,6 +3188,8 @@
 
 [LaTeXで数式にアンダーラインを引いて下にコメントを書く方法 - 8ttyan’s blog](https://8ttyan.hatenablog.com/entry/2016/01/26/170227)
 
+[ベクトル書きたい #LaTeX - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/324e07b0162cfb618dc9)
+
 
 
 ## Lean

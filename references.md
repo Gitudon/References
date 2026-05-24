@@ -3186,6 +3186,8 @@
 
 [【LaTeX】下線・波線・打ち消し線・上線などの引き方 | 数学の景色](https://mathlandscape.com/latex-underline/)
 
+[LaTeXで数式にアンダーラインを引いて下にコメントを書く方法 - 8ttyan’s blog](https://8ttyan.hatenablog.com/entry/2016/01/26/170227)
+
 
 
 ## Lean

@@ -1242,8 +1242,6 @@
 
 [Linuxで複数のファイルを結合して1つにする方法 #Linuxコマンド - Qiita](https://qiita.com/nobuhiro-kobayashi/items/7491f8af7ba06b1f9a96)
 
-[scpコマンドでディレクトリ（フォルダ）をコピーしました #Linux - Qiita](https://qiita.com/pugiemonn/items/3c80522f477bbbfa1302)
-
 
 
 ## C++

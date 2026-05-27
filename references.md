@@ -4420,6 +4420,8 @@
 
 [文字列を１文字ずつのリストにする #Python - Qiita](https://qiita.com/cress_cc/items/5600be0416a0be72ecfb)
 
+[#python でテキストを URL エンコード / デコードする例 #Python - Qiita](https://qiita.com/YumaInaura/items/bce687b77169faa2f995)
+
 
 
 ## RaspberryPi

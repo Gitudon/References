@@ -3336,6 +3336,16 @@
 
 
 
+## Mathematics
+
+[サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
+
+[SVD（特異値分解）解説 #数学 - Qiita](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
+
+[中心極限定理（リンデベルグ＝レヴィ）の証明｜Daisuke Kuroki](https://note.com/daikuro2525/n/n223a2b328f44)
+
+
+
 ## Matlab
 
 [【初心者向け】MATLABとは？できることやPythonとの違いを解説 | AIdrops](https://www.bigdata-navi.com/aidrops/7766/)
@@ -6524,8 +6534,6 @@
 
 [プログラミング雑記 2025/10/15 #AI - Qiita](https://qiita.com/ishisaka/items/4d613ba956a94cfea3c6)
 
-[サンプリング定理を完全に理解する #サンプリング周波数 - Qiita](https://qiita.com/panda11/items/e28ae434c0dd64a2dbb7)
-
 [プログラミング雑記 2025年10月31日 #AI - Qiita](https://qiita.com/ishisaka/items/e6769fa59f51bab6c6fd)
 
 [技術書をスポンジのように吸収する方法 #本 - Qiita](https://qiita.com/hoborei/items/a0aedd392a7ce54b6015)
@@ -6545,8 +6553,6 @@
 [コメントへの恐怖に立ち向かう 〜少しずつ使ってもらうために〜 #Confluence - Qiita](https://qiita.com/akiko-pusu/items/06d99c7ec336481efe54)
 
 [マサカリの起源について #ポエム - Qiita](https://qiita.com/kaityo256/items/d7d8f7a0e522895c8f5d)
-
-[SVD（特異値分解）解説 #数学 - Qiita](https://qiita.com/sakami/items/d01fa353b4e1f48623a8)
 
 [【都道府県別】特殊な住所・住居表示 - estie inside blog](https://www.estie.jp/blog/entry/2026/02/09/102120)
 

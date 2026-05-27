@@ -3196,6 +3196,8 @@
 
 [ベクトル書きたい #LaTeX - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/324e07b0162cfb618dc9)
 
+[Texによる文書作成14 ～文章を枠で囲う - つれづれなる備忘録](https://atatat.hatenablog.com/entry/cloud_latex14_frame)
+
 
 
 ## Lean

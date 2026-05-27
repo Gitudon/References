@@ -3344,6 +3344,12 @@
 
 [中心極限定理（リンデベルグ＝レヴィ）の証明｜Daisuke Kuroki](https://note.com/daikuro2525/n/n223a2b328f44)
 
+[【統計検定準1級】中心極限定理](https://zenn.dev/youken/articles/66c1f40bf53c7f)
+
+[5.10 (標準) 大数法則，中心極限定理，標本分散の一致性 #統計学 - Qiita](https://qiita.com/toukei/items/31ede62eb39226ac5da7)
+
+[17-3. 中心極限定理1 | 統計学の時間 | 統計WEB](https://bellcurve.jp/statistics/course/8543.html?srsltid=AfmBOoppj-O547mMgCLCl3k-INFGU4LKAgrVaLWzfYjUgIJSiLcu3Vqf)
+
 
 
 ## Matlab

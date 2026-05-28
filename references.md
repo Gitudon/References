@@ -670,6 +670,8 @@
 
 [バッチファイルで外部プログラムを実行する](https://batchfile.hideharublog.com/batchfile-execute-external-program/)
 
+[バッチの%RANDOM%は全然ランダムじゃないという罠 | 情報の海を泳ぐ](https://pajoca.com/batch-random/)
+
 
 
 ## Binary
@@ -5375,6 +5377,8 @@
 [bashで配列の中身をランダムに抽出する。 #Bash - Qiita](https://qiita.com/satoshi-baba-0823/items/aed201ded17679dddaea)
 
 [[初心者向け]Awkの使い方 #Linux - Qiita](https://qiita.com/tofu511/items/3ecf9c5361d08b5c6eae)
+
+[シェルやシェルスクリプトで乱数を使う2つの方法 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20100430-shell-random-number/)
 
 
 

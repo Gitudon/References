@@ -5368,6 +5368,8 @@
 
 [【Bash】$RANDOMを使って任意の範囲までの乱数 / ランダムな浮動小数点数を生成 #ShellScript - Qiita](https://qiita.com/Ryo-0131/items/dc766dc2baac6f617945)
 
+[【シェルスクリプトBash】 if 文（test文）のオプションまとめ #ShellScript - Qiita](https://qiita.com/yaaabu51/items/8758447fa672288f4757)
+
 
 
 ## Slack

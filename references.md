@@ -5374,6 +5374,8 @@
 
 [bashで配列の中身をランダムに抽出する。 #Bash - Qiita](https://qiita.com/satoshi-baba-0823/items/aed201ded17679dddaea)
 
+[[初心者向け]Awkの使い方 #Linux - Qiita](https://qiita.com/tofu511/items/3ecf9c5361d08b5c6eae)
+
 
 
 ## Slack

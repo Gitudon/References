@@ -5370,6 +5370,10 @@
 
 [【シェルスクリプトBash】 if 文（test文）のオプションまとめ #ShellScript - Qiita](https://qiita.com/yaaabu51/items/8758447fa672288f4757)
 
+[シェルスクリプトでランダムにアレをやる #Bash - Qiita](https://qiita.com/piroor/items/6300e665bc8ac314211b)
+
+[bashで配列の中身をランダムに抽出する。 #Bash - Qiita](https://qiita.com/satoshi-baba-0823/items/aed201ded17679dddaea)
+
 
 
 ## Slack

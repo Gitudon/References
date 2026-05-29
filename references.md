@@ -1956,6 +1956,12 @@
 
 
 
+## Dotnet
+
+[.NET 逆コンパイラ ILSpy のインストール #C# - Qiita](https://qiita.com/mmake/items/6ab0fb5868fb99573ebc)
+
+
+
 ## Edge
 
 [Microsoft Edge で既定の検索エンジンを変更する - Microsoft サポート](https://support.microsoft.com/ja-jp/microsoft-edge/microsoft-edge-%E3%81%A7%E6%97%A2%E5%AE%9A%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3%E3%82%92%E5%A4%89%E6%9B%B4%E3%81%99%E3%82%8B-cccaf51c-a4df-a43e-8036-d4d2c527a791)

@@ -1942,6 +1942,8 @@
 
 [Dockerfileを，理解して書きたいよ～](https://zenn.dev/ama_c/articles/d40305757fea98)
 
+[Dockerの超基礎的な知識メモ #Docker - Qiita](https://qiita.com/kazuho39/items/24d309983c2d4a7b401f)
+
 
 
 ## Documents

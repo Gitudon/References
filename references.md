@@ -1624,6 +1624,8 @@
 
 [誰も把握できなくなった超難解な仕様を、リバースエンジニアリングで112通りと断定した話](https://zenn.dev/misuken/articles/32807daad601d0)
 
+[技術選定をする際の4つのポイント](https://zenn.dev/kouchanne/articles/5819b0a7c3ecdfc9f880)
+
 
 
 ## Directly

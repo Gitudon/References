@@ -6118,8 +6118,6 @@
 
 [Vimを体系的に学ぶつもりのない人のためのVim講座―Exコマンド編 #Vim - Qiita](https://qiita.com/okuramasafumi/items/5e4624cfc8379aec739c)
 
-[Vim [検索, 置換] #初心者 - Qiita](https://qiita.com/Ham4690/items/a67edf57d7d695abd030)
-
 
 
 ## Vite

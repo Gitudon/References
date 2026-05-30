@@ -6098,6 +6098,8 @@
 
 [Vimを開いて閉じられず、半泣きでPCを再起動したあの日の私へ捧ぐ #初心者 - Qiita](https://qiita.com/fe1ix/items/f46a3253211a51966baa)
 
+[Vimモード入門 #Vim - Qiita](https://qiita.com/gorilla0513/items/e8ccb15bfc87e7ed8d5b)
+
 
 
 ## Vite

@@ -3362,6 +3362,8 @@
 
 [17-3. 中心極限定理1 | 統計学の時間 | 統計WEB](https://bellcurve.jp/statistics/course/8543.html?srsltid=AfmBOoppj-O547mMgCLCl3k-INFGU4LKAgrVaLWzfYjUgIJSiLcu3Vqf)
 
+[大きさNの文字列の部分文字列はいくつあるか？ #数学 - Qiita](https://qiita.com/afrock0192/items/5f5c74492a86025caff1)
+
 
 
 ## Matlab
@@ -6606,5 +6608,5 @@
 
 [業務システムのログメッセージの書き方](https://zenn.dev/jkugiya/articles/actionable-logging)
 
-[大きさNの文字列の部分文字列はいくつあるか？ #数学 - Qiita](https://qiita.com/afrock0192/items/5f5c74492a86025caff1)
+[そのページ、ちゃんと魚拓できてませんよ？ #HTML - Qiita](https://qiita.com/410/items/b783e106699d37a788b3)
 

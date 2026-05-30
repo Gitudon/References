@@ -5324,6 +5324,8 @@
 
 [うっかりミスでアクティブユーザー1万人超えのサービスをサ終させた話](https://zenn.dev/mnonamer/articles/yarakashi-2025-eos-with-10k-au)
 
+[【超初心者向け】 New Relic 触ってみた！ #監視 - Qiita](https://qiita.com/pdc-imaiy/items/68fcc9475662bf1bbfea)
+
 
 
 ## Shellscript

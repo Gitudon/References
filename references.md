@@ -6100,6 +6100,26 @@
 
 [Vimモード入門 #Vim - Qiita](https://qiita.com/gorilla0513/items/e8ccb15bfc87e7ed8d5b)
 
+[覚えやすくまとめたVimコマンド](https://zenn.dev/santamn/articles/cea99dad112b3f)
+
+[cmdline - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/cmdline.html)
+
+[usr_20 - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/usr_20.html)
+
+[pattern - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/pattern.html)
+
+[various - Vim日本語ドキュメント](https://vim-jp.org/vimdoc-ja/various.html)
+
+[vimの画面分割の使い方 #Vim - Qiita](https://qiita.com/YamasakiKenta/items/2a7d1681072f25d6914c)
+
+[vim バッファ入門](https://zenn.dev/sa2knight/articles/e0a1b2ee30e9ec22dea9)
+
+[【vimめも】 3. レジスタ #Vim - Qiita](https://qiita.com/r12tkmt/items/97afb4b489966e746b20)
+
+[Vimを体系的に学ぶつもりのない人のためのVim講座―Exコマンド編 #Vim - Qiita](https://qiita.com/okuramasafumi/items/5e4624cfc8379aec739c)
+
+[Vim [検索, 置換] #初心者 - Qiita](https://qiita.com/Ham4690/items/a67edf57d7d695abd030)
+
 
 
 ## Vite

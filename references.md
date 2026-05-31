@@ -1712,6 +1712,8 @@
 
 [discord Bot開発 Permission(権限)を確認する方法 #Python - Qiita](https://qiita.com/sakaki_developer/items/47ba1252335136c2152a)
 
+[Discord.pyで新規スレッドを作成する方法 #Python - Qiita](https://qiita.com/Shichimi555/items/dc45c5246f6e9791121e)
+
 
 
 ## Django
@@ -3563,6 +3565,12 @@
 [MySQLでインデックスの追加・確認・削除を行う方法 - プロエンジニア](https://proengineer.internous.co.jp/content/columnfeature/6818)
 
 [DBのインデックスを理解しよう #MySQL - Qiita](https://qiita.com/masayasviel/items/b4f2fe76235f30270b07)
+
+[「主キー、外部キーの命名どうしてますか？」（1） Database Expert － ＠IT](https://atmarkit.itmedia.co.jp/bbs/phpBB/viewtopic.php?topic=43598&forum=26)
+
+[【MySQL】外部キー制約を追加したり確認したり【ふ〜ん】 #Laravel - Qiita](https://qiita.com/prinprinprrr/items/94faee08f9344dd46511)
+
+[MySQLでカラムを追加する「ALTER TABLE ~ ADD」 - ポップインサイト](https://popinsight.jp/blog/?p=12612)
 
 
 
@@ -5611,6 +5619,8 @@
 [【SQL】NULL値を制御/SQLマスターへの道「COALESCE」 #初心者 - Qiita](https://qiita.com/umekikazuya/items/61c16a36824c334e31e5)
 
 [dayofweek 関数 - Azure Databricks - Databricks SQL | Microsoft Learn](https://learn.microsoft.com/ja-jp/azure/databricks/sql/language-manual/functions/dayofweek)
+
+[【SQL】DISTINCTで重複行を除外する方法を解説 | TechMania](https://techmania.jp/blog/sql-distinct/)
 
 
 

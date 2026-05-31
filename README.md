@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年05月30日 23:25:45)
+## 集計(2026年05月31日 23:06:17)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -34,7 +34,7 @@
 | Data Science | 5 |
 | Development Process | 4 |
 | Directly | 13 |
-| Discord | 26 |
+| Discord | 27 |
 | Django | 4 |
 | DNS | 14 |
 | Docker | 93 |
@@ -68,7 +68,7 @@
 | Matlab | 1 |
 | Microsoft | 14 |
 | Movie | 33 |
-| MySQL | 44 |
+| MySQL | 47 |
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
@@ -97,7 +97,7 @@
 | Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |
-| SQL | 68 |
+| SQL | 69 |
 | Sqlite | 7 |
 | SSH | 32 |
 | Streamlit | 26 |
@@ -122,4 +122,4 @@
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 30 |
-| 合計 | 3086 |
+| 合計 | 3091 |

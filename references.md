@@ -5288,6 +5288,8 @@
 
 [見落としがちなURL正規化によるパストラバーサル | セキュリティブログ | 脆弱性診断（セキュリティ診断）のGMOサイバーセキュリティ byイエラエ](https://gmo-cybersecurity.com/blog/url-path-traversal/)
 
+[脆弱性対策の優先度 CVE･CVSSによる識別と評価 - VALTES セキュリティサービス](https://security.valtes.co.jp/blog/vulnerability_cvss_vol_20/)
+
 
 
 ## Server

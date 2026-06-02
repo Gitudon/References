@@ -3718,6 +3718,12 @@
 
 [Python + uWSGI + nginx #uwsgi - Qiita](https://qiita.com/keichiro24/items/52a0e4233200ac03b4d1)
 
+[Nginxでキャッシュに躓いた話 #nginx - Qiita](https://qiita.com/kasmin_net/items/b1bfd7d3a20f196dca9b)
+
+[[nginx] リバースプロキシキャッシュから返ってきてるか確認する方法 #nginx - Qiita](https://qiita.com/wokamoto/items/74f0ce03e689a465fd94)
+
+[Nginx⑥プロキシキャッシュの設定 #初心者 - Qiita](https://qiita.com/myaX/items/0674282f5f19646873a2)
+
 
 
 ## Node.js
@@ -3913,6 +3919,8 @@
 [WSL2にmitmproxyをインストールする - tomohxxの日記](https://tomohxx.hatenablog.com/entry/2020/11/20/121500)
 
 [【2019年12月版】mitmproxyでアプリの通信内容を確認したい #iOS - Qiita](https://qiita.com/_matuzaki/items/cceaead10a0a567e5bf9)
+
+[無料プロキシツール「mitmproxy」を使ってみよう - セットアップ方法とセキュリティエンジニアおすすめの設定 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/mitmproxy)
 
 
 

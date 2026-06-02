@@ -3920,8 +3920,6 @@
 
 [【2019年12月版】mitmproxyでアプリの通信内容を確認したい #iOS - Qiita](https://qiita.com/_matuzaki/items/cceaead10a0a567e5bf9)
 
-[無料プロキシツール「mitmproxy」を使ってみよう - セットアップ方法とセキュリティエンジニアおすすめの設定 - GMO Flatt Security Blog](https://blog.flatt.tech/entry/mitmproxy)
-
 
 
 ## Python

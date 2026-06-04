@@ -3580,6 +3580,8 @@
 
 [MySQLでカラムを追加する「ALTER TABLE ~ ADD」 - ポップインサイト](https://popinsight.jp/blog/?p=12612)
 
+[MySQL InnoDBで複数レコードを挿入してそれらのid(AUTO INCREMENT)を取得する方法 #BulkInsert - Qiita](https://qiita.com/mkiken/items/1fd57a861ef435525373)
+
 
 
 ## n8n

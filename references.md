@@ -5308,6 +5308,8 @@
 
 [脆弱性対策の優先度 CVE･CVSSによる識別と評価 - VALTES セキュリティサービス](https://security.valtes.co.jp/blog/vulnerability_cvss_vol_20/)
 
+[RSA暗号のeは大きすぎても小さすぎてもいけない #RSA暗号 - Qiita](https://qiita.com/seiya1122_404/items/60c803199b75a7984eed)
+
 
 
 ## Server

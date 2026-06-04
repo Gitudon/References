@@ -574,6 +574,16 @@
 
 
 
+## Awk
+
+[[Linux]awkの使い方① awkって何～？ #初心者 - Qiita](https://qiita.com/miouuuuu/items/254697890bb96a49ea78)
+
+[[初心者向け]Awkの使い方 #Linux - Qiita](https://qiita.com/tofu511/items/3ecf9c5361d08b5c6eae)
+
+[[awk] 基本的な使い方](http://sweng.web.fc2.com/ja/program/awk/quick-start.html)
+
+
+
 ## AWS
 
 [AWS CLI の最新バージョンのインストールまたは更新 - AWS Command Line Interface](https://docs.aws.amazon.com/ja_jp/cli/latest/userguide/getting-started-install.html)
@@ -1121,8 +1131,6 @@
 [4. xmllint使用方法](https://saj.co.jp/techinfo/htmls/xml-libxml2-xmllint_usage.html)
 
 [xmllint を使って、xmlをパースした #Bash - Qiita](https://qiita.com/kudojp/items/6e2ca905c609dffdf0d5)
-
-[[awk] 基本的な使い方](http://sweng.web.fc2.com/ja/program/awk/quick-start.html)
 
 [【ネットワーク入門】tracerouteでネットワークの経路を調べる/pingで接続先の生存確認 #Network - Qiita](https://qiita.com/shiei_kawa/items/9cb116d1ea36572037c1)
 
@@ -5407,8 +5415,6 @@
 [シェルスクリプトでランダムにアレをやる #Bash - Qiita](https://qiita.com/piroor/items/6300e665bc8ac314211b)
 
 [bashで配列の中身をランダムに抽出する。 #Bash - Qiita](https://qiita.com/satoshi-baba-0823/items/aed201ded17679dddaea)
-
-[[初心者向け]Awkの使い方 #Linux - Qiita](https://qiita.com/tofu511/items/3ecf9c5361d08b5c6eae)
 
 [シェルやシェルスクリプトで乱数を使う2つの方法 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20100430-shell-random-number/)
 

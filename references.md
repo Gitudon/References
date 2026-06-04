@@ -3724,6 +3724,8 @@
 
 [Nginx⑥プロキシキャッシュの設定 #初心者 - Qiita](https://qiita.com/myaX/items/0674282f5f19646873a2)
 
+[nginxの初心者向けチュートリアル、ゼロから始めて大丈夫！ #Apache - Qiita](https://qiita.com/automation2025/items/9a5a3cdc484d6d7409a1)
+
 
 
 ## Node.js

@@ -3582,6 +3582,8 @@
 
 [MySQL InnoDBで複数レコードを挿入してそれらのid(AUTO INCREMENT)を取得する方法 #BulkInsert - Qiita](https://qiita.com/mkiken/items/1fd57a861ef435525373)
 
+[LAST_INSERT_ID()はauto_incrementedでなくてもいいしINSERTじゃなくてもいい #MySQL - Qiita](https://qiita.com/yugo-yamamoto/items/cd48b556928f0b8e9921)
+
 
 
 ## n8n

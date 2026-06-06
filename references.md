@@ -1346,6 +1346,10 @@
 
 [CTFのWebセキュリティにおけるPath Traversal, LFI/RFI (File Upload, ZipSlip) - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2021/12/08/220449)
 
+[LINE CTF 2023 Writeup #CTF - Qiita](https://qiita.com/seiya1122_404/items/402209789fc000e3a1f4)
+
+[SECCON Beginners CTF 2021【Web】json 作問者writeup | hi120ki](https://hi120ki.github.io/ja/blog/posts/20210523-2/)
+
 
 
 ## cURL
@@ -1427,6 +1431,8 @@
 [curlコマンドでSSL警告を無視する方法 #Linuxコマンド - Qiita](https://qiita.com/mrk461/items/3659d3c7777cb97545f3)
 
 [curlでUser-Agentを指定する方法 | クロジカ](https://tech.kurojica.com/archives/25378/)
+
+[cUrlの基礎 #curl - Qiita](https://qiita.com/Zack-yutapon/items/ec2262eaedc371b3ed9d)
 
 
 

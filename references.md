@@ -1050,8 +1050,6 @@
 
 [nohupコマンドでnohup.outファイルを作成しない - suer TIL](https://atsum.in/linux/no-nohup-log/)
 
-[nohupでコマンド実行時にログ出力をしたくない場合は/dev/nullにリダイレクトすると良い #nohup - Qiita](https://qiita.com/seigot/items/43d005636b056bcf8eef)
-
 [SSH切断後も実行中のタスクを動作継続させる方法 #Linuxコマンド - Qiita](https://qiita.com/bassie/items/524c6931eb1c031aadb0)
 
 [CPU使用率を取得する方法（Linux、vmstatコマンド） #centos8 - Qiita](https://qiita.com/yasushi-jp/items/d821c7d90006671d5d66)
@@ -1873,10 +1871,6 @@
 [DockerイメージからGitLab環境を構築(GitLab&Runner) #docker-compose - Qiita](https://qiita.com/Nats72/items/ca80b0bfede4d8e10158)
 
 [GitLabをdockerで立てる #Docker - Qiita](https://qiita.com/suzukihi724/items/55de461d8cdfa3459f11)
-
-[【Docker】Dockerコンテナ内のログを確認する方法 #Docker - Qiita](https://qiita.com/sho_U/items/1f0f25e1cfe928828dd8)
-
-[docker logs で表示されるログの保存場所とローテート方法 #Docker - Qiita](https://qiita.com/tily/items/adb433505da6c7812725)
 
 [Ubuntu で Docker のインストール #docker-compose - Qiita](https://qiita.com/tf63/items/c21549ba44224722f301)
 
@@ -3282,6 +3276,36 @@
 
 
 
+## Log
+
+[業務システムのログメッセージの書き方](https://zenn.dev/jkugiya/articles/actionable-logging)
+
+[ログの話 #log - Qiita](https://qiita.com/yugo-yamamoto/items/c2e2518f36893c1654dc)
+
+[【Docker】Dockerコンテナ内のログを確認する方法 #Docker - Qiita](https://qiita.com/sho_U/items/1f0f25e1cfe928828dd8)
+
+[docker logs で表示されるログの保存場所とローテート方法 #Docker - Qiita](https://qiita.com/tily/items/adb433505da6c7812725)
+
+[nohupでコマンド実行時にログ出力をしたくない場合は/dev/nullにリダイレクトすると良い #nohup - Qiita](https://qiita.com/seigot/items/43d005636b056bcf8eef)
+
+[RubyでメソッドをフックしてBefore/Afterにログを付けたりする #Ruby - Qiita](https://qiita.com/gimKondo/items/56d6d98f8aed3f21a5c7)
+
+[Rubyで簡易的なログ出力 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_easy_log/)
+
+[Rubyでloggerを使い、ログを出力してみた | DevelopersIO](https://dev.classmethod.jp/articles/output_log_using_logger/)
+
+[ActiveRecord のログ出力を一定文字数を超えると省略するようにカスタマイズしてみた – 株式会社ルーター](https://rooter.jp/programming/active_record_log_customize/)
+
+[Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
+
+[ActiveRecord のログ出力を一定文字数を超えると省略するようにカスタマイズしてみた – 株式会社ルーター](https://rooter.jp/programming/active_record_log_customize/)
+
+[Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
+
+[[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
+
+
+
 ## Lua
 
 [しぶしぶ覚えるLua言語 #REAPER - Qiita](https://qiita.com/aike@github/items/2023bbeb21094af6795e)
@@ -3721,8 +3745,6 @@
 
 
 ## Nginx
-
-[[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
 
 [NGINXとはどんなソフトウェア？Apacheとは何が違うのか - システム開発のプロが発注成功を手助けする【発注ラウンジ】](https://hnavi.co.jp/knowledge/blog/nginx/#title4)
 
@@ -4758,10 +4780,6 @@
 
 [サービスを止めずにRailsで大きなテーブルにalter tableを実行する #MySQL - Qiita](https://qiita.com/yuku_t/items/8ff24f99301f7f0dd65b)
 
-[ActiveRecord のログ出力を一定文字数を超えると省略するようにカスタマイズしてみた – 株式会社ルーター](https://rooter.jp/programming/active_record_log_customize/)
-
-[Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
-
 [Ruby基礎 | requireとincludeとextendの違いを確認（includeとextendはメソッド探索で確認） #初心者 - Qiita](https://qiita.com/suzukiry/items/db936ff7312ba7d97315)
 
 [Ruby (2.2.0) 自分で作成したファイルを読み込む(require)にハマる - かもメモ](https://chaika.hatenablog.com/entry/2016/10/25/080000)
@@ -4843,8 +4861,6 @@
 [Rubyの多重代入あれこれまとめ #Ruby - Qiita](https://qiita.com/yancya/items/c557864f307d429bbde4)
 
 [Rubyで外部コマンドを実行して結果を受け取る方法あれこれ #Ruby - Qiita](https://qiita.com/tyabe/items/56c9fa81ca89088c5627)
-
-[Rubyでloggerを使い、ログを出力してみた | DevelopersIO](https://dev.classmethod.jp/articles/output_log_using_logger/)
 
 [bundle execって必要なの? #Ruby - Qiita](https://qiita.com/d0ne1s/items/fa2dafcee02e963fe997)
 
@@ -5110,8 +5126,6 @@
 
 [Rubyの多次元hashから目的の値がある位置を検索する方法 – 株式会社ルーター](https://rooter.jp/data-format/hash_search/)
 
-[Rubyで簡易的なログ出力 – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_easy_log/)
-
 [NokogiriでCSSセレクタとノードの深さを取得する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/css_selector_and_node_depth/)
 
 [Rubyでhtmlを整形したり、不要なタグを削除する – 株式会社ルーター](https://rooter.jp/web-crawling/ruby_html_disused_tags/)
@@ -5161,8 +5175,6 @@
 [Ruby でメソッド呼び出しのフック処理を実行する | Kōhei Yamamoto](https://kymmt.com/blog/posts/hook-by-alias-chaining-in-ruby)
 
 [Ruby: メタプログラミングに役立つフック系メソッド（翻訳）｜TechRacho by BPS株式会社](https://techracho.bpsinc.jp/hachi8833/2018_05_17/56496)
-
-[RubyでメソッドをフックしてBefore/Afterにログを付けたりする #Ruby - Qiita](https://qiita.com/gimKondo/items/56d6d98f8aed3f21a5c7)
 
 [CSV.foreach (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/CSV/s/foreach.html)
 
@@ -6659,8 +6671,6 @@
 [iPhoneの『メモ』アプリにWindowsからアクセスする方法 iCloudやGmailで共有可能｜KDDI トビラ](https://time-space.kddi.com/mobile/20210326/3091.html)
 
 [10秒で衝突するUUIDの作り方 - Speaker Deck](https://speakerdeck.com/tanakahisateru/10miao-dechong-tu-suruuuidfalsezuo-rifang)
-
-[業務システムのログメッセージの書き方](https://zenn.dev/jkugiya/articles/actionable-logging)
 
 [そのページ、ちゃんと魚拓できてませんよ？ #HTML - Qiita](https://qiita.com/410/items/b783e106699d37a788b3)
 

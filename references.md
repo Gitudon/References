@@ -3298,10 +3298,6 @@
 
 [Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
 
-[ActiveRecord のログ出力を一定文字数を超えると省略するようにカスタマイズしてみた – 株式会社ルーター](https://rooter.jp/programming/active_record_log_customize/)
-
-[Railsのログを理解する-ログの基礎知識- #Ruby - Qiita](https://qiita.com/sobameshi0901/items/b963e7046e2ae8b8e813)
-
 [[Docker]Nginx+PHP-FPMのコンテナのアクセスログが二重に出てハマった件 #nginx - Qiita](https://qiita.com/2done/items/7aa4833e87e0cb6fc349)
 
 

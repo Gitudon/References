@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年06月05日 00:17:12)
+## 集計(2026年06月06日 18:17:21)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -24,7 +24,7 @@
 | Chrome | 36 |
 | Codes | 4 |
 | Coding | 9 |
-| Commands | 117 |
+| Commands | 116 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 2 |
@@ -38,7 +38,7 @@
 | Discord | 27 |
 | Django | 4 |
 | DNS | 14 |
-| Docker | 93 |
+| Docker | 91 |
 | Documents | 2 |
 | Dotnet | 1 |
 | Edge | 11 |
@@ -62,6 +62,7 @@
 | LaTeX | 102 |
 | Lean | 4 |
 | Linux | 23 |
+| Log | 11 |
 | Lua | 5 |
 | Mail | 5 |
 | Markdown | 22 |
@@ -75,7 +76,7 @@
 | Nano | 3 |
 | Network | 26 |
 | Next.js | 6 |
-| Nginx | 8 |
+| Nginx | 7 |
 | Node.js | 11 |
 | Package Manager | 3 |
 | PC | 3 |
@@ -89,7 +90,7 @@
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
-| Ruby | 301 |
+| Ruby | 296 |
 | Rust | 5 |
 | Scraping | 27 |
 | Security | 24 |
@@ -122,5 +123,5 @@
 | WSL | 20 |
 | Xml | 1 |
 | Yaml | 4 |
-| Etc | 30 |
-| 合計 | 3100 |
+| Etc | 29 |
+| 合計 | 3101 |

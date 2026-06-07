@@ -6596,6 +6596,8 @@
 
 [WSL2/UbuntuのIPアドレスを取得したい #WSL2 - Qiita](https://qiita.com/neko_the_shadow/items/25b797cb436078b9e832)
 
+[Windows上で開発する時のWSL（Ubuntu）とWindowsの役割分担2021年版 #OpenCV - Qiita](https://qiita.com/yugo-yamamoto/items/18fa75e3196791ef1226)
+
 
 
 ## Xml

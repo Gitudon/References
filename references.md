@@ -5662,6 +5662,8 @@
 
 [【SQL】DISTINCTで重複行を除外する方法を解説 | TechMania](https://techmania.jp/blog/sql-distinct/)
 
+[UPDATE文（SQLを基本から学ぶシリーズ）](https://products.sint.co.jp/blog/sql-update)
+
 
 
 ## Sqlite

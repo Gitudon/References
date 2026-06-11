@@ -5444,6 +5444,8 @@
 
 [シェルやシェルスクリプトで乱数を使う2つの方法 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20100430-shell-random-number/)
 
+[シェルスクリプト（bash）のif文やwhile文で使う演算子について #Linux - Qiita](https://qiita.com/egawa_kun/items/196cd354c0d8e4e0fefc)
+
 
 
 ## Slack

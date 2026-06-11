@@ -3612,6 +3612,8 @@
 
 [LAST_INSERT_ID()はauto_incrementedでなくてもいいしINSERTじゃなくてもいい #MySQL - Qiita](https://qiita.com/yugo-yamamoto/items/cd48b556928f0b8e9921)
 
+[MySQLのEXPLAIN（実行プラン）まとめ #DB - Qiita](https://qiita.com/tsurumiii/items/0b70f1a1ee0499be2002)
+
 
 
 ## n8n

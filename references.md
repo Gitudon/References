@@ -200,6 +200,8 @@
 
 [VSCodeの拡張機能Continueを使ったAIコーディング環境 #生成AI - Qiita](https://qiita.com/ctc-j-ikai/items/43e318750d41e2ffb05f)
 
+[AIモニタリングツールの落とし穴：表示される「推定コスト」を鵜呑みにしてはいけない理由 – 株式会社ルーター](https://rooter.jp/ml/ai-monitoring-tools-cost-calculation-gap/)
+
 
 
 ## Algorithm
@@ -2611,6 +2613,8 @@
 [ファイルのオーナーを他のユーザーにする - パソコン - Google ドライブ ヘルプ](https://support.google.com/drive/answer/2494892?hl=ja&co=GENIE.Platform%3DDesktop)
 
 [「AIによる概要」の消し方｜Google検索結果をスッキリさせる方法 – Strategy Code（ストラテジーコード）](https://strategy-code.com/marketing-colum/seo/hide-ai-overview/)
+
+[【GAS】Gmailの内容をスプシに自動転記する（特定メールの抽出方法） – 株式会社ルーター](https://rooter.jp/web-crawling/copy-gmail-contents-to-spreadsheet-gas/)
 
 
 

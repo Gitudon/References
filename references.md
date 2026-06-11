@@ -3870,6 +3870,10 @@
 
 [CREATE INDEX](https://www.postgresql.jp/docs/16/sql-createindex.html)
 
+[pgvectorを使ってPostgreSQLをベクトルデータベースとして使ってみる #PostgreSQL - Qiita](https://qiita.com/kanaza-s/items/b46214ba8543e34c5003)
+
+[PostgreSQLで実践するベクトル検索入門：AI時代のRDBMS活用術 | Sqripts](https://sqripts.com/2025/02/25/104587/)
+
 
 
 ## PowerShell

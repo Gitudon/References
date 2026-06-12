@@ -6570,6 +6570,8 @@
 
 [ハニーポットとは？用途やメリット・デメリットを解説 - wiz LANSCOPE ブログ](https://www.lanscope.jp/blogs/cyber_attack_pfs_blog/20250228_25182/)
 
+[ミドルウェアとは | IBM](https://www.ibm.com/jp-ja/think/topics/middleware)
+
 
 
 ## WSL

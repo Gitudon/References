@@ -2,12 +2,12 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年06月12日 12:50:57)
+## 集計(2026年06月13日 00:49:13)
 
 | トピック | 数 |
 | :--- | ---: |
 | Adb | 68 |
-| AI | 31 |
+| AI | 30 |
 | Algorithm | 26 |
 | Android | 58 |
 | API | 78 |
@@ -48,10 +48,10 @@
 | Flask | 24 |
 | Flutter | 1 |
 | Frida | 7 |
-| GAS | 30 |
+| GAS | 29 |
 | Git | 166 |
 | Go | 3 |
-| Google | 43 |
+| Google | 42 |
 | HTML/CSS | 61 |
 | Image | 23 |
 | iOS | 9 |
@@ -70,7 +70,7 @@
 | Matlab | 1 |
 | Microsoft | 14 |
 | Movie | 33 |
-| MySQL | 50 |
+| MySQL | 49 |
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
@@ -82,7 +82,7 @@
 | PC | 3 |
 | PDF | 4 |
 | Php | 5 |
-| PostgreSQL | 15 |
+| PostgreSQL | 13 |
 | PowerShell | 6 |
 | Protocol | 7 |
 | Proxy | 28 |
@@ -95,7 +95,7 @@
 | Scraping | 27 |
 | Security | 24 |
 | Server | 21 |
-| Shellscript | 32 |
+| Shellscript | 31 |
 | Slack | 29 |
 | SNS | 3 |
 | Sound | 1 |
@@ -119,9 +119,9 @@
 | Vue.js | 1 |
 | Web | 4 |
 | Windows | 44 |
-| Words | 46 |
+| Words | 45 |
 | WSL | 21 |
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 29 |
-| 合計 | 3115 |
+| 合計 | 3107 |

@@ -1252,6 +1252,10 @@
 
 [Linuxで複数のファイルを結合して1つにする方法 #Linuxコマンド - Qiita](https://qiita.com/nobuhiro-kobayashi/items/7491f8af7ba06b1f9a96)
 
+[今度こそopensslコマンドを理解して使いたい (2) 設定ファイル（openssl.cnf）を理解する #Linux - Qiita](https://qiita.com/3244/items/8c7e6892efdb4e500be9)
+
+[opensslコマンドでインターネット上のWebサイトから証明書情報を取得する - TORIPIYO DIARY](https://toripiyo.hatenablog.com/entry/2018/12/16/151049)
+
 
 
 ## C++

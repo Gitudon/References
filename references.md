@@ -2516,6 +2516,8 @@
 
 [リモートリポジトリの登録とデフォルトリモートブランチの設定 #Git - Qiita](https://qiita.com/shyamahira/items/cf8f36e4b2500f82b2bf)
 
+[[git] 戻したい時よく使っているコマンドまとめ #Git - Qiita](https://qiita.com/rch1223/items/9377446c3d010d91399b)
+
 
 
 ## Go

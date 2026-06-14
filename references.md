@@ -2528,6 +2528,10 @@
 
 [自作protocプラグインで実現するスキーマベースの認可処理 - enechain Tech Blog](https://techblog.enechain.com/entry/protoc-acl)
 
+[Go言語はなぜ人気なのか？これから学ぶ人に知ってほしい魅力と始め方 #プログラミング - Qiita](https://qiita.com/Sakaaaaai/items/ad7bb74b3ab60aad4e23)
+
+[動的言語だけやってた僕が、38日間Go言語を書いて学んだこと #PHP - Qiita](https://qiita.com/suin/items/22662f43b6a6e8728798)
+
 
 
 ## Google

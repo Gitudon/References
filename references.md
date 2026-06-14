@@ -1360,6 +1360,8 @@
 
 [SECCON Beginners CTF 2021【Web】json 作問者writeup | hi120ki](https://hi120ki.github.io/ja/blog/posts/20210523-2/)
 
+[CTFにおけるWebセキュリティ入門とまとめ - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2021/12/01/194114)
+
 
 
 ## cURL
@@ -1443,6 +1445,12 @@
 [curlでUser-Agentを指定する方法 | クロジカ](https://tech.kurojica.com/archives/25378/)
 
 [cUrlの基礎 #curl - Qiita](https://qiita.com/Zack-yutapon/items/ec2262eaedc371b3ed9d)
+
+[curl エクステンションで HTTP/2 リクエストを送信する #PHP - Qiita](https://qiita.com/masakielastic/items/f563437c44b0d4c04f87)
+
+[curlにおけるhttp2 | http2 explained](https://http2-explained.haxx.se/ja/part11)
+
+[curl エクステンションで HTTP/2 リクエストを送信する #PHP - Qiita](https://qiita.com/masakielastic/items/f563437c44b0d4c04f87)
 
 
 
@@ -3913,6 +3921,12 @@
 [HTTP リクエストの Host ヘッダフィールドを知ろう #rfc - Qiita](https://qiita.com/aximov/items/229ce3ec04412f30b333)
 
 [HTTPステータスコード一覧 #HTTP - Qiita](https://qiita.com/takuo_maeda/items/9cff0b03e74f8f600eee)
+
+[簡単にHTTP/2通信を試す - ビットハイブ](https://www.bit-hive.com/articles/20191106)
+
+[対応しているはずなのに、なぜかHTTP/2で通信できない原因](https://contrabass.org/blog/why-can-not-use-http-2/)
+
+[HTTP/2 のエラーハンドリングと Request Reliability Mechanism #http2 - Qiita](https://qiita.com/iwanaga/items/5f51413a18bf381bf7a9)
 
 
 

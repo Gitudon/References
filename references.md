@@ -1450,8 +1450,6 @@
 
 [curlにおけるhttp2 | http2 explained](https://http2-explained.haxx.se/ja/part11)
 
-[curl エクステンションで HTTP/2 リクエストを送信する #PHP - Qiita](https://qiita.com/masakielastic/items/f563437c44b0d4c04f87)
-
 
 
 ## D

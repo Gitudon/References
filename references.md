@@ -256,6 +256,10 @@
 
 [TimSort ~JavaやPythonに標準実装されている洗練されたソート法~ について勉強してみた（その１） #ソートアルゴリズム - Qiita](https://qiita.com/tomocat/items/7905ec4370c852f8d19d)
 
+[スターリンソートをGPUで爆速にする。 #CUDA - Qiita](https://qiita.com/tommyecguitar/items/26c49fa11dec3990ea88)
+
+[スライド最大（最小）値・ヒストグラム内最大長方形問題を俯瞰する #競技プログラミング - Qiita](https://qiita.com/kuuso1/items/318d42cd089a49eeb332)
+
 
 
 ## Android

@@ -3630,6 +3630,8 @@
 
 [LAST_INSERT_ID()はauto_incrementedでなくてもいいしINSERTじゃなくてもいい #MySQL - Qiita](https://qiita.com/yugo-yamamoto/items/cd48b556928f0b8e9921)
 
+[MySQLでユニークキーや外部キーを確認する #Rails - Qiita](https://qiita.com/expajp/items/81a8773b49472925fe06)
+
 
 
 ## n8n

@@ -1260,6 +1260,8 @@
 
 [opensslコマンドでインターネット上のWebサイトから証明書情報を取得する - TORIPIYO DIARY](https://toripiyo.hatenablog.com/entry/2018/12/16/151049)
 
+[【 ps 】コマンド――実行中のプロセスを一覧表示する：Linux基本コマンドTips（6） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1603/28/news022.html)
+
 
 
 ## C++
@@ -3889,6 +3891,8 @@
 [PostgreSQLで外部キーを使う際の注意点 #AdventCalendar2022 - Qiita](https://qiita.com/ingtk/items/43c7b7a2ae5cbfc7ae6a)
 
 [CREATE INDEX](https://www.postgresql.jp/docs/16/sql-createindex.html)
+
+[実行計画が一目瞭然！PostgreSQLクエリチューニングのオススメツール pev2（Postgres Explain Visualizer 2） – 株式会社ルーター](https://rooter.jp/programming/db/pev2/)
 
 
 

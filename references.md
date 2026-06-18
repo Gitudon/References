@@ -1262,6 +1262,8 @@
 
 [【 ps 】コマンド――実行中のプロセスを一覧表示する：Linux基本コマンドTips（6） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1603/28/news022.html)
 
+[duコマンドでサブディレクトリを含めたディレクトリ容量を表示する。 #Linux - Qiita](https://qiita.com/isotai/items/8fafd01bd44f55673288)
+
 
 
 ## C++
@@ -2631,6 +2633,8 @@
 [ファイルのオーナーを他のユーザーにする - パソコン - Google ドライブ ヘルプ](https://support.google.com/drive/answer/2494892?hl=ja&co=GENIE.Platform%3DDesktop)
 
 [「AIによる概要」の消し方｜Google検索結果をスッキリさせる方法 – Strategy Code（ストラテジーコード）](https://strategy-code.com/marketing-colum/seo/hide-ai-overview/)
+
+[Google スプレッドシート AI 関数 vs GAS カスタム関数（Gemini API）― 比較・検証 – 株式会社ルーター](https://rooter.jp/data-format/sheets_ai_vs_gas_gemini/)
 
 
 

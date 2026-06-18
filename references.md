@@ -1026,6 +1026,8 @@
 
 [新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡 #JavaScript - Qiita](https://qiita.com/hirokidaichi/items/591ad96ab12938878fe1)
 
+[【Linux】psコマンドについて軽くまとめてみる #Linuxコマンド - Qiita](https://qiita.com/dokozon0/items/6ba806a16884b865979d)
+
 
 
 ## Commands

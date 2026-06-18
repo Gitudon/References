@@ -1374,6 +1374,10 @@
 
 [CTFにおけるWebセキュリティ入門とまとめ - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2021/12/01/194114)
 
+[EHAX CTF 2025 Writeup - よっちんのブログ](https://yocchin.hatenablog.com/entry/2025/02/17/075956)
+
+[SECCON CTF 2023国内決勝大会の参加記(writeup) - st98 の日記帳 - コピー](https://nanimokangaeteinai.hateblo.jp/entry/2023/12/26/062513#Web-276-Plain-Blog-4-solves)
+
 
 
 ## cURL

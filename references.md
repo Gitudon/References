@@ -2774,6 +2774,8 @@
 
 [HTML <input> 入力要素 - HTML | MDN](https://developer.mozilla.org/ja/docs/Web/HTML/Reference/Elements/input)
 
+[【CSS】枠線を角丸付きグラデーションにする方法 – 株式会社ルーター](https://rooter.jp/web-ui/css-linear-gradient-border-radius/)
+
 
 
 ## Image

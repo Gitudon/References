@@ -200,6 +200,12 @@
 
 [VSCodeの拡張機能Continueを使ったAIコーディング環境 #生成AI - Qiita](https://qiita.com/ctc-j-ikai/items/43e318750d41e2ffb05f)
 
+[Claudeのファイル上限はもう30MBじゃない – 株式会社ルーター](https://rooter.jp/ml/claude-upload-file-size-limit-improvement/)
+
+[Google AI Studio、Gemini CLIで再学習・二次利用を防ぐ方法 – 株式会社ルーター](https://rooter.jp/ml/geminicli_aistudio_prevent_retraining/)
+
+[生成AIはファイル内の埋め込み画像を見てくれるのか – 株式会社ルーター](https://rooter.jp/ml/ai_refer_embedded_image/)
+
 
 
 ## Algorithm
@@ -2635,6 +2641,8 @@
 [「AIによる概要」の消し方｜Google検索結果をスッキリさせる方法 – Strategy Code（ストラテジーコード）](https://strategy-code.com/marketing-colum/seo/hide-ai-overview/)
 
 [Google スプレッドシート AI 関数 vs GAS カスタム関数（Gemini API）― 比較・検証 – 株式会社ルーター](https://rooter.jp/data-format/sheets_ai_vs_gas_gemini/)
+
+[Excel の IMAGE 関数で画像を埋め込み、情報量を増やす – 株式会社ルーター](https://rooter.jp/data-format/excel_image_function/)
 
 
 
@@ -6593,6 +6601,8 @@
 [スキミングとは？クレジットカードを守る対処法や防止策を解説｜クレジットカードなら、三菱ＵＦＪカード](https://www.cr.mufg.jp/mycard/relief/24051/index.html)
 
 [ハニーポットとは？用途やメリット・デメリットを解説 - wiz LANSCOPE ブログ](https://www.lanscope.jp/blogs/cyber_attack_pfs_blog/20250228_25182/)
+
+[【NTT西日本】キュレーション｜ICT用語集｜法人・企業向けICTサービス・ソリューション](https://business.ntt-west.co.jp/glossary/words-00177.html)
 
 
 

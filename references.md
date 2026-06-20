@@ -4544,6 +4544,8 @@
 
 [#python でテキストを URL エンコード / デコードする例 #Python - Qiita](https://qiita.com/YumaInaura/items/bce687b77169faa2f995)
 
+[not 演算子: ゼロからのPython入門講座 - python.jp](https://www.python.jp/train/logical_oper/not_oper.html)
+
 
 
 ## RaspberryPi

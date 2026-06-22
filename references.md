@@ -4546,6 +4546,8 @@
 
 [not 演算子: ゼロからのPython入門講座 - python.jp](https://www.python.jp/train/logical_oper/not_oper.html)
 
+[Pythonでリストの一部分を逆順にする方法と`reversed()`関数の解説 #Python - Qiita](https://qiita.com/ellyyyy/items/911acde03a4ada24a439)
+
 
 
 ## RaspberryPi

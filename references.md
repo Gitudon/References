@@ -4558,6 +4558,8 @@
 
 [PythonでのCSV操作 #Python - Qiita](https://qiita.com/nyanyacyan/items/2b7d87ab87995809fa3e)
 
+[Python join()メソッドの便利な使い方：リストを文字列に変換するテクニック #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c7293e4ed6480e6265dd)
+
 
 
 ## RaspberryPi

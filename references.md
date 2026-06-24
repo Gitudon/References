@@ -4548,6 +4548,16 @@
 
 [Pythonでリストの一部分を逆順にする方法と`reversed()`関数の解説 #Python - Qiita](https://qiita.com/ellyyyy/items/911acde03a4ada24a439)
 
+[［解決！Python］数値を四捨五入する（丸める）には（round関数／decimal.Decimalクラス）：解決！Python - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/2104/06/news022.html)
+
+[【Python】CSVファイル読み込み時のヘッダー（列名）有り無し処理について](https://zerofromlight.com/blogs/detail/77/)
+
+[文字列のcsvを解析する方法 - Pashango’s Blog](https://pashango-p.hatenadiary.org/entry/20110407/1302170999)
+
+[Pythonでcsv形式の文字列データをパースする](https://water2litter.net/rum/post/python_csv_parse_string/)
+
+[PythonでのCSV操作 #Python - Qiita](https://qiita.com/nyanyacyan/items/2b7d87ab87995809fa3e)
+
 
 
 ## RaspberryPi

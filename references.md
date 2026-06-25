@@ -5512,6 +5512,8 @@
 
 [シェルやシェルスクリプトで乱数を使う2つの方法 | TECH+（テックプラス）](https://news.mynavi.jp/techplus/article/20100430-shell-random-number/)
 
+[シェルスクリプト上のループ処理について #ShellScript - Qiita](https://qiita.com/tamurashingo@github/items/54b25acc93e37580989d)
+
 
 
 ## Slack

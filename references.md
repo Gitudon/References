@@ -386,6 +386,8 @@
 
 [【Android】Wi-Fiが勝手に切れる時の原因と対処法 | iMobie Inc.のプレスリリース](https://prtimes.jp/main/html/rd/p/000000285.000011895.html)
 
+[安全なクリップボードの処理  |  Security  |  Android Developers](https://developer.android.com/privacy-and-security/risks/secure-clipboard-handling?hl=ja)
+
 
 
 ## API

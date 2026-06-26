@@ -1274,6 +1274,8 @@
 
 [duコマンドでサブディレクトリを含めたディレクトリ容量を表示する。 #Linux - Qiita](https://qiita.com/isotai/items/8fafd01bd44f55673288)
 
+[[Linux]ファイルの圧縮、解凍方法 #Linux - Qiita](https://qiita.com/supersaiakujin/items/c6b54e9add21d375161f)
+
 
 
 ## C++

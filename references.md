@@ -3268,6 +3268,8 @@
 
 [ベクトル書きたい #LaTeX - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/324e07b0162cfb618dc9)
 
+[【LaTeX】ベクトル(太字・矢印)のかき方とテクニック | 数学の景色](https://mathlandscape.com/latex-vector/)
+
 
 
 ## Lean

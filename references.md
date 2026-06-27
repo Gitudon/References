@@ -1274,6 +1274,10 @@
 
 [duコマンドでサブディレクトリを含めたディレクトリ容量を表示する。 #Linux - Qiita](https://qiita.com/isotai/items/8fafd01bd44f55673288)
 
+[禁断の呪文「rm -rf /」をやってみた #Linux - Qiita](https://qiita.com/MATTENN/items/72fb2a8fcd474bab9fb5)
+
+[more コマンド - IBM Documentation](https://www.ibm.com/docs/ja/aix/7.2.0?topic=m-more-command)
+
 
 
 ## C++

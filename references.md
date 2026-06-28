@@ -6540,6 +6540,8 @@
 
 [【Windows】pingが片方しか通らない時の対処法 | 流科サービス](https://www.ryuka-service.co.jp/%E3%80%90windows%E3%80%91ping%E3%81%8C%E7%89%87%E6%96%B9%E3%81%97%E3%81%8B%E9%80%9A%E3%82%89%E3%81%AA%E3%81%84%E6%99%82%E3%81%AE%E5%AF%BE%E5%87%A6%E6%B3%95/)
 
+[Windowsのページングファイル「pagefile.sys」が肥大化してしまう？](https://jp.easeus.com/partition-manager/how-to-solve-huge-pagefile-sys.html)
+
 
 
 ## Words

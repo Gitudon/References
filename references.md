@@ -2786,6 +2786,8 @@
 
 [【CSS】枠線を角丸付きグラデーションにする方法 – 株式会社ルーター](https://rooter.jp/web-ui/css-linear-gradient-border-radius/)
 
+[HTMLで目次をつくる方法(目次のデザインの例3選も解説) | WP-LOAD](https://wp-load.in/html-css/html-table-of-contents)
+
 
 
 ## Image

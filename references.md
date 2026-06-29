@@ -5452,6 +5452,10 @@
 
 [【超初心者向け】 New Relic 触ってみた！ #監視 - Qiita](https://qiita.com/pdc-imaiy/items/68fcc9475662bf1bbfea)
 
+[⚡️家のサーバーの消費電力って……💻️｜気球人🎈note](https://note.com/kikyujin/n/nc6b425bbc7e7)
+
+[【Ubuntu】自宅サーバーの消費電力の推定 - 溶けかけてるうさぎ - BLOG](https://meltingrabbit.com/blog/article/2018022801/)
+
 
 
 ## Shellscript
@@ -6101,6 +6105,8 @@
 [Ubuntuにおける最適なTwitterクライアントアプリを求めて 後編](https://arimasou16.com/blog/2017/06/11/00224/)
 
 [バッテリーの残量を確認する方法 #Ubuntu - Qiita](https://qiita.com/ka_/items/6670d437055f2e9cc537)
+
+[Ubuntuのご飯を減らす方法 – 省電力化 | 牛かつ's Blog](https://blog.forestberrypi.com/tools-services/linux/ubuntu-eco/)
 
 
 

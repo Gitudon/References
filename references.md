@@ -1384,6 +1384,8 @@
 
 [SECCON CTF 2023国内決勝大会の参加記(writeup) - st98 の日記帳 - コピー](https://nanimokangaeteinai.hateblo.jp/entry/2023/12/26/062513#Web-276-Plain-Blog-4-solves)
 
+[[misc] printgolf (sknbCTF 2025) 作問者writeup #Python - Qiita](https://qiita.com/claustra01/items/522f136ff8856274ea0c)
+
 
 
 ## cURL

@@ -390,6 +390,8 @@
 
 [安全なクリップボードの処理  |  Security  |  Android Developers](https://developer.android.com/privacy-and-security/risks/secure-clipboard-handling?hl=ja)
 
+[CellBroadcast  |  Android Open Source Project](https://source.android.com/docs/core/ota/modular-system/cellbroadcast?hl=ja)
+
 
 
 ## API
@@ -3563,6 +3565,8 @@
 [AviUtl2フェードの使い方が全部わかる｜基本＋応用テクまとめ](https://vip-jikkyo.net/aviutl2-fade)
 
 [【AviUtl】動画をフェードアウト・フェードインさせる方法を解説！ - AKETAMA OFFICIAL BLOG](https://aketama.work/aviutl-fadeout_in)
+
+[LLMに解釈してもらうだけなら動画はもっと荒くていい – 株式会社ルーター](https://rooter.jp/ml/downgrade_video_for_llm/)
 
 
 

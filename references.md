@@ -136,6 +136,8 @@
 
 [adbコマンドを利用したandroid制御まとめ #Android - Qiita](https://qiita.com/yuki-nakamura/items/be14dcd9e47ca7cd0233)
 
+[緊急地震速報がうるさすぎる問題。スマホ複数台持ちが本気でオフ設定をまとめた【iPhone/Android】｜munyoru](https://note.com/munyoru/n/n59e6efcdb96d)
+
 
 
 ## AI

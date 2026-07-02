@@ -796,6 +796,8 @@
 
 [C言語のマクロ オブジェクト形式マクロとは](https://macro.gjpw.net/c%E8%A8%80%E8%AA%9E%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%AE%E5%9F%BA%E6%9C%AC/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E5%BD%A2%E5%BC%8F%E3%83%9E%E3%82%AF%E3%83%AD%E3%81%A8%E3%81%AF)
 
+[論理演算（ビット演算）を使って四則演算を行う方法を解説 | だえうホームページ](https://daeudaeu.com/arithmetic_operations/)
+
 
 
 ## Career
@@ -3457,6 +3459,8 @@
 [17-3. 中心極限定理1 | 統計学の時間 | 統計WEB](https://bellcurve.jp/statistics/course/8543.html?srsltid=AfmBOoppj-O547mMgCLCl3k-INFGU4LKAgrVaLWzfYjUgIJSiLcu3Vqf)
 
 [大きさNの文字列の部分文字列はいくつあるか？ #数学 - Qiita](https://qiita.com/afrock0192/items/5f5c74492a86025caff1)
+
+[論理演算 AND,OR,NAND,NOR,XOR #基本情報技術者試験 - Qiita](https://qiita.com/hi-scorp-d/items/aac5a7a3fc919d9712bc)
 
 
 

@@ -268,6 +268,16 @@
 
 [スライド最大（最小）値・ヒストグラム内最大長方形問題を俯瞰する #競技プログラミング - Qiita](https://qiita.com/kuuso1/items/318d42cd089a49eeb332)
 
+[半開区間の魅力 〜プログラミングでのスマートな区間の扱い方〜 #初心者 - Qiita](https://qiita.com/_ken_/items/25cede552e3e325b9ef1)
+
+[競技プログラミングでも使用するアルゴリズム・データ構造の紹介「累積和」編 | DXOスタッフブログ](https://dxo.co.jp/blog-archives/archives/10913)
+
+[プログラミングにおける「半開区間」 - あったこといろいろ](https://yazaten.hatenablog.com/entry/2017/05/19/200000)
+
+[なぜ区間は\[closed, open)での半開区間で表現すべきか？ #プログラミング - Qiita](https://qiita.com/aosho235/items/c3fcdad22c2c059b7741)
+
+[なぜ累積和では半開区間を使うと良いのか考えてみた](https://zenn.dev/robertcal/articles/half-open-interval)
+
 
 
 ## Android
@@ -4581,7 +4591,6 @@
 [PythonでのCSV操作 #Python - Qiita](https://qiita.com/nyanyacyan/items/2b7d87ab87995809fa3e)
 
 [Python join()メソッドの便利な使い方：リストを文字列に変換するテクニック #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c7293e4ed6480e6265dd)
-
 
 
 ## RaspberryPi

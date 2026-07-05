@@ -4593,6 +4593,7 @@
 [Python join()メソッドの便利な使い方：リストを文字列に変換するテクニック #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c7293e4ed6480e6265dd)
 
 
+
 ## RaspberryPi
 
 [Raspberry Piにファイアウォールufwのインストールと設定 | ラズパイダ](https://raspida.com/firewall4raspbian-ufw/)

@@ -4592,6 +4592,8 @@
 
 [Python join()メソッドの便利な使い方：リストを文字列に変換するテクニック #初心者向け - Qiita](https://qiita.com/Tadataka_Takahashi/items/c7293e4ed6480e6265dd)
 
+[Python で JSON データを扱う実践的な方法 #dict - Qiita](https://qiita.com/pokapu/items/7a47c864b21b5ebd0f99)
+
 
 
 ## RaspberryPi

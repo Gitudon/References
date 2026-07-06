@@ -1402,6 +1402,10 @@
 
 [[misc] printgolf (sknbCTF 2025) 作問者writeup #Python - Qiita](https://qiita.com/claustra01/items/522f136ff8856274ea0c)
 
+[CTFのCryptoにおけるRSAまとめ [RSA, Coppersmith] - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2025/11/26/233209)
+
+[【CTF/Crypto】RSAの復号手順メモ #crypto - Qiita](https://qiita.com/usagi325/items/2023afbb4d2a8b1781c0)
+
 
 
 ## cURL

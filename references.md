@@ -1406,6 +1406,12 @@
 
 [【CTF/Crypto】RSAの復号手順メモ #crypto - Qiita](https://qiita.com/usagi325/items/2023afbb4d2a8b1781c0)
 
+[Leaky RSA - RTACTF upsolve - ふるつき](https://furutsuki.hatenablog.com/entry/2021/12/19/230810)
+
+[CTFのCrypto系のメモ #RSA - Qiita](https://qiita.com/Anko_9801/items/14a45eddfa2c29a571d1)
+
+[CTF crypto 逆引き - ふるつき](https://furutsuki.hatenablog.com/entry/2021/03/16/095021)
+
 
 
 ## cURL

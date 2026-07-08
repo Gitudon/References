@@ -6812,3 +6812,5 @@
 
 [そのページ、ちゃんと魚拓できてませんよ？ #HTML - Qiita](https://qiita.com/410/items/b783e106699d37a788b3)
 
+[エンジニアがいつのまにか知っている知識・常識・文化 12本 #初心者 - Qiita](https://qiita.com/ko-he-8/items/7ca90575c5fff758993e)
+

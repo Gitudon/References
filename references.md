@@ -1414,6 +1414,12 @@
 
 [CTF crypto 逆引き - ふるつき](https://furutsuki.hatenablog.com/entry/2021/03/16/095021)
 
+[【picoCTF2025】 ChaCha Slideをやってみた | mimoexのブログ](https://www.mimoex.net/250319-picoctf2025/)
+
+[ChaCha20-Poly1305の解説と実装 | 晴耕雨読](https://tex2e.github.io/blog/crypto/chacha20poly1305)
+
+[【CTF】Writeup for ChaChaCha｜こるぐれ！](https://note.com/c0rkk_0n_g14c3/n/n5cb4a47d84aa)
+
 
 
 ## cURL

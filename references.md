@@ -208,6 +208,8 @@
 
 [生成AIはファイル内の埋め込み画像を見てくれるのか – 株式会社ルーター](https://rooter.jp/ml/ai_refer_embedded_image/)
 
+[【永久0円】人間LLMのすすめ #OpenAI - Qiita](https://qiita.com/Syuparn/items/0001f93221d4d7556271)
+
 
 
 ## Algorithm
@@ -2579,6 +2581,8 @@
 [リモートリポジトリの登録とデフォルトリモートブランチの設定 #Git - Qiita](https://qiita.com/shyamahira/items/cf8f36e4b2500f82b2bf)
 
 [[git] 戻したい時よく使っているコマンドまとめ #Git - Qiita](https://qiita.com/rch1223/items/9377446c3d010d91399b)
+
+[Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ #GitHub - Qiita](https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd)
 
 
 

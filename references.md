@@ -6698,6 +6698,8 @@
 
 [【NTT西日本】キュレーション｜ICT用語集｜法人・企業向けICTサービス・ソリューション](https://business.ntt-west.co.jp/glossary/words-00177.html)
 
+[ワンライナーとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word16775.html)
+
 
 
 ## WSL

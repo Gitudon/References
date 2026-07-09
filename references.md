@@ -2696,6 +2696,8 @@
 
 [Excel の IMAGE 関数で画像を埋め込み、情報量を増やす – 株式会社ルーター](https://rooter.jp/data-format/excel_image_function/)
 
+[X（旧Twitter）でGoogle Authenticatorを使い二段階認証を設定する方法 | 参政党 熊本県支部連合会 公認ウェブサイト](https://sanseito-kumamoto.jp/2025/04/23/x-2fa/)
+
 
 
 ## HTML/CSS

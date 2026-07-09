@@ -4622,6 +4622,8 @@
 
 [Python で JSON データを扱う実践的な方法 #dict - Qiita](https://qiita.com/pokapu/items/7a47c864b21b5ebd0f99)
 
+[pythonのprivate関数について #Python - Qiita](https://qiita.com/Tomato_otamoT/items/e210c1af0cc0b63cf575)
+
 
 
 ## RaspberryPi

@@ -2900,6 +2900,8 @@
 
 [iPhoneのIPアドレスをDHCPから静的にする（固定する）方法 | バッファロー](https://www.buffalo.jp/support/faq/detail/15993.html)
 
+[iOSアプリのURLを知る方法 #AppStore - Qiita](https://qiita.com/macoril/items/48125b2a0a48339b3693)
+
 
 
 ## Java

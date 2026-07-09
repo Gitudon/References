@@ -210,6 +210,12 @@
 
 [【永久0円】人間LLMのすすめ #OpenAI - Qiita](https://qiita.com/Syuparn/items/0001f93221d4d7556271)
 
+[Gemini CLI 入門 (1) - 概要｜npaka](https://note.com/npaka/n/nd5231d296687)
+
+[Gemini CLIとは？機能や使い方、料金など初心者にもわかる完全ガイド | クラウドエース株式会社](https://cloud-ace.jp/column/detail520/)
+
+[Gemini CLI をさっそく試してみた！ #AIエージェント - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
+
 
 
 ## Algorithm

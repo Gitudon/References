@@ -3318,6 +3318,8 @@
 
 [ベクトル書きたい #LaTeX - Qiita](https://qiita.com/Yarakashi_Kikohshi/items/324e07b0162cfb618dc9)
 
+[【LaTeX】和をあらわすΣ(シグマ)記号のかき方とテクニック | 数学の景色](https://mathlandscape.com/latex-sum/)
+
 
 
 ## Lean

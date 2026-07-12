@@ -3614,6 +3614,10 @@
 
 [LLMに解釈してもらうだけなら動画はもっと荒くていい – 株式会社ルーター](https://rooter.jp/ml/downgrade_video_for_llm/)
 
+[AviUtl2フェードの使い方が全部わかる｜基本＋応用テクまとめ](https://vip-jikkyo.net/aviutl2-fade)
+
+[AviUtl2で動画を読み込む方法｜MP4対応・頻出トラブルまとめ](https://vip-jikkyo.net/aviutl2-video-import)
+
 
 
 ## MySQL

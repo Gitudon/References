@@ -6610,6 +6610,8 @@
 
 [Windowsのページングファイル「pagefile.sys」が肥大化してしまう？](https://jp.easeus.com/partition-manager/how-to-solve-huge-pagefile-sys.html)
 
+[CPUの温度を計測するフリーソフト](https://memorva.jp/internet/pc/soft_cpu_temperature.php)
+
 
 
 ## Words

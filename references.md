@@ -4630,6 +4630,8 @@
 
 [Pythonで画像からハッシュ値を生成する | Create it Myself](https://create-it-myself.com/know-how/generate-hash-from-image-in-python/)
 
+[Pythonで文字列 <-> 日付(date, datetime) の変換 #Python - Qiita](https://qiita.com/shibainurou/items/0b0f8b0233c45fc163cd)
+
 
 
 ## RaspberryPi

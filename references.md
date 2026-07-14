@@ -1424,6 +1424,8 @@
 
 [【CTF】Writeup for ChaChaCha｜こるぐれ！](https://note.com/c0rkk_0n_g14c3/n/n5cb4a47d84aa)
 
+[[SECCON Beginners CTF 2022] hitchhike4b | KogCoder Blog](https://blog.kogcoder.com/ja/blog/seccon-beginners-ctf-2022-writeup/hitchhike4b)
+
 
 
 ## cURL
@@ -4631,6 +4633,9 @@
 [Pythonで画像からハッシュ値を生成する | Create it Myself](https://create-it-myself.com/know-how/generate-hash-from-image-in-python/)
 
 [Pythonで文字列 <-> 日付(date, datetime) の変換 #Python - Qiita](https://qiita.com/shibainurou/items/0b0f8b0233c45fc163cd)
+
+[覚えておくと便利！Python標準ライブラリ10選 #Python - Qiita](https://qiita.com/pika_shi/items/bf3b449a354cc7609ab9#shlexsplit)
+
 
 
 

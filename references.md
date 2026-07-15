@@ -4636,6 +4636,8 @@
 
 [覚えておくと便利！Python標準ライブラリ10選 #Python - Qiita](https://qiita.com/pika_shi/items/bf3b449a354cc7609ab9#shlexsplit)
 
+[個人的備忘録：Python で SHA-256 を使ったハッシュ化を実装しながら、仕組みを紐解いてみた #sha256 - Qiita](https://qiita.com/free-honda/items/f8156367453180557b1e)
+
 
 
 ## RaspberryPi

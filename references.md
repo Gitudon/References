@@ -5594,6 +5594,8 @@
 
 [シェルスクリプト上のループ処理について #ShellScript - Qiita](https://qiita.com/tamurashingo@github/items/54b25acc93e37580989d)
 
+[仕事で使えるLinux ワンライナー集 #Bash - Qiita](https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1)
+
 
 
 ## Slack

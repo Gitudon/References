@@ -4640,6 +4640,8 @@
 
 [個人的備忘録：Python で SHA-256 を使ったハッシュ化を実装しながら、仕組みを紐解いてみた #sha256 - Qiita](https://qiita.com/free-honda/items/f8156367453180557b1e)
 
+[Pythonでbcryptを使ってパスワードをゆっくりハッシュ化 #Security - Qiita](https://qiita.com/matsulib/items/2bcf59c2b2cb5eb5c5c4)
+
 
 
 ## RaspberryPi

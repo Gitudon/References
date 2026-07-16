@@ -5354,6 +5354,8 @@
 
 [【Ruby】コードから学ぶ Dir.glob の使い方 #初心者 - Qiita](https://qiita.com/Taira0222/items/09227b2434e9ead87ff5)
 
+[Shellwords.escape (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Shellwords/s/escape.html)
+
 
 
 ## Rust

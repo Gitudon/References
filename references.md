@@ -214,6 +214,8 @@
 
 [Gemini CLI をさっそく試してみた！ #AIエージェント - Qiita](https://qiita.com/youtoy/items/fa5b696b055ed4a992ec)
 
+[Gemini CLI 入門 (2) - クイックスタート｜npaka](https://note.com/npaka/n/n36f1968dda9b)
+
 
 
 ## Algorithm

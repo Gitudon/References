@@ -3488,6 +3488,10 @@
 
 [Markdown 打ち消し線を使う #初心者 - Qiita](https://qiita.com/miriwo/items/3ac6c90f1e6111d8e994)
 
+[意外と知られてないっぽいMarkdownのリンクの書き方 #GitHub - Qiita](https://qiita.com/h1na/items/d305d49b5a27e92d132a)
+
+[Markdown記法まとめ(リスト、リンク、画像、インラインHTML、エスケープ)[2/3] - はしくれエンジニアもどきのメモ](https://cartman0.hatenablog.com/entry/2015/03/31/164836)
+
 
 
 ## Mathematics

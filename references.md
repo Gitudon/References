@@ -4646,6 +4646,8 @@
 
 [Pythonでbcryptを使ってパスワードをゆっくりハッシュ化 #Security - Qiita](https://qiita.com/matsulib/items/2bcf59c2b2cb5eb5c5c4)
 
+[3-1. 辞書 (dictionary) — Pythonプログラミング入門 documentation](https://utokyo-ipp.github.io/3/3-1.html)
+
 
 
 ## RaspberryPi

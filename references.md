@@ -2172,6 +2172,8 @@
 
 [【Flask】Sessionについて #Python - Qiita](https://qiita.com/eee-lin/items/4e9a2a308ca52b58fd1e)
 
+[Flask入門➂：render_template編 #Python - Qiita](https://qiita.com/ooki/items/e4c6b32a1e1f4be8f4d2)
+
 
 
 ## Flutter

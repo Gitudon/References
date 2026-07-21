@@ -4650,6 +4650,8 @@
 
 [3-1. 辞書 (dictionary) — Pythonプログラミング入門 documentation](https://utokyo-ipp.github.io/3/3-1.html)
 
+[VSCodeでPythonのバージョンを変更できなかった時にGPTに聞いてみた #Python3 - Qiita](https://qiita.com/Aeshma/items/5e9309e0cf69477c718f)
+
 
 
 ## RaspberryPi

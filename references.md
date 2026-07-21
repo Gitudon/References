@@ -6524,6 +6524,8 @@
 
 [VS Code でのフォルダ検索（置換）のまとめ #VSCode - Qiita](https://qiita.com/baku2san/items/a16f4f169a78e4706c41)
 
+[VSCodeでPythonのバージョンを確認する方法について](https://kentei.ai/blog/archives/970)
+
 
 
 ## Vue.js

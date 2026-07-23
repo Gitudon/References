@@ -216,6 +216,10 @@
 
 [Gemini CLI 入門 (2) - クイックスタート｜npaka](https://note.com/npaka/n/n36f1968dda9b)
 
+[Chat GPTの環境負荷を知っておこう｜ポスト成長LAB](https://note.com/keeene/n/n34aef004f5bf)
+
+[ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2506-tinyhack-after-correcting-thinking-habits-with-ai/)
+
 
 
 ## Algorithm

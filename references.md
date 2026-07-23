@@ -224,6 +224,8 @@
 
 [ChatGPTがカウンセリングに向かない理由｜鯨木飾](https://note.com/kazari_kujiragi/n/n35f49e0c8b99)
 
+[ちゃんと理解したい初心者のための「MCP」まとめ #生成AI - Qiita](https://qiita.com/to3izo/items/99dd3cde237c2e5a007f)
+
 
 
 ## Algorithm

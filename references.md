@@ -6868,3 +6868,5 @@
 
 [エンジニアがいつのまにか知っている知識・常識・文化 12本 #初心者 - Qiita](https://qiita.com/ko-he-8/items/7ca90575c5fff758993e)
 
+[Webやアプリの広告ブロックは、どのように機能するか](https://jp.adlock.com/blog/how-ad-blocking-works)
+

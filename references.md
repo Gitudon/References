@@ -4662,6 +4662,10 @@
 
 [VSCodeでPythonのバージョンを変更できなかった時にGPTに聞いてみた #Python3 - Qiita](https://qiita.com/Aeshma/items/5e9309e0cf69477c718f)
 
+[PythonでURLエンコード・デコード（urllib.parse.quote, unquote） | note.nkmk.me](https://note.nkmk.me/python-urllib-parse-quote-unquote/)
+
+[Pythonでコンマの後に空白があるcsvを読むときは注意 | note.nkmk.me](https://note.nkmk.me/python-csv-skipinitialspace/)
+
 
 
 ## RaspberryPi

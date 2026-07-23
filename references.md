@@ -138,6 +138,8 @@
 
 [緊急地震速報がうるさすぎる問題。スマホ複数台持ちが本気でオフ設定をまとめた【iPhone/Android】｜munyoru](https://note.com/munyoru/n/n59e6efcdb96d)
 
+[ADBの基本的な操作 - <unsweets />](https://unsweets.net/entries/basic-adb)
+
 
 
 ## AI

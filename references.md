@@ -220,6 +220,8 @@
 
 [ChatGPTに悩みを相談し続けて4カ月、「あ、ヤバいかも」と思った話 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2506-tinyhack-after-correcting-thinking-habits-with-ai/)
 
+[ChatGPTがカウンセリングに向かない理由｜鯨木飾](https://note.com/kazari_kujiragi/n/n35f49e0c8b99)
+
 
 
 ## Algorithm

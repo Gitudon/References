@@ -226,6 +226,10 @@
 
 [ちゃんと理解したい初心者のための「MCP」まとめ #生成AI - Qiita](https://qiita.com/to3izo/items/99dd3cde237c2e5a007f)
 
+[ChatGPT パスワードのリセットまたは変更 | OpenAI Help Center](https://help.openai.com/ja-jp/articles/4936828-resetting-or-changing-your-chatgpt-password)
+
+[ChatGPT での広告 | OpenAI Help Center](https://help.openai.com/ja-jp/articles/20001047-ads-in-chatgpt)
+
 
 
 ## Algorithm

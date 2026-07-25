@@ -4670,6 +4670,8 @@
 
 [Pythonでコンマの後に空白があるcsvを読むときは注意 | note.nkmk.me](https://note.nkmk.me/python-csv-skipinitialspace/)
 
+[辞書順で何番目問題をpythonで解く方法 | アウトプット雑記](https://output-zakki.com/permutation_dict_order/)
+
 
 
 ## RaspberryPi

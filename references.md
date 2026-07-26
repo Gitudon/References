@@ -4672,6 +4672,8 @@
 
 [辞書順で何番目問題をpythonで解く方法 | アウトプット雑記](https://output-zakki.com/permutation_dict_order/)
 
+[requirements.txtからインストールするときに，エラーの発生するパッケージは無視する](https://wiki.takanotume24.com/ros/python/pip/requirements.txt%E3%81%8B%E3%82%89%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B%E3%81%A8%E3%81%8D%E3%81%AB%EF%BC%8C%E3%82%A8%E3%83%A9%E3%83%BC%E3%81%AE%E7%99%BA%E7%94%9F%E3%81%99%E3%82%8B%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E3%81%AF%E7%84%A1%E8%A6%96%E3%81%99%E3%82%8B.md)
+
 
 
 ## RaspberryPi

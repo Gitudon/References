@@ -1530,6 +1530,8 @@
 
 [curlにおけるhttp2 | http2 explained](https://http2-explained.haxx.se/ja/part11)
 
+[cURLコマンドで「クエリ文字列が在るURL」を扱うときはURLを囲もう、という話 | DevelopersIO](https://dev.classmethod.jp/articles/curl-command-url-tips/)
+
 
 
 ## D

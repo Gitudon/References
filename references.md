@@ -1442,6 +1442,8 @@
 
 [[SECCON Beginners CTF 2022] hitchhike4b | KogCoder Blog](https://blog.kogcoder.com/ja/blog/seccon-beginners-ctf-2022-writeup/hitchhike4b)
 
+[2021年印象に残ったCTFと暗号問題 - ふるつき](https://furutsuki.hatenablog.com/entry/2021/12/21/003910)
+
 
 
 ## cURL

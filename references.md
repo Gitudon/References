@@ -2632,6 +2632,8 @@
 
 [動的言語だけやってた僕が、38日間Go言語を書いて学んだこと #PHP - Qiita](https://qiita.com/suin/items/22662f43b6a6e8728798)
 
+[Go言語のプリミティブ型を解説 - Recursion](https://recursionist.io/learn/languages/go/data-type/primitive)
+
 
 
 ## Google

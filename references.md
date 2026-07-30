@@ -6554,6 +6554,8 @@
 
 [VSCodeでPythonのバージョンを確認する方法について](https://kentei.ai/blog/archives/970)
 
+[【電通大生向け】VS codeのremote-sshでcedにアクセスする #VSCode - Qiita](https://qiita.com/aLpha4073/items/5d2493596d310ae26aef)
+
 
 
 ## Vue.js

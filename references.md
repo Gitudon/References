@@ -3346,6 +3346,8 @@
 
 [【LaTeX】和をあらわすΣ(シグマ)記号のかき方とテクニック | 数学の景色](https://mathlandscape.com/latex-sum/)
 
+[電通大生のためのいちばんかんたんなLaTeX環境構築](https://zenn.dev/e_chan1007/articles/8029f3f9dff2be#fnref-6d0f-1)
+
 
 
 ## Lean
@@ -6555,6 +6557,8 @@
 [VSCodeでPythonのバージョンを確認する方法について](https://kentei.ai/blog/archives/970)
 
 [【電通大生向け】VS codeのremote-sshでcedにアクセスする #VSCode - Qiita](https://qiita.com/aLpha4073/items/5d2493596d310ae26aef)
+
+[簡単！VSCodeではじめる快適なSSH接続のやり方【電通大生向け】｜トラマト](https://note.com/toramutton/n/n6175ca734762)
 
 
 

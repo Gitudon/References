@@ -1316,6 +1316,8 @@
 
 [more コマンド - IBM Documentation](https://www.ibm.com/docs/ja/aix/7.2.0?topic=m-more-command)
 
+[知ってると便利！エンジニアのためのワンライナーチートシート #Linux - Qiita](https://qiita.com/mnoguchi/items/e2c64d79ca9978bbe14c)
+
 
 
 ## C++

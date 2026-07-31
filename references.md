@@ -2636,6 +2636,8 @@
 
 [Go言語のプリミティブ型を解説 - Recursion](https://recursionist.io/learn/languages/go/data-type/primitive)
 
+[Better C - Goと整数 #golang #Go - Qiita](https://qiita.com/sonatard/items/464a9d45c689386edfe1)
+
 
 
 ## Google

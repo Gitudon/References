@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年07月31日 23:13:01)
+## 集計(2026年08月01日 17:35:25)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -77,7 +77,7 @@
 | Network | 26 |
 | Next.js | 6 |
 | Nginx | 8 |
-| Node.js | 11 |
+| Node.js | 12 |
 | Package Manager | 3 |
 | PC | 3 |
 | PDF | 4 |
@@ -109,19 +109,19 @@
 | Tool | 3 |
 | TypeScript | 8 |
 | Typst | 9 |
-| Ubuntu | 67 |
+| Ubuntu | 69 |
 | URL | 24 |
 | uv | 14 |
 | Vim | 30 |
 | Vite | 6 |
 | VPN | 7 |
-| VSCode | 75 |
+| VSCode | 76 |
 | Vue.js | 1 |
 | Web | 4 |
 | Windows | 46 |
 | Words | 49 |
-| WSL | 21 |
+| WSL | 22 |
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 31 |
-| 合計 | 3222 |
+| 合計 | 3227 |

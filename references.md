@@ -3936,6 +3936,8 @@
 
 [Node.jsとnpmをWindowsにインストールする方法 #Windows10 - Qiita](https://qiita.com/yasushi-jp/items/fd885d38f11d95e81328)
 
+[mise で Node.js + npm 導入備忘録 #Node.js - Qiita](https://qiita.com/nanase/items/ac9eb83259e74b14548a)
+
 
 
 ## Package Manager
@@ -6230,6 +6232,10 @@
 
 [Ubuntuのご飯を減らす方法 – 省電力化 | 牛かつ's Blog](https://blog.forestberrypi.com/tools-services/linux/ubuntu-eco/)
 
+[Ubuntuでユーザーの作成とsudo権限を付与する](https://zenn.dev/shin4488/articles/76fa6fb14d35c4)
+
+[Ubuntuでsudo権限のあるユーザを追加する #useradd - Qiita](https://qiita.com/Toshiaki0315/items/b72e5de6064e79d984ea)
+
 
 
 ## URL
@@ -6566,6 +6572,8 @@
 
 [簡単！VSCodeではじめる快適なSSH接続のやり方【電通大生向け】｜トラマト](https://note.com/toramutton/n/n6175ca734762)
 
+[【解決】WSL上の別ユーザーでVSCodeを開こうとしたらchdir failedエラーになった件【WSL2】](https://zenn.dev/neruneko/articles/ba513a3889f26b)
+
 
 
 ## Vue.js
@@ -6827,6 +6835,8 @@
 [WSL2/UbuntuのIPアドレスを取得したい #WSL2 - Qiita](https://qiita.com/neko_the_shadow/items/25b797cb436078b9e832)
 
 [Windows上で開発する時のWSL（Ubuntu）とWindowsの役割分担2021年版 #OpenCV - Qiita](https://qiita.com/yugo-yamamoto/items/18fa75e3196791ef1226)
+
+[WSLのログインユーザーを変更する方法 - まめぞうの技術メモ](https://tech.mamezou00000.com/entry/wsl-loginuser-change)
 
 
 

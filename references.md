@@ -230,6 +230,8 @@
 
 [ChatGPT での広告 | OpenAI Help Center](https://help.openai.com/ja-jp/articles/20001047-ads-in-chatgpt)
 
+[Chromeに13年以上潜んでいた脆弱性、AIで発見　直近2回のアプデで過去23回分を上回るバグ修正 - ITmedia AI＋](https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/)
+
 
 
 ## Algorithm

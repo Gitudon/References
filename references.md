@@ -3354,6 +3354,10 @@
 
 [電通大生のためのいちばんかんたんなLaTeX環境構築](https://zenn.dev/e_chan1007/articles/8029f3f9dff2be#fnref-6d0f-1)
 
+[【LaTeX】行列と行列式 (matrix)](https://takataninote.com/tex/matrix.html)
+
+[【LaTeX】さまざまな行列のかき方一覧 | 数学の景色](https://mathlandscape.com/latex-matrix/)
+
 
 
 ## Lean

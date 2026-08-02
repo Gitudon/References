@@ -3356,8 +3356,6 @@
 
 [【LaTeX】行列と行列式 (matrix)](https://takataninote.com/tex/matrix.html)
 
-[【LaTeX】さまざまな行列のかき方一覧 | 数学の景色](https://mathlandscape.com/latex-matrix/)
-
 
 
 ## Lean

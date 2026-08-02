@@ -2640,6 +2640,8 @@
 
 [Better C - Goと整数 #golang #Go - Qiita](https://qiita.com/sonatard/items/464a9d45c689386edfe1)
 
+[macでa tour of goをローカルで実行したときに詰まった #Mac - Qiita](https://qiita.com/okaponta_/items/50ab02605a5f3b6bf5bd)
+
 
 
 ## Google

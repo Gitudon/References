@@ -246,6 +246,8 @@
 
 [ChatGPT における年齢予測 | OpenAI Help Center](https://help.openai.com/ja-jp/articles/12652064-age-prediction-in-chatgpt)
 
+[ChatGPTと広告。表示されるプランと表示されないケース、対応方法。 / メモ / いがわ](https://igawa.co/memos/chatgpt%E3%81%A8%E5%BA%83%E5%91%8A%E3%80%82%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%82%8B%E3%83%97%E3%83%A9%E3%83%B3%E3%81%A8%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84%E3%82%B1%E3%83%BC%E3%82%B9%E3%80%82/#ChatGPT-2)
+
 
 
 ## Algorithm

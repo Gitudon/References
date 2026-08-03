@@ -242,6 +242,10 @@
 
 [ChatGPT ユーザーが18歳になると変わること | OpenAI Help Center](https://help.openai.com/ja-jp/articles/20001262-what-changes-when-a-chatgpt-user-turns-18)
 
+[ついに日本上陸のChatGPT広告とは？特徴や広告メニュー、設定方法を公式ヘルプから紐解きます｜キーマケのブログ｜株式会社キーワードマーケティング](https://www.kwm.co.jp/blog/chat-gpt-ads/)
+
+[ChatGPT における年齢予測 | OpenAI Help Center](https://help.openai.com/ja-jp/articles/12652064-age-prediction-in-chatgpt)
+
 
 
 ## Algorithm
@@ -5543,6 +5547,8 @@
 [脆弱性対策の優先度 CVE･CVSSによる識別と評価 - VALTES セキュリティサービス](https://security.valtes.co.jp/blog/vulnerability_cvss_vol_20/)
 
 [RSA暗号のeは大きすぎても小さすぎてもいけない #RSA暗号 - Qiita](https://qiita.com/seiya1122_404/items/60c803199b75a7984eed)
+
+[デュエマアプリで15万5000人分漏えいか｜11カ月放置の認証脆弱性を読む【note】｜社内SEまるお｜限界エンジニアの考察](https://note.com/se_maruo/n/ncb9feed52154)
 
 
 

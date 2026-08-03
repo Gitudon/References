@@ -232,6 +232,16 @@
 
 [Chromeに13年以上潜んでいた脆弱性、AIで発見　直近2回のアプデで過去23回分を上回るバグ修正 - ITmedia AI＋](https://www.itmedia.co.jp/aiplus/article/2607/31/2000000323/)
 
+[ついに来たらしいChatGPTの年齢認証。｜末那識](https://note.com/manashikixai/n/nc91384fbb110)
+
+[ChatGPTの年齢制限解除ガイド！正規の手順で誤判定を解決できる？ | AI-Rise](https://ai-rise.net/column/chatgpt-age-limit-removal/)
+
+[ChatGPTの年齢確認を完全解説【2026年最新】：やり方・年齢制限・身分証・年齢推定の仕組みからトラブル対処法まで | .AI TIMES | .AI](https://dot-ai.myuuu.co.jp/times/articles/226)
+
+[広告ポリシー | OpenAI](https://openai.com/ja-JP/policies/ad-policies/)
+
+[ChatGPT ユーザーが18歳になると変わること | OpenAI Help Center](https://help.openai.com/ja-jp/articles/20001262-what-changes-when-a-chatgpt-user-turns-18)
+
 
 
 ## Algorithm

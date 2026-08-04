@@ -2638,6 +2638,8 @@
 
 [Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ #GitHub - Qiita](https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd)
 
+[Git リモートブランチをチェックアウトする #初心者 - Qiita](https://qiita.com/miriwo/items/53b319d3d3a3759b30a7)
+
 
 
 ## Go
@@ -2657,6 +2659,12 @@
 [Better C - Goと整数 #golang #Go - Qiita](https://qiita.com/sonatard/items/464a9d45c689386edfe1)
 
 [macでa tour of goをローカルで実行したときに詰まった #Mac - Qiita](https://qiita.com/okaponta_/items/50ab02605a5f3b6bf5bd)
+
+[並行処理と並列処理｜Goでの並行処理を徹底解剖！](https://zenn.dev/hsaki/books/golang-concurrency/viewer/term)
+
+[Go言語の並行処理について #初学者向け - Qiita](https://qiita.com/yumauma20/items/b5c8e76da8edc864b58b)
+
+[Goのerrgroupで並行処理を実装する方法 #QiitaEngineerFesta2024 - Qiita](https://qiita.com/quarter789_/items/479cea8b237ed15f39f2)
 
 
 

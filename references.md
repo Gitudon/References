@@ -6600,6 +6600,8 @@
 
 [VS Codeの自動アップデートで変わったカラーテーマを元のシンタックスハイライトに戻す #VSCode - Qiita](https://qiita.com/hiren/items/2a62a7c18b0d5ed9c9d6)
 
+[【VSCode】コードが右端までいったら折り返す設定 #VSCode - Qiita](https://qiita.com/SNQ-2001/items/03ce394431d0ef90248c)
+
 
 
 ## Vue.js

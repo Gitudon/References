@@ -2638,8 +2638,6 @@
 
 [Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ #GitHub - Qiita](https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd)
 
-[Git リモートブランチをチェックアウトする #初心者 - Qiita](https://qiita.com/miriwo/items/53b319d3d3a3759b30a7)
-
 
 
 ## Go

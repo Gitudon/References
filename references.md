@@ -2664,6 +2664,10 @@
 
 [Goのerrgroupで並行処理を実装する方法 #QiitaEngineerFesta2024 - Qiita](https://qiita.com/quarter789_/items/479cea8b237ed15f39f2)
 
+[[Go]Goの並列処理入門：Goroutineとsync.WaitGroupを理解しよう! #プログラミング初心者 - Qiita](https://qiita.com/urabexon/items/76dca9300a2c84565882)
+
+[GoのWaitGroupを理解する](https://zenn.dev/yamato0211/articles/e3da679fd8dd6f)
+
 
 
 ## Google

@@ -6598,6 +6598,8 @@
 
 [【解決】WSL上の別ユーザーでVSCodeを開こうとしたらchdir failedエラーになった件【WSL2】](https://zenn.dev/neruneko/articles/ba513a3889f26b)
 
+[VS Codeの自動アップデートで変わったカラーテーマを元のシンタックスハイライトに戻す #VSCode - Qiita](https://qiita.com/hiren/items/2a62a7c18b0d5ed9c9d6)
+
 
 
 ## Vue.js

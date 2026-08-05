@@ -1758,6 +1758,8 @@
 
 [技術選定をする際の4つのポイント](https://zenn.dev/kouchanne/articles/5819b0a7c3ecdfc9f880)
 
+[破壊的変更のあるバージョンアップ作業の流れ #プロジェクト管理 - Qiita](https://qiita.com/satoshi256kbyte/items/854c87d51c48e7bbacbf)
+
 
 
 ## Directly
@@ -2673,7 +2675,6 @@
 [これから学び始める人へ伝えたいGoの性質と特徴 #初心者 - Qiita](https://qiita.com/imkaoru/items/1ca17fd4c353dab59707)
 
 [Go言語の弱みと向いていない用途を見極める方法 - 株式会社ソフィエイト](https://sophiate.co.jp/go%E8%A8%80%E8%AA%9E%E3%81%AE%E5%BC%B1%E3%81%BF%E3%81%A8%E5%90%91%E3%81%84%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E7%94%A8%E9%80%94%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95/)
-
 
 
 ## Google

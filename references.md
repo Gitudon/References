@@ -6968,3 +6968,5 @@
 
 [Webやアプリの広告ブロックは、どのように機能するか](https://jp.adlock.com/blog/how-ad-blocking-works)
 
+[「Enter vs command-Enter vs Shift-Enter vs control-Enterで送信」について調べてみた #UI - Qiita](https://qiita.com/y_a_m_a/items/48b89a7869d873a31115)
+

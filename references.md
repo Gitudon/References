@@ -2668,6 +2668,8 @@
 
 [GoのWaitGroupを理解する](https://zenn.dev/yamato0211/articles/e3da679fd8dd6f)
 
+[429 Too Many Requests: その理解と実装 #Redis - Qiita](https://qiita.com/tsukasaI/items/50f84f2ff52d0b201035)
+
 
 
 ## Google

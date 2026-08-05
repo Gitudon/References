@@ -2677,6 +2677,7 @@
 [Go言語の弱みと向いていない用途を見極める方法 - 株式会社ソフィエイト](https://sophiate.co.jp/go%E8%A8%80%E8%AA%9E%E3%81%AE%E5%BC%B1%E3%81%BF%E3%81%A8%E5%90%91%E3%81%84%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E7%94%A8%E9%80%94%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95/)
 
 
+
 ## Google
 
 [Googleスプレッドシートでデータ差分確認 – 株式会社ルーター](https://rooter.jp/data-format/data_check_with_google_spreadsheet/)

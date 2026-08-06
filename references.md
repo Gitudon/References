@@ -2676,6 +2676,10 @@
 
 [Go言語の弱みと向いていない用途を見極める方法 - 株式会社ソフィエイト](https://sophiate.co.jp/go%E8%A8%80%E8%AA%9E%E3%81%AE%E5%BC%B1%E3%81%BF%E3%81%A8%E5%90%91%E3%81%84%E3%81%A6%E3%81%84%E3%81%AA%E3%81%84%E7%94%A8%E9%80%94%E3%82%92%E8%A6%8B%E6%A5%B5%E3%82%81%E3%82%8B%E6%96%B9%E6%B3%95/)
 
+[[Go言語]ワーカープールパターン並列処理 メモ #備忘録 - Qiita](https://qiita.com/KWS_0901/items/f604e1f5a6ad03209fd8)
+
+[Goへのヘイトに対する考え方](https://zenn.dev/nobonobo/articles/74808a8d5e6f1e)
+
 
 
 ## Google
@@ -3562,6 +3566,8 @@
 
 [GitHubのMarkdownファイルでMermaid記法がサポートされたので作図まとめてみました。 #mermaid - Qiita](https://qiita.com/t_narita/items/2cc69fc1d481e4ee6b08)
 
+[【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
+
 
 
 ## Mathematics
@@ -4105,6 +4111,8 @@
 [対応しているはずなのに、なぜかHTTP/2で通信できない原因](https://contrabass.org/blog/why-can-not-use-http-2/)
 
 [HTTP/2 のエラーハンドリングと Request Reliability Mechanism #http2 - Qiita](https://qiita.com/iwanaga/items/5f51413a18bf381bf7a9)
+
+[HTTP の Keep-Alive について #keepalived - Qiita](https://qiita.com/toshihirock/items/8d9d1cce4c04284be4c4)
 
 
 

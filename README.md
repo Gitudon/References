@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年08月06日 11:47:00)
+## 集計(2026年08月06日 16:24:42)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -50,7 +50,7 @@
 | Frida | 7 |
 | GAS | 29 |
 | Git | 168 |
-| Go | 16 |
+| Go | 18 |
 | Google | 45 |
 | HTML/CSS | 64 |
 | Image | 23 |
@@ -65,7 +65,7 @@
 | Log | 11 |
 | Lua | 5 |
 | Mail | 5 |
-| Markdown | 25 |
+| Markdown | 26 |
 | Mathematics | 8 |
 | Matlab | 1 |
 | Microsoft | 14 |
@@ -84,7 +84,7 @@
 | Php | 5 |
 | PostgreSQL | 15 |
 | PowerShell | 6 |
-| Protocol | 10 |
+| Protocol | 11 |
 | Proxy | 29 |
 | Python | 284 |
 | RaspberryPi | 21 |
@@ -124,4 +124,4 @@
 | Xml | 1 |
 | Yaml | 4 |
 | Etc | 32 |
-| 合計 | 3256 |
+| 合計 | 3260 |

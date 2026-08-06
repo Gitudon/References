@@ -3914,6 +3914,8 @@
 
 [pingが通らなかった話 #Ubuntu - Qiita](https://qiita.com/noradogg/items/a5a5dd68ed4bc0e4a9bc)
 
+[送信レートの制御 #初心者 - Qiita](https://qiita.com/masatom86650860/items/19b0784c2e22487e9b88)
+
 
 
 ## Next.js

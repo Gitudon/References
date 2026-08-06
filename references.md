@@ -3572,8 +3572,6 @@
 
 [【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
 
-[【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
-
 
 
 ## Mathematics

@@ -2680,6 +2680,10 @@
 
 [Goへのヘイトに対する考え方](https://zenn.dev/nobonobo/articles/74808a8d5e6f1e)
 
+[Go言語のデメリットって結局なんなの？ #Go - Qiita](https://qiita.com/zono0013/items/32523bdb85aadbc1cac0)
+
+[Go 公式コーディング規約とベストプラクティス #プログラミング - Qiita](https://qiita.com/h4cker_j/items/37b253725f99541612f3)
+
 
 
 ## Google
@@ -3565,6 +3569,8 @@
 [Markdown記法まとめ(リスト、リンク、画像、インラインHTML、エスケープ)[2/3] - はしくれエンジニアもどきのメモ](https://cartman0.hatenablog.com/entry/2015/03/31/164836)
 
 [GitHubのMarkdownファイルでMermaid記法がサポートされたので作図まとめてみました。 #mermaid - Qiita](https://qiita.com/t_narita/items/2cc69fc1d481e4ee6b08)
+
+[【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
 
 [【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
 

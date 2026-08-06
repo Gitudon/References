@@ -3916,6 +3916,10 @@
 
 [送信レートの制御 #初心者 - Qiita](https://qiita.com/masatom86650860/items/19b0784c2e22487e9b88)
 
+[プルリクエストとマージリクエストと。 - 日々常々](https://irof.hateblo.jp/entry/2019/09/29/201813)
+
+[githubのpull request はgitlabのようにmerge requestにした方がしっくりくると思う #Git - Qiita](https://qiita.com/JavaLangRuntimeException/items/0fbeda78c8cfdb074254)
+
 
 
 ## Next.js

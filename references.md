@@ -3560,6 +3560,8 @@
 
 [Markdown記法まとめ(リスト、リンク、画像、インラインHTML、エスケープ)[2/3] - はしくれエンジニアもどきのメモ](https://cartman0.hatenablog.com/entry/2015/03/31/164836)
 
+[GitHubのMarkdownファイルでMermaid記法がサポートされたので作図まとめてみました。 #mermaid - Qiita](https://qiita.com/t_narita/items/2cc69fc1d481e4ee6b08)
+
 
 
 ## Mathematics
@@ -4061,6 +4063,8 @@
 [CREATE INDEX](https://www.postgresql.jp/docs/16/sql-createindex.html)
 
 [実行計画が一目瞭然！PostgreSQLクエリチューニングのオススメツール pev2（Postgres Explain Visualizer 2） – 株式会社ルーター](https://rooter.jp/programming/db/pev2/)
+
+[PostgreSQLでtext/byteaを圧縮する方法まとめ — STORAGE戦略×圧縮アルゴリズムの選定フローチャート付き – 株式会社ルーター](https://rooter.jp/programming/db/postgresql-column-compression-pglz-lz4/)
 
 
 

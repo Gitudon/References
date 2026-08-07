@@ -2642,6 +2642,8 @@
 
 [Git 3.0が近づいているので、今のうちに知っておきたい変更点まとめ #GitHub - Qiita](https://qiita.com/YuukiYoshida/items/a2d825e3ee3e3a4b6dbd)
 
+[GitHub Actions のワークフロー コマンド - GitHubドキュメント](https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-commands)
+
 
 
 ## Go

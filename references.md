@@ -6140,6 +6140,8 @@
 
 [ローカル環境でTypeScriptを実行する手順](https://zenn.dev/zaruta/articles/d453ca6d3bed88)
 
+[TypeScriptの型演習 #TypeScript - Qiita](https://qiita.com/uhyo/items/e4f54ef3b87afdd65546)
+
 
 
 ## Typst

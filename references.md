@@ -5716,6 +5716,8 @@
 
 [仕事で使えるLinux ワンライナー集 #Bash - Qiita](https://qiita.com/ryuichi1208/items/55b73d8ae75993dc10c1)
 
+[シェルスクリプト（bash）のif文やwhile文で使う演算子について #Linux - Qiita](https://qiita.com/egawa_kun/items/196cd354c0d8e4e0fefc)
+
 
 
 ## Slack

@@ -1088,6 +1088,8 @@
 
 [【Linux】psコマンドについて軽くまとめてみる #Linuxコマンド - Qiita](https://qiita.com/dokozon0/items/6ba806a16884b865979d)
 
+[プログラミングの括弧()[]{}<>の使い分け方を解説 | コラム | 大阪府大阪市のプログラミング教室ならてんどうプログラミング教室](https://tendo-programming.com/column/20240719092302-fe090df7-14c8-4c60-827f-8139b614966b)
+
 
 
 ## Commands

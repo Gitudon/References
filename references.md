@@ -6768,6 +6768,8 @@
 
 [CPUの温度を計測するフリーソフト](https://memorva.jp/internet/pc/soft_cpu_temperature.php)
 
+[WindowsとMacの間でファイル共有をする方法 | パソコン工房 NEXMAG](https://www.pc-koubou.jp/magazine/79644?srsltid=AfmBOoqCRLyUe2Mgcyz17pmB3NswVvZF58yYhxjkQ_kvj6obrEJYDPyQ)
+
 
 
 ## Words

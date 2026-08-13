@@ -1052,6 +1052,8 @@
 
 [基本的に Google Chrome で開発しない方が良い #Firefox - Qiita](https://qiita.com/acro5piano/items/b9ffc287b89c8deda73c)
 
+[セキュリティを強化するためのリモート デバッグ スイッチの変更  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/remote-debugging-port?hl=ja)
+
 
 
 ## Codes

@@ -4762,6 +4762,8 @@
 
 [Python 3 で16進数とバイト列の相互変換 #Python - Qiita](https://qiita.com/masakielastic/items/21ba9f68ef6c4fd7692d)
 
+[Pythonの仮想環境「uv」の紹介 #venv - Qiita](https://qiita.com/sukimaengineer/items/6b577ec1b873171698bd)
+
 
 
 ## RaspberryPi

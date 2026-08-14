@@ -6466,8 +6466,6 @@
 
 [Vimエディタ 指定した場所から行の最後まで削除する | mebee](https://mebee.info/2021/06/12/post-23767/)
 
-[vimで複数行削除 #Vim - Qiita](https://qiita.com/YokoYokoko/items/b156538b434108302470)
-
 
 
 ## Vite

@@ -6464,6 +6464,10 @@
 
 [Vimを体系的に学ぶつもりのない人のためのVim講座―Exコマンド編 #Vim - Qiita](https://qiita.com/okuramasafumi/items/5e4624cfc8379aec739c)
 
+[Vimエディタ 指定した場所から行の最後まで削除する | mebee](https://mebee.info/2021/06/12/post-23767/)
+
+[vimで複数行削除 #Vim - Qiita](https://qiita.com/YokoYokoko/items/b156538b434108302470)
+
 
 
 ## Vite

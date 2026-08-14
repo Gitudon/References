@@ -2126,6 +2126,10 @@
 
 [Microsoft Edge でユーザーエージェントを変更してWebページにアクセスする - Windows Tips | iPentec](https://www.ipentec.com/document/windows/windows-microsoft-edge-change-user-agent)
 
+[Microsoft Edgeの「メモリ使い過ぎ」を解決！ 設定変更5つのポイント【今日のワークハック】 | ライフハッカー・ジャパン](https://www.lifehacker.jp/article/2301-how-to-stop-microsoft-edge-from-hogging-system-resource/)
+
+[Microsoft Edgeブラウザーでの CPU 使用率またはメモリ使用率の高い問題を修正する - Microsoft Edge | Microsoft Learn](https://learn.microsoft.com/ja-jp/troubleshoot/microsoft-edge/performance/edge-high-cpu-memory)
+
 
 
 ## Electrical Engineering

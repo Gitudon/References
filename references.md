@@ -5730,6 +5730,8 @@
 
 [シェルスクリプト（bash）のif文やwhile文で使う演算子について #Linux - Qiita](https://qiita.com/egawa_kun/items/196cd354c0d8e4e0fefc)
 
+[Linux コマンド　【read編】 #Linuxコマンド - Qiita](https://qiita.com/14fr049/items/71036e4e783fec07d520)
+
 
 
 ## Slack

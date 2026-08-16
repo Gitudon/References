@@ -6954,6 +6954,18 @@
 
 
 
+## Zip
+
+[UbuntuでPkcrackを試す。 - かざいむ日誌](https://nameuntitled.hatenablog.com/entry/2016/12/07/001055)
+
+[PkCrack を Mac OS X Mavericks で build する #PkCrack - Qiita](https://qiita.com/ww24/items/c6387bd6775f37570103)
+
+[WEB系情報セキュリティ学習メモ: パスワード付きZipのセキュリティについて（改） 既知平文攻撃を実際にやってみたメモ](https://securitymemo.blogspot.com/2012/11/zip.html)
+
+[omomuki-tech.com/archives/877#google_vignette](https://omomuki-tech.com/archives/877)
+
+
+
 ## Etc
 
 [デジタル庁のサイトやばすぎるwww](https://qiita.com/mu_tomoya/items/f78f1fad3a8b57ac7dc3)

@@ -2700,6 +2700,8 @@
 
 [Go 公式コーディング規約とベストプラクティス #プログラミング - Qiita](https://qiita.com/h4cker_j/items/37b253725f99541612f3)
 
+[WindowsにGo言語開発環境をインストールする #Go - Qiita](https://qiita.com/suke_masa/items/0c45c92934b9a2807ddb)
+
 
 
 ## Google
@@ -5611,6 +5613,8 @@
 [RSA暗号のeは大きすぎても小さすぎてもいけない #RSA暗号 - Qiita](https://qiita.com/seiya1122_404/items/60c803199b75a7984eed)
 
 [デュエマアプリで15万5000人分漏えいか｜11カ月放置の認証脆弱性を読む【note】｜社内SEまるお｜限界エンジニアの考察](https://note.com/se_maruo/n/ncb9feed52154)
+
+[セキュリティの勉強になるサイト138選(2026年版) #Security - Qiita](https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00)
 
 
 

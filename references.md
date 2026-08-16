@@ -1470,6 +1470,8 @@
 
 [2021年印象に残ったCTFと暗号問題 - ふるつき](https://furutsuki.hatenablog.com/entry/2021/12/21/003910)
 
+[【シリーズシエラのCTF講座】Daily AlpacaHack CTFのNOP VariantのWriteup｜うみねこ](https://note.com/miyazakimitsuo/n/n301e228e639e)
+
 
 
 ## cURL

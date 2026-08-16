@@ -5736,6 +5736,10 @@
 
 [Linux コマンド　【read編】 #Linuxコマンド - Qiita](https://qiita.com/14fr049/items/71036e4e783fec07d520)
 
+[シェルスクリプトの [ ] と [[ ]] の違いを歴史的に解説 〜 言語設計者の気持ちになって理解しよう #Bash - Qiita](https://qiita.com/ko1nksm/items/c60a81165b6215fdac26)
+
+[【シェルスクリプトBash】 if 文（test文）のオプションまとめ #ShellScript - Qiita](https://qiita.com/yaaabu51/items/8758447fa672288f4757)
+
 
 
 ## Slack

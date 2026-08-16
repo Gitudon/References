@@ -1472,6 +1472,8 @@
 
 [【シリーズシエラのCTF講座】Daily AlpacaHack CTFのNOP VariantのWriteup｜うみねこ](https://note.com/miyazakimitsuo/n/n301e228e639e)
 
+[Daily AlpacaHack 2026/07/31: Small Image Uploader 2 - toshicoブログ](https://toshiconner201.hatenablog.com/entry/2026/08/01/082012)
+
 
 
 ## cURL

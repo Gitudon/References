@@ -4774,6 +4774,8 @@
 
 [Pythonの仮想環境「uv」の紹介 #venv - Qiita](https://qiita.com/sukimaengineer/items/6b577ec1b873171698bd)
 
+[その並列処理待った！　「Python 並列処理」でググったあなたに捧ぐasync, threading, multiprocessingのざっくりとした説明 #Python - Qiita](https://qiita.com/Toyo_m/items/992b0dcf765ad3082d0b)
+
 
 
 ## RaspberryPi

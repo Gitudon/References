@@ -5618,6 +5618,8 @@
 
 [セキュリティの勉強になるサイト138選(2026年版) #Security - Qiita](https://qiita.com/Nakanishi_RareTECH/items/16fd0b847aa68c152e00)
 
+[セキュリティ研修【MIXI 26新卒技術研修】 - Speaker Deck](https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security)
+
 
 
 ## Server

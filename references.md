@@ -4776,6 +4776,8 @@
 
 [その並列処理待った！　「Python 並列処理」でググったあなたに捧ぐasync, threading, multiprocessingのざっくりとした説明 #Python - Qiita](https://qiita.com/Toyo_m/items/992b0dcf765ad3082d0b)
 
+[16進文字列と文字列の変換 #Python - Qiita](https://qiita.com/atsaki/items/6120cad2e3c448d774bf)
+
 
 
 ## RaspberryPi

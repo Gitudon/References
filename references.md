@@ -4780,6 +4780,8 @@
 
 [16進文字列と文字列の変換 #Python - Qiita](https://qiita.com/atsaki/items/6120cad2e3c448d774bf)
 
+[Python | 文字列の中の文字が英字を表す文字かどうかを判定する(isascii, isalpha, isalnum)](https://www.javadrive.jp/python/string/index15.html)
+
 
 
 ## RaspberryPi

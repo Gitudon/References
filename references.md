@@ -1474,6 +1474,8 @@
 
 [Daily AlpacaHack 2026/07/31: Small Image Uploader 2 - toshicoブログ](https://toshiconner201.hatenablog.com/entry/2026/08/01/082012)
 
+[[Daily AlpacaHack] Not so Pyf**k #Python - Qiita](https://qiita.com/sheon/items/da3fdc9e5750515c1f0c)
+
 
 
 ## cURL

@@ -250,6 +250,8 @@
 
 [[アドクロール]「MCP」に対応！生成AIから直接広告ビッグデータへアクセス – 株式会社ルーター](https://rooter.jp/news/adcrawl-mcp-release/)
 
+[Geminiの考える深さを調整する”Thinking Level” – 株式会社ルーター](https://rooter.jp/ml/gemini-think_about_thinking_level/)
+
 
 
 ## Algorithm

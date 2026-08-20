@@ -252,6 +252,8 @@
 
 [Geminiの考える深さを調整する”Thinking Level” – 株式会社ルーター](https://rooter.jp/ml/gemini-think_about_thinking_level/)
 
+[Chrome DevTools MCP実践：SPA, SSRサイトでもAPIエンドポイントを1分で特定してクローラー開発・スクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/chrome_devtools_mcp_for_scraping/)
+
 
 
 ## Algorithm

@@ -5640,6 +5640,10 @@
 
 [セキュリティ研修【MIXI 26新卒技術研修】 - Speaker Deck](https://speakerdeck.com/mixi_engineers/2026_new_grad_training_security)
 
+[タカラトミーのデュエル・マスターズアプリに認証脆弱性で最大約15万5,000人の個人情報漏洩の恐れ|セキュリティとITのニュース-セキュリティ対策Lab](https://rocket-boys.co.jp/security-measures-lab/takaratomy-app-data-leak-risk-155k/)
+
+[タカラトミー、「デュエル・マスターズ サポートアプリ」のユーザー認証に設計・実装の脆弱性 — 最大約15万5,000人分が11か月余り閲覧可能な状態に | インシデント速報 by ヤグラ](https://incident.yagurasec.com/incidents/2026-08-18-takaratomy-duelmasters-app-auth-flaw/)
+
 
 
 ## Server
@@ -7059,4 +7063,6 @@
 [Webやアプリの広告ブロックは、どのように機能するか](https://jp.adlock.com/blog/how-ad-blocking-works)
 
 [「Enter vs command-Enter vs Shift-Enter vs control-Enterで送信」について調べてみた #UI - Qiita](https://qiita.com/y_a_m_a/items/48b89a7869d873a31115)
+
+[Webビューアプリとネイティブアプリの違い #初心者 - Qiita](https://qiita.com/soraa24926/items/0cd95abd6afaf0f5024b)
 

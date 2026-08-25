@@ -324,6 +324,8 @@
 
 [なぜ累積和では半開区間を使うと良いのか考えてみた](https://zenn.dev/robertcal/articles/half-open-interval)
 
+[【競プロからの学び】最も近い値を探す→bsearchが高速 #Ruby - Qiita](https://qiita.com/matsu1226/items/d264acb2229f8457d642)
+
 
 
 ## Android

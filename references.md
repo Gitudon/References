@@ -618,6 +618,12 @@
 
 
 
+## ASP
+
+[拡張子「.aspx」とは？ファイルの概要から開き方、誤削除時の復元方法まで解説 #HTML - Qiita](https://qiita.com/Tenorshare_4DDiG/items/4c46bbc742dd4e182f3d)
+
+
+
 ## Astro.js
 
 [Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)

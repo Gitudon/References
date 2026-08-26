@@ -5652,6 +5652,8 @@
 
 [タカラトミー、「デュエル・マスターズ サポートアプリ」のユーザー認証に設計・実装の脆弱性 — 最大約15万5,000人分が11か月余り閲覧可能な状態に | インシデント速報 by ヤグラ](https://incident.yagurasec.com/incidents/2026-08-18-takaratomy-duelmasters-app-auth-flaw/)
 
+[個人開発でいちばん多い脆弱性「認可漏れ」を、コード付きで理解する #初心者 - Qiita](https://qiita.com/sekyu-dev/items/9b060eeab552554aa301)
+
 
 
 ## Server

@@ -616,6 +616,8 @@
 
 [MASM32アセンブラの使い方①｜Uccyan](https://note.com/uccyan/n/nde8c0dee92b1)
 
+[アセンブリでsyscallを使ってHello World! #アセンブリ言語 - Qiita](https://qiita.com/takumi_security/items/df55457fccef476fcf73)
+
 
 
 ## ASP
@@ -3503,6 +3505,8 @@
 [バッテリー状況確認(Debian) #Linux - Qiita](https://qiita.com/tacmasi/items/9229731c25de99e05c45)
 
 [crontab についての備忘録（linux） #Linux - Qiita](https://qiita.com/bakepotate/items/d8e497c310a88ed86323)
+
+[syscall(2) - Linux manual page](https://man7.org/linux/man-pages/man2/syscall.2.html)
 
 
 

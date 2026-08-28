@@ -5524,6 +5524,8 @@
 
 [Shellwords.escape (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/Shellwords/s/escape.html)
 
+[CSV.generate (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/CSV/s/generate.html)
+
 
 
 ## Rust

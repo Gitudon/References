@@ -3118,8 +3118,6 @@
 
 [Linuxmania:apt-getでJavaをインストールしよう (Ubuntu)](https://www.linuxmania.jp/guides/apt-install-java.html)
 
-[Java JDK を Ubuntu にインストールして Hello World する #WSL - Qiita](https://qiita.com/studio_meowtoon/items/4d11e94a2389758759cd)
-
 
 
 ## JavaScript

@@ -326,6 +326,8 @@
 
 [【競プロからの学び】最も近い値を探す→bsearchが高速 #Ruby - Qiita](https://qiita.com/matsu1226/items/d264acb2229f8457d642)
 
+[画像やPDFの表抽出で文字順が崩れる縦書きヘッダーをソート比較で特定する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/vertical-text-header/)
+
 
 
 ## Android
@@ -825,6 +827,8 @@
 [なぜ人はブラウザの「縦タブ」で作業効率が上がるのか？｜Sakamoto | 個人開発](https://note.com/light_liger1051/n/nd499ebc2d96a)
 
 [Chrome と Edge でERR_HTTP2_INADEQUATE_TRANSPORT_SECURITYでページエラー - 永遠のプログラマ☆](https://broadshotx.hatenablog.com/entry/2020/09/16/174825)
+
+[アプリの中でWebを開くってどういうこと？iOSとAndroidのWebView事情をやさしく解説｜NANKAI (南海) DX 公式note](https://note.com/nankai_dx/n/n054194d0dee8)
 
 
 

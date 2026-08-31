@@ -3114,6 +3114,12 @@
 
 [Java | Java SEとJDK、JRE、JVMの違いに関する解説](https://www.javadrive.jp/start/install/index5.html)
 
+[Maven を Ubuntu にインストールして Hello World する #Java - Qiita](https://qiita.com/studio_meowtoon/items/f4cdc4039158153365fb)
+
+[Linuxmania:apt-getでJavaをインストールしよう (Ubuntu)](https://www.linuxmania.jp/guides/apt-install-java.html)
+
+[Java JDK を Ubuntu にインストールして Hello World する #WSL - Qiita](https://qiita.com/studio_meowtoon/items/4d11e94a2389758759cd)
+
 
 
 ## JavaScript

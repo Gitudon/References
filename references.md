@@ -1360,6 +1360,8 @@
 
 [知ってると便利！エンジニアのためのワンライナーチートシート #Linux - Qiita](https://qiita.com/mnoguchi/items/e2c64d79ca9978bbe14c)
 
+[xclipを使って、コマンドラインでクリップボードにデータをコピーする - CLOVER🍀](https://kazuhira-r.hatenablog.com/entry/2023/07/31/000525)
+
 
 
 ## C++
@@ -6383,6 +6385,10 @@
 [Ubuntuでユーザーの作成とsudo権限を付与する](https://zenn.dev/shin4488/articles/76fa6fb14d35c4)
 
 [Ubuntuでsudo権限のあるユーザを追加する #useradd - Qiita](https://qiita.com/Toshiaki0315/items/b72e5de6064e79d984ea)
+
+[Ubuntu LinuxのLXCコンテナゲストを22.04(jammy)→24.04(noble)にアップグレートしてみた件 #lxc - Qiita](https://qiita.com/iruka/items/da25362a4329f22c3c7b)
+
+[Ubuntuのバージョンと開発コードの対応表 - kledgeb](https://kledgeb.blogspot.com/2013/08/ubuntu.html)
 
 
 

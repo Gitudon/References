@@ -3106,6 +3106,10 @@
 
 [プログラムに1文字加えて本番環境のバッチ処理を4倍遅くした #Java - Qiita](https://qiita.com/nfujita55a/items/260750312c565835acaf)
 
+[Java JDK を Ubuntu にインストールして Hello World する #WSL - Qiita](https://qiita.com/studio_meowtoon/items/4d11e94a2389758759cd)
+
+[Java | Java SEとJDK、JRE、JVMの違いに関する解説](https://www.javadrive.jp/start/install/index5.html)
+
 
 
 ## JavaScript

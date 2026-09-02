@@ -794,6 +794,8 @@
 
 [バイナリを逆アセンブルして中を覗いてみた - Corgi Lab. ～備忘録のための技術ブログ～](https://corgi-lab.com/programming/c-lang/reverse-assemble/)
 
+[Base64以外のBase〇〇系紹介 #base64 - Qiita](https://qiita.com/shiozaki/items/1b272a4602c20ca8a2c9)
+
 
 
 ## Blog

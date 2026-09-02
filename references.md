@@ -5646,8 +5646,6 @@
 
 [Base32 エンコーダおよびデコーダ実装時のセキュリティ上の注意点 #Base32 - Qiita](https://qiita.com/kerupani129/items/838e088336c3ae879a1f)
 
-[Base64以外のBase〇〇系紹介 #base64 - Qiita](https://qiita.com/shiozaki/items/1b272a4602c20ca8a2c9)
-
 [ChaCha20を理解したい（実装編）](https://zenn.dev/mahiro33/articles/40d0efb0b5b32a)
 
 [ChaCha20 & Poly1305 #crypto - Qiita](https://qiita.com/tnakagawa/items/a7892a87f8c71b3fc803)

@@ -254,6 +254,8 @@
 
 [Chrome DevTools MCP実践：SPA, SSRサイトでもAPIエンドポイントを1分で特定してクローラー開発・スクレイピング – 株式会社ルーター](https://rooter.jp/web-crawling/chrome_devtools_mcp_for_scraping/)
 
+[「Waiting for API response」の意味と対処 — Claude Codeの応答待ちと接続断 | Claude Media公式](https://claude-media.com/articles/claude-code-waiting-for-api-response)
+
 
 
 ## Algorithm

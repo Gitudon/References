@@ -1588,6 +1588,8 @@
 
 [cURLコマンドで「クエリ文字列が在るURL」を扱うときはURLを囲もう、という話 | DevelopersIO](https://dev.classmethod.jp/articles/curl-command-url-tips/)
 
+[API通信の理解を深めよう！〜Curlを使用してHTTPリクエスト・レスポンスを理解する〜 #Swift - Qiita](https://qiita.com/hinakko/items/9466d3b1076538cf7c81)
+
 
 
 ## D

@@ -256,6 +256,8 @@
 
 [「Waiting for API response」の意味と対処 — Claude Codeの応答待ちと接続断 | Claude Media公式](https://claude-media.com/articles/claude-code-waiting-for-api-response)
 
+[【Claude Code入門】今から追いつくClaude Code 徹底解説 #初心者 - Qiita](https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b)
+
 
 
 ## Algorithm

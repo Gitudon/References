@@ -262,6 +262,8 @@
 
 [はじめての OpenAI Codex #1 ― APIキー取得から「Hello, World」生成まで① ##生成AI - Qiita](https://qiita.com/koyama-techno/items/bfe6932f9036309de253)
 
+[【2026年版】Codex VSCodeの使い方・拡張機能の入れ方｜エディタの中でAIに"直接"まかせる｜小峯知之｜エンジニア＆教育ライター](https://note.com/csfive/n/n0d502a4c1c22)
+
 
 
 ## Algorithm

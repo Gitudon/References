@@ -258,6 +258,10 @@
 
 [【Claude Code入門】今から追いつくClaude Code 徹底解説 #初心者 - Qiita](https://qiita.com/i-inose/items/e644e9b620ee1c8d3c1b)
 
+[Claude Codeのネイティブ版をWindows 11にインストールする #ClaudeCode - Qiita](https://qiita.com/charon/items/d51dc7c74339a795e9ee)
+
+[はじめての OpenAI Codex #1 ― APIキー取得から「Hello, World」生成まで① ##生成AI - Qiita](https://qiita.com/koyama-techno/items/bfe6932f9036309de253)
+
 
 
 ## Algorithm

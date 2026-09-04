@@ -3528,6 +3528,8 @@
 
 [syscall(2) - Linux manual page](https://man7.org/linux/man-pages/man2/syscall.2.html)
 
+[reboot - システムコールの説明 - Linux コマンド集 一覧表](https://kazmax.zpp.jp/cmd/r/reboot.2.html)
+
 
 
 ## Log

@@ -1374,6 +1374,8 @@
 
 [xclipを使って、コマンドラインでクリップボードにデータをコピーする - CLOVER🍀](https://kazuhira-r.hatenablog.com/entry/2023/07/31/000525)
 
+[一括実行系Linuxワンライナーコマンド](https://zenn.dev/iwaku/articles/2020-10-05-iwaku)
+
 
 
 ## C++

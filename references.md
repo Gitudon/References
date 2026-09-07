@@ -2690,6 +2690,8 @@
 
 [GitHub Actions のワークフロー コマンド - GitHubドキュメント](https://docs.github.com/ja/actions/reference/workflows-and-actions/workflow-commands)
 
+[え？まだgit checkoutしてるの？](https://zenn.dev/gmomedia/articles/d9366fa84aadfd)
+
 
 
 ## Go
@@ -6237,6 +6239,8 @@
 [ローカル環境でTypeScriptを実行する手順](https://zenn.dev/zaruta/articles/d453ca6d3bed88)
 
 [TypeScriptの型演習 #TypeScript - Qiita](https://qiita.com/uhyo/items/e4f54ef3b87afdd65546)
+
+[JavaScriptを知らない人のためのTypeScript入門 #初心者 - Qiita](https://qiita.com/skytomo221/items/d595e3208d97ac64bb6b)
 
 
 

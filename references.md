@@ -3650,6 +3650,8 @@
 
 [【Qiitaでも使える】テキストから図が生成できるMermaidについてのザックリ解説 #初心者向け - Qiita](https://qiita.com/b-mente/items/97a4296666faccd53a72)
 
+[MarkdownでTable(表テーブル)を書く – NotePM ヘルプセンター](https://help.notepm.jp/hc/ja/articles/17267262392473-Markdown%E3%81%A7Table-%E8%A1%A8%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB-%E3%82%92%E6%9B%B8%E3%81%8F)
+
 
 
 ## Mathematics

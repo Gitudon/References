@@ -4840,6 +4840,8 @@
 
 [Python | 文字列の中の文字が英字を表す文字かどうかを判定する(isascii, isalpha, isalnum)](https://www.javadrive.jp/python/string/index15.html)
 
+[【Python】findメソッドのいろいろな使い方をサンプルコードで解説（引数があるとき、rfindやindexとの違い） #Python3 - Qiita](https://qiita.com/Ryo-0131/items/13115e90b5d2f19b46cc)
+
 
 
 ## RaspberryPi

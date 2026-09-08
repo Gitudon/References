@@ -3134,8 +3134,6 @@
 
 [Linuxmania:apt-getでJavaをインストールしよう (Ubuntu)](https://www.linuxmania.jp/guides/apt-install-java.html)
 
-[Maven を Ubuntu にインストールして Hello World する #Java - Qiita](https://qiita.com/studio_meowtoon/items/f4cdc4039158153365fb)
-
 
 
 ## JavaScript

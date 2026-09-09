@@ -6256,8 +6256,6 @@
 
 [JavaScriptを知らない人のためのTypeScript入門 #初心者 - Qiita](https://qiita.com/skytomo221/items/d595e3208d97ac64bb6b)
 
-[ts-node で TypeScript + node をサクッと実行する #Node.js - Qiita](https://qiita.com/mangano-ito/items/75e65071c9c482ddc335)
-
 
 
 ## Typst

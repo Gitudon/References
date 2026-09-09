@@ -3252,6 +3252,8 @@
 
 [発火とは? #JavaScript - Qiita](https://qiita.com/airesaies/items/85faa8e18be5089e0e1a)
 
+[今日こそJavaScriptの非同期処理とPromiseを理解しよう！ #promise - Qiita](https://qiita.com/bow_arrow/items/a88cf7a444fb6045b8e4)
+
 
 
 ## Json

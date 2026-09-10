@@ -6424,6 +6424,8 @@
 
 [Ubuntuのバージョンと開発コードの対応表 - kledgeb](https://kledgeb.blogspot.com/2013/08/ubuntu.html)
 
+[Ubuntuで パスワード が分からなくなった場合の対応方法 - HPCテクノロジーズ](https://pub.hpc-technologies.co.jp/support/howto-recover-password-in-ubuntu/)
+
 
 
 ## URL

@@ -3794,6 +3794,14 @@
 
 [AviUtl2で動画を読み込む方法｜MP4対応・頻出トラブルまとめ](https://vip-jikkyo.net/aviutl2-video-import)
 
+[AviUtl2で「mkv」ファイルを読み込む方法（対応ファイルを追加する方法） - ほうこうレポート](https://embrabat-report.net/entry/AviUtl2_how_to_mkv)
+
+[AviUtl2で動画を読み込む方法｜MP4対応・頻出トラブルまとめ](https://vip-jikkyo.net/aviutl2-video-import)
+
+[AviUtl2おすすめ初期設定ガイド「もっと早く知りたかった」設定集](https://vip-jikkyo.net/aviutl2-initial-settings)
+
+[AviUtl2で作業を劇的に効率化するショートカットキーまとめ【Sランクあり】](https://vip-jikkyo.net/aviutl2-shortcut)
+
 
 
 ## MySQL

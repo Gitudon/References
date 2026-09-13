@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年09月12日 22:38:18)
+## 集計(2026年09月14日 00:07:05)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -13,7 +13,7 @@
 | API | 78 |
 | Asm | 2 |
 | ASP | 1 |
-| Astro.js | 13 |
+| Astro.js | 12 |
 | Awk | 3 |
 | AWS | 37 |
 | Bat | 9 |
@@ -22,15 +22,16 @@
 | Browser | 8 |
 | C | 17 |
 | Career | 60 |
-| Chrome | 38 |
+| Chrome | 37 |
 | Codes | 4 |
 | Coding | 11 |
 | Commands | 125 |
+| Cookie | 7 |
 | C++ | 16 |
 | C# | 1 |
 | CSV | 2 |
 | CTF | 40 |
-| cURL | 43 |
+| cURL | 42 |
 | D | 1 |
 | DataBase | 84 |
 | Data Science | 5 |
@@ -46,7 +47,7 @@
 | Electrical Engineering | 7 |
 | Emacs | 3 |
 | Encryption | 4 |
-| Flask | 25 |
+| Flask | 24 |
 | Flutter | 1 |
 | Frida | 7 |
 | GAS | 29 |
@@ -76,7 +77,7 @@
 | n8n | 1 |
 | Naming | 21 |
 | Nano | 3 |
-| Network | 29 |
+| Network | 28 |
 | Next.js | 6 |
 | Nginx | 8 |
 | Node.js | 12 |
@@ -88,7 +89,7 @@
 | PowerShell | 6 |
 | Protocol | 11 |
 | Proxy | 29 |
-| Python | 290 |
+| Python | 289 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
@@ -127,4 +128,4 @@
 | Yaml | 4 |
 | Zip | 4 |
 | Etc | 33 |
-| 合計 | 3331 |
+| 合計 | 3332 |

@@ -642,8 +642,6 @@
 
 ## Astro.js
 
-[Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)
-
 [AstroでLuciaを利用して認証設定(username+password) | アールエフェクト](https://reffect.co.jp/astro/astro-lucia#google_vignette)
 
 [Astro + zenn-markdown-htmlで始める個人ブログ](https://zenn.dev/jy8752/articles/0b842e7f380fb8)
@@ -1050,8 +1048,6 @@
 
 [GoogleChromeの履歴自動消去設定 - やじま公式ブログ](https://yajimanji.hatenablog.com/entry/2024/03/11/233932)
 
-[【Google Chrome】終了時にCookieを自動削除して自動ログインを解除する：Google Chrome完全ガイド - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1907/03/news020.html)
-
 [GoogleChromeの閲覧履歴の自動削除はなくなったのか？｜ピアサポートブログチャンネル](https://note.com/cute_koala582/n/ne8fed1402db1)
 
 [【Chrome】閲覧履歴を自動で削除する方法と手動で削除する方法をわかりやすく解説 | 情シスの自由帳](https://jo-sys.net/google-chrome-hist/)
@@ -1380,6 +1376,24 @@
 
 
 
+## Cookie
+
+[Google AnalyticsのCookieの仕組みを解説 #GoogleAnalytics - Qiita](https://qiita.com/1987yama3/items/d3eb50fdbfbb55733bed)
+
+[【Google Chrome】終了時にCookieを自動削除して自動ログインを解除する：Google Chrome完全ガイド - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1907/03/news020.html)
+
+[Astroの認証設定(SSRモードでTokenとCookieを利用) | アールエフェクト](https://reffect.co.jp/astro/astro-cookie-middleware)
+
+[【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
+
+[Cookieの破棄されるタイミングについて #cookie - Qiita](https://qiita.com/kandalog/items/80d7574e6bd00afd5150)
+
+[curlでCookieを保存、送信する #curl - Qiita](https://qiita.com/beckyJPN/items/e85d40459e7e535dae73)
+
+[Flask のセッション Cookie の値の参照と設定 #Python - Qiita](https://qiita.com/juno_rmks/items/a707228a0682f529298d)
+
+
+
 ## C++
 
 [max_element - cpprefjp C++日本語リファレンス](https://cpprefjp.github.io/reference/algorithm/max_element.html)
@@ -1551,8 +1565,6 @@
 [ブラウザのリクエストをcURL形式で取得 #ShellScript - Qiita](https://qiita.com/ueokande/items/a580e9d9f17dbf82f382)
 
 [windows - curlの証明書チェックができない - スタック・オーバーフロー](https://ja.stackoverflow.com/questions/90990/curl%E3%81%AE%E8%A8%BC%E6%98%8E%E6%9B%B8%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
-
-[curlでCookieを保存、送信する #curl - Qiita](https://qiita.com/beckyJPN/items/e85d40459e7e535dae73)
 
 [CURLを使用したUAの偽装 | タンス](https://tansunohazama.sakura.ne.jp/wordpress/curl%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9Fua%E3%81%AE%E5%81%BD%E8%A3%85/)
 
@@ -2261,8 +2273,6 @@
 [stripeを使ってflaskのWebページに決済ページを作成する方法](https://qiita.com/ZawaP/items/4aefe5e0f20e17fe9ddc)
 
 [flaskで簡単なwebアプリ作成](https://qiita.com/yshi12/items/9502c6232e96d7dfa29d)
-
-[Flask のセッション Cookie の値の参照と設定 #Python - Qiita](https://qiita.com/juno_rmks/items/a707228a0682f529298d)
 
 [【Flask】Sessionについて #Python - Qiita](https://qiita.com/eee-lin/items/4e9a2a308ca52b58fd1e)
 
@@ -3994,8 +4004,6 @@
 
 [CharlesでネイティブアプリのHTTP通信を覗く – 株式会社ルーター](https://rooter.jp/web-crawling/charles_http_native_app/)
 
-[Cookieの破棄されるタイミングについて #cookie - Qiita](https://qiita.com/kandalog/items/80d7574e6bd00afd5150)
-
 [フリーWi-Fiを使ったら秘密情報を抜かれる経路にはどのようなものがあるか #Security - Qiita](https://qiita.com/ockeghem/items/c6a3602d2c2409f89fbb)
 
 [家庭内LANのドメインについて #名前解決 - Qiita](https://qiita.com/st10/items/639a017694d53ffd8b61)
@@ -4613,8 +4621,6 @@
 [Pythonで二分探索を行うライブラリ「bisect」 #アルゴリズム - Qiita](https://qiita.com/T_Wakasugi/items/c979e977f56531942de4)
 
 [Pythonの「仮想環境」を完全に理解しよう - Speaker Deck](https://speakerdeck.com/os1ma/pythonno-jia-xiang-huan-jing-wowan-quan-nili-jie-siyou)
-
-[【Python】requestsでcookie情報を取得する（備忘録） #Python3 - Qiita](https://qiita.com/shinkai_/items/090fb79d297a30001a86)
 
 [Pythonで2進数、8進数、16進数の数値・文字列を相互に変換 | note.nkmk.me](https://note.nkmk.me/python-bin-oct-hex-int-format/)
 

@@ -2724,8 +2724,6 @@
 
 [windowsにgit-filter-repoをインストールする #Git - Qiita](https://qiita.com/error484/items/6d834f2b1de133eb1fc4)
 
-[【Git】過去のコミットから特定のファイルを削除したい。GitHubからも #Git - Qiita](https://qiita.com/waniwaninowani/items/73b0b5e3f8223b27bbab)
-
 [Gitの歴史上から特定のファイルを削除したい](https://zenn.dev/flyingbarbarian/articles/aaf59c07b71a34)
 
 [Git リポジトリに上がっているファイルを履歴ごと消すには？ #Git - Qiita](https://qiita.com/go_astrayer/items/6e39d3ab16ae8094496c)

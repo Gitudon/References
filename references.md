@@ -888,6 +888,8 @@
 
 [論理演算（ビット演算）を使って四則演算を行う方法を解説 | だえうホームページ](https://daeudaeu.com/arithmetic_operations/)
 
+[INT33-C. 除算および剰余演算がゼロ除算エラーを引き起こさないことを保証する](https://www.jpcert.or.jp/sc-rules/c-int33-c.html)
+
 
 
 ## Career
@@ -2721,6 +2723,12 @@
 [開発をスムーズに進めるための.gitignore設定ガイド #Git - Qiita](https://qiita.com/c8h9no2/items/92187b38b7b081bf77ec)
 
 [windowsにgit-filter-repoをインストールする #Git - Qiita](https://qiita.com/error484/items/6d834f2b1de133eb1fc4)
+
+[【Git】過去のコミットから特定のファイルを削除したい。GitHubからも #Git - Qiita](https://qiita.com/waniwaninowani/items/73b0b5e3f8223b27bbab)
+
+[Gitの歴史上から特定のファイルを削除したい](https://zenn.dev/flyingbarbarian/articles/aaf59c07b71a34)
+
+[Git リポジトリに上がっているファイルを履歴ごと消すには？ #Git - Qiita](https://qiita.com/go_astrayer/items/6e39d3ab16ae8094496c)
 
 
 

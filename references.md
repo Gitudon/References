@@ -2780,6 +2780,8 @@
 
 [【ハンズオン】go mod init を理解してGoにHello Worldする方法 #初心者 - Qiita](https://qiita.com/mamenz752/items/62dd900721097767ec21)
 
+[Goのディレクトリ構成の標準について #フォルダ構成 - Qiita](https://qiita.com/Nori1983/items/7279a4f1f9c977336879)
+
 
 
 ## Google

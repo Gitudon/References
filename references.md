@@ -1832,6 +1832,8 @@
 
 [破壊的変更のあるバージョンアップ作業の流れ #プロジェクト管理 - Qiita](https://qiita.com/satoshi256kbyte/items/854c87d51c48e7bbacbf)
 
+[【都知事選2024】チーム安野の選挙戦を振り返って〜メンバーのKPTを公開〜｜安野たかひろスタッフ＠チームみらい【公式】](https://note.com/annotakahiro24/n/n5c7516dd2437)
+
 
 
 ## Directly

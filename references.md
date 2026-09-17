@@ -1834,6 +1834,8 @@
 
 [【都知事選2024】チーム安野の選挙戦を振り返って〜メンバーのKPTを公開〜｜安野たかひろスタッフ＠チームみらい【公式】](https://note.com/annotakahiro24/n/n5c7516dd2437)
 
+[正しいバージョンの付け方を身につけよう | 株式会社LYZON](https://www.lyzon.co.jp/blog/2019/20191017_how_to_attach_version_name/)
+
 
 
 ## Directly

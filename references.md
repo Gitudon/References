@@ -3094,6 +3094,8 @@
 
 [iOSアプリのURLを知る方法 #AppStore - Qiita](https://qiita.com/macoril/items/48125b2a0a48339b3693)
 
+[iOS27公開！のはずがiOS26.7が2つある？ユーザーに戸惑いの声 - iPhone Mania](https://iphone-mania.jp/ios-605969/)
+
 
 
 ## Java

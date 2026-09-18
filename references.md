@@ -266,6 +266,8 @@
 
 [UbuntuにClaude Codeをインストールする方法 #ClaudeCode - Qiita](https://qiita.com/daishiro_jp/items/efe43641b39b775dc453)
 
+[チームみらいのAI勉強会がきっかけで学んだことまとめ｜小島優介](https://note.com/kojimadev/n/n083517f8221a)
+
 
 
 ## Algorithm

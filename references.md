@@ -1926,6 +1926,8 @@
 
 [【スレッド返信対応版】ChatGPTのDiscordBotを作ってデプロイまでやっちゃうの巻(discord.js & ChatGPT API & fly.io) #JavaScript - Qiita](https://qiita.com/Keichan_15/items/70907ff47c5e531f0462)
 
+[GoでDiscordBotを作る](https://zenn.dev/cohky/articles/go-discord-bot)
+
 
 
 ## Django

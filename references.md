@@ -2736,6 +2736,8 @@
 
 [Git リポジトリに上がっているファイルを履歴ごと消すには？ #Git - Qiita](https://qiita.com/go_astrayer/items/6e39d3ab16ae8094496c)
 
+[GitHubやGitLabへSSH接続する設定 #Eclipse - Qiita](https://qiita.com/gate9/items/2ae95dc68cd02cb901d0)
+
 
 
 ## Go

@@ -268,6 +268,8 @@
 
 [チームみらいのAI勉強会がきっかけで学んだことまとめ｜小島優介](https://note.com/kojimadev/n/n083517f8221a)
 
+[VSCodeでGitHubCopilotを無効化する方法](https://zenn.dev/peter_norio/articles/f42609ddf5df34)
+
 
 
 ## Algorithm

@@ -6770,8 +6770,6 @@
 
 [GitHub Copilot のコード補完をワークスペース単位でオフにする #AI - Qiita](https://qiita.com/otTATto/items/8a736c0978fa551c3b32)
 
-[VSCodeでGitHubCopilotを無効化する方法](https://zenn.dev/peter_norio/articles/f42609ddf5df34)
-
 [github copilotの自動補完をオフにする](https://zenn.dev/setsugan/articles/5d726635187c8d)
 
 [Visual Studio Code でエディタとターミナルを移動するショートカットキーの作成 #VSCode - Qiita](https://qiita.com/Shun141/items/fbed88abd4518f6d4039)

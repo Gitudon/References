@@ -3300,6 +3300,8 @@
 
 [今日こそJavaScriptの非同期処理とPromiseを理解しよう！ #promise - Qiita](https://qiita.com/bow_arrow/items/a88cf7a444fb6045b8e4)
 
+[Javascriptで電話番号のバリデーションと変換（E.164）に便利なライブラリの紹介 #JavaScript - Qiita](https://qiita.com/laughingman/items/f35676c05e7543cc0437)
+
 
 
 ## Json

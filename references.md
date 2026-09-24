@@ -6934,6 +6934,8 @@
 
 [WindowsとMacの間でファイル共有をする方法 | パソコン工房 NEXMAG](https://www.pc-koubou.jp/magazine/79644?srsltid=AfmBOoqCRLyUe2Mgcyz17pmB3NswVvZF58yYhxjkQ_kvj6obrEJYDPyQ)
 
+[DLLファイルとは - IT用語辞典 e-Words](https://e-words.jp/w/DLL%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB.html)
+
 
 
 ## Words

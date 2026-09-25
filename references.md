@@ -3598,6 +3598,8 @@
 
 [reboot - システムコールの説明 - Linux コマンド集 一覧表](https://kazmax.zpp.jp/cmd/r/reboot.2.html)
 
+[全学生に知ってもらいたいChromebookにLinuxをクリーンインストールする方法](https://zenn.dev/roistaff/articles/30ce3883b3b9d9)
+
 
 
 ## Log

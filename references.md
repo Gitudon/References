@@ -344,6 +344,8 @@
 
 [画像やPDFの表抽出で文字順が崩れる縦書きヘッダーをソート比較で特定する方法 – 株式会社ルーター](https://rooter.jp/web-crawling/vertical-text-header/)
 
+[巡回セールスマン問題(TSP)のアルゴリズムを極めた話 #Python - Qiita](https://qiita.com/flowerrr__lily/items/6679f9496d0079fa0dd2)
+
 
 
 ## Android

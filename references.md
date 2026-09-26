@@ -5756,6 +5756,8 @@
 
 [個人開発でいちばん多い脆弱性「認可漏れ」を、コード付きで理解する #初心者 - Qiita](https://qiita.com/sekyu-dev/items/9b060eeab552554aa301)
 
+[共通脆弱性識別子CVE概説 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/vuln/scap/cve.html)
+
 
 
 ## Server

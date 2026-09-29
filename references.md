@@ -3310,6 +3310,8 @@
 
 [フロントエンドエンジニアが「自分はJSON色付け係」と自虐する理由を考察した - パンダのプログラミングブログ](https://panda-program.com/posts/why-frontend-engineers-have-self-deprecation)
 
+[【初心者向け】JSONとは？データ形式の基礎や書き方、使用例などを解説](https://products.sint.co.jp/blog/json)
+
 
 
 ## Kotlin
@@ -3533,6 +3535,8 @@
 [電通大生のためのいちばんかんたんなLaTeX環境構築](https://zenn.dev/e_chan1007/articles/8029f3f9dff2be#fnref-6d0f-1)
 
 [【LaTeX】行列と行列式 (matrix)](https://takataninote.com/tex/matrix.html)
+
+[listingsの言語を追加する - 水を見ると釣りがしたくなる](https://e8l.hatenablog.com/entry/2015/11/29/232800)
 
 
 

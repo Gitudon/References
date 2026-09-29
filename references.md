@@ -3538,6 +3538,8 @@
 
 [listingsの言語を追加する - 水を見ると釣りがしたくなる](https://e8l.hatenablog.com/entry/2015/11/29/232800)
 
+[TeX listingパッケージでプレーンテキストを出力する方法 – piyajk.com](https://piyajk.com/archives/3476)
+
 
 
 ## Lean

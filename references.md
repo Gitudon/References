@@ -1810,6 +1810,10 @@
 
 [DBのUniqe制約を後から入れる場合の考慮事項(既存データの取り扱い)について📝](https://zenn.dev/manase/scraps/11cfaf942188a6)
 
+[【DBeaver】PostgreSQLへの再接続でエラーが出たので対処。「接続試行がタイムアウトしました」→Vagrant(CentOS7)とDockerを起動し忘れていたので起動 #PostgreSQL - Qiita](https://qiita.com/ume-san/items/7c843c6ebed290c73106)
+
+[DBeaverでHerokuのPostgreSQLにアクセスしたらFATAL...SSL off → sslmodeの設定を見直そう - さわらブログ](https://hiroga.hatenablog.com/entry/2018/08/16/151013)
+
 
 
 ## Data Science

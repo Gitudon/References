@@ -4084,6 +4084,8 @@
 
 [githubのpull request はgitlabのようにmerge requestにした方がしっくりくると思う #Git - Qiita](https://qiita.com/JavaLangRuntimeException/items/0fbeda78c8cfdb074254)
 
+[マルチキャストIPアドレス](https://www.infraexpert.com/study/multicastz03.html)
+
 
 
 ## Next.js

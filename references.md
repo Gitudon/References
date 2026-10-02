@@ -2746,6 +2746,10 @@
 
 [GitHubやGitLabへSSH接続する設定 #Eclipse - Qiita](https://qiita.com/gate9/items/2ae95dc68cd02cb901d0)
 
+[Gitに機密情報をコミットしてしまったときの対処法 #GitHub - Qiita](https://qiita.com/kts64/items/15d22e22c81067817b6e)
+
+[git-secretsで機密情報の混入を防いでみる - Programming Self-Study Notebook](https://overworker.hatenablog.jp/entry/2024/06/02/125150)
+
 
 
 ## Go

@@ -1546,8 +1546,6 @@
 
 [【Crypto】SECCON Beginners 2018 WriteUp@東京都立産業技術高専 #Python - Qiita](https://qiita.com/RyuSA/items/1af6c37d9886486293f4)
 
-[CTFのCryptoにおけるRSAまとめ [RSA, Coppersmith] - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2025/11/26/233209)
-
 
 
 ## cURL

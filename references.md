@@ -4926,6 +4926,8 @@
 
 [【Python】findメソッドのいろいろな使い方をサンプルコードで解説（引数があるとき、rfindやindexとの違い） #Python3 - Qiita](https://qiita.com/Ryo-0131/items/13115e90b5d2f19b46cc)
 
+[Pythonの環境構築をuvに変更した | Lang-ship](https://lang-ship.com/blog/work/python-uv/)
+
 
 
 ## RaspberryPi

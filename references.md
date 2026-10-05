@@ -1098,6 +1098,8 @@
 
 [セキュリティを強化するためのリモート デバッグ スイッチの変更  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/remote-debugging-port?hl=ja)
 
+[Google Chromeデベロッパーツールの基本的な使い方をわかりやすく解説](https://willcloud.jp/knowhow/dev-tools-01/)
+
 
 
 ## Codes

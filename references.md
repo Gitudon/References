@@ -5782,6 +5782,8 @@
 
 [共通脆弱性識別子CVE概説 | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構](https://www.ipa.go.jp/security/vuln/scap/cve.html)
 
+[ランサムウェアとは？攻撃手法や感染状況を図解と動画で解説 | トレンドマイクロ (JP)](https://www.trendmicro.com/ja_jp/security-intelligence/research-reports/threat-solution/ransomware.html)
+
 
 
 ## Server

@@ -270,6 +270,10 @@
 
 [VSCodeでGitHubCopilotを無効化する方法](https://zenn.dev/peter_norio/articles/f42609ddf5df34)
 
+[GPTが固執する「恒一」の謎｜斎木 稔貴](https://note.com/jcytp/n/n52e933883169)
+
+[ChatGPT界のTHIS MANこと「 恒一」の謎｜たぬ｜生成AIを使い倒す人](https://note.com/tank_ai/n/n4800abe5cc2e)
+
 
 
 ## Algorithm
@@ -629,6 +633,8 @@
 [X APIが3月31日から本格的に従量課金開始！→無料クレジットの使用期限延長！｜くまこ](https://note.com/kumakokoko/n/n46e54e61b437)
 
 [個人的備忘録：エンドポイントって何？クラウド時代に欠かせない基礎知識としてまとめてみた #API - Qiita](https://qiita.com/free-honda/items/8fdd059053693e2abe0c)
+
+[YouTube Data API v3を使ってタイトル・サムネ・URLを取得する｜株式会社 idealump](https://idealump.com/service/lab/232)
 
 
 
@@ -4097,6 +4103,8 @@
 [githubのpull request はgitlabのようにmerge requestにした方がしっくりくると思う #Git - Qiita](https://qiita.com/JavaLangRuntimeException/items/0fbeda78c8cfdb074254)
 
 [マルチキャストIPアドレス](https://www.infraexpert.com/study/multicastz03.html)
+
+[【初心者用】IPアドレスとサブネットマスクの基礎　　　　　　　　　～ネットワーク内の利用可能なホスト数を計算する方法～ | セキュリティ専門企業発、ネットワーク・ログ監視の技術情報 - KnowledgeStare（ナレッジステア）](https://www.secuavail.com/kb/practical-post/ip-address-subnet-mask/)
 
 
 

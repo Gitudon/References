@@ -5792,6 +5792,8 @@
 
 [ランサムウェアとは？攻撃手法や感染状況を図解と動画で解説 | トレンドマイクロ (JP)](https://www.trendmicro.com/ja_jp/security-intelligence/research-reports/threat-solution/ransomware.html)
 
+[ローソン、215万件の個人情報漏えい　「ユーザー本人に情報を表示する機構」に不正アクセス - ITmedia NEWS](https://www.itmedia.co.jp/news/article/2610/09/2000002148/)
+
 
 
 ## Server

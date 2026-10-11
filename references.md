@@ -5794,6 +5794,8 @@
 
 [ローソン、215万件の個人情報漏えい　「ユーザー本人に情報を表示する機構」に不正アクセス - ITmedia NEWS](https://www.itmedia.co.jp/news/article/2610/09/2000002148/)
 
+[タカラトミー／デュエマサポートアプリの事案（閲覧可能）｜対象情報・対処法・A評価｜セカヤサAIブログ](https://ai.itokoba.com/security-tier/incidents/incident-046/)
+
 
 
 ## Server

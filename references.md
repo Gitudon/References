@@ -1398,6 +1398,10 @@
 
 [一括実行系Linuxワンライナーコマンド](https://zenn.dev/iwaku/articles/2020-10-05-iwaku)
 
+[【Linux】コマンドを連結して実行する #Terminal - Qiita](https://qiita.com/P-man_Brown/items/828c3418525bf4e857b1)
+
+[「cowsay Happy New Year!」をやってみた #shell - Qiita](https://qiita.com/KMiura95/items/0ccb266901d6bba38607)
+
 
 
 ## Cookie
@@ -4937,6 +4941,8 @@
 [【Python】findメソッドのいろいろな使い方をサンプルコードで解説（引数があるとき、rfindやindexとの違い） #Python3 - Qiita](https://qiita.com/Ryo-0131/items/13115e90b5d2f19b46cc)
 
 [Pythonの環境構築をuvに変更した | Lang-ship](https://lang-ship.com/blog/work/python-uv/)
+
+[subprocess で shell=True でリストを与えたときの挙動 #Python - Qiita](https://qiita.com/yoichi22/items/5afa8b3b39c723acb359)
 
 
 

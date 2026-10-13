@@ -3562,6 +3562,8 @@
 
 [TeX listingパッケージでプレーンテキストを出力する方法 – piyajk.com](https://piyajk.com/archives/3476)
 
+[【LaTeX】相互参照の方法～label,refコマンド等～ | 数学の景色](https://mathlandscape.com/latex-ref/)
+
 
 
 ## Lean
@@ -7085,6 +7087,8 @@
 [モックとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word19051.html)
 
 [コメントアウトとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88.html)
+
+[SDPとは - IT用語辞典 e-Words](https://e-words.jp/w/SDP-2.html)
 
 
 

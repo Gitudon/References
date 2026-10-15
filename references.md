@@ -1402,6 +1402,8 @@
 
 [「cowsay Happy New Year!」をやってみた #shell - Qiita](https://qiita.com/KMiura95/items/0ccb266901d6bba38607)
 
+[【DOS】ワンライナーで連続してコマンドを実行する #Windows - Qiita](https://qiita.com/nkojima/items/130c24c58f57baf6b5e1)
+
 
 
 ## Cookie

@@ -6532,6 +6532,8 @@
 
 [Ubuntuで パスワード が分からなくなった場合の対応方法 - HPCテクノロジーズ](https://pub.hpc-technologies.co.jp/support/howto-recover-password-in-ubuntu/)
 
+[Ubuntuを日本語設定にする](https://zenn.dev/nosho/articles/db3bbc98249d67)
+
 
 
 ## URL

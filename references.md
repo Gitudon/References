@@ -3764,6 +3764,8 @@
 
 [論理演算 AND,OR,NAND,NOR,XOR #基本情報技術者試験 - Qiita](https://qiita.com/hi-scorp-d/items/aac5a7a3fc919d9712bc)
 
+[兵庫県警を使って停止性問題を解決する（というジョーク） #ネタ - Qiita](https://qiita.com/lie/items/dbc38167f78cb0faaf8a)
+
 
 
 ## Matlab

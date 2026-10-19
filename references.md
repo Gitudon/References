@@ -1026,6 +1026,8 @@
 
 [エンジニアはどんなポートフォリオを作れば良い？記載内容や作り方を紹介](https://freelance.levtech.jp/guide/detail/121882/)
 
+[上京した大学院生が、ルーターでのエンジニアアルバイトを通じて得たもの – 株式会社ルーター](https://rooter.jp/rooter/graduate-student-engineer/)
+
 
 
 ## Chrome

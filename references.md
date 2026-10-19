@@ -5670,6 +5670,8 @@
 
 [CSV.generate (Ruby 4.0 リファレンスマニュアル)](https://docs.ruby-lang.org/ja/latest/method/CSV/s/generate.html)
 
+[Ruby の ORM、Sequel と ActiveRecord どっちを使うか – 株式会社ルーター](https://rooter.jp/programming/ruby-orm-sequel-or-activerecord/)
+
 
 
 ## Rust

@@ -4044,6 +4044,8 @@
 
 [YAMLの型に着目した命名規則 #YAML - Qiita](https://qiita.com/taroppu/items/a4b58b990595ef3ff26b)
 
+[データベースオブジェクトの命名規約 #規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
+
 
 
 ## Nano
@@ -4951,6 +4953,8 @@
 [Pythonの環境構築をuvに変更した | Lang-ship](https://lang-ship.com/blog/work/python-uv/)
 
 [subprocess で shell=True でリストを与えたときの挙動 #Python - Qiita](https://qiita.com/yoichi22/items/5afa8b3b39c723acb359)
+
+[pythonでcurl #Python - Qiita](https://qiita.com/mnoguchi/items/61b2f83deceff60ab34b)
 
 
 

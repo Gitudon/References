@@ -4044,8 +4044,6 @@
 
 [YAMLの型に着目した命名規則 #YAML - Qiita](https://qiita.com/taroppu/items/a4b58b990595ef3ff26b)
 
-[データベースオブジェクトの命名規約 #規約 - Qiita](https://qiita.com/genzouw/items/35022fa96c120e67c637)
-
 
 
 ## Nano

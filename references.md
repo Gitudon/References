@@ -274,6 +274,8 @@
 
 [ChatGPT界のTHIS MANこと「 恒一」の謎｜たぬ｜生成AIを使い倒す人](https://note.com/tank_ai/n/n4800abe5cc2e)
 
+[Claude Code を無人で回して止まった場所 #AI - Qiita](https://qiita.com/acerola_jp/items/3894ba54cb9907e20086)
+
 
 
 ## Algorithm

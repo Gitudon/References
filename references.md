@@ -6544,6 +6544,8 @@
 
 [Ubuntuを日本語設定にする](https://zenn.dev/nosho/articles/db3bbc98249d67)
 
+[aptコマンドの実行時に`Could not get lock`エラーが出てもlockファイルを消すな！！ #Ubuntu - Qiita](https://qiita.com/matoruru/items/c2b4209d43d4a8e80f80)
+
 
 
 ## URL

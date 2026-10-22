@@ -6598,7 +6598,7 @@
 
 
 
-## uv
+## Uv
 
 [uv の細かい使い方 (pip互換, sync と run, --group など)](https://zenn.dev/k_ts_ngo/articles/d73e7cc18af975)
 
@@ -6627,6 +6627,8 @@
 [uv on Docker をやっている](https://zenn.dev/shundeveloper/articles/5602a8a0131bd9)
 
 [uv × DockerでのPython開発環境構築方法](https://zenn.dev/mkj/articles/3aaa36d6f35c08)
+
+[uvを使った環境構築 #Python - Qiita](https://qiita.com/yuya-0405/items/41c8153530d5542bee16)
 
 
 

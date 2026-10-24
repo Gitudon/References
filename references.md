@@ -276,6 +276,8 @@
 
 [Claude Code を無人で回して止まった場所 #AI - Qiita](https://qiita.com/acerola_jp/items/3894ba54cb9907e20086)
 
+[Geminiがずっとぐるぐるして進まない？原因の特定と今すぐ試せる対処法を徹底解説！ | AI-Rise](https://ai-rise.net/column/gemini-loading-stuck-fix/)
+
 
 
 ## Algorithm

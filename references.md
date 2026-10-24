@@ -3572,6 +3572,8 @@
 
 [【LaTeX】相互参照の方法～label,refコマンド等～ | 数学の景色](https://mathlandscape.com/latex-ref/)
 
+[【LaTeX】数式における上付き・下付き添え字のつけ方の基礎 | 数学の景色](https://mathlandscape.com/latex-subscript/)
+
 
 
 ## Lean

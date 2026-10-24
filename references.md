@@ -3640,6 +3640,8 @@
 
 [全学生に知ってもらいたいChromebookにLinuxをクリーンインストールする方法](https://zenn.dev/roistaff/articles/30ce3883b3b9d9)
 
+[とほほのtmux入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/tmux.html)
+
 
 
 ## Log

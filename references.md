@@ -1868,6 +1868,8 @@
 
 [正しいバージョンの付け方を身につけよう | 株式会社LYZON](https://www.lyzon.co.jp/blog/2019/20191017_how_to_attach_version_name/)
 
+[大規模システムの開発方法/手法/工程/手順や進め方/やり方/流れ｜株式会社ripla](https://note.com/ripla_business/n/nb0c8a25095ae)
+
 
 
 ## Directly

@@ -1836,6 +1836,8 @@
 
 [DBeaverでHerokuのPostgreSQLにアクセスしたらFATAL...SSL off → sslmodeの設定を見直そう - さわらブログ](https://hiroga.hatenablog.com/entry/2018/08/16/151013)
 
+[なぜバッチ処理が得意なのか、純国産の次世代高速RDB「Tsurugi」 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/02606/100500001/)
+
 
 
 ## Data Science

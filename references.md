@@ -276,6 +276,8 @@
 
 [Claude Code を無人で回して止まった場所 #AI - Qiita](https://qiita.com/acerola_jp/items/3894ba54cb9907e20086)
 
+[Geminiがずっとぐるぐるして進まない？原因の特定と今すぐ試せる対処法を徹底解説！ | AI-Rise](https://ai-rise.net/column/gemini-loading-stuck-fix/)
+
 
 
 ## Algorithm
@@ -1834,6 +1836,8 @@
 
 [DBeaverでHerokuのPostgreSQLにアクセスしたらFATAL...SSL off → sslmodeの設定を見直そう - さわらブログ](https://hiroga.hatenablog.com/entry/2018/08/16/151013)
 
+[なぜバッチ処理が得意なのか、純国産の次世代高速RDB「Tsurugi」 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/02606/100500001/)
+
 
 
 ## Data Science
@@ -1865,6 +1869,8 @@
 [【都知事選2024】チーム安野の選挙戦を振り返って〜メンバーのKPTを公開〜｜安野たかひろスタッフ＠チームみらい【公式】](https://note.com/annotakahiro24/n/n5c7516dd2437)
 
 [正しいバージョンの付け方を身につけよう | 株式会社LYZON](https://www.lyzon.co.jp/blog/2019/20191017_how_to_attach_version_name/)
+
+[大規模システムの開発方法/手法/工程/手順や進め方/やり方/流れ｜株式会社ripla](https://note.com/ripla_business/n/nb0c8a25095ae)
 
 
 
@@ -3570,6 +3576,8 @@
 
 [【LaTeX】相互参照の方法～label,refコマンド等～ | 数学の景色](https://mathlandscape.com/latex-ref/)
 
+[【LaTeX】数式における上付き・下付き添え字のつけ方の基礎 | 数学の景色](https://mathlandscape.com/latex-subscript/)
+
 
 
 ## Lean
@@ -3637,6 +3645,8 @@
 [reboot - システムコールの説明 - Linux コマンド集 一覧表](https://kazmax.zpp.jp/cmd/r/reboot.2.html)
 
 [全学生に知ってもらいたいChromebookにLinuxをクリーンインストールする方法](https://zenn.dev/roistaff/articles/30ce3883b3b9d9)
+
+[とほほのtmux入門 - とほほのWWW入門](https://www.tohoho-web.com/ex/tmux.html)
 
 
 

@@ -6918,6 +6918,8 @@
 
 [「Webを支える技術」から学ぶWebの歴史について #Web - Qiita](https://qiita.com/y_iwa/items/735a3f2828ab7f720047)
 
+[Web三層構造 #Webアプリケーション - Qiita](https://qiita.com/thirai67/items/24517ce80d402bb152cf)
+
 
 
 ## Windows

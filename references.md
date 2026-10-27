@@ -5748,6 +5748,8 @@
 
 [AtCoder シンプルなスクレイピングツール「atcs」の紹介 #Go - Qiita](https://qiita.com/tomyou666/items/6acf1f048b81a24da58b)
 
+[[意見交換] Webスクレイピングにおける「サーバーへの負荷」はどのような基準か？ - Qiita](https://qiita.com/hashin2425/questions/db5cb393f695153542f2)
+
 
 
 ## Security

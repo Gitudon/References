@@ -5828,6 +5828,8 @@
 
 [タカラトミー／デュエマサポートアプリの事案（閲覧可能）｜対象情報・対処法・A評価｜セカヤサAIブログ](https://ai.itokoba.com/security-tier/incidents/incident-046/)
 
+[2026年の情報漏洩を手口で分類してみた #AWS - Qiita](https://qiita.com/yama3133/items/071119dfea9ed24d0948)
+
 
 
 ## Server

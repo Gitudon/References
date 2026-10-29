@@ -278,6 +278,8 @@
 
 [Geminiがずっとぐるぐるして進まない？原因の特定と今すぐ試せる対処法を徹底解説！ | AI-Rise](https://ai-rise.net/column/gemini-loading-stuck-fix/)
 
+[AIコーディング時代のCS学生へ ── 35年プログラマーからのメッセージ - hasevr’s diary](https://hasevr.hateblo.jp/entry/2026/10/03/142504)
+
 
 
 ## Algorithm

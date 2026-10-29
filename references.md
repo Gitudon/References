@@ -4242,6 +4242,8 @@
 
 [PHPとは？基礎知識、できることを初心者にもわかりやすく解説します](https://www.kagoya.jp/howto/it-glossary/web/php/)
 
+[PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside](https://inside.pixiv.blog/2026/10/22/193321)
+
 
 
 ## PostgreSQL

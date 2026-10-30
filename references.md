@@ -3592,6 +3592,8 @@
 
 [VSCode DevContainerでLean 4の環境構築](https://zenn.dev/chantakan/articles/9166197c6acaf9)
 
+[Leanを書いてる最中にシェルのコマンドを実行するコマンドを作る](https://zenn.dev/labbase/articles/e9ec297ece34b0)
+
 
 
 ## Linux

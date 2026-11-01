@@ -5840,6 +5840,10 @@
 
 [漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた](https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics)
 
+[Google で『保存したパスワードの一部がウェブ上で漏洩しました』と表示されたら？原因と対処法を解説｜情シスマン powered by USEN GATE 02](https://www.gate02.ne.jp/media/it/column_278/)
+
+[漏洩パスワード検知とは｜シス担のミカタ](https://kobesoft.co.jp/mikata/words/security/leaked-password-detection/)
+
 
 
 ## Server

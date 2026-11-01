@@ -5838,6 +5838,8 @@
 
 [2026年の情報漏洩を手口で分類してみた #AWS - Qiita](https://qiita.com/yama3133/items/071119dfea9ed24d0948)
 
+[漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた](https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics)
+
 
 
 ## Server

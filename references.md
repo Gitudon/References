@@ -2198,6 +2198,8 @@
 
 [Dockerイメージの選び方ガイド | SIOS Tech Lab](https://tech-lab.sios.jp/archives/48204)
 
+[docker-composeでサービス運用しているなら設定しておきたいログローテート #Docker - Qiita](https://qiita.com/harachan/items/fa306cc1e6b497e592c3)
+
 
 
 ## Documents

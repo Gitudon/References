@@ -1412,6 +1412,8 @@
 
 [【DOS】ワンライナーで連続してコマンドを実行する #Windows - Qiita](https://qiita.com/nkojima/items/130c24c58f57baf6b5e1)
 
+[lsとかをMB単位やGB単位で出す - yasuhisa's blog](https://www.yasuhisay.info/entry/20111227/1324995348)
+
 
 
 ## Cookie

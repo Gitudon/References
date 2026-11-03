@@ -282,8 +282,6 @@
 
 [【Gemini】10個のファイルアップロード制限を回避して一度に大量の画像を読ませる方法 – 株式会社ルーター](https://rooter.jp/ml/gemini/many-images-in-pdf/)
 
-[AIコーディング時代のCS学生へ ── 35年プログラマーからのメッセージ - hasevr’s diary](https://hasevr.hateblo.jp/entry/2026/10/03/142504)
-
 
 
 ## Algorithm

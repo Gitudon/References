@@ -7292,3 +7292,5 @@
 
 [ネットワークスペシャリスト午後試験の戦い方 #インフラ - Qiita](https://qiita.com/uknifek/items/55cd1c310f72fbdda268)
 
+[嫌われるデザインの歴史](https://zenn.dev/blackmose/articles/de0170a13be930)
+

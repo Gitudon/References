@@ -1878,6 +1878,8 @@
 
 [大規模システムの開発方法/手法/工程/手順や進め方/やり方/流れ｜株式会社ripla](https://note.com/ripla_business/n/nb0c8a25095ae)
 
+[パソコン業務の時短テクニック-作業効率を改善する【総集編】 | パソコン教室なら「パソコン市民講座」](https://www.pc4353.net/column/pc-operational-efficiency/)
+
 
 
 ## Directly

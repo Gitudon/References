@@ -3700,6 +3700,12 @@
 
 
 
+## Mac
+
+[Macで複数のウィンドウを効率よく切り替える方法 - e-TAMAYA](https://www.e-tamaya.co.jp/html/tamachan-tsushin/mac_hotcorner.php)
+
+
+
 ## Mail
 
 [メールサーバーを爆撃して部門長宛のメールを消失させた話 #やらかし - Qiita](https://qiita.com/infinity0206/items/7c2114370ba49a3dab85)

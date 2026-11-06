@@ -282,6 +282,8 @@
 
 [【Gemini】10個のファイルアップロード制限を回避して一度に大量の画像を読ませる方法 – 株式会社ルーター](https://rooter.jp/ml/gemini/many-images-in-pdf/)
 
+[AIが見つけ、AIが騒がせた——「PHP2Shell」が突きつけた三つの構造問題 #php2shell - Qiita](https://qiita.com/shipitx/items/ec2abe2ca9518cd2c49e)
+
 
 
 ## Algorithm

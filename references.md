@@ -2788,6 +2788,8 @@
 
 [git-secretsで機密情報の混入を防いでみる - Programming Self-Study Notebook](https://overworker.hatenablog.jp/entry/2024/06/02/125150)
 
+[日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然 - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
+
 
 
 ## Go

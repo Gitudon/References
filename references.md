@@ -3710,6 +3710,8 @@
 
 [Macで複数のウィンドウを効率よく切り替える方法 - e-TAMAYA](https://www.e-tamaya.co.jp/html/tamachan-tsushin/mac_hotcorner.php)
 
+[Mac の起動中に Apple ロゴや進行状況バーが表示される場合 - Apple サポート (日本)](https://support.apple.com/ja-jp/102535)
+
 
 
 ## Mail

@@ -4252,6 +4252,8 @@
 
 [PDFを覗く ~pdfinfoの使い方~ – 株式会社ルーター](https://rooter.jp/web-crawling/how-to-use-pdfinfo/)
 
+[PDF生成ライブラリのベンチマーク比較 – 株式会社ルーター](https://rooter.jp/data-format/pdf_generate_speed_benchmark/)
+
 
 
 ## Php

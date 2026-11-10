@@ -1846,6 +1846,8 @@
 
 [なぜバッチ処理が得意なのか、純国産の次世代高速RDB「Tsurugi」 | 日経クロステック（xTECH）](https://xtech.nikkei.com/atcl/nxt/column/18/02606/100500001/)
 
+[MySQL から PostgreSQL に移行して気づいた LIKE 検索の違い – 株式会社ルーター](https://rooter.jp/programming/mysql_potgres_like/)
+
 
 
 ## Data Science

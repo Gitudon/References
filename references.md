@@ -1038,6 +1038,8 @@
 
 [上京した大学院生が、ルーターでのエンジニアアルバイトを通じて得たもの – 株式会社ルーター](https://rooter.jp/rooter/graduate-student-engineer/)
 
+[25新卒エンジニア座談会｜2年目の成長とこれから｜株式会社いい生活 公式note](https://note.e-seikatsu.info/n/na19b7d1da551?magazine_key=m4fe6ab35778d)
+
 
 
 ## Chrome

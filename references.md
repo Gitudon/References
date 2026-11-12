@@ -1040,6 +1040,8 @@
 
 [25新卒エンジニア座談会｜2年目の成長とこれから｜株式会社いい生活 公式note](https://note.e-seikatsu.info/n/na19b7d1da551?magazine_key=m4fe6ab35778d)
 
+[【エンジニア向け】いい生活のカジュアル面談とは？｜株式会社いい生活 公式note](https://note.e-seikatsu.info/n/n4d7b3988411c?magazine_key=m4fe6ab35778d)
+
 
 
 ## Chrome

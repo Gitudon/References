@@ -5998,6 +5998,8 @@
 
 [シェルスクリプトの [ ] と [[ ]] の違いを歴史的に解説 〜 言語設計者の気持ちになって理解しよう #Bash - Qiita](https://qiita.com/ko1nksm/items/c60a81165b6215fdac26)
 
+[【Bash】$RANDOMを使って任意の範囲までの乱数 / ランダムな浮動小数点数を生成 #ShellScript - Qiita](https://qiita.com/Ryo-0131/items/dc766dc2baac6f617945)
+
 
 
 ## Slack
@@ -7243,6 +7245,10 @@
 [WEB系情報セキュリティ学習メモ: パスワード付きZipのセキュリティについて（改） 既知平文攻撃を実際にやってみたメモ](https://securitymemo.blogspot.com/2012/11/zip.html)
 
 [omomuki-tech.com/archives/877#google_vignette](https://omomuki-tech.com/archives/877)
+
+[zip/unzipコマンドでパスワード付きZipの作成と展開 #Linux - Qiita](https://qiita.com/snaka/items/b84d9c56a7b5dc8fc055)
+
+[zipコマンドでパスワード付き圧縮ファイルを生成する | ゲンゾウ用ポストイット](https://genzouw.com/entry/2023/02/02/195555/3177/)
 
 
 

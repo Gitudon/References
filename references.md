@@ -5998,8 +5998,6 @@
 
 [シェルスクリプトの [ ] と [[ ]] の違いを歴史的に解説 〜 言語設計者の気持ちになって理解しよう #Bash - Qiita](https://qiita.com/ko1nksm/items/c60a81165b6215fdac26)
 
-[【Bash】$RANDOMを使って任意の範囲までの乱数 / ランダムな浮動小数点数を生成 #ShellScript - Qiita](https://qiita.com/Ryo-0131/items/dc766dc2baac6f617945)
-
 
 
 ## Slack

@@ -872,6 +872,8 @@
 
 [アプリの中でWebを開くってどういうこと？iOSとAndroidのWebView事情をやさしく解説｜NANKAI (南海) DX 公式note](https://note.com/nankai_dx/n/n054194d0dee8)
 
+[Webブラウザの作り方 #自作 - Qiita](https://qiita.com/uint256_t/items/01308b46ea839ba4a919)
+
 
 
 ## C

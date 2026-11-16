@@ -5123,6 +5123,11 @@
 [Blog｜その正規表現の書き方で大丈夫？ ReDoS 攻撃の怖さと対策方法 | yamory | 脆弱性管理クラウド | SBOM対応](https://yamory.io/blog/about-redos-attack)
 
 
+## Right
+
+[CC0について ― “いかなる権利も保有しない” | クリエイティブ・コモンズ・ジャパン](https://creativecommons.jp/sciencecommons/aboutcc0/)
+
+
 
 ## Ruby
 

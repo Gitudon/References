@@ -5129,6 +5129,9 @@
 [CC0について ― “いかなる権利も保有しない” | クリエイティブ・コモンズ・ジャパン](https://creativecommons.jp/sciencecommons/aboutcc0/)
 
 
+[窓際工房: Beer-ware License](https://www.madogiwakoubou.com/2024/04/beerware-license.html)
+
+
 
 ## Ruby
 

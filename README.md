@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年11月16日 12:33:38)
+## 集計(2026年11月17日 13:57:09)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -34,7 +34,7 @@
 | CTF | 41 |
 | cURL | 42 |
 | D | 1 |
-| DataBase | 88 |
+| DataBase | 89 |
 | Data Science | 5 |
 | Development Process | 9 |
 | Directly | 13 |
@@ -95,7 +95,7 @@
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
-| Right | 1 |
+| Right | 2 |
 | Ruby | 299 |
 | Rust | 5 |
 | Scraping | 28 |
@@ -132,4 +132,4 @@
 | Yaml | 4 |
 | Zip | 6 |
 | Etc | 34 |
-| 合計 | 3417 |
+| 合計 | 3419 |

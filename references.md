@@ -1580,6 +1580,10 @@
 
 [【Crypto】SECCON Beginners 2018 WriteUp@東京都立産業技術高専 #Python - Qiita](https://qiita.com/RyuSA/items/1af6c37d9886486293f4)
 
+[共通鍵暗号を理解して有名な攻撃を試してみる](https://zenn.dev/anko/articles/ctf-crypto-commonkey)
+
+[CTFのCryptoにおけるAESまとめ - はまやんはまやんはまやん](https://blog.hamayanhamayan.com/entry/2025/11/26/233707)
+
 
 
 ## cURL

@@ -1854,6 +1854,8 @@
 
 [MySQL から PostgreSQL に移行して気づいた LIKE 検索の違い – 株式会社ルーター](https://rooter.jp/programming/mysql_potgres_like/)
 
+[1行に複数の値を入れたい——その発想を「列方向」から「行方向」に変えるだけで設計は変わる #Database - Qiita](https://qiita.com/ryucciarati/items/22f4e59d053f78c62d8a)
+
 
 
 ## Data Science

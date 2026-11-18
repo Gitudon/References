@@ -1424,6 +1424,8 @@
 
 [lsとかをMB単位やGB単位で出す - yasuhisa's blog](https://www.yasuhisay.info/entry/20111227/1324995348)
 
+[whoとwについて #Linux - Qiita](https://qiita.com/pyon_kiti_jp/items/984ec8c975dd2382ec8f)
+
 
 
 ## Cookie
@@ -1859,6 +1861,8 @@
 [MySQL から PostgreSQL に移行して気づいた LIKE 検索の違い – 株式会社ルーター](https://rooter.jp/programming/mysql_potgres_like/)
 
 [1行に複数の値を入れたい——その発想を「列方向」から「行方向」に変えるだけで設計は変わる #Database - Qiita](https://qiita.com/ryucciarati/items/22f4e59d053f78c62d8a)
+
+[5分で絶対に分かるオブジェクトストレージ：5分で絶対に分かる（3/5 ページ） - ＠IT](https://atmarkit.itmedia.co.jp/ait/articles/1705/29/news014_3.html)
 
 
 

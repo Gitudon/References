@@ -646,6 +646,8 @@
 
 [YouTube Data API v3を使ってタイトル・サムネ・URLを取得する｜株式会社 idealump](https://idealump.com/service/lab/232)
 
+[printenv や env をデバッグで使うと .env の API キーも全部平文で出る：リダイレクト先は unset しても残る（実機確認） #AI - Qiita](https://qiita.com/supportapp3/items/2f089bff54561d42ed5f)
+
 
 
 ## Apps

@@ -4288,6 +4288,8 @@
 
 [PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside](https://inside.pixiv.blog/2026/10/22/193321)
 
+[「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決 - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html)
+
 
 
 ## PostgreSQL

@@ -1048,6 +1048,8 @@
 
 [もういい加減"技術勉強会"やめませんか？ #ポエム - Qiita](https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e)
 
+[自分のために他人に優しくする｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/column176.html)
+
 
 
 ## Chrome

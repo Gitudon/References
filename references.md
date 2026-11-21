@@ -1046,6 +1046,8 @@
 
 [【エンジニア向け】いい生活のカジュアル面談とは？｜株式会社いい生活 公式note](https://note.e-seikatsu.info/n/n4d7b3988411c?magazine_key=m4fe6ab35778d)
 
+[もういい加減"技術勉強会"やめませんか？ #ポエム - Qiita](https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e)
+
 
 
 ## Chrome

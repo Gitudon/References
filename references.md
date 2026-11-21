@@ -876,6 +876,8 @@
 
 [Webブラウザの作り方 #自作 - Qiita](https://qiita.com/uint256_t/items/01308b46ea839ba4a919)
 
+[ブラウザ自作入門の入門 ー 好きなプログラミング言語でシンプルなブラウザを作ろう！](https://zenn.dev/kaseken/articles/ffc0995c8d0a97)
+
 
 
 ## C

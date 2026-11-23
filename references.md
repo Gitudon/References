@@ -3378,6 +3378,8 @@
 
 [Javascriptで電話番号のバリデーションと変換（E.164）に便利なライブラリの紹介 #JavaScript - Qiita](https://qiita.com/laughingman/items/f35676c05e7543cc0437)
 
+[コードを書き始めた君へ――ブラウザで動く時計アプリから学ぶ、Webの三層構造｜天汐香弓](https://note.com/sugerpowder/n/nbea6dd84140a)
+
 
 
 ## Json

@@ -2816,6 +2816,8 @@
 
 [日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然 - やじうまの杜 - 窓の杜](https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html)
 
+[【Github】コミットの日時を変更して草が生えてる場所をずらす方法](https://kt-tech.blog/blogs/ww6sa34mo)
+
 
 
 ## Go

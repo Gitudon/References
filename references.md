@@ -3874,6 +3874,8 @@
 
 [ワード（Word）のチェックボックスの作り方│チェック・編集・削除できない場合の対処法も解説 | カコムス](https://www.kacoms.co.jp/column-tips-word-checkbox/)
 
+[PowerPointで黒猫画像の色を反転して白猫にする方法 | PPDTP](https://ppdtp.com/powerpoint/image-color-black-white/)
+
 
 
 ## Movie

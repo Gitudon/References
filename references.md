@@ -6984,6 +6984,8 @@
 
 [【VSCode】コードが右端までいったら折り返す設定 #VSCode - Qiita](https://qiita.com/SNQ-2001/items/03ce394431d0ef90248c)
 
+[VSCodeが重い！メモリ使用量を1/3にする設定まとめ #TypeScript - Qiita](https://qiita.com/nolanlover0527/items/071277263f8851012e6b)
+
 
 
 ## Vue.js

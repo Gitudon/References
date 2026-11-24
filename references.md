@@ -6988,6 +6988,8 @@
 
 [VSCodeが重い！メモリ使用量を1/3にする設定まとめ #TypeScript - Qiita](https://qiita.com/nolanlover0527/items/071277263f8851012e6b)
 
+[VSCodeが異常に重い時の対処法](https://zenn.dev/spectee/articles/unload-cpu-usage-exclude-files-from-searchindex)
+
 
 
 ## Vue.js

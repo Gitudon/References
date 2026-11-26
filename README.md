@@ -2,12 +2,12 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年11月26日 14:10:51)
+## 集計(2026年11月26日 19:03:35)
 
 | トピック | 数 |
 | :--- | ---: |
 | Adb | 70 |
-| AI | 70 |
+| AI | 71 |
 | Algorithm | 36 |
 | Android | 60 |
 | API | 80 |
@@ -22,7 +22,7 @@
 | Blog | 6 |
 | Browser | 10 |
 | C | 18 |
-| Career | 67 |
+| Career | 70 |
 | Chrome | 39 |
 | Codes | 4 |
 | Coding | 11 |
@@ -58,13 +58,13 @@
 | Hash | 3 |
 | HTML/CSS | 65 |
 | Image | 23 |
-| iOS | 11 |
+| iOS | 12 |
 | Java | 39 |
 | JavaScript | 56 |
 | Json | 2 |
 | Kotlin | 3 |
 | LaTeX | 109 |
-| Lean | 5 |
+| Lean | 6 |
 | License | 2 |
 | Linux | 27 |
 | Log | 11 |
@@ -133,4 +133,4 @@
 | Yaml | 4 |
 | Zip | 6 |
 | Etc | 34 |
-| 合計 | 3444 |
+| 合計 | 3450 |

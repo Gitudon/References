@@ -5758,6 +5758,8 @@
 
 [Ruby の ORM、Sequel と ActiveRecord どっちを使うか – 株式会社ルーター](https://rooter.jp/programming/ruby-orm-sequel-or-activerecord/)
 
+[なんだかんだで1年半くらいRuby向けにブラウザの自動操作ライブラリを作っている - YusukeIwakiのブログ](https://yusukeiwaki.hatenablog.com/entry/2021/07/12/browser-automation-for-ruby)
+
 
 
 ## Rust

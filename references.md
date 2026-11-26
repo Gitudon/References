@@ -1132,6 +1132,8 @@
 
 [Google Chromeデベロッパーツールの基本的な使い方をわかりやすく解説](https://willcloud.jp/knowhow/dev-tools-01/)
 
+[新しいコマンド エディタで Chrome Devtools Protocol（CDP）コマンドを効率的に作成  |  Blog  |  Chrome for Developers](https://developer.chrome.com/blog/cdp-command-editor?hl=ja)
+
 
 
 ## Codes
@@ -3108,6 +3110,8 @@
 
 [HTMLで目次をつくる方法(目次のデザインの例3選も解説) | WP-LOAD](https://wp-load.in/html-css/html-table-of-contents)
 
+[DOM とは | プログラミングの入門なら基礎から学べるProgate[プロゲート]](https://progate.com/docs/dom)
+
 
 
 ## Image
@@ -3635,6 +3639,14 @@
 [VSCode DevContainerでLean 4の環境構築](https://zenn.dev/chantakan/articles/9166197c6acaf9)
 
 [Leanを書いてる最中にシェルのコマンドを実行するコマンドを作る](https://zenn.dev/labbase/articles/e9ec297ece34b0)
+
+
+
+## License
+
+[OSSライセンスとは？種類や違反事例、確認方法を解説 | OSSサポートのOpenStandia™【NRI】](https://openstandia.jp/tech/column/license/)
+
+[MITライセンスって何なのさ #OSS - Qiita](https://qiita.com/takobuta_dev/items/120e710ab99721e98f8d)
 
 
 
@@ -5030,6 +5042,10 @@
 
 [Pythonでハッシュ化を試してみる #Python - Qiita](https://qiita.com/Nats72/items/273a8cbba6a83c21542a)
 
+[Python3でUUIDを生成する #Python - Qiita](https://qiita.com/shimajiri/items/315d458d3796ed4a60da)
+
+[Python3でpip install uuidしてはいけない件 #error - Qiita](https://qiita.com/shimajiri/items/464275c5027ab09bc330)
+
 
 
 ## RaspberryPi
@@ -5759,6 +5775,10 @@
 [Ruby の ORM、Sequel と ActiveRecord どっちを使うか – 株式会社ルーター](https://rooter.jp/programming/ruby-orm-sequel-or-activerecord/)
 
 [なんだかんだで1年半くらいRuby向けにブラウザの自動操作ライブラリを作っている - YusukeIwakiのブログ](https://yusukeiwaki.hatenablog.com/entry/2021/07/12/browser-automation-for-ruby)
+
+[Chrome remote-debuggingの話と見せかけてWebSocketとかfrappuccinoとか - yunomuのブログ](https://yunomu.hatenablog.jp/entry/2013/12/30/175354)
+
+[『CAPTCHA』を突破するサービス『2Captcha』とRuby+Chrome_Remoteで自動スクレイピング #RPA - Qiita](https://qiita.com/kobayashi-masayuki/items/22efe9cf924da89a0be4)
 
 
 
@@ -7192,8 +7212,6 @@
 
 [フックとは｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/word12296.html)
 
-[OSSライセンスとは？種類や違反事例、確認方法を解説 | OSSサポートのOpenStandia™【NRI】](https://openstandia.jp/tech/column/license/)
-
 [FAQとは？Q&Aとの違いや導入効果、作り方の手順とポイント - CXジャーナル](https://aisaas.pkshatech.com/cx-journal/article/what-is-faq)
 
 [WEPとは？Wi-Fi暗号化の仕組みや脆弱性、改良の歴史を解説 | iTSCOM for Business](https://www.itscom.co.jp/forbiz/column/office-environment/10329/)
@@ -7213,6 +7231,8 @@
 [コメントアウトとは - IT用語辞典 e-Words](https://e-words.jp/w/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88%E3%82%A2%E3%82%A6%E3%83%88.html)
 
 [SDPとは - IT用語辞典 e-Words](https://e-words.jp/w/SDP-2.html)
+
+[PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | NTT docomo Business Watch | NTTドコモビジネス 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
 
 
 

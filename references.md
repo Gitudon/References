@@ -1052,6 +1052,10 @@
 
 [自分のために他人に優しくする｜「分かりそう」で「分からない」でも「分かった」気になれるIT用語辞典](https://wa3.i-3-i.info/column176.html)
 
+[新卒ITエンジニアの初任給はいくらが適性？｜サポーターズ公式note](https://note.supporterz.jp/n/n1663be6b8abf)
+
+[求人票に年収が書いてないのは何故？｜友理香](https://note.com/yurika_ikizurai/n/n246778bcbaf1)
+
 
 
 ## Chrome

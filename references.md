@@ -284,6 +284,8 @@
 
 [AIが見つけ、AIが騒がせた——「PHP2Shell」が突きつけた三つの構造問題 #php2shell - Qiita](https://qiita.com/shipitx/items/ec2abe2ca9518cd2c49e)
 
+[AIモデルの名前が読めれば、もう迷わない――GPT・Claude・Geminiの「命名ルール」を一枚で理解する【📰 AI業界100選 第32回】｜日本AIラボ](https://note.com/jp_ai_lab/n/n17081411208a)
+
 
 
 ## Algorithm
@@ -1055,6 +1057,12 @@
 [新卒ITエンジニアの初任給はいくらが適性？｜サポーターズ公式note](https://note.supporterz.jp/n/n1663be6b8abf)
 
 [求人票に年収が書いてないのは何故？｜友理香](https://note.com/yurika_ikizurai/n/n246778bcbaf1)
+
+[隙間時間で継続的に趣味開発を続けるには... | TechTrain | 本気で、キャリアを伸ばすエンジニア塾。](https://techtrain.dev/media/articles/939pmn8o6nfm)
+
+[趣味で個人開発を続けていたらリードエンジニアになっていた話 #フリーランス - Qiita](https://qiita.com/nakapon9517/items/b545554eba758fce72e6)
+
+[エンジニアリングマネージャの役割パターン６種 #マネジメント - Qiita](https://qiita.com/newta/items/64c9b93f8b000d68b0fe)
 
 
 
@@ -3192,6 +3200,8 @@
 
 [iOS27公開！のはずがiOS26.7が2つある？ユーザーに戸惑いの声 - iPhone Mania](https://iphone-mania.jp/ios-605969/)
 
+[iOSの不正な変更 - Apple サポート (日本)](https://support.apple.com/ja-jp/guide/iphone/iph9385bb26a/ios)
+
 
 
 ## Java
@@ -3643,6 +3653,8 @@
 [VSCode DevContainerでLean 4の環境構築](https://zenn.dev/chantakan/articles/9166197c6acaf9)
 
 [Leanを書いてる最中にシェルのコマンドを実行するコマンドを作る](https://zenn.dev/labbase/articles/e9ec297ece34b0)
+
+[『Lean で証明できた』は何を保証するのか？ 〜 Lean の無矛盾性と信頼の根拠 〜 #数学 - Qiita](https://qiita.com/kyamaz/items/7b38e5977dc97747d2d9)
 
 
 

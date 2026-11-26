@@ -2,7 +2,7 @@
 
 エンジニアとしてのスキルを磨くにあたって参考にしたサイトをまとめています。
 
-## 集計(2026年11月26日 10:42:27)
+## 集計(2026年11月26日 13:42:16)
 
 | トピック | 数 |
 | :--- | ---: |
@@ -23,7 +23,7 @@
 | Browser | 10 |
 | C | 18 |
 | Career | 65 |
-| Chrome | 38 |
+| Chrome | 39 |
 | Codes | 4 |
 | Coding | 11 |
 | Commands | 130 |
@@ -56,7 +56,7 @@
 | Go | 25 |
 | Google | 45 |
 | Hash | 3 |
-| HTML/CSS | 64 |
+| HTML/CSS | 65 |
 | Image | 23 |
 | iOS | 11 |
 | Java | 39 |
@@ -65,6 +65,7 @@
 | Kotlin | 3 |
 | LaTeX | 109 |
 | Lean | 5 |
+| License | 2 |
 | Linux | 27 |
 | Log | 11 |
 | Lua | 5 |
@@ -91,12 +92,12 @@
 | PowerShell | 6 |
 | Protocol | 11 |
 | Proxy | 29 |
-| Python | 293 |
+| Python | 295 |
 | RaspberryPi | 21 |
 | React | 19 |
 | Regular Expression | 13 |
 | Right | 2 |
-| Ruby | 300 |
+| Ruby | 302 |
 | Rust | 5 |
 | Scraping | 28 |
 | Security | 36 |
@@ -132,4 +133,4 @@
 | Yaml | 4 |
 | Zip | 6 |
 | Etc | 34 |
-| 合計 | 3434 |
+| 合計 | 3442 |

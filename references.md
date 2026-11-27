@@ -286,6 +286,8 @@
 
 [AIモデルの名前が読めれば、もう迷わない――GPT・Claude・Geminiの「命名ルール」を一枚で理解する【📰 AI業界100選 第32回】｜日本AIラボ](https://note.com/jp_ai_lab/n/n17081411208a)
 
+[2026年版 VS Code vs Cursor vs Windsurf — AIエディタ三つ巴、現場で使い比べた結論 #VSCode - Qiita](https://qiita.com/tapitapi_777/items/050bf8dad913005bfe5f)
+
 
 
 ## Algorithm

@@ -5064,6 +5064,8 @@
 
 [Python3でpip install uuidしてはいけない件 #error - Qiita](https://qiita.com/shimajiri/items/464275c5027ab09bc330)
 
+[Pythonが「遅い」って、たぶんそういう意味じゃない #ポエム - Qiita](https://qiita.com/harupython/items/b36b572721766957cf1b)
+
 
 
 ## RaspberryPi

@@ -7260,6 +7260,8 @@
 
 [PoC（Proof of Concept：概念実証）とは？意味・定義 | IT用語集 | NTT docomo Business Watch | NTTドコモビジネス 法人のお客さま](https://www.ntt.com/bizon/glossary/e-p/poc.html)
 
+[Hex値（Hexコード）とは - IT用語辞典 e-Words](https://e-words.jp/w/Hex%E5%80%A4.html)
+
 
 
 ## WSL
